@@ -70,26 +70,26 @@ Certificate of Participation
 **Non-motorized vehicle category**    
 Champion in Design
 
-Science
-10th Singapore Junior Physics Olympiad
-4 clinched the Bronze Award
-2 awarded an Honourable Mention
-9 attained a Certificate of Participation
+##### Science
+**10th Singapore Junior Physics Olympiad**    
+4 clinched the Bronze Award    
+2 awarded an Honourable Mention    
+9 attained a Certificate of Participation    
 
-Elements of Business Skills
-National Youth Business Challenge
+##### Elements of Business Skills
+**National Youth Business Challenge**    
 Gold Award and a special prize for The Most Earth-Friendly Enterprise Award + $300 Fraser’s cash vouchers.
 
  
 
-2016
+### 2016
 
-Design & Technology
+##### Design & Technology
 St Andrew’s South Zone Millennium Challenge (SZMC)
 2nd prize: Motorised (Speed)
 5th prize: Mechanical (Design)
 5th prize: Mechanical (Distance)
 
-Elements of Business Skills
+##### Elements of Business Skills
 National Youth Business Challenge 
 Bronze award + Most Cohesive Team award at the National Youth Business Challenge (NYBC)
