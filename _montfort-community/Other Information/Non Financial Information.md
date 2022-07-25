@@ -171,3 +171,13 @@ For our Catholic boys, the programmes catered for them include Religious and Mor
   </tr>
 </tbody>
 </table>
+
+**Key Employees** 
+
+Mr Kelvin Lim Hock Seong, Principal of Montfort Secondary School  
+
+  
+
+**Auditor**
+
+Assurance Partners LLP
