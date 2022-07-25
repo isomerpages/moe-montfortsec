@@ -2,6 +2,7 @@ collections:
   montfort-community:
     output: true
     order:
+      - Montfort Family/.keep
       - Achievements/.keep
       - Achievements/Academic.md
       - Achievements/Co Curricular Activities.md
