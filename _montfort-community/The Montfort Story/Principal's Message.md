@@ -6,8 +6,8 @@ third_nav_title: The Montfort Story
 ---
 <table style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 270px">
-<col style="width: 530px">
+<col style="width: 370px">
+<col style="width: 430px">
 </colgroup>
 <tbody>
   <tr>
