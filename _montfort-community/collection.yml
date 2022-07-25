@@ -2,8 +2,8 @@ collections:
   montfort-community:
     output: true
     order:
-      - Achievements/Co Curricular Activities.md
-      - Achievements/Academic.md
       - Achievements/.keep
+      - Achievements/Academic.md
+      - Achievements/Co Curricular Activities.md
       - Other Information/Non Financial Information.md
       - Other Information/.keep
