@@ -236,109 +236,110 @@ S’pore International Martial Arts Competition
 
 #### Clubs & Societies
 
-**IDMA (Multimedia)**
-Ngee Ann Photography Exhibition 2017- Photo Artwork displayed at Ngee Ann Cultural Centre (Karan Sharma, 2E1)
-Merit Award  winners for Schools Digital Media Awards Competition (Video Category)
+**IDMA (Multimedia)**    
+Ngee Ann Photography Exhibition 2017- Photo Artwork displayed at Ngee Ann Cultural Centre (Karan Sharma, 2E1)    
+Merit Award  winners for Schools Digital Media Awards Competition (Video Category)    
 
 #### Uniform Groups
 
-**Scouts**
+**Scouts**    
 Frank Cooper Sands Award (Gold)
 
-**NCC**
+**NCC**    
 Best Unit Proficiency Award (Gold)
 
-**NCDCC**
+**NCDCC**    
 Best Unit Proficiency Award (Gold)
 
-**NPCC** 
+**NPCC**    
 Best Unit Proficiency Award (Gold)
 
 #### Performing Arts
 
-**Montfort Military Band**
+**Montfort Military Band**    
 SYF Central Judging- Distinction Award
 
-**Montfort Chorale**
+**Montfort Chorale**    
 SYF Central Judging- Distinction Award
 
-**Drama Club**
+**Drama Club**    
 SYF Central Judging- Distinction Award
 
-**TKD 2017**
-1 Gold medal for National Inter-School Tournament 2017- C Div, Under 54kg, Kyorugi (Cheong Jen Fei, 1A2)
-1 Silver medal for National Inter-School Tournament 2017- C Div, Under 38kg, Kyorugi (Ng Rui Kai Jovius, 1A2)
+**TKD 2017**    
+1 Gold medal for National Inter-School Tournament 2017- C Div, Under 54kg, Kyorugi (Cheong Jen Fei, 1A2)   
+1 Silver medal for National Inter-School Tournament 2017- C Div, Under 38kg, Kyorugi (Ng Rui Kai Jovius, 1A2)    
 4th Place at National Inter-School Tournament 2017- C Div Boys (Kyorugi)
 
 ### 2016
 
 #### Sports
 
-**Rugby**
+**Rugby**    
 National Inter-School Tournament (Bowl) : 3rd (‘B’ Division)
 
-**Softball**
+**Softball**     
 National Inter-School Tournament: 4th (‘B’ Division)
 SRC Carnival : 2nd Place (‘B’ Division)
 
-**Basketball**
+**Basketball**     
 2nd Tier North Zone Tournament: 4th (‘B’ Division)
 
-**Badminton**
+**Badminton**    
 North Zone Inter-School Tournament: 4th (‘B’ & ‘C’ Division)
 
 #### Uniform Groups
 
-**NPCC**
+**NPCC**    
 Best Unit Proficiency Award (Silver)
 
-**NCC**
+**NCC**    
 Best Unit Proficiency Award (Gold)
 
-**NCDCC**
+**NCDCC**    
 Best Unit Proficiency Award (Gold)
 
-**Scouts**
+**Scouts**    
 Frank Cooper Sands Award (Gold)
 
 ### 2015
 
 #### Sports
 
-**Badminton**
-North Zone Tournament for ‘B’ & Fourth Place for ‘C’ Division (Third Place)
+**Badminton**    
+North Zone Tournament for ‘B’ & Fourth Place for ‘C’ Division (Third Place)   
 National Inter-School Tournament: Quarter-Finalist for ‘B’ Division
 
-**Basketball**
+**Basketball**   
 2nd Tier Tournament- 2nd Place for B Div
-
-**Rugby**
+  
+**Rugby**   
 National Inter-School Bowl Fourth Place for ‘B’ Division
 
-**Softball**
-National Inter-School Tournament: Quarter-Finalist for ‘B’ Div
+**Softball**    
+National Inter-School Tournament: Quarter-Finalist for ‘B’ Div    
 National Inter-School Tournament: 4th Place for ‘C’ Division
 
 #### Uniformed Groups
 
-**NCC**
+**NCC**    
 UOPA Award (Silver)
 
-**NPCC**
+**NPCC**    
 UOPA Award (Bronze)
-NCDCC
+
+**NCDCC**    
 UOPA Award (Gold)
 
-**Scouts**
+**Scouts**    
 Frank Cooper Sands Gold Award
 
 #### Performing Arts
 
-**Military Band**
+**Military Band**    
 SYF Central Judging Accomplishment Award
 
-**Montfort Chorale**
+**Montfort Chorale**    
 SYF Central Judging Distinction Award
 
-**Drama & Dance (ELDDS)**
+**Drama & Dance (ELDDS)**    
 SYF Central Judging Accomplishment Award
