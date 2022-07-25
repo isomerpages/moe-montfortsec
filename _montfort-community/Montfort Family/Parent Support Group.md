@@ -25,22 +25,37 @@ Vice-Chairman - Ms. Cynthia Chong Woon
 Secretary - Ms. Jenny Leong    
 Treasurer - Ms. Nomi Hairudin
 
-Join Montfort PSG
------------------
+### Join Montfort PSG
 
-  
 To register, please sign up using this [link](https://docs.google.com/forms/d/e/1FAIpQLSfHYs5mNSWgmrvxAYqNcgfBRyFZTIxAy-5JbVpN1343Qgbc0w/viewform).  
   
 
-Programmes
-----------
-
-  
+### Programmes
 
 The following activities/events have been planned and organised in partnership with our PSG. 
-
-  
 
 **1\. Community Outreach**  
 
 PSG parents and staff preparing little tokens appreciation to the frontline heroes fighting the pandemic in Sengkang General Hospital.
+
+![](/images/psg1.png)
+
+**2\. Parent-Child Bonding Events organized by the PSG** 
+
+Parents and their sons enjoyed precious time bonding over fishing and a delicious seafood meal at Smith Marine Kelong.
+
+![](/images/psg2.png)
+
+**3\. PSG members enjoying a meaningful celebration with school staff during Teachers’ Day.** 
+
+During Teacher’s Day celebrations, our lovely PSG parents handmade cookies, designed special tote bags and joined our staff In the Teacher’s Day Celebrations.
+
+<img src="/images/psg3.png" 
+     style="width:85%">
+
+**4\. Our PSG members at the re-opening of the Montfort Heritage Gallery**
+
+Our PSG parents joined us for a memorable re-opening of the Montfort Heritage Gallery.
+
+<img src="/images/psg4.jpeg" 
+     style="width:65%">
