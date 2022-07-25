@@ -17,3 +17,25 @@ third_nav_title: The Montfort Story
   </tr>
 </tbody>
 </table>
+
+It is this constancy of purpose that has seen the school nurture generations of Montfortians who give back to the community and society. Through dedication and unwavering effort, the school continues to grow from strength to strength. The school’s achievements are the fruit of the commitment and industry of our past and present School Leaders, School Management Committee members, staff, students, parents and alumni.
+
+  
+
+Both young and senior alumni often share fondly with me stories and memories of their teachers, as though those yesteryear happenings have occurred just yesterday. Such is the positive and lasting impact Montfort teachers have on their students. Indeed, the teachers are what make Montfort Secondary School special. Academic achievements are important as they provide students with options, but it cannot be the sole purpose of education. Beyond preparing students to do well in their studies, our teachers are committed to nurturing holistic students, with an emphasis on character and values, and go the extra mile in caring for the boys. While the teachers may have come and gone, this trait of Montfort teachers remains ever constant.
+
+  
+
+We can be certain that there will be challenges we need to face this year, but at the same time, we are also assured and fortified by the camaraderie which members of the Montfort family share. With profound trust in God’s care, provision and protection, we enter the year with gratitude and optimism.
+
+  
+
+_Blessed are those who trust in the Lord, whose trust is the Lord. They shall be like a tree planted by water, sending out its roots by the stream. It shall not fear when heat comes, and its leaves shall stay green; in the year of drought it is not anxious, and it does not cease to bear fruit. (Jeremiah 17:7-8)_
+
+  
+
+  
+
+**Kelvin Lim**
+
+**Principal**
