@@ -2,6 +2,7 @@ collections:
   montfort-community:
     output: true
     order:
+      - Montfort Family/School Management Committee.md
       - Montfort Family/Principal and Vice Principals.md
       - Montfort Family/Key Personnel.md
       - Montfort Family/Class Mentors.md
