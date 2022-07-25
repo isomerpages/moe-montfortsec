@@ -16,11 +16,11 @@ third_nav_title: Sports
 
 ![](/images/rbpg.png)
 
-<table style="undefined;table-layout: fixed; width: 875px">
+<table style="undefined;table-layout: fixed; width: 845px">
 <colgroup>
-	<col style="width: 225px">
-	<col style="width: 225px">
-	<col style="width: 225px">
+	<col style="width: 215px">
+	<col style="width: 215px">
+	<col style="width: 215px">
 	<col style="width: 200px">
 </colgroup>
 <tbody>
