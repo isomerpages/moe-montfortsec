@@ -5,7 +5,7 @@ description: ""
 third_nav_title: The Montfort Story
 ---
 <img src="/images/the_montfortian_charter.jpeg" 
-     style="width:55%">
+     style="width:45%">
 
 
 **The Montfortian Legacy**
