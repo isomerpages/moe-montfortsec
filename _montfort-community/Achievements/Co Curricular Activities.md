@@ -8,39 +8,39 @@ third_nav_title: Achievements
 
 #### Sports
 
-**Badminton**
-North Zone Inter-School Tournament:
+**Badminton**   
+North Zone Inter-School Tournament:   
 'B' Division – 3rd
 
-**Wushu**
-Neo Yu Le Jewel, 3A2
--	Ranked 6th in 2nd International Changquan
--	Ranked 9th in 2nd International Cudgel
+**Wushu**   
+Neo Yu Le Jewel, 3A2      
+* Ranked 6th in 2nd International Changquan    
+* Ranked 9th in 2nd International Cudgel    
 
-Chong Jet Fong, 3E1
--	Ranked 18th in 1st International Nan Dao (Southern Broadsword)
+Chong Jet Fong, 3E1   
+* Ranked 18th in 1st International Nan Dao (Southern Broadsword)   
 
 #### Clubs and Societies
 
-**IDMA (Infocomm)**
-StrITwise(R) challenge - Champions 
-(Benjamin Edwards, 3E2 and Daryl Chua, 3E2)
+**IDMA (Infocomm)**    
+StrITwise(R) challenge - Champions     
+(Benjamin Edwards, 3E2 and Daryl Chua, 3E2)     
 
-**IDMA (Multimedia)**
+**IDMA (Multimedia)**    
 Our Schools, Our Stories’ 2021 Photo Contest - Representation
 
 #### Performing Arts
 
-**Montfort Military Band**
-SYF Central Judging- 
-•	Distinction Award (Team B Flexi Band)
-•	Distinction Award (Team C Percussion Ensemble) 
-•	Accomplishment Award (Team A Flexi Band)
+**Montfort Military Band**     
+SYF Central Judging-    
+•	Distinction Award (Team B Flexi Band)   
+•	Distinction Award (Team C Percussion Ensemble)    
+•	Accomplishment Award (Team A Flexi Band)   
 
-**Drama Club**
+**Drama Club**    
 SYF Central Judging- Accomplishment Award
 
-**Dance Club**
+**Dance Club**    
 SYF Central Judging- Distinction Award
 
 
@@ -49,44 +49,44 @@ SYF Central Judging- Distinction Award
 
 #### Clubs and Societies
 
-**IDMA (Infocomm)**
+**IDMA (Infocomm)**   
 NEmation competition - Top 20
 
-23rd National Olympiad in Informatics - Bronze Award 
-Recipient: Muhammad Irfan Bin Mohamed Nasim, 3E1
+23rd National Olympiad in Informatics - Bronze Award    
+Recipient: Muhammad Irfan Bin Mohamed Nasim, 3E1    
 
 ### 2019
 
 #### Sports
 
-**Badminton**
-North Zone Inter-School Tournament:
-'C' Division – 4th
+**Badminton**   
+North Zone Inter-School Tournament:   
+'C' Division – 4th   
 'B' Division – 3rd
 
-**Softball**
-SRC Carnival:
-'C' Division – 3rd
-National Inter-school Tournament:
-'C' Division – 4th
+**Softball**   
+SRC Carnival:    
+'C' Division – 3rd   
+National Inter-school Tournament:   
+'C' Division – 4th   
 
-**Wushu**
-Singapore International Martial Arts Tournament:
-'C' Division – Silver Medal
+**Wushu**   
+Singapore International Martial Arts Tournament:   
+'C' Division – Silver Medal    
 'B' Division – Bronze Medal
 
-**Taekwondo** 
-National Inter-school Tournament:
-'C' Division, Under 34 kg, Kyorugi – Silver Medal (Individual)
-National Inter-school Tournament:
-'B' Division, Under 64 kg, Kyorugi – Bronze Medal (Individual)
+**Taekwondo**    
+National Inter-school Tournament:   
+'C' Division, Under 34 kg, Kyorugi – Silver Medal (Individual)   
+National Inter-school Tournament:   
+'B' Division, Under 64 kg, Kyorugi – Bronze Medal (Individual)     
 
 #### Uniformed Groups
 
-**NCC**
+**NCC**   
 Best Unit Proficiency Award (Distinction)
 
-**NCDCC**
+**NCDCC**    
 Best Unit Proficiency Award (Gold)
 SCDF-NCDCC Pinnacle Badge Award Recipient: 
 WO Gughan S/O Sivakumaran 
