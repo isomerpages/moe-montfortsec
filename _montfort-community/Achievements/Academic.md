@@ -50,24 +50,24 @@ Certificate of Participation
 **2018 National On-The-Spot Chinese Creative Essay Writing Competition**       
 Certificate of Participation    
 
-Tamil Language
-2018 Sorkalam – Tamil National Debate Series for Secondary School
-Best Speaker Award - Arivarman Anbualagan
-Certificate of Participation 
-2018 Methavi – Media Corps Episode 
+##### Tamil Language
+**2018 Sorkalam – Tamil National Debate Series for Secondary School**  
+Best Speaker Award - Arivarman Anbualagan    
+Certificate of Participation       
+**2018 Methavi – Media Corps Episode**       
 Certificate of Participation
 
 
-2017
+### 2017
 
-Design & Technology
-SZ Millennium Challenge Competition Results
-Bridge building category
-5th place in Design
-3rd place in Design
-Motorized Vehicle category
-5th place for speed
-Non-motorized vehicle category
+##### Design & Technology
+**SZ Millennium Challenge Competition Results**
+**Bridge building category**    
+5th place in Design    
+3rd place in Design    
+**Motorized Vehicle category**   
+5th place for speed    
+**Non-motorized vehicle category**    
 Champion in Design
 
 Science
