@@ -217,23 +217,22 @@ Dance Exchange with Dance Club of School of Science and Technology (SST)
 
 #### Sports
 
-**Badminton**
+**Badminton**   
 North Zone Inter-School Tournament:  4th  Place for ‘C’ & ‘B’ Division
 
-**Basketball**
+**Basketball**    
 2nd Tier North Zone Tournament: 2nd  Place for ‘B’ Division
 
-**Softball**
-National Inter-School Tournament: Quarter-Finalist for ‘B’ Division
-National Inter-School Tournament: 3rd Place for ‘C’ Division
+**Softball**   
+National Inter-School Tournament: Quarter-Finalist for ‘B’ Division     
+National Inter-School Tournament: 3rd Place for ‘C’ Division   
 
-**Wushu**
-
-Micah Goh, 3E1
-Ranked 6th in Nan Gun (1st international) in National Inter-School Tournament
-S’pore International Martial Arts Competition
-1 Silver Team award
-3 Golds, 2 Silvers individual awards
+**Wushu**    
+Micah Goh, 3E1   
+Ranked 6th in Nan Gun (1st international) in National Inter-School Tournament   
+S’pore International Martial Arts Competition   
+1 Silver Team award   
+3 Golds, 2 Silvers individual awards    
 
 #### Clubs & Societies
 
