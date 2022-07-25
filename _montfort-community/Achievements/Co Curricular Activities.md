@@ -229,10 +229,10 @@ National Inter-School Tournament: 3rd Place for ‘C’ Division
 
 **Wushu**    
 Micah Goh, 3E1   
-Ranked 6th in Nan Gun (1st international) in National Inter-School Tournament   
-S’pore International Martial Arts Competition   
-1 Silver Team award   
-3 Golds, 2 Silvers individual awards    
+* Ranked 6th in Nan Gun (1st international) in National Inter-School Tournament   
+* S’pore International Martial Arts Competition   
+	* 1 Silver Team award
+	* 3 Golds, 2 Silvers individual awards    
 
 #### Clubs & Societies
 
