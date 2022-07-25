@@ -222,6 +222,7 @@ third_nav_title: Montfort Family
 </table>
 
 ### Secondary 3
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -321,7 +322,7 @@ third_nav_title: Montfort Family
 </tbody>
 </table>
 
-### Secondary 4 & 5
+### Secondary 4 and 5
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
