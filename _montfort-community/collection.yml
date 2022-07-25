@@ -2,4 +2,5 @@ collections:
   montfort-community:
     output: true
     order:
+      - Other Information/Non Financial Information.md
       - Other Information/.keep
