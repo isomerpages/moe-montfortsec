@@ -16,7 +16,7 @@ third_nav_title: Sports
 
 ![](/images/sb.png)
 
-<table style="undefined;table-layout: fixed; width: 246px">
+<table style="undefined;table-layout: fixed; width: 585px">
 <colgroup>
 <col style="width: 195px">
 <col style="width: 195px">
