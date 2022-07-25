@@ -1,6 +1,12 @@
 logo: /images/logo_withstroke.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Montfort Community
+    collection: montfort-community
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities
+  - title: Curriculum
+    collection: curriculum
+  - title: Quick Links
+    collection: quick-links
+  - title: Admission
+    collection: admission
