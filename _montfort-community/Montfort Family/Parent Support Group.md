@@ -44,7 +44,9 @@ PSG parents and staff preparing little tokens appreciation to the frontline hero
 
 Parents and their sons enjoyed precious time bonding over fishing and a delicious seafood meal at Smith Marine Kelong.
 
-![](/images/psg2.png)
+<img src="/images/psg2.png" 
+     style="width:85%">
+		 
 
 **3\. PSG members enjoying a meaningful celebration with school staff during Teachers’ Day.** 
 
