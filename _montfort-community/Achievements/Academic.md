@@ -33,8 +33,7 @@ Bronze Award
 ### 2018
 
 ##### Science
-**11th Singapore Junior Physics Olympiad**
-
+**11th Singapore Junior Physics Olympiad**    
 1 clinched the Bronze Award    
 4 were awarded The Honourable Mention    
 17 attained the Certificate of Participation.    
