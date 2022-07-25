@@ -73,8 +73,8 @@ third_nav_title: Montfort Family
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><strong>Principal</strong><br />(Montfort Secondary)<br />Mr Kelvin Lim</td>
+    <td class="tg-0lax"><strong>Principal</strong><br />(Montfort Junior)<br />Mr Wilbur Wong</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
