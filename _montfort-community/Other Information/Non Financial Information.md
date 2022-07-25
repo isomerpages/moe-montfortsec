@@ -75,3 +75,99 @@ Our Learning for Life Programme (LLP) is centred on Leadership Development throu
   
 
 For our Catholic boys, the programmes catered for them include Religious and Moral Education lessons and regular Eucharistic celebrations.  The school also provides opportunities for the students to appreciate the Arts through our 3 "E" Approach (Exposure, Expression & Excellence).
+
+**Board Members :**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">NAME</span></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">DESIGNATION</span></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">APPOINTMENT PERIOD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:400">MARK TAY TECK CHYE</span><br></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Chairman</span><br><span style="font-weight:normal">Member</span><br><span style="font-weight:normal">Hon Treasurer</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2021 to 31 March 2023</span><br><span style="font-weight:normal">1 January 2021 to 31 March 2021</span><br><span style="font-weight:normal">1 April 2020 to 31 December 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:400">JAMES CHER LEW HIONG</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Chairman</span></td>
+    <td class="tg-ii8k"><span style="font-weight:400">1 April 2020 to 1 April 2021</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">CHARLES NG KOK WEE  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Vice-Chairman </span></td>
+    <td class="tg-ii8k"><span style="font-weight:400">1 April 2020 to 31 March 2023</span><span style="font-weight:normal"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">NGAN SWEE HENG </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Hon Treasurer</span><br><span style="font-weight:normal">Member </span></td>
+    <td class="tg-ii8k"><span style="font-weight:400">1 January 2021 to 31 March 2023</span><span style="font-weight:normal"> </span><br><span style="font-weight:400">22 October 2020 to 31 December 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">BROTHER DOMINIC YEO-KOH </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Supervisor </span></td>
+    <td class="tg-ii8k"><span style="font-weight:400">1 April 2020 to 31 March 2023</span><span style="color:#222;background-color:#EAEAEA"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">KELVIN LIM HOCK SEONG  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Secretary/ Principal (MSS) </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2020 to 31 March 2023  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">WILBUR WONG   </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Secretary/Principal (MJS) </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2020 to 31 March 2023  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">RAJESH  SREENIVASAN </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Member </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2020 to 31 March 2023  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">LIM WAN TECK DARREN  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Member  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2020 to 31 March 2023  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal"> RICHARD TAN CHUAN LYE</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Member  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:400">1 April 2020 to 1 April 2021</span><span style="font-weight:normal"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">DENNIS HO YEOW VONG  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Member  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2020 to 31 March 2023  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">DAVID WOON  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Member  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2020 to 31 March 2023  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">TEO CHEN TUAN FABIAN  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Member  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2020 to 31 March 2023  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">DAVID LYE PAK SUN  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal"> Member </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">1 April 2020 to 31 March 2023  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">LIM LEI NORE </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">Member  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">8 April 2021 to 31 March 2023 </span></td>
+  </tr>
+</tbody>
+</table>
