@@ -12,6 +12,7 @@ third_nav_title: Uniformed Groups
 
 ![](/images/scouts4.png)
 
+### Photo Gallery
 
 <table style="undefined;table-layout: fixed; width: 780px">
 <colgroup>
