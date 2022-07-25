@@ -34,29 +34,25 @@ To register, please sign up using this [link](https://docs.google.com/forms/d/e
 
 The following activities/events have been planned and organised in partnership with our PSG. 
 
-**1\. Community Outreach**  
-
+**1\. Community Outreach**      
 PSG parents and staff preparing little tokens appreciation to the frontline heroes fighting the pandemic in Sengkang General Hospital.
 
 ![](/images/psg1.png)
 
-**2\. Parent-Child Bonding Events organized by the PSG** 
-
+**2\. Parent-Child Bonding Events organized by the PSG**     
 Parents and their sons enjoyed precious time bonding over fishing and a delicious seafood meal at Smith Marine Kelong.
 
 <img src="/images/psg2.png" 
      style="width:85%">
 		 
 
-**3\. PSG members enjoying a meaningful celebration with school staff during Teachers’ Day.** 
-
+**3\. PSG members enjoying a meaningful celebration with school staff during Teachers’ Day.**    
 During Teacher’s Day celebrations, our lovely PSG parents handmade cookies, designed special tote bags and joined our staff In the Teacher’s Day Celebrations.
 
 <img src="/images/psg3.png" 
      style="width:85%">
 
-**4\. Our PSG members at the re-opening of the Montfort Heritage Gallery**
-
+**4\. Our PSG members at the re-opening of the Montfort Heritage Gallery**    
 Our PSG parents joined us for a memorable re-opening of the Montfort Heritage Gallery.
 
 <img src="/images/psg4.jpeg" 
