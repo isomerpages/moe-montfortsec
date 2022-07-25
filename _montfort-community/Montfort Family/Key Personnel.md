@@ -6,9 +6,9 @@ third_nav_title: Montfort Family
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
@@ -78,7 +78,7 @@ third_nav_title: Montfort Family
     <td class="tg-0lax">Assistant Year Head (Acting) – <span style="font-weight:bold">Mr Jasper Lee Teng Yi</span> (jasper_lee_teng_yi@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Assistant Year Head– <span style="font-weight:bold">Ms Ong Wuan Seah</span> (ong_wuan_seah@moe.edu.sg)</td>
+    <td class="tg-0lax">Assistant Year Head – <span style="font-weight:bold">Ms Ong Wuan Seah</span> (ong_wuan_seah@moe.edu.sg)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Operations Manager 1 – <span style="font-weight:bold">Mr Benny Ng Kum Weng</span> (ng_kum_weng@moe.edu.sg)</td>
