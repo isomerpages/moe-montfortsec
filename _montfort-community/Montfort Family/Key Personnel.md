@@ -15,19 +15,19 @@ third_nav_title: Montfort Family
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax">School Staff Developer – Ms Eileen Lee Poh Ping (lee_poh_ping_eileen@moe.edu.sg)</td>
+    <td class="tg-0lax">School Staff Developer – <span style="font-weight:bold">Ms Eileen Lee Poh Ping</span> (lee_poh_ping_eileen@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">HOD/ English Language &amp; Literature – Mr Kang Soon Leong Casimir (kang_soon_leong_casimir@moe.edu.sg)</td>
+    <td class="tg-0lax">HOD/ English Language &amp; Literature – <span style="font-weight:bold">Mr Kang Soon Leong Casimir</span><span style="font-weight:normal"> (</span>kang_soon_leong_casimir@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">HOD/ Mathematics – Mdm Rachel Tang Yau Khee (tang_yau_khee@moe.edu.sg)</td>
+    <td class="tg-0lax">HOD/ Mathematics – <span style="font-weight:bold">Mdm Rachel Tang Yau Khee</span> (tang_yau_khee@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">HOD/ Science – Mr Yu Yang Ming Ernest (yu_yang_ming_ernest@moe.edu.sg)</td>
+    <td class="tg-0lax">HOD/ Science – <span style="font-weight:bold">Mr Yu Yang Ming Ernest </span>(yu_yang_ming_ernest@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">HOD/ Humanities – Ms Judeana Woon Hsiao Hui (woon_hsiao_hui@moe.edu.sg)</td>
+    <td class="tg-0lax">HOD/ Humanities – <span style="font-weight:bold">Ms Judeana Woon Hsiao Hui</span> (woon_hsiao_hui@moe.edu.sg)</td>
   </tr>
   <tr>
     <td class="tg-0lax">HOD/ Information and Communication Technology - Mr Aaron Cheng Chi En (cheng_chi_en@moe.edu.sg)</td>
