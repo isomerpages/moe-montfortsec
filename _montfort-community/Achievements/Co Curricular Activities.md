@@ -185,33 +185,32 @@ Inter-unit Campcraft Competition 2018
    Team 1 - Top 20 placing    
    Team 2 - Top 50 placing    
 
-**Scouts**
+**Scouts**   
 Frank Cooper Sands Award (Gold)
 
 #### Performing Arts
-
-**Montfort Military Band**
+  
+**Montfort Military Band**    
 Hark! at Victoria Concert Hall
 
-**Montfort Chorale**
-Voices of Singapore Festival @ CHIJMES
+**Montfort Chorale**     
+Voices of Singapore Festival @ CHIJMES    
 Concert "In Youthful Company 2018" @ Esplanade Concourse
 
-**Dance Club**
-
-Pulse! Street Dance 2018
-Hip Hop Junior Category: 2nd Runner-up 
+**Dance Club**   
+Pulse! Street Dance 2018   
+Hip Hop Junior Category: 2nd Runner-up    
 Best Male Dancer: Emmanuel Dacanay (1AA)
 
-Winner of Best Advocate award for Singapore Association of Mental Health at a forum theatre competition to show the power of resilience in youth at Re:ACT 2018 
-Winner of Best Actor award by Budimann Hakeem, 4E4 from 4 Integrity (4E4) at Re:ACT 2018
-Organising MGT 2018 for Teachers' Day with Dance Club and Student Council
+Winner of Best Advocate award for Singapore Association of Mental Health at a forum theatre competition to show the power of resilience in youth at Re:ACT 2018    
+Winner of Best Actor award by Budimann Hakeem, 4E4 from 4 Integrity (4E4) at Re:ACT 2018    
+Organising MGT 2018 for Teachers' Day with Dance Club and Student Council   
 CNY Performance for elderly at THK Nursing Home (VIA)
-CNY concert
-Guest performances at Montfort's Got Talent
-SYF Open call Extravaganza @ Bukit Panjang Plaza
-Performance for Singapore-Miyazaki Twinning Programme
-Dance Camp at Punggol
+CNY concert      
+Guest performances at Montfort's Got Talent   
+SYF Open call Extravaganza @ Bukit Panjang Plaza   
+Performance for Singapore-Miyazaki Twinning Programme   
+Dance Camp at Punggol   
 Dance Exchange with Dance Club of School of Science and Technology (SST)
 
 ### 2017
