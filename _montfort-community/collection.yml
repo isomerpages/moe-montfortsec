@@ -2,6 +2,7 @@ collections:
   montfort-community:
     output: true
     order:
+      - Montfort Family/Brothers of St Gabriel.md
       - Montfort Family/.keep
       - Achievements/.keep
       - Achievements/Academic.md
