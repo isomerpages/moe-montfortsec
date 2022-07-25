@@ -28,7 +28,7 @@ third_nav_title: The Montfort Story
   </tr>
   <tr>
     <td class="tg-0lax" colspan="2"><img src="/images/history_img5.jpg" 
-     style="width:65%">
+     style="width:55%">
 </td>
   </tr>
 </tbody>
