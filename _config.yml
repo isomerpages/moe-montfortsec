@@ -1,6 +1,6 @@
 title: "Montfort Secondary School "
 url: ""
-favicon: /images/montfortlogo.jpeg
+favicon: /images/school_crest.png
 colors:
   primary-color: "#eec412"
   secondary-color: "#0e2b56"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2ck5peb7tuhh1.amplifyapp.com
 prod: https://master.d2ck5peb7tuhh1.amplifyapp.com
-shareicon: /images/montfortlogo.jpeg
+shareicon: /images/school_crest.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
