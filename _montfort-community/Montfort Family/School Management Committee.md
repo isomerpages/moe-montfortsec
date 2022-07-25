@@ -29,11 +29,11 @@ third_nav_title: Montfort Family
     <td class="tg-0lax"><img src="/images/smc5.png"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><p><strong>Advisor</strong><br />Mr James Cher</p></td>
-    <td class="tg-0lax"><p><strong>Supervisor of Schools</strong><br />Brother Dominic Yeo-Koh</p></td>
-    <td class="tg-0lax"><p><strong>Chairman</strong><br />Mr&nbsp;Mark Tay Teck Chye</p></td>
-    <td class="tg-0lax"><p><strong>Vice-Chairman</strong><br />Mr Charles Ng Kok&nbsp; Wee</p></td>
-    <td class="tg-0lax"><p><strong>Honorary Treasurer</strong><br />Mr Ngan Swee Heng</p></td>
+    <td class="tg-0lax"><strong>Advisor</strong><br />Mr James Cher</td>
+    <td class="tg-0lax"><strong>Supervisor of Schools</strong><br />Brother Dominic Yeo-Koh</td>
+    <td class="tg-0lax"><strong>Chairman</strong><br />Mr&nbsp;Mark Tay Teck Chye</td>
+    <td class="tg-0lax"><strong>Vice-Chairman</strong><br />Mr Charles Ng Kok&nbsp; Wee</td>
+    <td class="tg-0lax"><strong>Honorary Treasurer</strong><br />Mr Ngan Swee Heng</td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/smc6.jpeg"></td>
@@ -43,7 +43,7 @@ third_nav_title: Montfort Family
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><strong>Member</strong><br />Mr Rajesh Sreenivasan</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
