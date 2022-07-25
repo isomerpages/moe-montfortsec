@@ -33,9 +33,10 @@ We can be certain that there will be challenges we need to face this year, but a
 _Blessed are those who trust in the Lord, whose trust is the Lord. They shall be like a tree planted by water, sending out its roots by the stream. It shall not fear when heat comes, and its leaves shall stay green; in the year of drought it is not anxious, and it does not cease to bear fruit. (Jeremiah 17:7-8)_
 
   
+<div>
+<div style="float: right">
+	<strong>Kelvin Lim<br></strong>Principal
+</div>
+</div>
 
-  
 
-**Kelvin Lim**
-
-**Principal**
