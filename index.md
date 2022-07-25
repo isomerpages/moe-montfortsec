@@ -2,7 +2,7 @@
 layout: homepage
 title: "Montfort Secondary School "
 description: An Isomer site of the Singapore Government
-image: /images/montfortlogo.jpeg
+image: /images/school_crest.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -29,6 +29,7 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
 
