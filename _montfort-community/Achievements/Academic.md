@@ -85,11 +85,11 @@ Gold Award and a special prize for The Most Earth-Friendly Enterprise Award + $3
 ### 2016
 
 ##### Design & Technology
-St Andrew’s South Zone Millennium Challenge (SZMC)
-2nd prize: Motorised (Speed)
-5th prize: Mechanical (Design)
+**St Andrew’s South Zone Millennium Challenge (SZMC)**   
+2nd prize: Motorised (Speed)   
+5th prize: Mechanical (Design)    
 5th prize: Mechanical (Distance)
 
 ##### Elements of Business Skills
-National Youth Business Challenge 
+**National Youth Business Challenge**    
 Bronze award + Most Cohesive Team award at the National Youth Business Challenge (NYBC)
