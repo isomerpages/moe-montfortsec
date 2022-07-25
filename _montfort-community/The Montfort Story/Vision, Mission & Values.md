@@ -59,3 +59,24 @@ A Man for Others – a Scholar, a Sportsman, a Gentleman and a Leader.
 
 Montfort is a Catholic School. Guided by our Montfortian Values and Spirituality, we nurture each individual to realise his potential and inspire him to be a Man for Others.
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 138px">
+<colgroup>
+<col style="width: 39px">
+<col style="width: 170px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/school_motto_values.png"></td>
+		<td class="tg-0lax"><strong>School Motto & Values</strong></td>
+  </tr>
+</tbody>
+</table>
