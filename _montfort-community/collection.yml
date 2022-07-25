@@ -1,4 +1,5 @@
 collections:
   montfort-community:
     output: true
-    order: []
+    order:
+      - Other Information/.keep
