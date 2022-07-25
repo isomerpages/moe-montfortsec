@@ -80,3 +80,5 @@ Montfort is a Catholic School. Guided by our Montfortian Values and Spirituality
   </tr>
 </tbody>
 </table>
+
+Our School Motto “Age Quod Agis” translates to “Do Well In Whatever You Do”. It reminds our boys of the dignity of work and that the work they do is important and represents who they are. Therefore, they need to take pride in their assigned tasks and do it to the best of their abilities.
