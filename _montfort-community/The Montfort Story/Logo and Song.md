@@ -24,3 +24,13 @@ third_nav_title: The Montfort Story
   </tr>
 </tbody>
 </table>
+
+The crest carries the Brothers of St Gabriel motto ‘LABOR OMNIA VINCIT’ which stands for ‘Labour conquers all things’.
+
+  
+
+Hard work, embodied in diligence and perseverance, leads one to achieve great things in life.
+
+  
+
+The derivation is Montfort School’s motto ‘AGE QUOD AGIS’ or to ‘Do well in whatever you do.’
