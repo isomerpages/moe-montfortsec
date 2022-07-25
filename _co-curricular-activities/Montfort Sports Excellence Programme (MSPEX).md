@@ -12,4 +12,5 @@ The programme adopts age-appropriate and sound approaches that aim to provide st
 For a start, the programme will focus on two sports that both schools have excelled in: Badminton and Football. The programme hopes to include all other sports offered in these schools in the near future.
 
 ![](/images/MSPEX%20Article.jpeg)
+
 ![](/images/mspex.png)
