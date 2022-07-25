@@ -86,49 +86,49 @@ National Inter-school Tournament:
 **NCC**   
 Best Unit Proficiency Award (Distinction)
 
-**NCDCC**    
-Best Unit Proficiency Award (Gold)
-SCDF-NCDCC Pinnacle Badge Award Recipient: 
-WO Gughan S/O Sivakumaran 
-WO Ho Jun Da
+**NCDCC**      
+Best Unit Proficiency Award (Gold)   
+SCDF-NCDCC Pinnacle Badge Award Recipient:    
+WO Gughan S/O Sivakumaran     
+WO Ho Jun Da    
 
-**NPCC**
-Best Unit Proficiency Award (Gold)
+**NPCC**    
+Best Unit Proficiency Award (Gold)    
 
-**Scouts**
+**Scouts**    
 Frank Cooper Sands Award (Gold)
 
-#### Performing Arts
+#### Performing Arts 
 
-**Montfort Military Band**
-SYF Central Judging- Distinction Award
+**Montfort Military Band**   
+SYF Central Judging- Distinction Award    
 
-**Montfort Chorale**
+**Montfort Chorale**   
 SYF Central Judging- Accomplishment Award
 
-**Drama Club**
+**Drama Club**    
 SYF Central Judging- Distinction Award
 
-**Dance Club**
+**Dance Club**    
 SYF Central Judging- Distinction Award
 
 #### Clubs and Societies
-
-**IDMA (Infocomm)**
-NEmation competition - Top 10
-National Coding Competition (Junior Team) 
-- 3rd (1 Team)
-- Quarter finals (2 Teams)
-3D-tronics Digital Making Infocomm Challenge - Champion in Senior category
-Stritwise Challenge: 2nd
-Youth Cyber Exploration Programme (YCEP) Central Capture-The-Flag (CTF) Competition: 
-Team - 2nd
-Individual - 10th
+ 
+**IDMA (Infocomm)**     
+NEmation competition - Top 10   
+National Coding Competition (Junior Team)    
+- 3rd (1 Team)   
+- Quarter finals (2 Teams)    
+3D-tronics Digital Making Infocomm Challenge - Champion in Senior     category   
+Stritwise Challenge: 2nd    
+Youth Cyber Exploration Programme (YCEP) Central Capture-The-Flag (CTF) Competition:    
+Team - 2nd   
+Individual - 10th    
 Ace of Coders Competition - Top 16
 
-**Maker Club**
-Singapore Polytechnic Toy Design Competition:
-3D Printing - Commendation Award
+**Maker Club**    
+Singapore Polytechnic Toy Design Competition:   
+3D Printing - Commendation Award    
 Automata - 1st, Commendation Award and Merit Award
 
 
