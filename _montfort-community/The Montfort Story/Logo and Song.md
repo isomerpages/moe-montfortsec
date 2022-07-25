@@ -20,7 +20,7 @@ third_nav_title: The Montfort Story
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/school_crest.png"></td>
-		<td class="tg-0lax"><strong>School Logo</strong><br>The Brothers of St Gabriel crest is worn by pupils of Gabrielite schools all over the world. The centerpiece of the school crest is the Coat of Arms, which has quadrants. The crest is adorned with green olive branches to symbolise peace and prosperity. It is the duty of each one to promote peace in the world, a peace that will last.</td>
+		<td class="tg-0lax"><strong>School Logo</strong><br><br>The Brothers of St Gabriel crest is worn by pupils of Gabrielite schools all over the world. The centerpiece of the school crest is the Coat of Arms, which has quadrants. The crest is adorned with green olive branches to symbolise peace and prosperity. It is the duty of each one to promote peace in the world, a peace that will last.</td>
   </tr>
 </tbody>
 </table>
