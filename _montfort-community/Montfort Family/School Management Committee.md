@@ -44,9 +44,11 @@ third_nav_title: Montfort Family
   </tr>
   <tr>
     <td class="tg-0lax"><strong>Member</strong><br />Mr Rajesh Sreenivasan</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><strong>Member</strong><br />Mr Dennis Ho</td>
+		<td class="tg-0lax"><strong>Member</strong><br>Dr Lim Wan Teck Darren</td>
+    <td class="tg-0lax"><strong>Member</strong><br />Dr David Woon
+
+</td>
     <td class="tg-0lax"></td>
   </tr>
 	<tr>
@@ -57,9 +59,9 @@ third_nav_title: Montfort Family
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><strong>Member</strong><br />Mr Teo Chen Tuan Fabian</td>
+    <td class="tg-0lax"><strong>Member</strong><br />Mr David Lye Pak Sun</td>
+    <td class="tg-0lax"><strong>Member</strong><br />Mdm Lim Lei Nore</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
