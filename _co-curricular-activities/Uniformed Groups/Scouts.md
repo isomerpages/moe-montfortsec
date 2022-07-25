@@ -14,7 +14,7 @@ third_nav_title: Uniformed Groups
 
 ### Photo Gallery
 
-<table style="undefined;table-layout: fixed; width: 780px">
+<table style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
 <col style="width: 400px">
