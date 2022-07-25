@@ -31,9 +31,9 @@ third_nav_title: Montfort Family
   <tr>
     <td class="tg-0lax"><p><strong>Advisor</strong><br />Mr James Cher</p></td>
     <td class="tg-0lax"><p><strong>Supervisor of Schools</strong><br />Brother Dominic Yeo-Koh</p></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><p><strong>Chairman</strong><br />Mr&nbsp;Mark Tay Teck Chye</p></td>
+    <td class="tg-0lax"><p><strong>Vice-Chairman</strong><br />Mr Charles Ng Kok&nbsp; Wee</p></td>
+    <td class="tg-0lax"><p><strong>Honorary Treasurer</strong><br />Mr Ngan Swee Heng</p></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/smc6.jpeg"></td>
