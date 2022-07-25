@@ -27,10 +27,33 @@ third_nav_title: The Montfort Story
 
 The crest carries the Brothers of St Gabriel motto ‘LABOR OMNIA VINCIT’ which stands for ‘Labour conquers all things’.
 
-  
-
 Hard work, embodied in diligence and perseverance, leads one to achieve great things in life.
 
-  
-
 The derivation is Montfort School’s motto ‘AGE QUOD AGIS’ or to ‘Do well in whatever you do.’
+
+**School Song**
+
+**“Song of the Brave”**    
+Lyrics by Mr Teo Kah Leng     
+Music by Mr Chua Song Koon    
+MIDI by Tan Kah Yong (’96 4S1)   
+
+All ye sons of Montfort School,   
+Ever grateful be and true,   
+To your Alma Mater dear,   
+For her loving care of you.   
+
+Keep your filial piety,   
+Burning bright your whole life through,   
+Ever jealous of her name,   
+Ever mindful of her claim.
+
+Hark! Her bugle sounds aloud,   
+Rise her sons, and play your part,   
+With a song upon your lips and   
+a courage in your heart.
+
+See! Her banner in the breeze,   
+Freely flutters high and smart!   
+Feel in you a surging pride,   
+When your Mater’s colours ride.
