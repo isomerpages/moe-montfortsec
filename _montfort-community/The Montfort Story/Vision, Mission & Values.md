@@ -28,7 +28,7 @@ We also recognise that each school has its own set of more immediate challenges.
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/vision.png"></td>
-		<td class="tg-0lax"><strong>Vision</strong></td>
+		<td class="tg-0lax"><h5>Vision</h5></td>
   </tr>
 </tbody>
 </table>
@@ -52,7 +52,7 @@ A Man for Others – a Scholar, a Sportsman, a Gentleman and a Leader.
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/mission.png"></td>
-		<td class="tg-0lax"><strong>Mission</strong></td>
+		<td class="tg-0lax"><h5>Mission</h5></td>
   </tr>
 </tbody>
 </table>
@@ -68,15 +68,15 @@ Montfort is a Catholic School. Guided by our Montfortian Values and Spirituality
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 209px">
+<table class="tg" style="undefined;table-layout: fixed; width: 290px">
 <colgroup>
-<col style="width: 39px">
-<col style="width: 170px">
+<col style="width: 40px">
+<col style="width: 250px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/school_motto_values.png"></td>
-		<td class="tg-0lax"><strong>School Motto & Values</strong></td>
+		<td class="tg-0lax"><h5>School Motto & Values</h5></td>
   </tr>
 </tbody>
 </table>
