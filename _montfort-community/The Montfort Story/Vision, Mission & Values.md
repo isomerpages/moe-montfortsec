@@ -68,7 +68,7 @@ Montfort is a Catholic School. Guided by our Montfortian Values and Spirituality
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 138px">
+<table class="tg" style="undefined;table-layout: fixed; width: 160px">
 <colgroup>
 <col style="width: 39px">
 <col style="width: 170px">
