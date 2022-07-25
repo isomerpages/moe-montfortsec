@@ -36,10 +36,10 @@ third_nav_title: Montfort Family
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/smc6.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/smc7.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/smc8.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/smc9.jpeg"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
