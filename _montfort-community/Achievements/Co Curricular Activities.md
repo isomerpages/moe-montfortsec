@@ -178,12 +178,12 @@ SCDF-NCDCC Pinnacle Badge Award
 
 **NPCC**   
 Best Unit Proficiency Award (Gold)    
-Inter-unit .22 Revolver Shooting Competition 2018   
-    Team 1 - Top 20 placing    
-    Team 2 - Top 50 placing   
-Inter-unit Campcraft Competition 2018    
-   Team 1 - Top 20 placing    
-   Team 2 - Top 50 placing    
+* Inter-unit .22 Revolver Shooting Competition 2018
+    * Team 1 - Top 20 placing
+    * Team 2 - Top 50 placing   
+* Inter-unit Campcraft Competition 2018
+   * Team 1 - Top 20 placing    
+   * Team 2 - Top 50 placing    
 
 **Scouts**   
 Frank Cooper Sands Award (Gold)
