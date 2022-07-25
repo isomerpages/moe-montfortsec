@@ -1,5 +1,4 @@
 collections:
   co-curricular-activities:
     output: true
-    order:
-      - MSPEX/.keep
+    order: []
