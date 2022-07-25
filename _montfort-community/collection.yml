@@ -2,6 +2,7 @@ collections:
   montfort-community:
     output: true
     order:
+      - Achievements/Academic.md
       - Achievements/.keep
       - Other Information/Non Financial Information.md
       - Other Information/.keep
