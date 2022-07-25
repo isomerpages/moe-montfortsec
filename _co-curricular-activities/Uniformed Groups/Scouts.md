@@ -16,8 +16,8 @@ third_nav_title: Uniformed Groups
 
 <table style="undefined;table-layout: fixed; width: 780px">
 <colgroup>
-<col style="width: 390px">
-<col style="width: 390px">
+<col style="width: 400px">
+<col style="width: 400px">
 </colgroup>
 <tbody>
   <tr>
