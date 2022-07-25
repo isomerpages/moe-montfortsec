@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/NCC.md
       - Uniformed Groups/.keep
       - Montfort Sports Excellence Programme (MSPEX).md
