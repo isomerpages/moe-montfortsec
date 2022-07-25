@@ -136,54 +136,54 @@ Automata - 1st, Commendation Award and Merit Award
 
 #### Sports
 
-**Badminton**
-North Zone Inter-School Championships 2018 – C Boys – 3rd
-North Zone Inter-School Championships 2018 – B Boys – 4th
+**Badminton**   
+North Zone Inter-School Championships 2018 – C Boys – 3rd   
+North Zone Inter-School Championships 2018 – B Boys – 4th   
 National Schools Badminton Championships 2018 – C Boys – Top 8
 
-**Basketball**
+**Basketball**   
 North Zone Inter-school 'B' Division Boys – Top 4 position
 
-**Softball**
+**Softball**    
 ‘B’ Division National – 3rd
 
-**Wushu**
-Group category competitions organised by Singapore Wushu Dragon & Sanda Championship: 
-‘B’ Division Quan – Gold Level 2 equivalent to Silver
-‘B’ Division Weapon - Gold Level 1 equivalent to Gold
-‘C’ Division Quan – Gold Level 3 equivalent to Bronze
+**Wushu**   
+Group category competitions organised by Singapore Wushu Dragon & Sanda Championship:    
+‘B’ Division Quan – Gold Level 2 equivalent to Silver   
+‘B’ Division Weapon - Gold Level 1 equivalent to Gold   
+‘C’ Division Quan – Gold Level 3 equivalent to Bronze    
 
-‘B’ Division National Group Quanshu – 11th placing
+‘B’ Division National Group Quanshu – 11th placing   
 ‘C’ Division National Group Quanshu– 11th placing
 
 #### Clubs & Societies
 
-**IDMA (Multimedia)**
-Code Competition – 2nd Runner up and Winner of the POSB Innovation award
-StrITWise Competition – Finalist and Winner of Social Media Challenge Award
+**IDMA (Multimedia)**   
+Code Competition – 2nd Runner up and Winner of the POSB Innovation award    
+StrITWise Competition – Finalist and Winner of Social Media Challenge Award    
 NEmation 2019 – Selected to Top 10 and finals ongoing
 
 #### Uniform Groups
 
-**NCC**
-Best Unit Proficiency Award (Gold)
-Freestyle Drill Competition
+**NCC**   
+Best Unit Proficiency Award (Gold)   
+Freestyle Drill Competition   
 Cluster Training - Urban Operations @ MONTFORT
+  
+**NCDCC**   
+Best Unit Proficiency Award (Gold)   
+CD Ready School Award recipient (Secondary School Category)   
+SCDF-NCDCC Pinnacle Badge Award    
+- Recipient: WO Kannan Sasinthiran   
 
-**NCDCC**
-Best Unit Proficiency Award (Gold)
-CD Ready School Award recipient (Secondary School Category)
-SCDF-NCDCC Pinnacle Badge Award
-- Recipient: WO Kannan Sasinthiran
-
-**NPCC**
-Best Unit Proficiency Award (Gold)
-Inter-unit .22 Revolver Shooting Competition 2018
-    Team 1 - Top 20 placing 
-    Team 2 - Top 50 placing
-Inter-unit Campcraft Competition 2018
-   Team 1 - Top 20 placing 
-   Team 2 - Top 50 placing
+**NPCC**   
+Best Unit Proficiency Award (Gold)    
+Inter-unit .22 Revolver Shooting Competition 2018   
+    Team 1 - Top 20 placing    
+    Team 2 - Top 50 placing   
+Inter-unit Campcraft Competition 2018    
+   Team 1 - Top 20 placing    
+   Team 2 - Top 50 placing    
 
 **Scouts**
 Frank Cooper Sands Award (Gold)
