@@ -2,6 +2,7 @@ collections:
   montfort-community:
     output: true
     order:
+      - The Montfort Story/Montfort Education Charter.md
       - The Montfort Story/.keep
       - Montfort Virtual Tour.md
       - Montfort Family/School Management Committee.md
