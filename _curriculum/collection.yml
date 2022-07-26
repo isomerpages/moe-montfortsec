@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Student Development/National Education.md
       - Student Development/Sexuality Education.md
       - Student Development/Values in Action.md
       - Student Development/.keep
