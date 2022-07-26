@@ -89,3 +89,52 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
   </tr>
 </tbody>
 </table>
+
+### Secondary 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 993px">
+<colgroup>
+<col style="width: 155px">
+<col style="width: 162px">
+<col style="width: 531px">
+<col style="width: 145px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-reen"><span style="color:black">UNIT</span></td>
+    <td class="tg-reen"><span style="color:black">LESSONS / DURATION</span></td>
+    <td class="tg-reen"><span style="color:black">LESSON OBJECTIVES</span><br><span style="color:black">At the end of the lesson, students will be able to:</span></td>
+    <td class="tg-reen"><span style="color:black">TIME PERIOD</span><br><span style="color:black">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-ncov">1<br>(60  mins)</td>
+    <td class="tg-sxkx">·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>·      Understand what sexual orientation entails</td>
+    <td class="tg-ncov">Term 2 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">2A<br>(60 mins)</td>
+    <td class="tg-sxkx">·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-ncov">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">2B<br>(60 mins)</td>
+    <td class="tg-sxkx">·    Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-ncov">Term 4 Week 2</td>
+  </tr>
+</tbody>
+</table>
+
+### Secondary 3
+
+### Secondary 4 and 5
