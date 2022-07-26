@@ -12,6 +12,9 @@ third_nav_title: Performing Arts
 
 ![](/images/mc4.jpeg)
 
+
+### Photo Gallery
+
 <table style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
