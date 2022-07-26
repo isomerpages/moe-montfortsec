@@ -146,7 +146,6 @@ Learning Journeys aim to instill Montfortians, pride in Singapore’s achievemen
 
 NE Ambassadors are student leaders who want to promote citizenship values in the school and are role models of youth citizens in Singapore. They are also highly involved in NE school events, like the commemoration of Total Defence Day and National Day Celebrations. NE Ambassadors will undergo Leadership Training in Term 3.
 
-  
 
 **NE Quiz**
 
