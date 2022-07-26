@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Dance Club.md
       - Performing Arts/Drama Club.md
       - Performing Arts/Montfort Chorale.md
       - Performing Arts/Montfort Military Band.md
