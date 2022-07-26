@@ -180,4 +180,57 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 
 
-### Secondary 4 and 5
+### Secondary 4
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-1bbm{background-color:#FFF;color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 795px">
+<colgroup>
+<col style="width: 155px">
+<col style="width: 160px">
+<col style="width: 335px">
+<col style="width: 145px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-reen"><span style="color:black">UNIT</span></td>
+    <td class="tg-reen"><span style="color:black">LESSONS / DURATION</span></td>
+    <td class="tg-reen"><span style="color:black">LESSON OBJECTIVES</span><br><span style="color:black">At the end of the lesson, students will be able to:</span></td>
+    <td class="tg-reen"><span style="color:black">TIME PERIOD</span><br><span style="color:black">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-ncov">1<br>(60 mins)</td>
+    <td class="tg-1bbm">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity. <br><br>·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td class="tg-ncov">Term 1 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">2<br>(60 mins)</td>
+    <td class="tg-1bbm">·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br>·       Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br>·       Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br>·       Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
+    <td class="tg-ncov">Term 2 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">3<br>(60 mins)</td>
+    <td class="tg-1bbm">·       Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br><br>·       Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>·    Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
+    <td class="tg-ncov">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> </td>
+    <td class="tg-ncov">4<br>(60 mins)</td>
+    <td class="tg-sdzj">·   Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-ncov">Term 3 Week 5</td>
+  </tr>
+</tbody>
+</table>
+
+### Secondary 5
+
