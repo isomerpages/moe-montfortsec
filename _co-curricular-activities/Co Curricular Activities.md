@@ -25,5 +25,4 @@ description: ""
 <center><h4>CCA Schedule</h4></center>
 <center><a href = "https://drive.google.com/file/d/1t5z0yo78-AnnEo6UNfHKMNi0L2vEYGVD/view" target = "_self"> 
           <img src="/images/CCA%20Schedule.jpeg" 
-     style="width:45%"></a></center>
-
+     style="width:25%"></a></center>
