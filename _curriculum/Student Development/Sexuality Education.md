@@ -102,11 +102,11 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 .tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 993px">
+<table class="tg" style="undefined;table-layout: fixed; width: 798px">
 <colgroup>
 <col style="width: 155px">
 <col style="width: 162px">
-<col style="width: 531px">
+<col style="width: 336px">
 <col style="width: 145px">
 </colgroup>
 <tbody>
