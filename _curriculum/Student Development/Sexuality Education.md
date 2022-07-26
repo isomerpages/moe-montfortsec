@@ -136,6 +136,48 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 ### Secondary 3
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 795px">
+<colgroup>
+<col style="width: 155px">
+<col style="width: 160px">
+<col style="width: 335px">
+<col style="width: 145px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-reen">UNIT</td>
+    <td class="tg-reen">LESSONS / DURATION</td>
+    <td class="tg-reen">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-reen">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-ncov">1A<br>(60 mins)</td>
+    <td class="tg-ncov">·       Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>·       Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>·       Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
+    <td class="tg-ncov">Term 2 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">1B<br>(60 mins)</td>
+    <td class="tg-ncov">·       Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br>·       Know that a decision to end a relationship will have consequences on oneself and others.<br><br>·       Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br>·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</td>
+    <td class="tg-ncov">Term 3 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-ncov">2<br>(60 mins)</td>
+    <td class="tg-ncov">·       Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br>·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-ncov">Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
+
 
 
 ### Secondary 4 and 5
