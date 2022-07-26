@@ -12,6 +12,8 @@ third_nav_title: Clubs and Societies
 
 ![](/images/ic4.png)
 
+### Photo Gallery
+
 <table style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
