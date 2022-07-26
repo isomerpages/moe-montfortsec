@@ -125,9 +125,8 @@ Students participate in the St Gabriel’s Foundation Flag Day to collect donati
 
 Hair for Hope is an annual event where staff, students, and their family members participate in to show support for children from the Children Cancer Foundation (CCF) who are cancer patients. Participants will shave their hair and make a BALD statement to create awareness of childhood cancer in Singapore. The act of shaving tells children with cancer that it is OK to be bald and raise funds and help children with cancer and their families.
 
-  
-
-![Hair For Hope Photo.jpg](https://montfortsec.moe.edu.sg/qql/slot/u153/Curriculum/Student%20Development/Values%20in%20Action/Hair%20For%20Hope%20Photo.jpg)  
+<img src="/images/via4.jpeg" 
+     style="width:65%">
 
   
 
