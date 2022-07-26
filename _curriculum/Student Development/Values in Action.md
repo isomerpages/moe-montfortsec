@@ -141,5 +141,29 @@ Our students served at Care Corner Orphanage, helping to set the foundation for 
 As always, our trip to Chiang Mai is a lesson in humility, respect and compassion. We are indeed blessed to have had the opportunity to grow our world view and apply what is taught in the class to real-life situations!
 
   
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 770px">
+<colgroup>
+<col style="width: 290px">
+<col style="width: 220px">
+<col style="width: 260px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/via5.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/via6.jpeg"></td>
+		<td class="tg-0lax"><img src="/images/via7.jpeg"></td>
+  </tr>
+</tbody>
+</table>
+	
+	
 
 ![Overseas VIA Photo 3.JPG](https://montfortsec.moe.edu.sg/qql/slot/u153/Curriculum/Student%20Development/Values%20in%20Action/Overseas%20VIA%20Photo%203.JPG)![Overseas VIA Photo 2.JPG](https://montfortsec.moe.edu.sg/qql/slot/u153/Curriculum/Student%20Development/Values%20in%20Action/Overseas%20VIA%20Photo%202.JPG)![Overseas VIA Photo 4.JPG](https://montfortsec.moe.edu.sg/qql/slot/u153/Curriculum/Student%20Development/Values%20in%20Action/Overseas%20VIA%20Photo%204.JPG)
