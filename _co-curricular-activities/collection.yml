@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Co Curricular Activities.md
       - Clubs and Societies/Catholic Society.md
       - Clubs and Societies/IMDA (Audio Visual Club).md
       - Clubs and Societies/IDMA (Infocomm Club).md
