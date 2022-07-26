@@ -288,9 +288,13 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 722px">
+<colgroup>
+<col style="width: 183px">
+<col style="width: 375px">
+<col style="width: 164px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-reen"><span style="color:black">Topics/Lessons</span></td>
@@ -298,13 +302,13 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
     <td class="tg-reen"><span style="color:black">Time Period</span><br><span style="color:black">(e.g. Term 3 Week 9)</span></td>
   </tr>
   <tr>
-    <td class="tg-sdzj"><br><span style="background-color:initial">Mass Talk by HPB appointed vendor</span><br></td>
-    <td class="tg-sdzj"><span style="font-weight:400;font-style:normal">·    Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:400;font-style:normal">·    Modes of transmission</span><br><br><span style="font-weight:400;font-style:normal">·    Modes of protection, specifically on how the condom is used</span><br><br><span style="font-weight:400;font-style:normal">·    </span>Consequences and impact of STIs/HIV</td>
+    <td class="tg-ncov"><br><span style="background-color:initial">Mass Talk by HPB appointed vendor</span><br></td>
+    <td class="tg-ncov"><span style="font-weight:400;font-style:normal">·    Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:400;font-style:normal">·    Modes of transmission</span><br><br><span style="font-weight:400;font-style:normal">·    Modes of protection, specifically on how the condom is used</span><br><br><span style="font-weight:400;font-style:normal">·    </span>Consequences and impact of STIs/HIV</td>
     <td class="tg-ncov"><br>Term 2 Week 10</td>
   </tr>
   <tr>
-    <td class="tg-sdzj"><span style="background-color:initial">Classroom-based Lesson</span><br></td>
-    <td class="tg-sdzj">  ·    Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-ncov"><span style="background-color:initial">Classroom-based Lesson</span><br></td>
+    <td class="tg-ncov">  ·    Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
     <td class="tg-ncov">Term 2 Week 10</td>
   </tr>
 </tbody>
