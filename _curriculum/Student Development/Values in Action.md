@@ -15,9 +15,11 @@ What values do we want to see in action?
 <div>
 	<div style="float: left">
 		<img src="/images/R3ICH.png" 
-     style="width:45%">
+     style="width:85%">
 	</div>
 </div>
+
+<br>
 
 
 <style type="text/css">
@@ -163,4 +165,3 @@ As always, our trip to Chiang Mai is a lesson in humility, respect and compassio
   </tr>
 </tbody>
 </table>
-	
