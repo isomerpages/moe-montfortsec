@@ -53,39 +53,38 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
 .tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 783px">
+<table class="tg" style="undefined;table-layout: fixed; width: 795px">
 <colgroup>
-<col style="width: 175px">
-<col style="width: 110px">
-<col style="width: 353px">
+<col style="width: 155px">
+<col style="width: 160px">
+<col style="width: 335px">
 <col style="width: 145px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-reen"><span style="color:black">UNIT</span></td>
+    <td class="tg-reen"><span style="color:black">NIT</span></td>
     <td class="tg-reen"><span style="color:black">LESSONS / DURATION</span></td>
     <td class="tg-reen"><span style="color:black">LESSON OBJECTIVES</span><br><span style="color:black">At the end of the lesson, students will be able to:</span></td>
     <td class="tg-reen"><span style="color:black">TIME PERIOD</span><br><span style="color:black">(e.g. Term 1 Week 2)</span></td>
   </tr>
   <tr>
-    <td class="tg-sxkx" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
-    <td class="tg-sxkx">1<br>(60 mins)</td>
-    <td class="tg-fwnj">·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·       <span style="background-color:initial">Recognise that there are different forms of love (e.g. familial, platonic, romantic love) </span><br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
-    <td class="tg-sxkx">Term 2 Week 6</td>
+    <td class="tg-ncov" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
+    <td class="tg-ncov">1<br>(60 mins)</td>
+    <td class="tg-ncov">·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>·       <span style="background-color:initial">Recognise that there are different forms of love (e.g. familial, platonic, romantic love) </span><br><br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td class="tg-ncov">Term 2 Week 6</td>
   </tr>
   <tr>
-    <td class="tg-sxkx">2<br>(60 mins)</td>
-    <td class="tg-fwnj">·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-    <td class="tg-sxkx">Term 3 Week 8</td>
+    <td class="tg-ncov">2<br>(60 mins)</td>
+    <td class="tg-ncov">·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-ncov">Term 3 Week 8</td>
   </tr>
   <tr>
-    <td class="tg-sxkx">3<br>(60 mins)</td>
-    <td class="tg-fwnj">·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
-    <td class="tg-sxkx">Term 4 Week 2</td>
+    <td class="tg-ncov">3<br>(60 mins)</td>
+    <td class="tg-ncov">·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-ncov">Term 4 Week 2</td>
   </tr>
 </tbody>
 </table>
@@ -102,11 +101,11 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 .tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 798px">
+<table class="tg" style="undefined;table-layout: fixed; width: 795px">
 <colgroup>
 <col style="width: 155px">
-<col style="width: 162px">
-<col style="width: 336px">
+<col style="width: 160px">
+<col style="width: 335px">
 <col style="width: 145px">
 </colgroup>
 <tbody>
@@ -136,5 +135,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 </table>
 
 ### Secondary 3
+
+
 
 ### Secondary 4 and 5
