@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/IDMA (Multimedia).md
       - Clubs and Societies/Maker Club.md
       - Clubs and Societies/Student Council.md
       - Clubs and Societies/.keep
