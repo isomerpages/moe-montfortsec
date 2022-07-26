@@ -13,11 +13,12 @@ Values in Action (VIA) are learning experiences that support students’ develop
 What values do we want to see in action?
 
 <div>
-<div style="float: left">
-<img src="/images/R3ICH.png" 
+	<div style="float: left">
+		<img src="/images/R3ICH.png" 
      style="width:45%">
+	</div>
 </div>
-	
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -60,3 +61,11 @@ What values do we want to see in action?
   </tr>
 </tbody>
 </table>
+	
+In Montfort Secondary School, students will experience both Level Specific VIA projects as well as School-Wide VIA programs. Level specific VIA projects are developmental in terms of the knowledge and skills acquired over the years. They allow more focus on the scope of involvement, which enables students to gain competencies at different levels. School-wide VIA programs provide opportunities for us to harness the collective effort of the school in contributing to various beneficiaries. 
+
+  
+
+<strong><u>Level Specific VIA Projects</u></strong>
+
+VIA will organized by level (S1, S2, S3 & S4/5) with the following guidelines on the **Level (Competencies)** and **Scope ()** of involvement: **Outreach**
