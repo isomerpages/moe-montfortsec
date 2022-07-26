@@ -13,10 +13,10 @@ third_nav_title: Performing Arts
 ![](/images/dc4.png)
 
 
-<table style="undefined;table-layout: fixed; width: 400px">
+<table style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
+<col style="width: 400px">
+<col style="width: 400px">
 </colgroup>
 <tbody>
   <tr>
