@@ -164,6 +164,3 @@ As always, our trip to Chiang Mai is a lesson in humility, respect and compassio
 </tbody>
 </table>
 	
-	
-
-![Overseas VIA Photo 3.JPG](https://montfortsec.moe.edu.sg/qql/slot/u153/Curriculum/Student%20Development/Values%20in%20Action/Overseas%20VIA%20Photo%203.JPG)![Overseas VIA Photo 2.JPG](https://montfortsec.moe.edu.sg/qql/slot/u153/Curriculum/Student%20Development/Values%20in%20Action/Overseas%20VIA%20Photo%202.JPG)![Overseas VIA Photo 4.JPG](https://montfortsec.moe.edu.sg/qql/slot/u153/Curriculum/Student%20Development/Values%20in%20Action/Overseas%20VIA%20Photo%204.JPG)
