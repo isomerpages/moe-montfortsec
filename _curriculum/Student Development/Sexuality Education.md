@@ -277,3 +277,35 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
  
 9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Montfort Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-reen"><span style="color:black">Topics/Lessons</span></td>
+    <td class="tg-reen"><span style="color:black">Programme Learning Objectives</span></td>
+    <td class="tg-reen"><span style="color:black">Time Period</span><br><span style="color:black">(e.g. Term 3 Week 9)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><br><span style="background-color:initial">Mass Talk by HPB appointed vendor</span><br></td>
+    <td class="tg-sdzj"><span style="font-weight:400;font-style:normal">·    Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:400;font-style:normal">·    Modes of transmission</span><br><br><span style="font-weight:400;font-style:normal">·    Modes of protection, specifically on how the condom is used</span><br><br><span style="font-weight:400;font-style:normal">·    </span>Consequences and impact of STIs/HIV</td>
+    <td class="tg-ncov"><br>Term 2 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-sdzj"><span style="background-color:initial">Classroom-based Lesson</span><br></td>
+    <td class="tg-sdzj">  ·    Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-ncov">Term 2 Week 10</td>
+  </tr>
+</tbody>
+</table>
