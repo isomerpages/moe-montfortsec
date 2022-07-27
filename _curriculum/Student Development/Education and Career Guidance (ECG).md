@@ -71,3 +71,69 @@ There are 3 contact points designed to provide students with the learning enviro
 (1) Classroom Learning   
 (2) Community Experiences     
 (3) Guidance & Counselling.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Tier 1</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">All students are to attend the ECG programs.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">Tier 2</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Students can sign up based on their interests.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">Tier 3</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Students identified by Class Mentors, Year Heads, and ECG Counsellor as high needs.</span></td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/ECG%20Framework.jpeg)
+
+
+### ECG Counselling
+  
+Our ECG Counsellor, Ms. Leaw Hui Meen, is in school every Wednesdays. Come and have a chat with her at Pinnacle’s ECG Corner to find out more about your post-secondary options, possible education and career pathways, and strengths and interests! 
+
+To book an appointment with Ms. Leaw, please use the following:
+
+WhatsApp: 6832 9385 
+
+Email: [Leaw\_Hui\_Meen@schools.gov.sg](mailto:Leaw_Hui_Meen@schools.gov.sg)
+
+[Booking Form](https://go.gov.sg/bookecgc)
+
+
+### ECG Resources
+
+[A Guide to Post Secondary Exercises](https://beta.moe.gov.sg/uploads/A-Guide-to-Post-Secondary-Exercise.pdf)     
+An overview of the pathways available and admissions exercises after secondary school.
+
+[MySkillsFuture Student Portal](https://www.myskillsfuture.sg/content/student/en/secondary.html)    
+A one-stop platform to explore the various educational and career pathways. 
+
+  
+
+[CourseFinder](https://beta.moe.gov.sg/coursefinder/)    
+Explore courses based on aggregate type, score, and area of interest offered in post-secondary institutes (polytechnics & ITE).
+
+  
+
+[Journeying with Our Children, Supporting Their Success](https://www.moe.gov.sg/microsites/ecg-parent-guide/)    
+A guide that provides tips and suggestions for parents to engage their child in conversations and activities related to ECG.
+
+  
+
+[Next Step Forward](https://www.moe.gov.sg/microsites/next-step-forward/)     
+The possible education and career pathways are aplenty. Follow the story of these 54 individuals’ journeys and be inspired!
