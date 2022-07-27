@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Subject Combination.md
       - Student Development/After School Engagement (ASE).md
       - Student Development/Cyber Wellness.md
       - Student Development/Education and Career Guidance (ECG).md
