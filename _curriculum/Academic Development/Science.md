@@ -93,3 +93,39 @@ Science Department’s Instructional Programme is driven by **Inquiry-Based** 
      style="width:25%">
 		 
 ![](/images/Under%20Our%20curriculum%20framework_pic2.png)
+
+
+**Food and Consumer Education**
+
+![](/images/Under%20Food%20and%20Consumer%20Education%20(Refer%20to%20word%20document).png)
+
+**Our Curriculum Objectives**
+
+1.  Making informed food choices regarding a healthy diet
+
+2.  Understanding the scientific principles underlying food preparation, processing and safety
+
+3.  Demonstrate good organisational and time management skills in planning for an investigation or a task
+
+4.  Apply food preparation techniques and use different cooking methods in preparing dishes/meals for different situations
+
+5.  Communicate ideas effectively
+
+6.  Working effectively in a team setting
+
+  
+
+**Our Curriculum Feature**
+
+![](/images/Under%20Food%20and%20Consumer%20Education%20-%20Our%20Curriculum%20feature.jpeg)
+
+**Culinary Skills**
+
+In the course of Secondary One and Two, our students will be able to acquire the following skills:
+*   Identifying herbs and spices
+*   Cutting techniques
+*   Cooking methods – frying, grilling, baking, steaming, baking, searing
+*   Food carving techniques
+*   Garnishing and plating
+*   Hygiene in food handling
+*   Conducting sensory evaluation
