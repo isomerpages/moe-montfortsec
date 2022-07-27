@@ -94,8 +94,7 @@ Science Department’s Instructional Programme is driven by **Inquiry-Based** 
 		 
 ![](/images/Under%20Our%20curriculum%20framework_pic2.png)
 
-
-**Food and Consumer Education**
+<strong><u>Food and Consumer Education</u></strong>
 
 ![](/images/Under%20Food%20and%20Consumer%20Education%20(Refer%20to%20word%20document).png)
 
