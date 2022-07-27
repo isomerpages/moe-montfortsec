@@ -19,4 +19,4 @@ Montfortians are encouraged to strive towards a higher education pathway and a c
 ### Instructional Programmes
 
 <img src="/images/ecg-ip.png" 
-     style="width:65%">
+     style="width:45%">
