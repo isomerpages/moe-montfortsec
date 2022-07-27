@@ -48,3 +48,11 @@ Our Cyber Wellness Ambassadors will set up booths at the canteen with games and 
   </tr>
 </tbody>
 </table>
+
+<strong><u>Cyber Wellness Training</u></strong>
+
+**Cyber Wellness Ambassadors Training**
+
+  
+
+In this programme, the cyber wellness ambassadors will be going through five 2-hour training sessions to equip them with the knowledge and ability to do research on cyber wellness issues as well as to design and deliver cyber wellness presentations to their classmates effectively. This programme will be held as a precursor to the Cyber Wellness Week.
