@@ -59,3 +59,28 @@ Support Staff – **Mdm Roslne Binte Karsani**
 
 <img src="/images/science_prog1.png" 
      style="width:45%">
+
+
+We have tiered our science programmes to give our students an EDGE when they complete their secondary education with us.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 850px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 500px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Secondary 1: Engage<br>Making the learning of Science an authentic and <br><span style="font-weight:400;font-style:normal">interesting </span>experience<br><br><span style="font-weight:400;font-style:normal">Secondary </span>2: Develop<br>Developing their scientific knowledge and skills<br><br>Secondary 3: Grow<br>Gaining deeper understanding in the various disciplines of science<br><br>Secondary 4/5: Excel<br>Achieving mastery in the learning of Science</td>
+    <td class="tg-0lax"><img src="/images/After%20EDGE%20(Refer%20to%20word%20document).jpeg"></td>
+  </tr>
+</tbody>
+</table>
+
