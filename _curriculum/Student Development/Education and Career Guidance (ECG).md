@@ -20,3 +20,13 @@ Montfortians are encouraged to strive towards a higher education pathway and a c
 
 <img src="/images/ecg-ip.png" 
      style="width:45%">
+		 
+ECG in CCE21
+
+<u><strong>Aims</strong></u>
+
+* nurture student’s self-awareness and self-directedness for lifelong learning;
+* enable students to explore education and career options, by equipping them with accurate and comprehensive information.;
+* help students develop a growth mindset and a resilient attitude to embrace future opportunities, and appreciate all occupations across society; and
+* create opportunities for students to build positive connections with the community (such as teachers, ECG counsellors, parents, industry partners), to develop an appreciation for different career pathways.
+
