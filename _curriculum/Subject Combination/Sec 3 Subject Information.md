@@ -21,31 +21,38 @@ third_nav_title: Subject Combination
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg"></a></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-cyxe">Science<br>Express Stream</td>
     <td class="tg-cyxe">Additional Mathematics<br>Express/Normal (Academic) Stream</td>
   </tr>
   <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg"></a></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-amwm"><span style="font-style:normal">Humanities</span><br><span style="font-style:normal">Express Stream</span></td>
     <td class="tg-amwm">Pure Literature<br>Express Stream</td>
   </tr>
   <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg"></a></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-amwm">Principles of Accounts <br>Normal (Academic) Stream</td>
     <td class="tg-amwm">Computing<br>Express Stream</td>
   </tr>
   <tr>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg"></a></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
