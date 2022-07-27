@@ -32,13 +32,7 @@ Computer Applications (CPA) was introduced in 1994 as a compulsory subject for s
   
 
 Through the CPA syllabus, students will:      
-
-  
-
-1\. acquire skills in using a variety of computer application software and hardware to accomplish tasks and communicate ideas
-
-2\. appreciate the ethical, legal and security issues relating to the use of computers and ICT in society
-
-3\. recognise the impact of ICT on society and people
-
-4\. develop basic computational thinking and problem-solving skills
+1. acquire skills in using a variety of computer application software and hardware to accomplish tasks and communicate ideas
+2. appreciate the ethical, legal and security issues relating to the use of computers and ICT in society
+3. recognise the impact of ICT on society and people
+4. develop basic computational thinking and problem-solving skills
