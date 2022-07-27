@@ -145,3 +145,7 @@ Click [here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/
   </tr>
 </tbody>
 </table>
+
+### Parent Handbook (I) on 1-to-1 Learning
+  
+Click [here](https://drive.google.com/file/d/1i8ZUn6kAKk_RpvUQamzMikHjjue3MHoe/view) for the Parent handbook
