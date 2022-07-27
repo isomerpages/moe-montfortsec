@@ -17,7 +17,12 @@ Students need to choose based on their aptitude, interests and their future post
 
 • **Availability of vacancies** in each subject (subject to School Resources) 
 
-  
 
-2\. SUBJECTS OFFERED FOR S3 NORMAL (TECHNICAL)
-----------------------------------------------
+### 2\. SUBJECTS OFFERED FOR S3 NORMAL (TECHNICAL)
+
+![](/images/NTNo2_new.jpeg)
+
+Note:   
+*Available to students who are exempted from MT only    
+#Available to existing Sec 2 SBB students only
+3. OUT OF STREAM SUBJECT (OOS)
