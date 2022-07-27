@@ -16,12 +16,10 @@ National Education (NE) is an integral component of Montfort Secondary School’
 
 **Head, Hearts and Hand (2007)**
 
-  
-
 In engaging the “Head”, students should be actively involved in their own learning. In engaging the “Heart”, students should connect emotionally with the Singapore story. In engaging the “Hands”, students should have opportunities to give back to society, and realise that everyone has a part to contribute to and create Singapore’s future, and, where possible, to lead in different fields of society.
 
 <img src="/images/NE.jpeg" 
-     style="width:45%">
+     style="width:35%">
 		 
 **Citizenship Dispositions  (2017)**
 
@@ -63,7 +61,10 @@ Total Defence Day is commemorated on 15 February annually to mark Singapore’s 
 
 **Theme – We Keep Singapore Strong**
 
-![](/images/5%20pillars.png)
+
+<img src="/images/5%20pillars.png" 
+     style="width:65%">
+
 
 **Learning Outcomes**
 
@@ -103,7 +104,9 @@ Total Defence Day is commemorated on 15 February annually to mark Singapore’s 
 
 **Theme – Multicultural Singapore**
 
-![](/images/multicultural%20SG.jpeg)
+<img src="/images/multicultural%20SG.jpeg" 
+     style="width:45%">
+
 
 **Learning Outcomes**
 
