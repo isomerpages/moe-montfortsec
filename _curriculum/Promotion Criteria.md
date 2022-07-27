@@ -125,4 +125,4 @@ For the Sec1 to Sec3 classes, there are one to two semestral assessments a year,
 
 **Grades A to D are PASS grades, with grade A being the highest and grade D being the lowest. Ungraded denotes a FAIL grade.**
 
-4. **Subject Combinations Exercise**
+4\. **Subject Combinations Exercise**
