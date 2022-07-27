@@ -78,9 +78,8 @@ We have tiered our science programmes to give our students an EDGE when they c
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax">Secondary 1: Engage<br>Making the learning of Science an authentic and <br><span style="font-weight:400;font-style:normal">interesting </span>experience<br><br><span style="font-weight:400;font-style:normal">Secondary </span>2: Develop<br>Developing their scientific knowledge and skills<br><br>Secondary 3: Grow<br>Gaining deeper understanding in the various disciplines of science<br><br>Secondary 4/5: Excel<br>Achieving mastery in the learning of Science</td>
+		<td class="tg-0lax">Secondary 1: <strong>E</strong>ngage<br>Making the learning of Science an authentic and <br><span style="font-weight:400;font-style:normal">interesting </span>experience<br><br><span style="font-weight:400;font-style:normal">Secondary </span>2: <strong>D</strong>evelop<br>Developing their scientific knowledge and skills<br><br>Secondary 3: <strong>G</strong>row<br>Gaining deeper understanding in the various disciplines of science<br><br>Secondary 4/5: <strong>E</strong>xcel<br>Achieving mastery in the learning of Science</td>
     <td class="tg-0lax"><img src="/images/After%20EDGE%20(Refer%20to%20word%20document).jpeg"></td>
   </tr>
 </tbody>
 </table>
-
