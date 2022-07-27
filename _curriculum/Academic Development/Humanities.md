@@ -68,3 +68,68 @@ Teacher – **Ms Tan Wan Sim (EBS)**
   </tr>
 </tbody>
 </table>
+
+To prepare our students for the VUCA (volatile, uncertain, complex and ambiguous) realities of the globalized world in the 21st century, the Humanities Department seeks to develop in our Montfortians inquiring and critical thinking skills, understanding of key knowledge across Humanities disciplines and imbue beliefs and attitudes that will empower them to be discerning and caring contributors of society.  
+
+  
+
+**Department Pedagogy**
+
+  
+
+Being an all-boys school, this is done through offering a boy-centric pedagogy which is tailored to our students’ learning needs and offering rich, meaningful learning experiences both within and outside the classroom.
+
+  
+
+**1\. Spiral Curriculum from Lower Secondary to Upper Secondary**
+
+  
+
+Key content and skills are progressively built from lower to upper secondary.
+
+  
+
+**Lower secondary:** Inference and Comparison Source-Based Skills (History) Describe Trends, O.S.A and Geographical Investigation (Geography)
+
+  
+
+**Upper secondary:** Reliability, Usefulness and Assertion Source-Based Skills (History and Social Studies) 
+
+Compare and Contrast, Annotating (Geography)
+
+  
+
+**2\. Explicit teaching of study skills to nurture self-directed and independent learners**
+
+Cornell-note taking   
+Use of colour-coded Mind-maps
+
+
+**3\. Use of Visible Thinking Routines**
+
+I used to think…now I think   
+What makes you say that?   
+Step Inside   
+See-Think-Wonder    
+Circle of Viewpoints
+
+**4\. Structured Lesson Design**
+
+Explicit lesson outcomes   
+Exemplars to set high expectations   
+Student centred self-directed learning    
+Use of success criteria and rubrics   
+Checking for understanding
+
+  
+
+**5\. Collaborative Learning**
+
+Cooperative learning strategies  
+Peer-teaching and learning   
+Clearly-defined roles within groups
+
+
+**6\. Meaningful Learning Experiences Outside the Classroom**
+
+Through our Humanities curriculum, we seek to excite our Montfortians by creating authentic learning experiences that extend beyond the classroom.
