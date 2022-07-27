@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Promotion Criteria.md
       - Subject Combination/Subject Combination.md
       - Subject Combination/Sec 2 Express Stream.md
       - Subject Combination/Sec 2 Normal (Academic) Stream.md
