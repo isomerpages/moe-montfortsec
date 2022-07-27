@@ -4,3 +4,53 @@ permalink: /curriculum/Subject-Combination/sec-3-subject-information
 description: ""
 third_nav_title: Subject Combination
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-cyxe{background-color:#ffffff;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 350px">
+<col style="width: 350px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-cyxe">Science<br>Express Stream</td>
+    <td class="tg-cyxe">Additional Mathematics<br>Express/Normal (Academic) Stream</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm"><span style="font-style:normal">Humanities</span><br><span style="font-style:normal">Express Stream</span></td>
+    <td class="tg-amwm">Pure Literature<br>Express Stream</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Principles of Accounts <br>Normal (Academic) Stream</td>
+    <td class="tg-amwm">Computing<br>Express Stream</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Art<br>Express/ Normal (Academic)/ <br>Normal (Technical) Stream</td>
+    <td class="tg-amwm"></td>
+  </tr>
+</tbody>
+</table>
