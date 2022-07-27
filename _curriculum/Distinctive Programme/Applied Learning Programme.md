@@ -14,9 +14,9 @@ third_nav_title: Distinctive Programme
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 650px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 350px">
+<col style="width: 400px">
 <col style="width: 300px">
 </colgroup>
 <tbody>
