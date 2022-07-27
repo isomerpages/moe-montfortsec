@@ -106,4 +106,5 @@ Through its ALP, Montfort Secondary School works towards developing its students
 
 ### Agency Partner
 
-![](/images/aws%20educate.png)
+<img src="/images/aws%20educate.png" 
+     style="width:45%">
