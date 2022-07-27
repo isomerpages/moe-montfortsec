@@ -72,3 +72,18 @@ In order for the students to make a more informed decision on the subjects he wo
   </tr>
 </tbody>
 </table>
+
+**Tips for Choosing Subject Combination**
+
+It is important to take into account the following factors,
+
+(a) His specific interests, 
+(b) Ability to cope with the subjects selected,
+(c) Alignment with his future post-secondary options. 
+
+There is no “best” or “most prestigious” subject combination that a Montfortian should opt for. Instead, the primary consideration should be to choose a subject combination which is most ideal for himself according to his interests, aptitude and aspiration for post-secondary education. 
+
+Click on the video to watch a video talk by our ECG Counsellor, Ms. Leaw Hui Meen on choosing subject combination.
+
+<a href = "https://drive.google.com/file/d/1cEJ5wfg6bHafi0KIn_ERjyTgFm6JZnvi/view" target = "_self"> 
+          <img src="/images/ECG%20video.jpeg"></a>
