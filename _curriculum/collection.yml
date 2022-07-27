@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Student Development/After School Engagement (ASE).md
       - Student Development/Cyber Wellness.md
       - Student Development/Education and Career Guidance (ECG).md
       - Student Development/National Education.md
