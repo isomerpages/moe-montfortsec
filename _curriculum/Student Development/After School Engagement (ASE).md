@@ -47,3 +47,22 @@ Special programmes have since been organised for students identified for the ASE
   </tr>
 </tbody>
 </table>
+
+**STUDENTS ANECDOTES**
+
+_“I enjoy hanging out at the ASE corner because it allows me to rest after a long day of studying. I get to talk to my friends and play games as well.”_  (Macolley Chia, 2 Compassion)
+
+_“I love playing Foosball at the ASE corner because I get to hone my skills and learn how to improve my game. I get to know my friends better as well and I can teach those who are excited to learn as well.”_ (Naydhan s/o Subhash, 2 Compassion)
+
+_“Having the ASE part of my timetable gives me a chance to play and have fun with my friends after studying hard.”_ (Abad Martin Athrun Pajares, 1 Compassion)
+
+**FOR SUPPORT**
+
+Friends and Alumni of Montfort who would like to contribute towards this meaningful programme are warmly welcomed. Montfort Secondary sincerely appreciates any contribution provided. The contribution offered may take one of the following forms:
+
+a)    To volunteer to help supervise the students during the ASE programme days     
+        (Mon, Tues, Thurs, from 3pm – 5pm)    
+b)    To volunteer to conduct a particular activity of interest for the students   
+c)     To offer financial sponsorship for the activities conducted    
+d)    To offer financial sponsorship for equipment to be procured   
+e)    To donate relevant equipment for the school’s use (e.g. piano, sofa, culinary equipment, etc)
