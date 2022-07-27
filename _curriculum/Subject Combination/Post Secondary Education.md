@@ -29,11 +29,11 @@ third_nav_title: Subject Combination
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1zJnBjV4HnBfhXbTjmVWjCi8-Y88hcOrP/view" target = "_self"> 
           <img src="/images/2022_4E5N.png"></a></td>
-    <td class="tg-0lax"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1InAFD-ay3OQhqu3AiDw5upuWOT_gS0XW/view" target = "_self"> 
           <img src="/images/2022_4NA.png"></a></td>
-    <td class="tg-0lax"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1yj-I0XHbE2jc60zXjtP1mrmfKvWZXz1t/view" target = "_self"> 
           <img src="/images/2022_4NT.png"></a></td>
   </tr>
   <tr>
