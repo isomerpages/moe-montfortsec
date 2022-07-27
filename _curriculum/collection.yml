@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic Development/Physical Education.md
       - Academic Development/Science.md
       - Academic Development/.keep
       - Boy Centric Teaching.md
