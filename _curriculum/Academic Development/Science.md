@@ -91,3 +91,5 @@ Science Department’s Instructional Programme is driven by **Inquiry-Based** 
 
 <img src="/images/Under%20Our%20curriculum%20framework_pic1.jpeg" 
      style="width:25%">
+		 
+![](/images/Under%20Our%20curriculum%20framework_pic2.png)
