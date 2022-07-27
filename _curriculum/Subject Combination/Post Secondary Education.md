@@ -10,7 +10,7 @@ third_nav_title: Subject Combination
 
 ### Singapore Education Pathways for different streams
 
-1.	Please click on the briefing slides below to find out more on the Singapore Education Pathways for different streams.
+1\.	Please click on the briefing slides below to find out more on the Singapore Education Pathways for different streams.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -43,3 +43,24 @@ third_nav_title: Subject Combination
   </tr>
 </tbody>
 </table>
+
+2\. For more information on the O-level/N-level subjects, please refer to the Singapore Examinations and Assessment Board website on the subjects at [https://www.seab.gov.sg/](https://www.seab.gov.sg/).
+
+  
+
+3\. For more information on the admission to Junior Colleges, Millennia Institute, Polytechnics and Institute of Technical Education, you can refer to the [Joint Admission Exercise 2022 information booklet](https://drive.google.com/file/d/1EKlhmGdi3HhlRGczQlB4KtHi6YhrPckw/view).  
+
+  
+
+4\. For more information on subject requirements for Institutes of Higher Learning, please visit respective universities’ websites on subject prerequisites for A-level holders & Diploma holders\* at 
+
+**a)  National University of Singapore (NUS)**   
+                (i)  [A level Holder](https://www.nus.edu.sg/oam/apply-to-nus/singapore-cambridge-gce-a-level/admissions-requirements)    
+                (ii) [Diploma Holder](https://www.nus.edu.sg/oam/apply-to-nus/polytechnic-diploma-from-singapore/admissions-requirements)  
+								
+ **b)  Nanyang Technological University (NTU)**    
+Please click on the [link](https://www.ntu.edu.sg/admissions/undergraduate/brochures) to access the brochures on the information on subject requirements for admission to NTU
+
+  
+
+_\* Diploma holders applying to NUS or NTU can only choose from a list of degree courses the diploma is accredited for (although some general degree courses do not have any requirements). Students should make an informed decision by checking directly at the respective local university website. Other useful information includes eligibility of course module exemptions for specific diplomas._
