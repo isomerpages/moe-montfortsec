@@ -21,3 +21,16 @@ _Information is accurate as at 1 June 2022. Any changes will be communicated thr
 
 ### 2\. SUBJECTS OFFERED FOR S3 NORMAL (ACADEMIC)
 
+![](/images/NANo2_new.jpeg)
+
+### 3\. OUT OF STREAM SUBJECT (OOS)
+
+![](/images/NA2.jpeg)
+
+### 4. S3 NORMAL (ACADEMIC) SUBJECT COMBINATIONS
+
+![](/images/NA3.jpeg)
+
+Notes   
+*Not recommended for students who are exempted from MT and taking MTB
+#Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
