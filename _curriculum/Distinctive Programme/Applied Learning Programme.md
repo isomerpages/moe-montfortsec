@@ -21,15 +21,15 @@ third_nav_title: Distinctive Programme
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1IO0SRNYiDPYCRYrnLjs5hCSf6s6afl4c/view" target = "_self"> 
           <img src="/images/alp3.png"></a></td>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1rPbfyWNh_qKI2n2XzZdiYcml8x7TQm8m/view" target = "_self"> 
           <img src="/images/alp4.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1LnAlceBT9e2bXcErWA8YjEjVdcGdmUzT/view" target = "_self"> 
           <img src="/images/alp2.png"></a></td>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1z-9VLS5Sk4zt18VNbEZt3fEk-gJXMz8L/view" target = "_self"> 
           <img src="/images/alp1.png"></a></td>
   </tr>
 </tbody>
