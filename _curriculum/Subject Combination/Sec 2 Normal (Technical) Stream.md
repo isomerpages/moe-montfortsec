@@ -25,4 +25,11 @@ Students need to choose based on their aptitude, interests and their future post
 Note:   
 *Available to students who are exempted from MT only    
 #Available to existing Sec 2 SBB students only
-3. OUT OF STREAM SUBJECT (OOS)
+
+### 3\. OUT OF STREAM SUBJECT (OOS)
+
+![](/images/NT2.jpeg)
+
+### 4\. S3 NORMAL (TECHNICAL) SUBJECT COMBINATIONS
+
+![](/images/NTNo4_new.jpeg)
