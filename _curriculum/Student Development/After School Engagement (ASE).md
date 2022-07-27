@@ -58,8 +58,7 @@ _“Having the ASE part of my timetable gives me a chance to play and have fun w
 
 **FOR SUPPORT**
 
-Friends and Alumni of Montfort who would like to contribute towards this meaningful programme are warmly welcomed. Montfort Secondary sincerely appreciates any contribution provided. The contribution offered may take one of the following forms:
-
+Friends and Alumni of Montfort who would like to contribute towards this meaningful programme are warmly welcomed. Montfort Secondary sincerely appreciates any contribution provided. The contribution offered may take one of the following forms:    
 a)    To volunteer to help supervise the students during the ASE programme days     
         (Mon, Tues, Thurs, from 3pm – 5pm)    
 b)    To volunteer to conduct a particular activity of interest for the students   
