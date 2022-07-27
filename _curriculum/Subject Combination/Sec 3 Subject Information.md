@@ -22,9 +22,9 @@ third_nav_title: Subject Combination
 <tbody>
   <tr>
     <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg"></a></td>
+          <img src="/images/Sciences.jpeg"></a></td>
     <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg"></a></td>
+          <img src="/images/AMaths.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-amwm">Science<br>Express Stream</td>
@@ -32,9 +32,9 @@ third_nav_title: Subject Combination
   </tr>
   <tr>
     <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg"></a></td>
+          <img src="/images/Humanities.jpeg"></a></td>
     <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg"></a></td>
+          <img src="/images/Literature.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-amwm"><span style="font-style:normal">Humanities</span><br><span style="font-style:normal">Express Stream</span></td>
@@ -42,9 +42,9 @@ third_nav_title: Subject Combination
   </tr>
   <tr>
     <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg"></a></td>
+          <img src="/images/POA.jpeg"></a></td>
     <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg"></a></td>
+          <img src="/images/Computing.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-amwm">Principles of Accounts <br>Normal (Academic) Stream</td>
@@ -52,7 +52,7 @@ third_nav_title: Subject Combination
   </tr>
   <tr>
     <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg"></a></td>
+          <img src="/images/Art.jpeg"></a></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
