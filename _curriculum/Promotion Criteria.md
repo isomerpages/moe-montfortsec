@@ -95,7 +95,33 @@ For the Sec1 to Sec3 classes, there are one to two semestral assessments a year,
 
 **‘NT’ Normal (Technical) Levels**
 
-<table width="100%" class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234);"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="20%" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">0-49</strong></p></td><td width="20%" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">50-59</strong></p></td><td width="20%" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">60-69</strong></p></td><td width="20%" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">70-74</strong></p></td><td width="20%" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">75-100</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">U</p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">D</p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">C</p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">B</p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">A</p></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-n4qt">0-49</td>
+    <td class="tg-n4qt">50-59</td>
+    <td class="tg-n4qt">60-69</td>
+    <td class="tg-n4qt">70-74</td>
+    <td class="tg-n4qt">75-100</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">U</td>
+    <td class="tg-ii8k">D</td>
+    <td class="tg-ii8k">C</td>
+    <td class="tg-ii8k">B</td>
+    <td class="tg-ii8k">A</td>
+  </tr>
+</tbody>
+</table>
 
 **Grades A to D are PASS grades, with grade A being the highest and grade D being the lowest. Ungraded denotes a FAIL grade.**
 
