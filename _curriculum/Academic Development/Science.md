@@ -88,4 +88,6 @@ We have tiered our science programmes to give our students an EDGE when they c
 
 Science Department’s Instructional Programme is driven by **Inquiry-Based** **Science Department’s direction is driven by Inquiry-Based Learning Approach and guided by SOLO Taxonomy of Learning Outcomes and 5 E’s model of inquiry.**
 
-![](/images/Under%20Our%20curriculum%20framework_pic1.jpeg)
+
+<img src="/images/Under%20Our%20curriculum%20framework_pic1.jpeg" 
+     style="width:25%">
