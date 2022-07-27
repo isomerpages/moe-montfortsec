@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Subject Combination/Sec 2 Express Stream.md
       - Subject Combination/Sec 2 Normal (Academic) Stream.md
       - Subject Combination/Sec 2 Normal (Technical) Stream.md
       - Subject Combination/Sec 3 Subject Information.md
