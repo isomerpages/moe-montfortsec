@@ -22,4 +22,29 @@ Malay Language Teacher – **Mdm Norasikin Awang (Coordinator)**
 Malay Language Teacher – **Mdm Noor Siyah Salleh**    
 Malay Language Teacher – **Ms Nur Nadzirah Binte Abdul Halim**    
 Tamil Language Teacher – **Mrs Valliyammai Ramanathan (Coordinator)**     
-Tamil Language Teacher – **Mdm Gunasekaran Dhanalakshm**i
+Tamil Language Teacher – **Mdm Gunasekaran Dhanalakshmi**
+
+### Instructional Programme
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/mt_prog1.png"></td>
+    <td class="tg-0lax"><img src="/images/mt_prog2.png"></td>
+    <td class="tg-0lax"><img src="/images/mt_prog3.png"></td>
+  </tr>
+</tbody>
+</table>
