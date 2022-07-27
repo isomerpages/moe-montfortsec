@@ -44,3 +44,6 @@ b) Maximum 7 Subjects
 #Students who are exempted from MT or taking MTB should take note that they have 1 less O-level subject.    
 *The humanities subject for combined Humanities and Pure Humanities cannot be the same. Student can only take Social Studies/History if they choose Pure Geography and Social Studies/Geography if they choose Pure History.
 
+### 4\. MINIMUM CRITERIA FOR S3 EXPRESS SUBJECTS
+
+![](/images/2022_SubCombiEx4.png)
