@@ -31,6 +31,6 @@ _Information is accurate as at 1 June 2022. Any changes will be communicated thr
 
 ![](/images/NA3.jpeg)
 
-Notes   
+<strong><u>Notes</u></strong>    
 *Not recommended for students who are exempted from MT and taking MTB
 #Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
