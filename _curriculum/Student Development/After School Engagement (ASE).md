@@ -26,3 +26,24 @@ Special programmes have since been organised for students identified for the ASE
 *  Adventure Therapy at Boys’ Town
 * 'Brorista' training and Café management by school FCE teacher
 * Floorball Activity
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/ASE-1.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/ASE-2.jpeg"></td>
+  </tr>
+</tbody>
+</table>
