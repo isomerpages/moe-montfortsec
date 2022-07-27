@@ -99,3 +99,43 @@ At the Upper Secondary Level, we focus on strengthening of skill, techniques and
   </tr>
 </tbody>
 </table>
+
+**Music (Lower Secondary)**
+
+The General Music Programme focuses on cultivating and developing our students’ skills and knowledge through providing them with direct experiences in the components of Listening and Music Making. Exposure to music of different genres help students develop an understanding of local and global cultures, with an awareness and appreciation of the links between music and daily living. Our music making and performance modules involve students singing and playing instruments with expression and accurate technique. Students develop confidence when performing solo or in an ensemble and learn to work collaboratively through music making.
+
+**Summary of Music Curriculum**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-j0e3">Level</td>
+    <td class="tg-j0e3">Sec 1</td>
+    <td class="tg-j0e3">Sec 2</td>
+  </tr>
+  <tr>
+		<td class="tg-ku5w">Knowledge <br><em>(Exposure)</em></td>
+    <td class="tg-ku5w">General music concepts &amp; genres</td>
+    <td class="tg-ku5w">Ethnic Music<br>Musically Singaporean</td>
+  </tr>
+  <tr>
+		<td class="tg-ku5w">Music Expression<br><em>(Expression)</em></td>
+    <td class="tg-ku5w">Musical instrument – Guitars</td>
+    <td class="tg-ku5w">Digital Music – Garage Band</td>
+  </tr>
+  <tr>
+		<td class="tg-ku5w">Showcase<br><em>(Excellence)</em></td>
+    <td class="tg-ku5w">Group Performance</td>
+    <td class="tg-ku5w">Composing backing tracks for songs</td>
+  </tr>
+</tbody>
+</table>
