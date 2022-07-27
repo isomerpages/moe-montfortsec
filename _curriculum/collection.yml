@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic Development/Design and Technology.md
       - Academic Development/English Language and Literature.md
       - Academic Development/Humanities.md
       - Academic Development/Mathematics.md
