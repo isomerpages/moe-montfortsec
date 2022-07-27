@@ -4,17 +4,12 @@ permalink: /curriculum/Academic-Development/mathematics
 description: ""
 third_nav_title: Academic Development
 ---
-Mission
--------
+### Mission
 
-  
 To develop Montfortians to be analytical thinkers through problem solving and the mastery of mathematical skill.  
 
-Our Team
---------
-
+### Our Team
   
-
 Head of Department – **Mdm Rachel Tang Yau Khee**
 
 Teacher – **Mr Wong Boon Chong Kenny (SH / Discipline)**
