@@ -77,8 +77,8 @@ In order for the students to make a more informed decision on the subjects he wo
 
 It is important to take into account the following factors,
 
-(a) His specific interests, 
-(b) Ability to cope with the subjects selected,
+(a) His specific interests,    
+(b) Ability to cope with the subjects selected,   
 (c) Alignment with his future post-secondary options. 
 
 There is no “best” or “most prestigious” subject combination that a Montfortian should opt for. Instead, the primary consideration should be to choose a subject combination which is most ideal for himself according to his interests, aptitude and aspiration for post-secondary education. 
