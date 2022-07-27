@@ -34,19 +34,13 @@ The one-year programme for each level is designed to benefit the students from t
 
 Under the D&T curriculum, the students will make artefacts. They will learn and apply design thinking skills to solve problems and document their work in their design journal. They are also exposed to workshop skills through the making of various artefacts in order to build and develop their confidence in handling different hand tools and machines. 
 
-  
-
-  
-
 **Upper Secondary Design and Technology**
-
-<img src="/images/designtech_prog3.png" 
-     style="width:25%">
-
-  
 
 The one-year programme for this level continues to build on the fundamentals the students have learnt from their lower secondary with the focus to prepare them for the D&T coursework in their graduating year.
 
   
 
 Under the D&T curriculum, the students will deepen their understanding of empathy and the subject by identifying design problems using different techniques, gathering of relevant research information, generating creative ideas, making a prototype and finally, realising their conceptual idea into a physical product in the workshop. In the process of learning, they will experience the use of CAD software for their journaling work. Their learning is further enhanced through the enrichment activities/elective module respectively.
+
+<img src="/images/designtech_prog3.png" 
+     style="width:25%">
