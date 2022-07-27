@@ -27,8 +27,8 @@ third_nav_title: Subject Combination
           <img src="/images/OLevel2019.jpeg"></a></td>
   </tr>
   <tr>
-    <td class="tg-cyxe">Science<br>Express Stream</td>
-    <td class="tg-cyxe">Additional Mathematics<br>Express/Normal (Academic) Stream</td>
+    <td class="tg-amwm">Science<br>Express Stream</td>
+    <td class="tg-amwm">Additional Mathematics<br>Express/Normal (Academic) Stream</td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href = "linkhere" target = "_self"> 
