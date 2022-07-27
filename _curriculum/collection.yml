@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Learning Portals.md
       - Personalised Digital Learning Programme (PDLP).md
       - Promotion Criteria.md
       - Subject Combination/ICT.md
