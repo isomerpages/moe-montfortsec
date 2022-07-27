@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic Development/Aesthetics.md
       - Academic Development/Computing | CPA.md
       - Academic Development/Design and Technology.md
       - Academic Development/English Language and Literature.md
