@@ -26,8 +26,7 @@ The SSID for the wireless network is SWN@SSOE.
 
 **2) Student iCON email**
 
-URL: https://workspace.google.com/dashboard
-
+URL: https://workspace.google.com/dashboard    
 Email Address: < your assigned ID >@students.edu.sg   
 Password: your Student iCON password
 
