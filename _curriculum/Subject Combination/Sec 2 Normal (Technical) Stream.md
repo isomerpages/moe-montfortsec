@@ -23,8 +23,8 @@ Students need to choose based on their aptitude, interests and their future post
 ![](/images/NTNo2_new.jpeg)
 
 Note:   
-*Available to students who are exempted from MT only    
-#Available to existing Sec 2 SBB students only
+*\Available to students who are exempted from MT only    
+#\Available to existing Sec 2 SBB students only
 
 ### 3\. OUT OF STREAM SUBJECT (OOS)
 
