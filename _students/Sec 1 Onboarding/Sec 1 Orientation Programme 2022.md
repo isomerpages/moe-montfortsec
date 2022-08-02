@@ -107,3 +107,82 @@ Subject Head / Student Leadership (Acting)
   </tr>
 </tbody>
 </table>
+
+**<u>Sign-up Trials for Sports CCAs in Week 2</u>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-j0e3"> </td>
+    <td class="tg-j0e3">10 Jan (Mon)</td>
+    <td class="tg-j0e3">11 Jan (Tues)</td>
+    <td class="tg-j0e3">12 Jan (Wed)</td>
+    <td class="tg-j0e3">13 Jan (Thu)</td>
+    <td class="tg-j0e3">14 Jan (Fri)</td>
+    <td class="tg-j0e3">Venue</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Badminton</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1500-1600</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1600-1700</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">Indoor Sports Hall</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Basketball</td>
+    <td class="tg-ku5w">1500-1600</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1500-1600</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">Indoor Sports Hall</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Football</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1500-1630</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1500-1630</td>
+    <td class="tg-ku5w">School Field</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Rugby</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1600-1700</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1500-1600</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">School Field</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Softball</td>
+    <td class="tg-ku5w">1600-1700</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1600-1700</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">School Field</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Wushu</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1500-1600</td>
+    <td class="tg-ku5w"> </td>
+    <td class="tg-ku5w">1400-1500</td>
+    <td class="tg-ku5w">Hall</td>
+  </tr>
+</tbody>
+</table>
