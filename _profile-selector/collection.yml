@@ -1,0 +1,4 @@
+collections:
+  profile-selector:
+    output: true
+    order: []
