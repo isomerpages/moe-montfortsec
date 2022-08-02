@@ -45,8 +45,6 @@ Dear Parents/ Guardians
 
 7) We wish you a Merry Christmas and a Happy 2022 ahead!
 
-Yours Sincerely
-
-Mr Heng Wei Chin, Wilson
-
+Yours Sincerely   
+Mr Heng Wei Chin, Wilson    
 Subject Head / Student Leadership (Acting)
