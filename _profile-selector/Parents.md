@@ -3,7 +3,7 @@ title: Parents
 permalink: /profile-selector/parents
 description: ""
 ---
-<a href = "linkhere" target = "_self"> 
+<a href = "mailto:contact@montfortsec.edu.sg" target = "_self"> 
           <img src="/images/feedback.jpeg" 
      style="width:65%"></a>
 <a href = "linkhere" target = "_self"> 
