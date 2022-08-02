@@ -7,10 +7,6 @@ links:
   - title: Curriculum
     collection: curriculum
   - title: Quick Links
-    collection: quick-links
-  - title: Admission
-    collection: admission
-  - title: Quick Links
     url: /facebook
     sublinks:
       - title: Facebook
@@ -21,3 +17,5 @@ links:
         url: /schoolbag-sg
       - title: Students
         url: /students/sec-1-onboarding/sec-1-onboarding
+  - title: Admission
+    collection: admission
