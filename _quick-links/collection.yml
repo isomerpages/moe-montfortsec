@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - Students/Bus Information.md
       - Students/Sec 1 Onboarding.md
       - Students/.keep
