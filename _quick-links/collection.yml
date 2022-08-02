@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/ICT Matters.md
       - Students/Bus Information.md
