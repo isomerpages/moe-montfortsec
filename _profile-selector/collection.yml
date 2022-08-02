@@ -1,4 +1,5 @@
 collections:
   profile-selector:
     output: true
-    order: []
+    order:
+      - Alumni.md
