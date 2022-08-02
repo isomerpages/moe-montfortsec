@@ -2,6 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Bus Information.md
-      - ICT Matters.md
       - Sec 1 Onboarding.md
+      - ICT Matters.md
+      - Bus Information.md
