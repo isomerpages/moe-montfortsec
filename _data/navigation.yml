@@ -10,3 +10,14 @@ links:
     collection: quick-links
   - title: Admission
     collection: admission
+  - title: Quick Links
+    url: /facebook
+    sublinks:
+      - title: Facebook
+        url: /facebook
+      - title: Parents
+        url: /parents
+      - title: SchoolBag SG
+        url: /schoolbag-sg
+      - title: Students
+        url: /students/sec-1-onboarding/sec-1-onboarding
