@@ -59,3 +59,22 @@ third_nav_title: Student
   </tr>
 </tbody>
 </table>
+
+**Vision**
+
+We strive to build up strong relationships with our students and their families, with the objective of strengthening their emotional resilience and social skills so that they are better empowered to overcome the challenges that they are facing in school, at home and with their friends.
+
+**Mission**
+
+To empathize, to nurture and to empower
+
+**Services**
+
+*   One on one counselling
+*   Casework management (i.e. family meetings, referral to specialist agencies)
+*   Counselling in school by external social workers
+*   Group therapy (e.g. peer reconciliation sessions)
+*   Financial Aid Schemes
+*   Youth Ambassadors for Crime Prevention
+*   Student life skills and motivational training
+*   Assessment / Coaching for Special Needs Students by SN Officer
