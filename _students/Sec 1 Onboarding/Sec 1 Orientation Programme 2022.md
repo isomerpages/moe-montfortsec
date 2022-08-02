@@ -38,3 +38,15 @@ Dear Parents/ Guardians
   </tr>
 </tbody>
 </table>
+
+5) In the event of an emergency, you can contact your son/ward through the General Office at 6510 7070.
+
+6) With the dynamic COVID-19 situation, we seek your understanding if there may be updates to the Orientation programme in accordance with the safe management measures in place.
+
+7) We wish you a Merry Christmas and a Happy 2022 ahead!
+
+Yours Sincerely
+
+Mr Heng Wei Chin, Wilson
+
+Subject Head / Student Leadership (Acting)
