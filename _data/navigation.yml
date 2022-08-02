@@ -7,7 +7,7 @@ links:
   - title: Curriculum
     collection: curriculum
   - title: Quick Links
-    url: /facebook
+    url: /quick-links
     sublinks:
       - title: Facebook
         url: /facebook
