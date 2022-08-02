@@ -41,3 +41,49 @@ Students who intend to apply for admission to the Montfort Leadership through Sp
   </tr>
 </tbody>
 </table>
+
+
+Students who satisfy the above criteria will be informed to attend a selection trial by **6 July 2022**. 
+
+Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+
+  
+
+The selection trial will be based on:
+
+  
+
+Concept
+
+* Spatial Awareness
+* Possession
+* Attack
+* DDefend  
+
+  
+
+Technical Skills
+
+* Racket Handling/ Footwork/ Service/ Return (Badminton)
+* Ball Handling/ Footwork/Shooting (Football)  
+* Ball Handling/ Footwork (Rugby)
+* Ball Handling/ Footwork/Shooting (Basketball) 
+* Ball Handling/ Batting/ Pitching (Softball)
+* Splits/ Footwork/ Routine (Wushu)
+
+  
+
+Leadership Skills
+
+* To be Responsible
+* To Lead
+* To Serve
+  
+
+**SELECTION RESULTS WILL BE RELEASED BY 12 SEPTEMBER 2022**
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Secondary 1-4.
+
+Click [here](https://drive.google.com/file/d/15yaGUbo3RZk6k-ieLUUxl173SGSL3h_2/view) for a list of FAQs (Frequently Asked Questions) regarding DSA.
