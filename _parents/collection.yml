@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - CCA schedule timing.md
       - Travel Declarations.md
       - Resources for Parents.md
