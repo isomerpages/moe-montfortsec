@@ -2,5 +2,6 @@ collections:
   profile-selector:
     output: true
     order:
+      - Student/.keep
       - Parents.md
       - Alumni.md
