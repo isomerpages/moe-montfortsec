@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents Gateway.md
       - Book List.md
       - CCA schedule timing.md
       - Travel Declarations.md
