@@ -1,5 +1,0 @@
-collections:
-  sec-1-onboarding:
-    output: true
-    order:
-      - Sec 1 Onboarding.md
