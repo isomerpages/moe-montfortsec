@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Letter to Parents.md
       - GIRO option.md
       - Parents Gateway.md
       - Book List.md
