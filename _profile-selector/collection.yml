@@ -2,6 +2,7 @@ collections:
   profile-selector:
     output: true
     order:
+      - Student/Service Learning.md
       - Student/Uniform Information.md
       - Student/Insurance Matters.md
       - Student/Bus Information.md
