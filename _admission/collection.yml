@@ -1,4 +1,5 @@
 collections:
   admission:
     output: true
-    order: []
+    order:
+      - Affiliation (MJS and CJC).md
