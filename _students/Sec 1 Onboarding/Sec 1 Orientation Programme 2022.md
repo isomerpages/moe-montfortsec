@@ -48,3 +48,62 @@ Dear Parents/ Guardians
 Yours Sincerely   
 Mr Heng Wei Chin, Wilson    
 Subject Head / Student Leadership (Acting)
+
+**<u>Secondary One Orientation Programme 2022 in Week 1</u>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-j0e3"> </td>
+    <td class="tg-j0e3">4 Jan (Tue)</td>
+    <td class="tg-j0e3">5 Jan (Wed)</td>
+    <td class="tg-j0e3">6 Jan (Thu)</td>
+    <td class="tg-j0e3">7 Jan (Fri)</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Reporting Time</td>
+    <td class="tg-ku5w">7.30 am</td>
+    <td class="tg-ku5w">8.30 am</td>
+    <td class="tg-ku5w">7.30 am</td>
+    <td class="tg-ku5w">7.30 am</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Reporting Venue</td>
+    <td class="tg-ku5w">School Hall</td>
+    <td class="tg-ku5w">Classroom</td>
+    <td class="tg-ku5w">Classroom</td>
+    <td class="tg-ku5w">Classroom</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Dismissal Time</td>
+    <td class="tg-ku5w">1.30 pm</td>
+    <td class="tg-ku5w">5.30 pm</td>
+    <td class="tg-ku5w">5.30 pm</td>
+    <td class="tg-ku5w">8 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Activities</td>
+    <td class="tg-ku5w">- Team-building <br>activities</td>
+    <td class="tg-ku5w">- Team-building activities<br>- CCA Experience</td>
+    <td class="tg-ku5w">- Team-building activities<br>- CCA Experience</td>
+    <td class="tg-ku5w">- Team-building activities<br>- CCA Experience<br>- Campfire Night (Dinner will be provided)</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Attire</td>
+    <td class="tg-ku5w" colspan="4">Montfort Secondary School PE Attire<br>(Students who have not purchased the secondary school PE attire by then may report in primary school PE attire.)</td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3">Things To Bring</td>
+    <td class="tg-ku5w" colspan="4">- Stationery<br>- Thermometer<br>- TraceTogether Token<br>- Money for recess and lunch breaks</td>
+  </tr>
+</tbody>
+</table>
