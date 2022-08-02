@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Sec 1 Onboarding/.keep
-      - Sec 1 Onboarding.md
       - ICT Matters.md
       - Bus Information.md
