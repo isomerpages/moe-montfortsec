@@ -1,4 +1,5 @@
 collections:
   sec-1-onboarding:
     output: true
-    order: []
+    order:
+      - Sec 1 Onboarding.md
