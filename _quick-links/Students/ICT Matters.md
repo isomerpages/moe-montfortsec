@@ -19,7 +19,7 @@ A: Please approach the Desktop Engineers (DE) at 
 
 This account enables the student to use the laptops in school. The same account is also used to sign in to the WIFI network in school. 
 
-The SSID for the wireless network is **SWN@SSOE**
+The SSID for the wireless network is **<u>SWN@SSOE</u>**
 
 **2) Student iCON email**
 
