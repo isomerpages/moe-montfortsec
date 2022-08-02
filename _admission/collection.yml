@@ -2,4 +2,5 @@ collections:
   admission:
     output: true
     order:
+      - DSA.md
       - Affiliation (MJS and CJC).md
