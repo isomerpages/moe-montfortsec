@@ -1,5 +1,4 @@
 collections:
   quick-links:
     output: true
-    order:
-      - SchoolBag SG.md
+    order: []
