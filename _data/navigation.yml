@@ -19,3 +19,5 @@ links:
         url: /students/Sec-1-Onboarding/sec-1-onboarding
   - title: Admission
     collection: admission
+  - title: Profile Selector
+    collection: profile-selector
