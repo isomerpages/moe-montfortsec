@@ -5,3 +5,4 @@ date: 2021-12-21
 layout: post
 description: ""
 ---
+Click [here](https://montfortsec.moe.edu.sg/quick-links/students/sec-1-onboarding) to view.
