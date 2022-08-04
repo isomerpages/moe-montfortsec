@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Montfort Times
           description: Our Newsletters
-          url: https://google.com
+          url: https://drive.google.com/drive/folders/1YVBKdY3vs-AfNZKBOh9tJU74UfLzp9Oh
         - title: ALP
           description: Our Applied Learning Programme
-          url: https://gmail.com
+          url: /curriculum/Distinctive-Programme/applied-learning-programme
         - title: Montfort Facebook
           description: Our Socials
-          url: /privacy/
+          url: https://www.facebook.com/montfortsec.edu.sg/
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
