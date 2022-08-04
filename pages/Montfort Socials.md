@@ -22,13 +22,13 @@ description: ""
           <img src="/images/mainmont.gif"></a>
 </td>
     <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_sports/" target = "_self"> 
-          <img src="/images/montsports.gif"></td>
+			<img src="/images/montsports.gif"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_ugs/" target = "_self"> 
-          <img src="/images/montug.gif"></td>
+          <img src="/images/montug.gif"></a></td>
     <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_aesthetics_clubs/" target = "_self"> 
-          <img src="/images/montac.gif"></td>
+          <img src="/images/montac.gif"></a></td>
   </tr>
 </tbody>
 </table>
