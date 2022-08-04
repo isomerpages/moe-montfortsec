@@ -19,9 +19,9 @@ sections:
           description: Our Socials
           url: https://www.facebook.com/montfortsec.edu.sg/
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Announcements
+      subtitle: Our Latest News
+      button: View More
   - infopic:
       title: Connect
       subtitle: Our Instagram Pages
