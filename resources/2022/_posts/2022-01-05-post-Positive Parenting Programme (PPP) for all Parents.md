@@ -20,3 +20,4 @@ DID: 6883 6919
   
 **How to register?**  
 Click on this [link](https://forms.office.com/r/18zERcscJ4) or QR code attached in the [brochure](https://drive.google.com/file/d/1arytm4zlCoJFLwwmI0sefSat3bF9g2aO/view).
+
