@@ -5,4 +5,4 @@ date: 2021-12-21
 layout: post
 description: ""
 ---
-Click [here](https://montfortsec.moe.edu.sg/qql/slot/u153/2021%20N-Level%20Admin%20Matters_17%20Dec%202021%20Final%20for%20upload.pdf) to view.
+Click [here](/files/2021%20N-Level%20Admin%20Matters_17%20Dec%202021%20Final%20for%20upload.pdf) to view.
