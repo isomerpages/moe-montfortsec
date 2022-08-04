@@ -9,19 +9,25 @@ sections:
   - hero:
       background: /images/montforthome.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Montfort Times
+          description: Our Newsletters
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: ALP
+          description: Our Applied Learning Programme
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Montfort Facebook
+          description: Our Socials
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
+  - infopic:
+      title: Connect
+      subtitle: Our Instagram Pages
+      description: With Us
+      button: View More
+      url: /instagrams
+      image: /images/montfortig.png
+      alt: Image alt text
 ---
