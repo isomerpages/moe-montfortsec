@@ -30,4 +30,11 @@ sections:
       url: /instagrams
       image: /images/montfortigcc1.png
       alt: monfortig
+  - infopic:
+      title: Montfort Heritage Video
+      subtitle: Our History and Heritage
+      button: View Video
+      url: https://www.youtube.com/watch?v=Jc7l-LmPa9o&t=2s
+      image: /images/launch.png
+      alt: launch
 ---
