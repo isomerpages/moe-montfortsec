@@ -28,6 +28,6 @@ sections:
       description: With Us
       button: View More
       url: /instagrams
-      image: /images/montfortig.png
-      alt: Image alt text
+      image: /images/montfortigcc.png
+      alt: monfortig
 ---
