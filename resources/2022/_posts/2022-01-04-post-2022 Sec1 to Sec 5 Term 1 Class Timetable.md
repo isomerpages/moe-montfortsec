@@ -5,3 +5,6 @@ date: 2022-01-04
 layout: post
 description: ""
 ---
+Dear Students  
+  
+Please click [here](https://drive.google.com/file/d/1mPEsH3twsc4kN3R5adaiQCPY2rqx-mH6/view) to view your class timetable.
