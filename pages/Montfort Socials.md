@@ -25,8 +25,10 @@ description: ""
           <img src="/images/montsports.gif"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_ugs/" target = "_self"> 
+          <img src="/images/montug.gif"></td>
+    <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_aesthetics_clubs/" target = "_self"> 
+          <img src="/images/montac.gif"></td>
   </tr>
 </tbody>
 </table>
