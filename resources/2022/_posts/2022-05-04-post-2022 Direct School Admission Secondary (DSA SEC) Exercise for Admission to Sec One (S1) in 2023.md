@@ -6,3 +6,6 @@ date: 2022-05-04
 layout: post
 description: ""
 ---
+Application for DSA-SEC Exercise through the Montfort Leadership through Sports (Badminton, Softball, Football, Basketball, Rugby and Wushu) Excellence Programme is open from **5 May 2022**.  
+  
+Click [here](https://montfortsec-moe-edu-sg-admin.cwp.sg/admission/dsa) for more information.
