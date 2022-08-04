@@ -5,3 +5,6 @@ date: 2022-07-12
 layout: post
 description: ""
 ---
+Dear Students  
+  
+Please click [here](https://drive.google.com/drive/folders/1Xcl77TR6BPiB9iQ3-cBaAWl1IOVM1BMx) to view your exam timetable.
