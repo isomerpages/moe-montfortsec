@@ -37,4 +37,12 @@ sections:
       url: https://www.youtube.com/watch?v=Jc7l-LmPa9o&t=2s
       image: /images/launch.png
       alt: launch
+  - infopic:
+      title: Students' Memories
+      subtitle: A collection of our
+      description: Words From Our Very Own Students
+      button: View More
+      url: /students-memories
+      image: /images/studentsmemories.gif
+      alt: studentsmemories
 ---
