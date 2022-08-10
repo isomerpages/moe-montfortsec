@@ -2,31 +2,26 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Montfort Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "50 Hougang "
+      - Ave 8
+      - " Singapore 538785"
+    operating_hours: []
+    maps_link: https://www.google.com/maps?ll=1.374084,103.888829&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=4294816132951406636
+    title: School Building
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6510 7070
+      - email: montfort_ss@moe.edu.sg
+      - other: <a
+          href="https://montfortsec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Quick%20Links/Operating%20Hours%202022%20pdf.docx.pdf"
+          target="_blank" rel="noopener">Operating Hours</a>
+    title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6386 2804
+      - email: ""
+      - other: ""
+    title: Fax
 ---
