@@ -15,9 +15,9 @@ sections:
         - title: ALP
           description: Our Applied Learning Programme
           url: /curriculum/Distinctive-Programme/applied-learning-programme
-        - title: Montfort Facebook
-          description: Our Socials
-          url: https://www.facebook.com/montfortsec.edu.sg/
+        - title: Student Icon
+          description: Student Resources
+          url: https://workspace.google.com/dashboard
   - resources:
       title: Announcements
       subtitle: Our Latest News
