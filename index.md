@@ -53,4 +53,11 @@ sections:
       url: /parents-testimonials
       image: /images/parentstestimonials.gif
       alt: parentstestimonials
+  - infopic:
+      title: Explore
+      description: Visit Us
+      button: View More
+      url: /contact-us
+      image: /images/montfortmapp.png
+      alt: montfortmap
 ---
