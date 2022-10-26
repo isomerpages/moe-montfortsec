@@ -65,4 +65,5 @@ sections:
         src="https://docs.google.com/presentation/d/e/2PACX-1vS1HKsqaR6YFerHu2-caVBYP_TFL1W-7-T4ZVthDyovEy_NlzupMl6SLe12kR4rO1GLUwiuzziIJ2lN/embed?start=true&loop=true&delayms=5000"
         frameborder="0" width="830" height="408" allowfullscreen="true"
         mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      title: Students' Memories
 ---
