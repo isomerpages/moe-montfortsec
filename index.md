@@ -66,4 +66,10 @@ sections:
         frameborder="0" width="830" height="408" allowfullscreen="true"
         mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       title: Students' Memories
+  - infobar:
+      title: Parents' Testimonials
+      description: <iframe
+        src="https://docs.google.com/presentation/d/e/2PACX-1vTmcVPbA6hJhF-zaVJ144H5teVbyOx6fwbDeatQXZJWxpOhTYr6Sj7DsMcbikubpgfJU0pIBKuaO76J/embed?start=true&loop=true&delayms=5000"
+        frameborder="0" width="830" height="408" allowfullscreen="true"
+        mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ---
