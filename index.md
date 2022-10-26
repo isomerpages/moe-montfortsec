@@ -60,20 +60,13 @@ sections:
       url: /contact-us
       image: /images/montfortmapp.png
       alt: montfortmap
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      url: <iframe
-        src="https://docs.google.com/presentation/d/e/2PACX-1vS1HKsqaR6YFerHu2-caVBYP_TFL1W-7-T4ZVthDyovEy_NlzupMl6SLe12kR4rO1GLUwiuzziIJ2lN/embed?start=true&loop=true&delayms=5000"
-        frameborder="0" width="1661" height="787" allowfullscreen="true"
-        mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-      alt: Image alt text
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: Infobar description
+      description: <iframe
+        src="https://docs.google.com/presentation/d/e/2PACX-1vS1HKsqaR6YFerHu2-caVBYP_TFL1W-7-T4ZVthDyovEy_NlzupMl6SLe12kR4rO1GLUwiuzziIJ2lN/embed?start=true&loop=true&delayms=5000"
+        frameborder="0" width="1661" height="787" allowfullscreen="true"
+        mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       button: Button Text
       url: <iframe
         src="https://docs.google.com/presentation/d/e/2PACX-1vS1HKsqaR6YFerHu2-caVBYP_TFL1W-7-T4ZVthDyovEy_NlzupMl6SLe12kR4rO1GLUwiuzziIJ2lN/embed?start=true&loop=true&delayms=5000"
