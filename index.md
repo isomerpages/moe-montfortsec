@@ -77,8 +77,8 @@ sections:
       alt: montfortmap
   - infobar:
       title: WT
-      description: <iframe style="align:left"
+      description: <p align="center"><iframe style="align:left"
         src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=true&loop=true&delayms=3000"
         frameborder="0" width="1000" height="485" allowfullscreen="true"
-        mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
+        mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe></p>
 ---
