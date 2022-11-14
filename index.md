@@ -85,4 +85,6 @@ sections:
         frameborder="0" width="1661" height="787" allowfullscreen="true"
         mozallowfullscreen="true" webkitallowfullscreen="true"
         align="left"></iframe></left>
+  - infobar:
+      description: Testing image
 ---
