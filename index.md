@@ -24,6 +24,7 @@ sections:
       button: View More
   - infopic:
       alt: Image alt text
+      image: /images/banner_staging.jpg
   - infopic:
       title: Connect
       subtitle: Our Instagram Pages
