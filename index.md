@@ -77,15 +77,14 @@ sections:
       alt: montfortmap
   - infobar:
       title: WT
-      description: <iframe
+      description: '<div style="position: relative;"><iframe
         src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=true&loop=true&delayms=3000"
         frameborder="0" width="1000" height="485" allowfullscreen="true"
-        mozallowfullscreen="true" webkitallowfullscreen="true"  ></iframe>
+        mozallowfullscreen="true"
+        webkitallowfullscreen="true"  ></iframe></div>'
       url: <left><iframe
         src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=false&loop=false&delayms=3000"
         frameborder="0" width="1661" height="787" allowfullscreen="true"
         mozallowfullscreen="true" webkitallowfullscreen="true"
         align="left"></iframe></left>
-  - infobar:
-      description: Testing image
 ---
