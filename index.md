@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/montforthome.gif
       key_highlights:
         - title: Montfort Times
           description: Our Newsletters
