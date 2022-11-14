@@ -81,4 +81,8 @@ sections:
         src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=true&loop=true&delayms=3000"
         frameborder="0" width="800" height="485" allowfullscreen="true"
         mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
+  - infopic:
+      description: <iframe
+        src="https://drive.google.com/file/d/1N8aHJ1Yrf5BNqA8-ocX_ALOHnNFcJvyc/preview"
+        width="640" height="480" allow="autoplay"></iframe>
 ---
