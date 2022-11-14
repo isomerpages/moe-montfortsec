@@ -83,5 +83,6 @@ sections:
       url: <left><iframe
         src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=false&loop=false&delayms=3000"
         frameborder="0" width="1661" height="787" allowfullscreen="true"
-        mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></left>
+        mozallowfullscreen="true" webkitallowfullscreen="true"
+        align="left"></iframe></left>
 ---
