@@ -82,6 +82,5 @@ sections:
         frameborder="0" width="800" height="485" allowfullscreen="true"
         mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
   - infobar:
-      description: <img
-        src="https://drive.google.com/file/d/1N8aHJ1Yrf5BNqA8-ocX_ALOHnNFcJvyc/preview">
+      description: <img src="https://go.gov.sg/montsec1registration2023">
 ---
