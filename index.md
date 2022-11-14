@@ -17,6 +17,7 @@ sections:
         - title: Student Icon
           description: Student Resources
           url: https://workspace.google.com/dashboard
+      background: /images/montforthome.gif
   - resources:
       title: Announcements
       subtitle: Our Latest News
