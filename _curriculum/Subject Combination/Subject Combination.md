@@ -15,7 +15,7 @@ In order for the students to make a more informed decision on the subjects he wo
 <li>the Information of Secondary 3 subjects,</li>
 <li>the information of his post-secondary education pathways.</li></ol>
 
-**Calendar of Events**
+<strong>Calendar of Events</strong>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -73,7 +73,7 @@ In order for the students to make a more informed decision on the subjects he wo
 </tbody>
 </table>
 
-**Tips for Choosing Subject Combination**
+<strong>Tips for Choosing Subject Combination</strong>
 
 It is important to take into account the following factors,
 
