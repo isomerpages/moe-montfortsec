@@ -22,6 +22,8 @@ sections:
       subtitle: Our Latest News
       button: View More
   - infopic:
+      alt: Image alt text
+  - infopic:
       title: Connect
       subtitle: Our Instagram Pages
       description: With Us
