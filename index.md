@@ -82,5 +82,5 @@ sections:
         frameborder="0" width="800" height="485" allowfullscreen="true"
         mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
   - infobar:
-      description: <img src="https://file.go.gov.sg/registration.jpg.png">
+      description: <img src="https://file.go.gov.sg/testtest123454321.png">
 ---
