@@ -1,6 +1,6 @@
 ---
 title: Promotion Criteria
-permalink: /curriculum/promotion-criteria
+permalink: /curriculum/promotion-criteria/
 description: ""
 ---
 **School Academic Policy and Framework**
@@ -11,7 +11,7 @@ description: ""
 
 Academic assessment is a process of gathering and documenting information about students’ achievement and performance and is used for making informed decisions about student, curricular and educational policies. It involves giving and using feedback to enable students to improve their learning and meet their academic goals.
 
-**Key Features of Assessment in Montfort Secondary School**
+**Key Features of Assessment**
 
 1\.  **Continual Assessment (CA)**
 
@@ -23,7 +23,7 @@ For the Sec1 to Sec3 classes, there are one to two semestral assessments a year,
 
 3\. **Grading System The table shows the equivalence of marks and grades.**
 
-**‘O’ Levels**
+**‘O-Levels**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -124,5 +124,3 @@ For the Sec1 to Sec3 classes, there are one to two semestral assessments a year,
 </table>
 
 **Grades A to D are PASS grades, with grade A being the highest and grade D being the lowest. Ungraded denotes a FAIL grade.**
-
-4\. **Subject Combinations Exercise**
