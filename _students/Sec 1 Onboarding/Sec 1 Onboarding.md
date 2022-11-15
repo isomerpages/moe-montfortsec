@@ -4,6 +4,8 @@ permalink: /students/Sec-1-Onboarding/sec-1-onboarding/
 description: ""
 third_nav_title: Sec 1 Onboarding
 ---
+
+![](/images/regist.png)
 **<u>SEC 1 ADMISSION MATTERS & FIRST WEEK OF SCHOOL</u>**
 
 **Please refer to [2022 Sec 1 Admin](https://drive.google.com/file/d/11yRXy10ZDVpGWCamTmcbuio2jrr9QU59/view) for administration information.**  
