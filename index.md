@@ -46,8 +46,7 @@ sections:
       image: /images/parentstestimonials.gif
       alt: parentstestimonials
   - infopic:
-      title: Explore
-      description: Visit Us
+      title: Visit Us
       button: View More
       url: /contact-us
       image: /images/montfortmapp.png
