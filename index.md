@@ -8,9 +8,9 @@ notification: Scholar. Sportsman.       Gentleman. Leader.   A Man for Others.
 sections:
   - hero:
       key_highlights:
-        - title: Montfort Times
-          description: Our Newsletters
-          url: https://drive.google.com/drive/folders/1YVBKdY3vs-AfNZKBOh9tJU74UfLzp9Oh
+        - title: "MSPEX "
+          description: "Montfort Sports Excellence Programme "
+          url: https://staging.d2ck5peb7tuhh1.amplifyapp.com/co-curricular-activities/mspex
         - title: ALP
           description: Our Applied Learning Programme
           url: /curriculum/Distinctive-Programme/applied-learning-programme
