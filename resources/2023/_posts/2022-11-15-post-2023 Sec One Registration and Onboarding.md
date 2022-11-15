@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-[Click ](students/Sec-1-Onboarding/sec-1-onboarding/)for more information
+![](/images/registration.jpg)[Click ](students/Sec-1-Onboarding/sec-1-onboarding/)for more information
