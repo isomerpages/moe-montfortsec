@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: "MSPEX "
           description: "Montfort Sports Excellence Programme "
-          url: https://staging.d2ck5peb7tuhh1.amplifyapp.com/co-curricular-activities/mspex
+          url: co-curricular-activities/mspex
         - title: ALP
           description: Applied Learning Programme
           url: /curriculum/Distinctive-Programme/applied-learning-programme
