@@ -39,7 +39,6 @@ sections:
   - infopic:
       title: Parents' Testimonials
       subtitle: A collection of our
-      description: Words From Family
       button: View More
       url: /parents-testimonials
       image: /images/parentstestimonials.gif
