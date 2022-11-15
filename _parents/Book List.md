@@ -1,30 +1,41 @@
 ---
 title: Book List
-permalink: /parents/book-list
+permalink: /parents/book-list/
 description: ""
 ---
-**Secondary 2**  
-  
-[2022 2 Express (E)](https://drive.google.com/file/d/1rCqALeUPD-WRBREG0TnUG1x4LWb27hqv/view)    
-  
-[2022 2 Normal Academic (NA)](https://drive.google.com/file/d/1RAl1FTPPAA3A7A42nVTBBYnz8EFo3zjP/view)  
-  
-[2022 2  Normal Technical (NT)](https://drive.google.com/file/d/1BknXx60WkqcBWT0q2Dy_CG8ruSi_afzY/view)  
-  
-**Secondary 3**  
-  
-[2022 3 Express (E)](https://drive.google.com/file/d/1BcXEUuJ5zKzwWNaJezgHblf8llOjgpWD/view)  
-  
-[2022 3 Normal Academic (NA)](https://drive.google.com/file/d/1KVMDK2Ba7VgCG96cGkY22oTV9uaNjQs9/view)  
-  
-[2022 3 Normal Technical (NT)](https://drive.google.com/file/d/16TguKvyx5DHBVmAb_NbguHG45Va1Vn1X/view)  
+**Booklist 2023**  
 
-**Secondary 4/5**
-
-[2022 4 Express (E)](https://drive.google.com/file/d/1k2IBtZ7rVKMeStKtQSUsYtjLeolBSB2Z/view)  
+**Sec 1**  
+[Sec 1 Express G3 Booklist](/files/Sec%201%20Express%20G3%20BOOKLIST.pdf)   
+[Sec 1 Express G3 Stationery](/files/Sec%201%20Express%20G3%20STATIONERY%20LIST.pdf)   
+[Sec 1 NA G2 Booklist](/files/Sec%201%20NA%20G2%20BOOKLIST.pdf)   
+[Sec 1 NA G2 Stationery](/files/Sec%201%20NA%20G21%20STATIONERY%20LIST.pdf)   
+[Sec 1 NT G1 Booklist](/files/Sec%201%20NT%20G1%20BOOKLIST.pdf)   
+[Sec 1 NT G1 Stationery](/files/Sec%201%20NT%20G1%20STATIONERY%20LIST.pdf)
   
-[2022 4 Normal Academic (NA)](https://drive.google.com/file/d/1pDPZTAWpS_C62kxf8RC4wpP9Yug3mZY-/view)  
+**Sec 2**  
+[Sec 2 Express G3 Booklist](/files/Sec%202%20Exp%20G3%20BOOKLIST.pdf)    
+[Sec 2 Express G3 Stationery](/files/Sec%202%20Exp%20G3%20STATIONERY.pdf)   
+[Sec 2 NA G2 Booklist](/files/Sec%202%20NA%20G2%20BOOKLIST.pdf)  
+[Sec 2 NA G2 Stationery](/files/Sec%202%20NA%20G2%20STATIONERY.pdf)   
+[Sec 2 NT G1 Booklist](/files/Sec%202%20NT%20G1%20BOOKLIST.pdf)   
+[Sec 2 NT G1 Stationery](/files/Sec%202%20NT%20G1%20STATIONERY.pdf)   
   
-[2022 4 Normal Technical (NT)](https://drive.google.com/file/d/1zx8_W4fBYJrQvAHSfWr9Xfh8qhHz5Bhc/view)  
+**Sec 3**  
+[Sec 3 Express G3 Booklist](/files/Sec%203%20Exp%20G3%20BOOKLIST.pdf)   
+[Sec 3 Express G3 Stationery](/files/Sec%203%20Exp%20G3%20STATIONERY.pdf)   
+[Sec 3 NA G2 Booklist](/files/Sec%203%20NA%20G2%20BOOKLIST.pdf)  
+[Sec 3 NA G2 Stationery](/files/Sec%203%20NA%20G2%20STATIONERY.pdf)  
+[Sec 3 NT G1 Booklist](/files/Sec%203%20NT%20G1%20BOOKLIST.pdf)   
+[Sec 3 NT G1 Stationery](/files/Sec%203%20NT%20G1%20STATIONERY.pdf)
   
-[2022 5 Normal Academic (NA)](https://drive.google.com/file/d/1Y1JQzeRribtgmvDmIVkWVvBFsNd1hfKA/view)
+**Sec 4**  
+[Sec 4 Express Booklist](/files/Sec%204E%20BOOKLIST.pdf)   
+[Sec 4 NA Booklist](/files/Sec%204NA%20BOOKLIST.pdf)   
+[Sec 4 Express & NA Stationery](/files/Sec%204E%20%20NA%20STATIONERY.pdf)    
+[Sec 4 NT Booklist](/files/Sec%204NT%20BOOKLIST.pdf)   
+[Sec 4 NT Stationery](/files/Sec%204NT%20STATIONERY.pdf)
+  
+**Sec 5**  
+[Sec 5 NA Booklist](/files/Sec%205NA%20BOOKLIST.pdf)   
+[Sec 5 NA Stationery](/files/Sec%205NA%20STATIONERY.pdf)
