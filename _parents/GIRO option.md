@@ -1,6 +1,6 @@
 ---
 title: GIRO option
-permalink: /parents/giro-option
+permalink: /parents/giro-option/
 description: ""
 ---
 Dear Parents/Guardians  
@@ -13,4 +13,3 @@ You can refer to the FAQ for GIRO Option [here](https://drive.google.com/file/d
   
 Please submit the completed form to the General Office during office hours.  
   
-Thank you.
