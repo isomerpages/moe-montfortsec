@@ -27,14 +27,6 @@ sections:
       alt: Image alt text
       image: /images/banner_staging.jpg
   - infopic:
-      title: Connect
-      subtitle: Our Instagram Pages
-      description: With Us
-      button: View More
-      url: /instagrams
-      image: /images/montfortigcc1.png
-      alt: monfortig
-  - infopic:
       title: Montfort Heritage Video
       subtitle: Our History and Heritage
       button: View Video
@@ -76,10 +68,4 @@ sections:
       url: /contact-us
       image: /images/montfortmapp.png
       alt: montfortmap
-  - infobar:
-      title: WT
-      description: <iframe
-        src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=true&loop=true&delayms=3000"
-        frameborder="0" width="800" height="485" allowfullscreen="true"
-        mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
 ---
