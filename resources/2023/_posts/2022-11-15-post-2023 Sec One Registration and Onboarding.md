@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-Click [here](https://staging.d2ck5peb7tuhh1.amplifyapp.com/students/Sec-1-Onboarding/sec-1-onboarding) for more information
+[Click ](students/Sec-1-Onboarding/sec-1-onboarding/)for more information
