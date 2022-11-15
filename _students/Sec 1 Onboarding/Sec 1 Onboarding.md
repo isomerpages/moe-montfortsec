@@ -4,7 +4,6 @@ permalink: /students/Sec-1-Onboarding/sec-1-onboarding/
 description: ""
 third_nav_title: Sec 1 Onboarding
 ---
-
 ![](/images/regist.png)
 **<u>SEC 1 ADMISSION MATTERS & FIRST WEEK OF SCHOOL</u>**
 
