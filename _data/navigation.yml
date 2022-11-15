@@ -9,13 +9,15 @@ links:
   - title: Quick Links
     url: /quick-links
     sublinks:
-      - title: Facebook
-        url: /facebook
-      - title: Parents
-        url: /parents/letter-to-parents
-      - title: SchoolBag SG
-        url: /schoolbag-sg
       - title: Students
         url: /students/Sec-1-Onboarding/sec-1-onboarding
+      - title: Parents
+        url: /parents/letter-to-parents
+      - title: Facebook
+        url: /facebook
+      - title: SchoolBag SG
+        url: /schoolbag-sg
+      - title: Instagram
+        url: https://www.instagram.com/montfortsec_main/?hl=en
   - title: Admission
     collection: admission
