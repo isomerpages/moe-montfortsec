@@ -32,7 +32,6 @@ sections:
   - infopic:
       title: Students' Memories
       subtitle: A collection of our
-      description: Words From Our Very Own Students
       button: View More
       url: /students-memories
       image: /images/studentsmemories.gif
