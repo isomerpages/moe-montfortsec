@@ -4,7 +4,7 @@ permalink: /montfort-community/Our-Montfort-Story/logoandsong/
 description: ""
 third_nav_title: Our Montfort Story
 ---
-<table width="100%"><thead><tr><td style="border-color:white" width="50%"><img src="/images/school_crest.png"></td><td style="border-color:white; font-size:16px;"><strong>School Logo</strong><br><br>The Brothers of St Gabriel crest is worn by pupils of Gabrielite schools all over the world. The centerpiece of the school crest is the Coat of Arms, which has quadrants. The crest is adorned with green olive branches to symbolise peace and prosperity. It is the duty of each one to promote peace in the world, a peace that will last.</td></tr></thead></table>
+<table width="100%"><thead><tr><td style="border-color:white" width="30%"><img src="/images/school_crest.png"></td><td style="border-color:white; font-size:16px;"><strong>School Logo</strong><br><br>The Brothers of St Gabriel crest is worn by pupils of Gabrielite schools all over the world. The centerpiece of the school crest is the Coat of Arms, which has quadrants. The crest is adorned with green olive branches to symbolise peace and prosperity. It is the duty of each one to promote peace in the world, a peace that will last.</td></tr></thead></table>
 
 <div style="font-size:16px">
 The crest carries the Brothers of St Gabriel motto ‘LABOR OMNIA VINCIT’ which stands for ‘Labour conquers all things’.
