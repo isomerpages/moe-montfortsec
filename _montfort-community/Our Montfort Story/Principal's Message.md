@@ -36,6 +36,8 @@ _Blessed are those who trust in the Lord, whose trust is the Lord. They shall be
 <div>
 <div style="float: right; font-size:16px">
 	<br>
+	<br>
+	<br>
 	<strong>Kelvin Lim<br>Principal</strong>
 </div>
 </div>
