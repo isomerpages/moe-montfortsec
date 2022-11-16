@@ -2,13 +2,13 @@ collections:
   montfort-community:
     output: true
     order:
-      - Our Montfort Story/Logo and Song 2.md
+      - Our Montfort Story/.keep
       - Our Montfort Story/Principal's Message.md
       - Our Montfort Story/School History.md
       - Our Montfort Story/Vision, Mission & Values.md
       - Our Montfort Story/Logo and Song.md
+      - Our Montfort Story/Logo and Song 2.md
       - Our Montfort Story/Montfort Education Charter.md
-      - Our Montfort Story/.keep
       - Our Montfort Family/School Management Committee.md
       - Our Montfort Family/Principal and Vice Principals.md
       - Our Montfort Family/Key Personnel.md
