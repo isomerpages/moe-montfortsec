@@ -2,6 +2,7 @@ collections:
   montfort-community:
     output: true
     order:
+      - Our Montfort Story/Logo and Song 2.md
       - Our Montfort Story/Principal's Message.md
       - Our Montfort Story/School History.md
       - Our Montfort Story/Vision, Mission & Values.md
