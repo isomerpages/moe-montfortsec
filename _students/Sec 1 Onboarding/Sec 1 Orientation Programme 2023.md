@@ -4,8 +4,7 @@ permalink: /students/Sec-1-Onboarding/sec-1-orientation-programme-2022/
 description: ""
 third_nav_title: Sec 1 Onboarding
 ---
-
-**PENDING**
+**PENDING - Information on 2023 Sec 1 Orientation will be updated soon.**
 
 Dear Parents/ Guardians
 
