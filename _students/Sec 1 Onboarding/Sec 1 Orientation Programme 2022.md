@@ -1,9 +1,11 @@
 ---
 title: Sec 1 Orientation Programme 2022
-permalink: /students/Sec-1-Onboarding/sec-1-orientation-programme-2022
+permalink: /students/Sec-1-Onboarding/sec-1-orientation-programme-2022/
 description: ""
 third_nav_title: Sec 1 Onboarding
 ---
+**PENDING**
+
 Dear Parents/ Guardians
 
 1) We warmly welcome your son/ward and you to the Montfortian family!
