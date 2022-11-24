@@ -9,6 +9,7 @@ third_nav_title: Sec 1 Onboarding
 
 **Please refer to [2023 Sec 1 Admin](https://drive.google.com/file/d/11yRXy10ZDVpGWCamTmcbuio2jrr9QU59/view) (PENDING) for administration information.**  
 
+[2024 sec 1](/files/Using%20Sources%20to%20teach.pdf)
 
 **Booklist 2023**  
 **Please download the relevant book lists and stationery lists below.** 
