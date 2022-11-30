@@ -1,0 +1,30 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Montfort Sports Excellence Programme (MSPEX).md
+      - Co Curricular Activities.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Catholic Society.md
+      - Clubs and Societies/IMDA (Audio Visual Club).md
+      - Clubs and Societies/IDMA (Infocomm Club).md
+      - Clubs and Societies/IDMA (Multimedia).md
+      - Clubs and Societies/Maker Club.md
+      - Clubs and Societies/Student Council.md
+      - Performing Arts/.keep
+      - Performing Arts/Dance Club.md
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Montfort Chorale.md
+      - Performing Arts/Montfort Military Band.md
+      - Sports/.keep
+      - Sports/Basketball.md
+      - Sports/Badminton.md
+      - Sports/Football.md
+      - Sports/Rugby.md
+      - Sports/Softball.md
+      - Sports/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/NCC.md
+      - Uniformed Groups/NCDCC.md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Scouts.md

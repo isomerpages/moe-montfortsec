@@ -1,15 +1,23 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo_withstroke.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Montfort Community
+    collection: montfort-community
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities
+  - title: Curriculum
+    collection: curriculum
+  - title: Quick Links
+    url: /quick-links
+    sublinks:
+      - title: Students
+        url: /students/Sec-1-Onboarding/sec-1-onboarding
+      - title: Parents
+        url: /parents/letter-to-parents
+      - title: Instagram
+        url: https://www.instagram.com/montfortsec_main/?hl=en
+      - title: Facebook
+        url: https://www.facebook.com/montfortsec.edu.sg/
+      - title: SchoolBag SG
+        url: /schoolbag-sg
+  - title: Admission
+    collection: admission

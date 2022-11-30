@@ -1,0 +1,11 @@
+collections:
+  students:
+    output: true
+    order:
+      - Sec 1 Onboarding/.keep
+      - Sec 1 Onboarding/Sec 1 Onboarding.md
+      - Sec 1 Onboarding/Sec 1 Orientation Programme 2023.md
+      - Sec 1 Onboarding/Parent Support Group (PSG).md
+      - Sec 1 Onboarding/Edusave Standing Order for Enrichment Programmes.md
+      - Sec 1 Onboarding/Parents' Gateway.md
+      - ICT Matters.md

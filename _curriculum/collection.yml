@@ -1,0 +1,36 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Academic Development/.keep
+      - Academic Development/Aesthetics.md
+      - Academic Development/Computing | CPA.md
+      - Academic Development/Design and Technology.md
+      - Academic Development/English Language and Literature.md
+      - Academic Development/Humanities.md
+      - Academic Development/Mathematics.md
+      - Academic Development/Mother Tongue.md
+      - Academic Development/Physical Education.md
+      - Academic Development/Science.md
+      - Boy Centric Teaching (BCT).md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Applied Learning Programme.md
+      - Distinctive Programmes/Learning for Life Programme.md
+      - Information and Communications Technology (ICT).md
+      - Learning Portals.md
+      - Personalised Digital Learning Programme (PDLP).md
+      - Promotion Criteria.md
+      - Student Development/.keep
+      - Student Development/After School Engagement.md
+      - Student Development/Cyber Wellness.md
+      - Student Development/Education and Career Guidance.md
+      - Student Development/National Education.md
+      - Student Development/Sexuality Education.md
+      - Student Development/Values in Action.md
+      - Subject Combination/.keep
+      - Subject Combination/Subject Combination.md
+      - Subject Combination/Sec 2 Express Stream.md
+      - Subject Combination/Sec 2 Normal (Academic) Stream.md
+      - Subject Combination/Sec 2 Normal (Technical) Stream.md
+      - Subject Combination/Sec 3 Subject Information.md
+      - Subject Combination/Post Secondary Education.md
