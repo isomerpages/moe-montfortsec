@@ -56,7 +56,7 @@ third_nav_title: Subject Combination
 
   
 
-3\. For more information on the admission to Junior Colleges, Millennia Institute, Polytechnics and Institute of Technical Education, you can refer to the [[Joint Admission Exercise 2023](https://drive.google.com/file/d/18EJdMr8FmouozwYdCRxiq7CgEpPv5URT/view)](https://drive.google.com/file/d/1EKlhmGdi3HhlRGczQlB4KtHi6YhrPckw/view).  
+3\. For more information on the admission to Junior Colleges, Millennia Institute, Polytechnics and Institute of Technical Education, you can refer to the [Joint Admission Exercise 2023](https://drive.google.com/file/d/18EJdMr8FmouozwYdCRxiq7CgEpPv5URT/view)
 
   
 
