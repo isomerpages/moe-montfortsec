@@ -1,6 +1,6 @@
 ---
 title: English Language and Literature
-permalink: /curriculum/Academic-Development/english-language-and-literature
+permalink: /curriculum/Academic-Development/english-language-and-literature/
 description: ""
 third_nav_title: Academic Development
 ---
@@ -24,9 +24,6 @@ Teacher – **Ms Chua Jing Lin, Eunice**
 Teacher – **Mr Azman Bin Akmad**
 
 Teacher – **Mdm Ow Ju-Lin**
-
- 
-Teacher – **Ms Chan Choo Neo Violet**
 
 Teacher – **Ms Tey Ser Ling**
 
