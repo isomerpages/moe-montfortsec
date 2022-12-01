@@ -4,7 +4,6 @@ permalink: /curriculum/Subject-Combination/post-secondary-education/
 description: ""
 third_nav_title: Subject Combination
 ---
-
 ### For reference
 
 1. [What's Next O Level](https://drive.google.com/file/d/1TFsdyP1FYLhJCxbPrCtmsWKcF2Z5WqQE/view)
@@ -12,6 +11,8 @@ third_nav_title: Subject Combination
 
 
 ### POST-SECONDARY EDUCATION PATHWAYS AT A GLANCE
+
+![](/images/Admission%20Exercise.png)
 
 ![](/images/postsecedu.jpeg)
 
