@@ -14,7 +14,6 @@ third_nav_title: Subject Combination
 
 ![](/images/Admission%20Exercise.png)
 
-![](/images/postsecedu.jpeg)
 
 ### Singapore Education Pathways for different streams
 
