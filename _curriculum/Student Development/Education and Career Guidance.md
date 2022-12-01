@@ -4,7 +4,6 @@ permalink: /curriculum/Student-Development/ecg/
 description: ""
 third_nav_title: Student Development
 ---
-
 ### Vision
 To develop resilient Montfortians who are empowered to plan for his post-secondary education and career options in his journey of lifelong learning.
 
@@ -18,9 +17,6 @@ Montfortians are encouraged to strive towards a higher education pathway and a c
 
 
 ### Instructional Programmes
-
-<img src="/images/ecg-ip.png" 
-     style="width:45%">
 		 
 ECG in CCE21
 
