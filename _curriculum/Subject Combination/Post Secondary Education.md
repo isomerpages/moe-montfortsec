@@ -4,11 +4,11 @@ permalink: /curriculum/Subject-Combination/post-secondary-education/
 description: ""
 third_nav_title: Subject Combination
 ---
+
 ### For reference
 
-1. [2023 JAE Information booklet](https://drive.google.com/file/d/18EJdMr8FmouozwYdCRxiq7CgEpPv5URT/view)
-2. [What's Next O Level](https://drive.google.com/file/d/1TFsdyP1FYLhJCxbPrCtmsWKcF2Z5WqQE/view)
-3. [What's Next N Level](https://drive.google.com/file/d/1gH5n3Re9nKfk4B1cV3EalFrIQo1_v-zL/view)
+1. [What's Next O Level](https://drive.google.com/file/d/1TFsdyP1FYLhJCxbPrCtmsWKcF2Z5WqQE/view)
+2. [What's Next N Level](https://drive.google.com/file/d/1gH5n3Re9nKfk4B1cV3EalFrIQo1_v-zL/view)
 
 
 ### POST-SECONDARY EDUCATION PATHWAYS AT A GLANCE
@@ -55,7 +55,7 @@ third_nav_title: Subject Combination
 
   
 
-3\. For more information on the admission to Junior Colleges, Millennia Institute, Polytechnics and Institute of Technical Education, you can refer to the [Joint Admission Exercise 2022 information booklet](https://drive.google.com/file/d/1EKlhmGdi3HhlRGczQlB4KtHi6YhrPckw/view).  
+3\. For more information on the admission to Junior Colleges, Millennia Institute, Polytechnics and Institute of Technical Education, you can refer to the [[Joint Admission Exercise 2023](https://drive.google.com/file/d/18EJdMr8FmouozwYdCRxiq7CgEpPv5URT/view)](https://drive.google.com/file/d/1EKlhmGdi3HhlRGczQlB4KtHi6YhrPckw/view).  
 
   
 
