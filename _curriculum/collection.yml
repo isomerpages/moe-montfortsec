@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Personalised Digital Learning Programme (PDLP).md
-      - Device Matters/.keep
       - Academic Development/.keep
       - Academic Development/Aesthetics.md
       - Academic Development/Computing | CPA.md
