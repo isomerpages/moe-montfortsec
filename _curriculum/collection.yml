@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Personalised Digital Learning Programme (PDLP).md
       - Academic Development/.keep
       - Academic Development/Aesthetics.md
       - Academic Development/Computing | CPA.md
@@ -19,6 +18,7 @@ collections:
       - Distinctive Programmes/Learning for Life Programme.md
       - Information and Communications Technology (ICT).md
       - Learning Portals.md
+      - Personalised Digital Learning Programme (PDLP).md
       - Promotion Criteria.md
       - Student Development/.keep
       - Student Development/After School Engagement.md
