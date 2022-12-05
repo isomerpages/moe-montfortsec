@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Device Matters/Personalised Digital Learning Programme (PDLP).md
       - Device Matters/.keep
       - Academic Development/.keep
       - Academic Development/Aesthetics.md
