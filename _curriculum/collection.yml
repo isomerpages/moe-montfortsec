@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Device Matters/.keep
       - Academic Development/.keep
       - Academic Development/Aesthetics.md
       - Academic Development/Computing | CPA.md
