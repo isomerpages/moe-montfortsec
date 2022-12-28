@@ -21,7 +21,3 @@ third_nav_title: Sec 1 Onboarding
 **Secondary One Orientation Programme 2023 in Week 1**
 
 ![Programme Overview](/images/2023%20Sec%201%20Orientation-Overview.png)
-
-
-
-
