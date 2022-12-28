@@ -1,8 +1,10 @@
 ---
 title: Personalised Digital Learning Programme (PDLP)
-permalink: /curriculum/Subject-Combination/pdlp
+permalink: /curriculum/Subject-Combination/pdlp/
 description: ""
 ---
+
+
 
 ### Overview
 
