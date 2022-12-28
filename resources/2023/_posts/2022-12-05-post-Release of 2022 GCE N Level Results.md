@@ -6,10 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-Dear 2022 Sec 4N(A) & 4N(T) Montfortians,
+##### Dear 2022 Sec 4N(A) & 4N(T) Montfortians,  
 
-1. Please be informed that the N Level results will be released in **mid-December (date to be advised)**. 
-2. **You are expected to report to School Hall at 1.45 pm in full school uniform and groomed according to the standards laid out in the Praise and Grace Journal for the collection of result slips.**
-3. No inappropriate hairstyle or coloured hair. You will not be allowed into the school until your grooming is rectified.
-4. Please refer to **[Release of 2022 N-Level Results] (Pending)** for more information.
-5. Please click [here](https://montfortsec.moe.edu.sg/curriculum/subject-combination/post-secondary-education) to access the Post Sec Education school website to help you in your decision-making of your journey after N-Level.
+1\. Please refer to **\[[Briefing Slides for N-Level Results Release]() \]** for registration and administration matters.  
+2. Please refer to [**\[Release of 2022 N-Level Results\]**](https://drive.google.com/drive/folders/1A7VnBj-Q3n6VV1zpP22h-U9Mj5u8HTda) for more information.  
+3. Please click [here](https://www.montfortsec.moe.edu.sg/curriculum/Subject-Combination/post-secondary-education/) to access the Post Sec Education school website to help you in your decision-making of your journey after N-Level.  
+4. For more information on the DPP and the PFP, please visit these websites:
+                                                                 
+• **Direct-Entry-Scheme to Polytechnic Programme (DPP)** ([https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp](https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp))  
+• **Polytechnic Foundation Programme (PFP)** ([https://pfp.polytechnic.edu.sg/PFP/index.html](https://pfp.polytechnic.edu.sg/PFP/index.html))
