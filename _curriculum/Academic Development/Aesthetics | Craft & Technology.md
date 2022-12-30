@@ -6,7 +6,7 @@ third_nav_title: Academic Development
 ---
 ### Mission
 
-We seek to develop a life-long interest in an appreciation of the arts.  
+We seek to develop a life-long interest in an appreciation of the arts.  Nurture our students into men for others – being interdependent, self-motivated, creative and enterprising problem solvers.
 
 ### Our Team
 
@@ -37,7 +37,7 @@ Workshop Instructor - **Mr Tan Chin Eng**
 Workshop Instructor - **Mr Hashim Bin Othman**
 
 
-### Instructional Programme
+### Art Instructional Programme
  
 **The 3 ‘E’ Framework**    
 **E**xposure   
@@ -55,13 +55,6 @@ Therefore, in Montfort Secondary,
 The lower secondary program will see students through an exciting introduction of both 2D and 3D art-making lessons. Skills taught include Still Life Drawing & Painting, Figure Sketching, Mixed-media, Digital photography and Visual Art Appreciation. Apart from the acquisition of the various skills, the teaching also aims to inculcate a sense of observation, understanding, and appreciation of aesthetic values in nature and in our living environment.
 
 Learning Art does go beyond our classroom as our students are also involved in external visitations to art galleries, performances and art events that will give them a holistic understanding and appreciation of the arts and aesthetics.
-
-**Criteria for Upper Secondary Art**
-
-To ensure students are able to cope with the upper secondary art curriculum, they need to meet the following requirements:
-
-1.  At least a “B4” in Art at Secondary 2 
-
 
 **Art (Upper Secondary)**
 
@@ -158,3 +151,4 @@ The General Music Programme focuses on cultivating and developing our students�
   </tr>
 </tbody>
 </table>
+
