@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /curriculum/Academic-Development/mathematics
+permalink: /curriculum/Academic-Development/mathematics/
 description: ""
 third_nav_title: Academic Development
 ---
@@ -12,35 +12,41 @@ To develop Montfortians to be analytical thinkers through problem solving and th
   
 Head of Department – **Mdm Rachel Tang Yau Khee**
 
-Teacher – **Mr Wong Boon Chong Kenny (SH / Discipline)**
+Teacher (Year Head) –**Ms Norazidah Abdol Aziz**
 
-Teacher – **Ms Norazidah Abdol Aziz (Year Head)**
+Teacher (Assistant Year Head) – **Ms Ong Wuan Seah**
 
-Teacher – **Ms Ong Wuan Seah (Assistant Year Head)**
+Teacher (Assistant Year Head) - **Mr Jasper Lee Teng Yi**
 
-Teacher - **Mr Jasper Lee Teng Yi (Assistant Year Head - Acting)**
+Teacher (Subject Head / Discipline) – **Mr Wong Boon Chong Kenny**
 
-Teacher – **Ms Yap Siew Phing**
+Teacher – **Ms Ang Guat Hong**
+
+Teacher - **Mdm Cindy Chua**
 
 Teacher – **Ms Clare Choy**
 
 Teacher – **Mr Hairul Nizam Bin Ramli**
 
-Teacher – **Ms Tan Wan Sim**
-
-Teacher – **Ms Ang Guat Hong**
+Teacher - **Mr Kek Liok Ken Michael**
 
 Teacher – **Ms Koh Xin Wei**
 
+Teacher - **Mr Pang Jun Yi**
+
+Teacher – **Ms Tan Wan Sim**
+
 Teacher - **Ms Tan Ying Lin Johanna**
+
+Teacher - **Ms Teo Wan Lin
+Jocelyn**
+
+Teacher – **Ms Yap Siew Phing**
 
 Teacher – **Mdm Norshirin Sulaiman (POA)**  
 
 Instructional Programme
 -----------------------
-
-  
-
 Our Mathematics Department strives to develop students to be self-directed and effective problem-solvers. As professionals, the department recognises the importance of creating a conducive environment which allows teachers to innovate and grow professionally.
 
 **Foundation-Building (Lower Secondary)**
