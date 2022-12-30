@@ -37,7 +37,6 @@ Teacher - **Ms Emmeline Yeo Zi Han**
 
 Teacher – **Mr Muhammad Idris Bin Anwar (EBS)**
 
-Teacher – **Ms Tan Wan Sim (EBS)**
 
 ### Instructional Programme
 
