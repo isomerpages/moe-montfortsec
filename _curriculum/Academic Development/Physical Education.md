@@ -10,13 +10,21 @@ To develop Montfortians into healthy, rugged and resilient sportsman with good s
 
 ### Our Team
 
-Head of Department - **Mr Faizan Bin Muhamad Nor**    
-Teacher - **Mr Mun Shiun (HOD / Student Management)**    
-Teacher - **Mr Yeo Kok How Adam**   
-Teacher - **Mr Wong Teck Piaw**   
-Teacher - **Mr Tan Eng Hwee**    
+Head of Department - **Mr Faizan Bin Muhamad Nor** 
+
+Head of Department / Student Management - **Mr Mun Shiun**    
+
+Teacher - **Mr Caleb Wong Yong Zhao**  
+
 Teacher - **Mr Muhammad Idris Bin Anwar (Physical Education & Elements of Business Skills)**
-Teacher - **Mr Caleb Wong Yong Zhao**
+
+Teacher - **Mr Tan Eng Hwee**    
+
+Teacher - **Mr Wong Teck Piaw**  
+
+Teacher - **Mr Yeo Kok How Adam** 
+
+Student Health Advisor: **Ms Rohani Binte Jalil**
 
 ### Instructional Programme
 
