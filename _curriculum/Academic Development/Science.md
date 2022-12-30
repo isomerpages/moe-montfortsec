@@ -21,32 +21,37 @@ Subject Head / Science (Acting) - **Ms Khairunissa Bte Yahya**
 
 School Staff Developer - **Ms Eileen Lee Poh Ping** 
 
+Head Of Department / Character and Citizenship Education (CCE) – **Mrs Tan-Yeo Su Lynn Jaime**
+
 Head of Department / Information and Communication Technology (ICT) - **Mr Aaron Cheng Chi En**
 
 Senior Teacher (Biology) – **Mr Azman Bin Hussin**
 
-Head Of Department / Character and Citizenship Education (CCE) – **Mrs Tan-Yeo Su Lynn Jaime **
+Teacher – **Ms Chew Kit Har**
 
 Teacher -  **Mr Chia Yong Koon**
 
 Teacher – **Ms Chua Yingying Joyce** 
 
+Teacher – **Mr Eric Loh Tian Hon**
+
+Teacher – **Ms Ho Hwee Bin**
+
+Teacher – **Mr Js Sasikumar**
+
 Teacher – **Mr Lim Kim Huat**
-
-Teacher – **Mrs Tan-Sin Li Huang**
-
-Teacher – **Ms Chew Kit Har**
 
 Teacher - **Ms Ong Qiulin**
 
+Teacher – **Mrs Tan-Sin Li Huang**
 
+Teacher – **Mr Wong De Wei Shawn**
 
-
-Laboratory Technician – **Mr Thomas Ang Juay Theng**
-
-Laboratory Technician – **Miss Lee Boy San**
+Laboratory Technician – **Ms Lee Boy San**
 
 Laboratory Technician – **Mdm Roslne Binte Karsani**
+
+Laboratory Technician – **Mr Thomas Ang Juay Theng**
 
 ### Instructional Programme
 
