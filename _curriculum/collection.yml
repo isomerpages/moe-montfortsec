@@ -3,13 +3,12 @@ collections:
     output: true
     order:
       - Academic Development/.keep
-      - Academic Development/Aesthetics.md
+      - Academic Development/Aesthetics | Craft & Technology.md
       - Academic Development/Computing | CPA.md
-      - Academic Development/Design and Technology.md
       - Academic Development/English Language and Literature.md
       - Academic Development/Humanities.md
       - Academic Development/Mathematics.md
-      - Academic Development/Mother Tongue.md
+      - Academic Development/Mother Tongue Languages.md
       - Academic Development/Physical Education.md
       - Academic Development/Science.md
       - Boy Centric Teaching (BCT).md

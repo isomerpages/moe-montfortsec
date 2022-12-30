@@ -1,24 +1,43 @@
 ---
-title: Aesthetics
-permalink: /curriculum/Academic-Development/aesthetics
+title: Aesthetics | Craft & Technology
+permalink: /curriculum/Academic-Development/aesthetics/
 description: ""
 third_nav_title: Academic Development
 ---
 ### Mission
 
-We seek to develop a life-long interest in an appreciation of the arts.  
+We seek to develop a life-long interest in an appreciation of the arts.  Nurture our students into men for others – being interdependent, self-motivated, creative and enterprising problem solvers.
 
 ### Our Team
 
-Senior Teacher - **Ms Chua Jing Lin, Eunice (Music Coordinator)**
+Head of Department - **Ms Thian Hui Ling**
 
-Teacher - **Mr Khairyl B Hashim (Art Coordinator)**
+Teacher - **Mr Khairyl B Hashim (Art)**
 
-Teacher - **Ms Rafidah Binte Muhammad Nasir**
+Teacher - **Ms Rafidah Binte Muhammad Nasir (Art)**
 
-Teacher - **Mr Yong Keen Whye**
+Teacher - **Mr Yong Keen Whye (Art)**
 
-### Instructional Programme
+Teacher - **Ms Agnes David (FCE)**
+
+Teacher - **Mdm Jamilah Bte Rati (FCE)**
+
+Teacher - **Ms Jeslin Ang Hui Min (FCE)**
+
+Teacher - **Mr Izuan Bin Hussain Bagarib (D&T)**
+
+Teacher - **Mr Khoo Chin Yong, Herald (D&T)**
+
+Teacher - **Mr Lim Cheng Teik, Sebastian (D&T)**
+
+Teacher - **Mr Sin Kum Sing, Simon (D&T)**
+
+Workshop Instructor - **Mr Tan Chin Eng**
+
+Workshop Instructor - **Mr Hashim Bin Othman**
+
+
+### Art Instructional Programme
  
 **The 3 ‘E’ Framework**    
 **E**xposure   
@@ -31,20 +50,13 @@ Therefore, in Montfort Secondary,
 *   We engage our creativity and imagination in artistic expressions.
 *   We celebrate artistic talent and excellence.
 
-**Art (Lower Secondary)**
+**Lower Secondary**
 
 The lower secondary program will see students through an exciting introduction of both 2D and 3D art-making lessons. Skills taught include Still Life Drawing & Painting, Figure Sketching, Mixed-media, Digital photography and Visual Art Appreciation. Apart from the acquisition of the various skills, the teaching also aims to inculcate a sense of observation, understanding, and appreciation of aesthetic values in nature and in our living environment.
 
 Learning Art does go beyond our classroom as our students are also involved in external visitations to art galleries, performances and art events that will give them a holistic understanding and appreciation of the arts and aesthetics.
 
-**Criteria for Upper Secondary Art**
-
-To ensure students are able to cope with the upper secondary art curriculum, they need to meet the following requirements:
-
-1.  At least a “B4” in Art at Secondary 2 
-
-
-**Art (Upper Secondary)**
+**Upper Secondary**
 
 At the Upper Secondary Level, we focus on strengthening of skill, techniques and thought process of our students as well as developing familiarity in the use of materials to enhance visual communication and individual expression. Students are also encouraged to formulate their own visual understanding and appreciation through the Feldman’s approach and through an in depth Study Of Visual Arts (SOVA) which is offered as the third O level Art Paper. This gives flexibility to students opting for a written theory art paper. With all these artistic skills and knowledge imparted, our students are able to approach the rigours of the and O level Art Exam papers with better understanding and expectations in delivering their ideas across.
 
@@ -100,7 +112,9 @@ At the Upper Secondary Level, we focus on strengthening of skill, techniques and
 </tbody>
 </table>
 
-**Music (Lower Secondary)**
+### Music  Instructional Programme
+
+**Lower Secondary**
 
 The General Music Programme focuses on cultivating and developing our students’ skills and knowledge through providing them with direct experiences in the components of Listening and Music Making. Exposure to music of different genres help students develop an understanding of local and global cultures, with an awareness and appreciation of the links between music and daily living. Our music making and performance modules involve students singing and playing instruments with expression and accurate technique. Students develop confidence when performing solo or in an ensemble and learn to work collaboratively through music making.
 
@@ -139,3 +153,24 @@ The General Music Programme focuses on cultivating and developing our students�
   </tr>
 </tbody>
 </table>
+
+### D&T  Instructional Programme
+  
+The programme prepares the students for Design Thinking. It enables students to harness their innate curiosity and ability to create through design-and-make activities, foster positive values and develop dispositions for enterprise, creativity and innovation through research and exploration, continuous refinement of their ideas during idea conceptualisation and development stage, visual communication, working with different materials and tools and develop safe working habits in the workshop.
+
+![](/images/dnt.png)
+
+**Lower Secondary**
+
+The one-year programme for each level is designed to benefit the students from the Design and Technology (D&T) and Applied Learning Programme (ALP) disciplines. The students take half a semester to learn each discipline.
+
+Under the D&T curriculum, the students will make artefacts. They will learn and apply design thinking skills to solve problems and document their work in their design journal. They are also exposed to workshop skills through the making of various artefacts in order to build and develop their confidence in handling different hand tools and machines. 
+
+<img src="/images/designtech_prog3.png" 
+     style="width:25%">
+
+**Upper Secondary**
+
+The one-year programme for this level continues to build on the fundamentals the students have learnt from their lower secondary with the focus to prepare them for the D&T coursework in their graduating year.
+
+Under the D&T curriculum, the students will deepen their understanding of empathy and the subject by identifying design problems using different techniques, gathering of relevant research information, generating creative ideas, making a prototype and finally, realising their conceptual idea into a physical product in the workshop. In the process of learning, they will experience the use of CAD software for their journaling work. Their learning is further enhanced through the enrichment activities/elective module respectively.

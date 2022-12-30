@@ -1,6 +1,6 @@
 ---
 title: Computing | CPA
-permalink: /curriculum/Academic-Development/computing-cpa
+permalink: /curriculum/Academic-Development/computing-cpa/
 description: ""
 third_nav_title: Academic Development
 ---
@@ -11,11 +11,14 @@ To develop in students the knowledge, skills and attitudes necessary to understa
 
 ### Our Team
 
+Teacher - **Mr Caleb Wong Yong Zhao (Computing)**  
+
 Teacher - **Mr Wong Teck Piaw (Computing)**
 
-Teacher - **Mr R Jayakumar (CPA)**
+Teacher - **Mr Quek Soon Heng (Computer Applications)**
 
-Teacher - **Mr Quek Soon Heng** **(CPA)**
+Teacher - **Mr R Jayakumar (Computer Applications)**
+
 
 ### Instructional Programme
 
@@ -23,13 +26,10 @@ Teacher - **Mr Quek Soon Heng** **(CPA)**
 
 As a natural extension of our Applied Learning Programme, the Computing department prepares Montfortians to be ready for the future. Students are challenged with real-world problems and go on “missions” to solve them through coding. With a heavy focus on the use of technology, we adopt the flipped learning model extensively and through it, students develop into independent and self-directed learners. 
 
-  
 
-**Computer Applications**
+**Computer Applications (CPA)**
 
 Computer Applications (CPA) was introduced in 1994 as a compulsory subject for secondary students in the Normal (Technical) course. Since its introduction, the syllabus has undergone several revisions to ensure its relevance and appeal to students.
-
-  
 
 Through the CPA syllabus, students will:      
 1. acquire skills in using a variety of computer application software and hardware to accomplish tasks and communicate ideas

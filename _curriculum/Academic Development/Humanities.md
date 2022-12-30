@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /curriculum/Academic-Development/Humanities
+permalink: /curriculum/Academic-Development/Humanities/
 description: ""
 third_nav_title: Academic Development
 ---
@@ -17,27 +17,23 @@ Head of Department – **Mrs Judeana Lim**
 
 Subject Head (Geography) – **Mr Mansoor Bin Abdul Rahman**
 
+Subject Head / Corporate Relations, & Information, Communication and Technology (ICT) – **Ms Ong Wan Ting**  
+
+Subject Head / Student Leadership – **Mr Wilson Heng Wei Chin**
+
 Senior Teacher (History) – **Mrs Punitha Ramesh** 
 
 Senior Teacher (Social Studies) – **Ms Jamie Low Guan Lin** 
 
-Teacher – **Ms Ong Wan Ting (SH / Corporate Relations and ICT)**  
-
-Teacher – **Mr Wilson Heng Wei Chin (SH/ Student Leadership (Acting)**
+Teacher - **Ms Emmeline Yeo Zi Han**
 
 Teacher – **Ms Kavitha** 
 
+Teacher - **Ms Leong Kar Wai Karen**
+
 Teacher – **Mr Marcus Tan Lee Kiang** 
 
-Teacher - **Ms Leong Kar Wai Karen** 
-
 Teacher - **Ms Michelle Ho Min** 
-
-Teacher - **Ms Emmeline Yeo Zi Han**
-
-Teacher – **Mr Muhammad Idris Bin Anwar (EBS)**
-
-Teacher – **Ms Tan Wan Sim (EBS)**
 
 ### Instructional Programme
 

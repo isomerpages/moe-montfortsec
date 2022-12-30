@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /curriculum/Academic-Development/science
+permalink: /curriculum/Academic-Development/science/
 description: ""
 third_nav_title: Academic Development
 ---
@@ -17,41 +17,41 @@ We will achieve our mission by:
 
 Head of Department – **Mr Yu Yang Ming Ernest**
 
+Subject Head / Science (Acting) - **Ms Khairunissa Bte Yahya**
+
 School Staff Developer - **Ms Eileen Lee Poh Ping** 
 
-Lead Teacher - **Mr Ramesh S/O Ramalingam**
+Head Of Department / Character and Citizenship Education (CCE) – **Mrs Tan-Yeo Su Lynn Jaime**
 
-Subject Head – **Ms Daphne Lee Yen Hong**
+Head of Department / Information and Communication Technology (ICT) - **Mr Aaron Cheng Chi En**
 
 Senior Teacher (Biology) – **Mr Azman Bin Hussin**
 
-Teacher - **Mr Aaron Cheng Chi En (HOD/ Information and Communication Technology)**
-
-Teacher – **Mrs Tan-Yeo Su Lynn Jaime (HOD/ Character and Citizenship Education (Acting)**
+Teacher – **Ms Chew Kit Har**
 
 Teacher -  **Mr Chia Yong Koon**
 
 Teacher – **Ms Chua Yingying Joyce** 
 
+Teacher – **Mr Eric Loh Tian Hon**
+
+Teacher – **Ms Ho Hwee Bin**
+
+Teacher – **Mr Js Sasikumar**
+
 Teacher – **Mr Lim Kim Huat**
-
-Teacher – **Mrs Tan-Sin Li Huang**
-
-Teacher – **Ms Chew Kit Har**
 
 Teacher - **Ms Ong Qiulin**
 
-Teacher - **Ms Khairunissa Bte Yahya**
+Teacher – **Mrs Tan-Sin Li Huang**
 
-Food and Consumer Education Teacher – **Ms Jamilah Bte Rati**
+Teacher – **Mr Wong De Wei Shawn**
 
-Food and Consumer Education Teacher – **Ms Jeslin Ang Huimin**
+Laboratory Technician – **Ms Lee Boy San**
 
-Support Staff – **Mr Thomas Ang Juay Theng**
+Laboratory Technician – **Mdm Roslne Binte Karsani**
 
-Support Staff – **Miss Lee Boy San**
-
-Support Staff – **Mdm Roslne Binte Karsani**
+Laboratory Technician – **Mr Thomas Ang Juay Theng**
 
 ### Instructional Programme
 
