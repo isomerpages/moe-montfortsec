@@ -34,7 +34,7 @@ Teacher – **Ms Koh Xin Wei**
 
 Teacher - **Mr Pang Jun Yi**
 
-Teacher – **Ms Tan Wan Sim**
+Teacher – **Ms Tan Wan Sim (Mathematics & Elements of Business Skills)**
 
 Teacher - **Ms Tan Ying Lin Johanna**
 
@@ -43,7 +43,7 @@ Jocelyn**
 
 Teacher – **Ms Yap Siew Phing**
 
-Teacher – **Mdm Norshirin Sulaiman (POA)**  
+Teacher – **Mdm Norshirin Sulaiman (Principles Of Accounts)**  
 
 Instructional Programme
 -----------------------
