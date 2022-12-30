@@ -4,20 +4,38 @@ permalink: /curriculum/Academic-Development/aesthetics/
 description: ""
 third_nav_title: Academic Development
 ---
-
 ### Mission
 
 We seek to develop a life-long interest in an appreciation of the arts.  
 
 ### Our Team
 
-Senior Teacher - **Ms Chua Jing Lin, Eunice (Music Coordinator)**
+Head of Department - **Ms Thian Hui Ling**
 
-Teacher - **Mr Khairyl B Hashim (Art Coordinator)**
+Art Teacher - **Mr Khairyl B Hashim**
 
-Teacher - **Ms Rafidah Binte Muhammad Nasir**
+Art Teacher - **Ms Rafidah Binte Muhammad Nasir**
 
-Teacher - **Mr Yong Keen Whye**
+Art Teacher - **Mr Yong Keen Whye**
+
+FCE Teacher - **Ms Agnes David**
+
+FCE Teacher - **Mdm Jamilah Bte Rati**
+
+FCE Teacher - **Ms Jeslin Ang Hui Min**
+
+D&T Teacher - **Mr Izuan Bin Hussain Bagarib**
+
+D&T Teacher - **Mr Khoo Chin Yong, Herald**
+
+D&T Teacher - **Mr Lim Cheng Teik, Sebastian**
+
+D&T Teacher - **Mr Sin Kum Sing, Simon**
+
+Workshop Instructor - **Mr Tan Chin Eng**
+
+Workshop Instructor - **Mr Hashim Bin Othman**
+
 
 ### Instructional Programme
  
