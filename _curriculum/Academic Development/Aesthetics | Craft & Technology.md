@@ -4,8 +4,6 @@ permalink: /curriculum/Academic-Development/aesthetics/
 description: ""
 third_nav_title: Academic Development
 ---
-
-
 ### Mission
 
 We seek to develop a life-long interest in an appreciation of the arts.  
@@ -14,25 +12,25 @@ We seek to develop a life-long interest in an appreciation of the arts.
 
 Head of Department - **Ms Thian Hui Ling**
 
-Art Teacher - **Mr Khairyl B Hashim**
+Teacher - **Mr Khairyl B Hashim (Art)**
 
-Art Teacher - **Ms Rafidah Binte Muhammad Nasir**
+Teacher - **Ms Rafidah Binte Muhammad Nasir (Art)**
 
-Art Teacher - **Mr Yong Keen Whye**
+Teacher - **Mr Yong Keen Whye (Art)**
 
-FCE Teacher - **Ms Agnes David**
+Teacher - **Ms Agnes David (FCE)**
 
-FCE Teacher - **Mdm Jamilah Bte Rati**
+Teacher - **Mdm Jamilah Bte Rati (FCE)**
 
-FCE Teacher - **Ms Jeslin Ang Hui Min**
+Teacher - **Ms Jeslin Ang Hui Min (FCE)**
 
-D&T Teacher - **Mr Izuan Bin Hussain Bagarib**
+Teacher - **Mr Izuan Bin Hussain Bagarib (D&T)**
 
-D&T Teacher - **Mr Khoo Chin Yong, Herald**
+Teacher - **Mr Khoo Chin Yong, Herald (D&T)**
 
-D&T Teacher - **Mr Lim Cheng Teik, Sebastian**
+Teacher - **Mr Lim Cheng Teik, Sebastian (D&T)**
 
-D&T Teacher - **Mr Sin Kum Sing, Simon**
+Teacher - **Mr Sin Kum Sing, Simon (D&T)**
 
 Workshop Instructor - **Mr Tan Chin Eng**
 
