@@ -20,7 +20,6 @@ Teacher - **Mr Quek Soon Heng (Computer Applications)**
 Teacher - **Mr R Jayakumar (Computer Applications)**
 
 
-
 ### Instructional Programme
 
 **Computing** 
