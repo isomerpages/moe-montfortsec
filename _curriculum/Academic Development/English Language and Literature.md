@@ -17,32 +17,31 @@ Head of Department  – **Mr Kang Soon Leong Casimir**
 
 Subject Head – **Mrs Eleanor Leong**
 
-Teacher – **Mrs Lee Poh Lin**
-
-Teacher – **Ms Chua Jing Lin, Eunice**
-
-Teacher – **Mr Azman Bin Akmad**
-
-Teacher – **Mdm Ow Ju-Lin**
-
-Teacher – **Ms Tey Ser Ling**
-
-Teacher - **Ms Kumari Shanker**
-
-Teacher - **Mr Joshua Ho Jin Teck**
-
-Teacher - **Ms Sheena Lee Jia En**
+Senior Teacher (Music) – **Ms Chua Jing Lin Eunice**
 
 Teacher – **Mr Azahar Bin Mohamed**
 
-Teacher - **Ms Nithiyaa D/O Rajaratnam**  
-
-Teacher - **Mr Wong Jun Pei Nicholas**
+Teacher – **Mr Azman Bin Akmad**
 
 Teacher - **Mr Hector Tan Teck Huat**
 
+Teacher - **Mr Joshua Ho Jin Teck**
+
+Teacher - **Ms Kumari Shanker**
+
+Teacher – **Mrs Lee Poh Lin**
+
 Teacher - **Ms Megan Tan Shu Ning**
 
+Teacher - **Ms Nithiyaa D/O Rajaratnam**  
+
+Teacher – **Mdm Ow Ju-Lin**
+
+Teacher - **Ms Sheena Lee Jia En**
+
+Teacher – **Ms Tey Ser Ling**
+
+Teacher - **Mr Wong Jun Pei Nicholas**
 
 ### Instructional Programme
 
