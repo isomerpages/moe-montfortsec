@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /curriculum/Academic-Development/science
+permalink: /curriculum/Academic-Development/science/
 description: ""
 third_nav_title: Academic Development
 ---
@@ -17,17 +17,15 @@ We will achieve our mission by:
 
 Head of Department – **Mr Yu Yang Ming Ernest**
 
+Subject Head / Science (Acting) - **Ms Khairunissa Bte Yahya**
+
 School Staff Developer - **Ms Eileen Lee Poh Ping** 
 
-Lead Teacher - **Mr Ramesh S/O Ramalingam**
-
-Subject Head – **Ms Daphne Lee Yen Hong**
+Head of Department / Information and Communication Technology (ICT) - **Mr Aaron Cheng Chi En**
 
 Senior Teacher (Biology) – **Mr Azman Bin Hussin**
 
-Teacher - **Mr Aaron Cheng Chi En (HOD/ Information and Communication Technology)**
-
-Teacher – **Mrs Tan-Yeo Su Lynn Jaime (HOD/ Character and Citizenship Education (Acting)**
+Head Of Department / Character and Citizenship Education (CCE) – **Mrs Tan-Yeo Su Lynn Jaime **
 
 Teacher -  **Mr Chia Yong Koon**
 
@@ -41,17 +39,14 @@ Teacher – **Ms Chew Kit Har**
 
 Teacher - **Ms Ong Qiulin**
 
-Teacher - **Ms Khairunissa Bte Yahya**
 
-Food and Consumer Education Teacher – **Ms Jamilah Bte Rati**
 
-Food and Consumer Education Teacher – **Ms Jeslin Ang Huimin**
 
-Support Staff – **Mr Thomas Ang Juay Theng**
+Laboratory Technician – **Mr Thomas Ang Juay Theng**
 
-Support Staff – **Miss Lee Boy San**
+Laboratory Technician – **Miss Lee Boy San**
 
-Support Staff – **Mdm Roslne Binte Karsani**
+Laboratory Technician – **Mdm Roslne Binte Karsani**
 
 ### Instructional Programme
 
