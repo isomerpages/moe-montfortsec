@@ -25,18 +25,15 @@ Senior Teacher (History) – **Mrs Punitha Ramesh** 
 
 Senior Teacher (Social Studies) – **Ms Jamie Low Guan Lin** 
 
+Teacher - **Ms Emmeline Yeo Zi Han**
+
 Teacher – **Ms Kavitha** 
+
+Teacher - **Ms Leong Kar Wai Karen**
 
 Teacher – **Mr Marcus Tan Lee Kiang** 
 
-Teacher - **Ms Leong Kar Wai Karen** 
-
 Teacher - **Ms Michelle Ho Min** 
-
-Teacher - **Ms Emmeline Yeo Zi Han**
-
-Teacher – **Mr Muhammad Idris Bin Anwar (EBS)**
-
 
 ### Instructional Programme
 
