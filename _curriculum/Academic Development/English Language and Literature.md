@@ -17,6 +17,8 @@ Head of Department  – **Mr Kang Soon Leong Casimir**
 
 Subject Head – **Mrs Eleanor Leong**
 
+Head of Department / Special Educational Needs (SEN)  – **Mr Lee Beng Wah**
+
 Senior Teacher (Music) – **Ms Chua Jing Lin Eunice**
 
 Teacher – **Mr Azahar Bin Mohamed**
