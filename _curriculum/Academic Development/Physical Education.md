@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /curriculum/Academic-Development/Physical-Education
+permalink: /curriculum/Academic-Development/Physical-Education/
 description: ""
 third_nav_title: Academic Development
 ---
@@ -15,7 +15,7 @@ Teacher - **Mr Mun Shiun (HOD / Student Management)**
 Teacher - **Mr Yeo Kok How Adam**   
 Teacher - **Mr Wong Teck Piaw**   
 Teacher - **Mr Tan Eng Hwee**    
-Teacher - **Mr Muhammad Idris Bin Anwar**    
+Teacher - **Mr Muhammad Idris Bin Anwar (Physical Education & Elements of Business Skills)**
 Teacher - **Mr Caleb Wong Yong Zhao**
 
 ### Instructional Programme
