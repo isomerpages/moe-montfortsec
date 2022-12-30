@@ -4,38 +4,33 @@ permalink: /curriculum/Academic-Development/mother-tongue/
 description: ""
 third_nav_title: Academic Development
 ---
-
 ### Mission
 
 We are committed to nurturing students to be effective communicators with an understanding of our indigenous culture, and be global-ready citizens.
 
 ### Our Team
 
-Head of Department (MT Language) – **Ms Sim Siew Ngoh**
+Head of Department – **Ms Sim Siew Ngoh**
 
-Subject Head (Chinese Language) – **Mr Soh Chung Wei**
+Year Head – **Ms Su Huimin**   
 
-Chinese Language Teacher – **Ms Su Huimin (Year Head)**   
+Subject Head / Character and Citizenship (CCE)  – **Mr Chin Jia Le**
 
-Chinese Language Teacher – **Mr Chin Jia Le (SH / Character and Citizenship Education)**
+Teacher – **Mdm Gunasekaran Dhanalakshmi**
 
-Chinese Language Teacher – **Ms Liao Yongmei** 
+Teacher – **Ms Lim Hui Qi** 
 
-Chinese Language Teacher – **Ms Lim Hui Qi**   
+Teacher – **Mr Liu Yong Feng**    
 
-Chinese Language Teacher – **Ms Ng Wei Ying**   
+Teacher – **Ms Ng Wei Ying**   
 
-Chinese Language Teacher – **Mr Liu Yong Feng**    
+Teacher – **Mdm Noorsiyah Salleh**   
 
-Malay Language Teacher – **Mdm Norasikin Awang (Coordinator)**    
+Teacher – **Mdm Norasikin Awang**    
 
-Malay Language Teacher – **Mdm Noor Siyah Salleh**    
+Teacher – **Ms Nur Nadzirah Binte Abdul Halim**    
 
-Malay Language Teacher – **Ms Nur Nadzirah Binte Abdul Halim**    
-
-Tamil Language Teacher – **Mrs Valliyammai Ramanathan (Coordinator)**     
-
-Tamil Language Teacher – **Mdm Gunasekaran Dhanalakshmi**
+Teacher – **Mdm Tirunavukkarasu Poongodi**     
 
 ### Instructional Programme
 
