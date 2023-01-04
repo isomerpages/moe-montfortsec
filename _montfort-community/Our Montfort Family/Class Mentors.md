@@ -6,10 +6,10 @@ third_nav_title: Our Montfort Family
 ---
 ### Secondary 1
 
-<table>
+<table  style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3">Class Mentors (in alphabetical order)</th>
+    <th colspan="3"  style="text-align: center">Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
@@ -58,10 +58,11 @@ third_nav_title: Our Montfort Family
 
     
 ### Secondary 2
-<table>
+
+<table  style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3">    Class Mentors (in alphabetical order)</th>
+    <th colspan="3"  style="text-align: center">    Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
@@ -112,10 +113,11 @@ third_nav_title: Our Montfort Family
 </table>
  
 ### Secondary 3
-  <table>
+
+<table  style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3">Class Mentors (in alphabetical order)</th>
+    <th colspan="3"  style="text-align: center">Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
@@ -169,10 +171,10 @@ third_nav_title: Our Montfort Family
 		
 ### 	Secondary 4 &amp; 5
 
-<table>
+<table  style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3">  Class Mentors (in alphabetical order)</th>
+    <th colspan="3"  style="text-align: center">  Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
