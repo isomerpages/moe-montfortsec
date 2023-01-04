@@ -1,6 +1,6 @@
 ---
 title: Maker Club
-permalink: /co-curricular-activities/Clubs-and-Societies/maker-club
+permalink: /co-curricular-activities/Clubs-and-Societies/maker-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -8,6 +8,6 @@ third_nav_title: Clubs and Societies
 
 ![](/images/mkc2.png)
 
-![](/images/mkc3.png)
+![](/images/Maker%20Club.png)
 
 ![](/images/mkc4.png)
