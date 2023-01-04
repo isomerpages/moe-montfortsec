@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /co-curricular-activities/Sports/football
+permalink: /co-curricular-activities/Sports/football/
 description: ""
 third_nav_title: Sports
 ---
@@ -8,9 +8,11 @@ third_nav_title: Sports
 
 ![](/images/fb2.png)
 
+![](/images/Football.png)
+
 ![](/images/fb3.png)
 
-![](/images/fb4-min.png)
+
 
 ### Photo Gallery
 
