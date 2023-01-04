@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /co-curricular-activities/Sports/wushu
+permalink: /co-curricular-activities/Sports/wushu/
 description: ""
 third_nav_title: Sports
 ---
@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 ![](/images/wushu2.png)
 
-![](/images/wushu3.png)
+![](/images/Wushu.png)
 
 ![](/images/wushu4.jpeg)
 
