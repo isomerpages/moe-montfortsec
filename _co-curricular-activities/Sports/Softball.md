@@ -1,6 +1,6 @@
 ---
 title: Softball
-permalink: /co-curricular-activities/Sports/softball
+permalink: /co-curricular-activities/Sports/softball/
 description: ""
 third_nav_title: Sports
 ---
@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 ![](/images/sb2.png)
 
-![](/images/sb3.png)
+![](/images/Softball.png)
 
 ![](/images/sb4.png)
 

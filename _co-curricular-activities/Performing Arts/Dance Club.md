@@ -1,16 +1,16 @@
 ---
 title: Dance Club
-permalink: /co-curricular-activities/Performing-Arts/dance-club
+permalink: /co-curricular-activities/Performing-Arts/dance-club/
 description: ""
 third_nav_title: Performing Arts
 ---
 ![](/images/dc1.jpeg)
 
-![](/images/dc2.png)
-
-![](/images/dc3.png)
-
 ![](/images/dc4.png)
+
+![](/images/Dance.png)
+
+
 
 
 ### Photo Gallery

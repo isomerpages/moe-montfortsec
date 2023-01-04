@@ -1,6 +1,6 @@
 ---
 title: Scouts
-permalink: /co-curricular-activities/Uniformed-Groups/scouts
+permalink: /co-curricular-activities/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 ![](/images/scouts2.png)
 
-![](/images/scouts3.png)
+![](/images/Scouts.png)
 
 ![](/images/scouts4.png)
 

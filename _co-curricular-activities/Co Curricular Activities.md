@@ -3,14 +3,6 @@ title: Co Curricular Activities
 permalink: /co-curricular-activities/ccas/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
 <table class="tg">
 <tbody>
   <tr>
@@ -21,8 +13,10 @@ description: ""
   </tr>
 </tbody>
 </table>
+<center><h4>CCA Information 2023</h4></center>
+<center><a target="_self" href="https://drive.google.com/file/d/1pTzwsLIAh0EnB-AbPsjcahuMCqRO34ft/view?usp=sharing"> 
+          <img style="width:100%" src="/images/banner_staging.jpg"></a></center>
 
 <center><h4>CCA Schedule</h4></center>
-<center><a href = "https://drive.google.com/file/d/1uCOJqFZ707LiAsz2wLMzA-No3mBZ3OYa/view?usp=sharing" target = "_self"> 
-          <img src="/images/CCA%20Schedule.jpeg" 
-     style="width:25%"></a></center>
+<center><a target="_self" href="https://drive.google.com/file/d/1uCOJqFZ707LiAsz2wLMzA-No3mBZ3OYa/view?usp=sharing"> 
+          <img style="width:25%" src="/images/CCA%20Schedule.jpeg"></a></center>

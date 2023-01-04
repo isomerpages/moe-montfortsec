@@ -1,6 +1,6 @@
 ---
 title: NCC
-permalink: /co-curricular-activities/Uniformed-Groups/ncc
+permalink: /co-curricular-activities/Uniformed-Groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 ![](/images/ncc2.png)
 
-![](/images/ncc3.png)
+![](/images/NCC.png)
 
 ![](/images/ncc4.png)
 

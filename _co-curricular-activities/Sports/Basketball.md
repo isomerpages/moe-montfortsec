@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /co-curricular-activities/Sports/basketball
+permalink: /co-curricular-activities/Sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 ![](/images/bb2.png)
 
-![](/images/bb3.png)
+![](/images/Basketball%20(1).png)
 
 ![](/images/bb4.jpeg)
 

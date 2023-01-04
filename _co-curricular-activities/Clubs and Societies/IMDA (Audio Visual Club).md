@@ -1,6 +1,6 @@
 ---
 title: IMDA (Audio Visual Club)
-permalink: /co-curricular-activities/Clubs-and-Societies/imda-audio-visual-club
+permalink: /co-curricular-activities/Clubs-and-Societies/imda-audio-visual-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -8,7 +8,7 @@ third_nav_title: Clubs and Societies
 
 ![](/images/av2.jpeg)
 
-![](/images/av3.png)
+![](/images/AV.png)
 
 ![](/images/av4.png)
 
