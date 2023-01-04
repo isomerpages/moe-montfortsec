@@ -6,11 +6,11 @@ third_nav_title: Performing Arts
 ---
 ![](/images/dc1.jpeg)
 
-![](/images/dc2.png)
+![](/images/dc4.png)
 
 ![](/images/Dance.png)
 
-![](/images/dc4.png)
+
 
 
 ### Photo Gallery
