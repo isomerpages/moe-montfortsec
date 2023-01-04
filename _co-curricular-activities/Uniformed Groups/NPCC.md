@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 ![](/images/Team.png)
 
-![](/images/npcc3.png)
+![](/images/NPCC.png)
 
 ![](/images/npcc4.jpeg)
 
