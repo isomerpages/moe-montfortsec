@@ -8,9 +8,11 @@ third_nav_title: Performing Arts
 
 ![](/images/mb2.png)
 
+![](/images/mb4.jpeg)
+
 ![](/images/Band.png)
 
-![](/images/mb4.jpeg)
+
 
 
 ### Photo Gallery
