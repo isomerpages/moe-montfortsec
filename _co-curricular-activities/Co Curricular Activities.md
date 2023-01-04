@@ -21,6 +21,13 @@ description: ""
   </tr>
 </tbody>
 </table>
+<center><h4>CCA Information 2023</h4></center>
+
+
+
+
+
+
 
 <center><h4>CCA Schedule</h4></center>
 <center><a href = "https://drive.google.com/file/d/1uCOJqFZ707LiAsz2wLMzA-No3mBZ3OYa/view?usp=sharing" target = "_self"> 
