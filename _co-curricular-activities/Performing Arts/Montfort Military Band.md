@@ -1,6 +1,6 @@
 ---
 title: Montfort Military Band
-permalink: /co-curricular-activities/Performing-Arts/military-band
+permalink: /co-curricular-activities/Performing-Arts/military-band/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 ![](/images/mb2.png)
 
-![](/images/mb3.png)
+![](/images/Band.png)
 
 ![](/images/mb4.jpeg)
 
