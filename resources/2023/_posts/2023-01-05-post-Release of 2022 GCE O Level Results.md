@@ -8,7 +8,7 @@ image: ""
 ---
 #### Dear 2022 Sec 4 & 5 Montfortians,
 
-1.     Please be informed that the O Level results will be released on 12 January 2023.
+1.     Please be informed that the O-Level results will be released on 12 January 2023.
 
 2.     **You are expected to report to the School Hall at 1.45 pm in full school uniform and groomed according to the standards laid out in the Praise and Grace Journal for the collection of result slips. No inappropriate hairstyle or coloured hair. You will not be allowed into the school until your grooming is rectified.**
 
