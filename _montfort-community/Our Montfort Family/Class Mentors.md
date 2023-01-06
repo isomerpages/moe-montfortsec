@@ -67,9 +67,6 @@ third_nav_title: Our Montfort Family
 </thead>
 <tbody>
   <tr>
-    <td colspan="3">Secondary 2</td>
-  </tr>
-  <tr>
     <td>2 Compassion</td>
     <td>Mr Tan Teck Huat, Hector<br>tan_teck_huat@moe.edu.sg</td>
     <td>Mr Yeo Kok How Adam<br>yeo_kok_how@moe.edu.sg</td>
