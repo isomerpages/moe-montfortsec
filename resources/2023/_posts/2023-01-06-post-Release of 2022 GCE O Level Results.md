@@ -12,6 +12,6 @@ image: ""
 
 2.     **You are expected to report to the School Hall at 1.45 pm in full school uniform and groomed according to the standards laid out in the Praise and Grace Journal for the collection of result slips. No inappropriate hairstyle or coloured hair. You will not be allowed into the school until your grooming is rectified.**
 
-3.     Please refer to **[Release of 2022 O-Level Results](/files/Release%20of%202023%20O-Level%20Results%20(6%20Jan%202023).pdf)** for more information.
+3.     Please refer to **[Release of 2022 O-Level Results](/files/Release%20of%202022%20O-Level%20Results%20(6%20Jan%202023).pdf)** for more information.
 
 4.     Please click \[**[here](https://www.montfortsec.moe.edu.sg/curriculum/Subject-Combination/post-secondary-education/)**] to access the Post-Secondary Education school website to help you in your decision-making of your journey after O-Level.
