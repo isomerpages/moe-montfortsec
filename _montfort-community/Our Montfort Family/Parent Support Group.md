@@ -4,7 +4,6 @@ permalink: /montfort-community/Montfort-Family/parent-support-group/
 description: ""
 third_nav_title: Our Montfort Family
 ---
-
 ### Mission
 *   strengthen partnership and engagement with parents to improve children’s well-being and learning.
 *   provide parents with practical information/ parenting skills to support their child’s learning
@@ -17,7 +16,6 @@ third_nav_title: Our Montfort Family
 **PSG School Liaison Team**   
 Teacher Coordinator / IC - Ms. Judeana Woon    
 School Counsellor / PSG Liaison - Ms. Silver SK   
-Teacher / PSG Liaison - Ms. Kavitha Subramaniam
 
   
 **PSG EXCO Team**      
