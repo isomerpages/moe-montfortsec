@@ -19,3 +19,5 @@ Once your registration is confirmed, MWS FSP will send you an acknowledgment ema
 *  Seminar 3, 25th February 23 - Getting Teenagers Connected
 
 For more information, please [click here](/files/Secondary%20School%20L2%20EDM%20(Run%203)%20(1).pdf). Should you need any further information, please do not hesitate to contact  Ms. Silver SK, @ [Selvarani\_kunasela@moe.edu.sg](mailto:Selvarani_kunasela@moe.edu.sg) / 6883 6919.
+
+Thank you!
