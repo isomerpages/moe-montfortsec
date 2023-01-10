@@ -151,7 +151,7 @@ Resources to support your child's decision-making process at their key education
 [Next Step Forward](https://www.moe.gov.sg/microsites/next-step-forward/)     
 The possible education and career pathways are aplenty. Follow the story of these 54 individuals’ journeys and be inspired!
 
-[2023 Intake Exercise (N) Booklet ]((https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2)  
+[2023 Intake Exercise (N) Booklet ](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2)  
 Admission Booklet for GCE ‘N’ Level Holders
 
 [2023 Intake Exercise (O) Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2)   
