@@ -15,10 +15,7 @@ Our ECG programme seeks to equip students with the necessary knowledge, skills, 
 
 Montfortians are encouraged to strive towards a higher education pathway and a career which they can aspire to. Their journeys in lifelong learning continue at Montfort Secondary School where ECG experiences are designed to inspire them to become their best self and turn their dreams into reality.
 
-
-### Instructional Programmes
-		 
-ECG in CCE21
+### ECG in CCE21
 
 <u><strong>Aims</strong></u>
 
@@ -111,26 +108,54 @@ Email: [Leaw\_Hui\_Meen@schools.gov.sg](mailto:Leaw_Hui_Meen@schools.gov.sg)
 
 [Booking Form](https://go.gov.sg/bookecgc)
 
+        
+
+### ECG Centre @ MOE
+
+The ECG Centre @ MOE provides ECG counselling services for students during periods such as the release of their GCE N-Level, O-Level and A-Level examination results.
+
+To book an appointment, please contact:
+
+Email: [MOE\_ECG@moe.gov.sg](mailto:MOE_ECG@moe.gov.sg)
+
+Phone: 6831 1420
+
+E-appointment system: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre)
 
 ### ECG Resources
 
-[A Guide to Post Secondary Exercises](https://beta.moe.gov.sg/uploads/A-Guide-to-Post-Secondary-Exercise.pdf)     
+[A Guide to Post Secondary Exercises]([undefined](https://go.gov.sg/postsecadminguide)     
 An overview of the pathways available and admissions exercises after secondary school.
 
-[MySkillsFuture Student Portal](https://www.myskillsfuture.sg/content/student/en/secondary.html)    
+[MySkillsFuture Student Portal]([undefined](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html))    
 A one-stop platform to explore the various educational and career pathways. 
 
   
 
-[CourseFinder](https://beta.moe.gov.sg/coursefinder/)    
+[CourseFinder]([undefined](https://www.moe.gov.sg/coursefinder)    
 Explore courses based on aggregate type, score, and area of interest offered in post-secondary institutes (polytechnics & ITE).
 
   
 
-[Journeying with Our Children, Supporting Their Success](https://www.moe.gov.sg/microsites/ecg-parent-guide/)    
+[Journeying with Our Children, Supporting Their Success]([undefined(https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8)  
 A guide that provides tips and suggestions for parents to engage their child in conversations and activities related to ECG.
 
-  
+##### What’s Next
+
+Resources to support your child's decision-making process at their key education stages.
+
+[For N- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-n-level.ashx?la=en&hash=38C22BCDEF5100BBF86352767907BC49C733D7DF)
+
+[For O- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&hash=555A5ECD895D93910DFF28299017A3B2B1A15F68)
 
 [Next Step Forward](https://www.moe.gov.sg/microsites/next-step-forward/)     
 The possible education and career pathways are aplenty. Follow the story of these 54 individuals’ journeys and be inspired!
+
+[2023 Intake Exercise (N) Booklet ]((https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2)  
+Admission Booklet for GCE ‘N’ Level Holders
+
+[2023 Intake Exercise (O) Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2)   
+ITE Admission Booklet for GCE ‘O’ Level Holders
+
+[2023 Joint Admission Exercise Booklet ](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx?la=en&hash=AEC48D61A122C8011AD4CAE0E978567828BB1EDB)    
+For Candidates seeking admission to Junior Colleges, Millenia Institute, Polytechnics, Institute of Technical Education
