@@ -124,7 +124,7 @@ E-appointment system: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-
 
 ### ECG Resources
 
-[A Guide to Post Secondary Exercises]([undefined](https://go.gov.sg/postsecadminguide)     
+[A Guide to Post Secondary Exercises]([undefined](https://go.gov.sg/postsecadminguide))     
 An overview of the pathways available and admissions exercises after secondary school.
 
 [MySkillsFuture Student Portal]([undefined](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html))    
@@ -132,12 +132,12 @@ A one-stop platform to explore the various educational and career pathways. 
 
   
 
-[CourseFinder]([undefined](https://www.moe.gov.sg/coursefinder)    
+[CourseFinder]([undefined](https://www.moe.gov.sg/coursefinder))    
 Explore courses based on aggregate type, score, and area of interest offered in post-secondary institutes (polytechnics & ITE).
 
   
 
-[Journeying with Our Children, Supporting Their Success]([undefined(https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8)  
+[Journeying with Our Children, Supporting Their Success]([undefined(https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8))  
 A guide that provides tips and suggestions for parents to engage their child in conversations and activities related to ECG.
 
 ##### What’s Next
