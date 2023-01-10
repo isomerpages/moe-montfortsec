@@ -1,0 +1,4 @@
+collections:
+  ecg-resources:
+    output: true
+    order: []
