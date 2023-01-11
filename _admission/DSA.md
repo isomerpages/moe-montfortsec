@@ -1,8 +1,9 @@
 ---
 title: DSA
-permalink: /admission/dsa
+permalink: /admission/dsa/
 description: ""
 ---
+
 ### 2022 (DSA-Sec) Exercise for Admission to Secondary One (S1) in 2023
 
 Application for direct school admission through the Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme is **open from 5 May 2022**.

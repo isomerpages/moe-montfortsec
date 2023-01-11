@@ -4,12 +4,7 @@ permalink: /montfort-community/Montfort-Family/principal-and-vice-principals/
 description: ""
 third_nav_title: Our Montfort Family
 ---
-#### Mr Kelvin Lim (Principal)
-<center><img src="/images/Principal.png" style="width:20%;"></center>
 
-#### Mr Wilson Tay (Vice-Principal)  
-<center><img src="/images/Vice%20Principal%201.png" style="width:20%;"></center>
+![](/images/SLs%20photo%20on%209%20Jan%202023.jpeg)
 
-#### Ms Tan Lay Yen (Vice-Principal Administration)
-<center><img src="/images/Vice%20P%202.png" style="width:20%;"></center>
-
+(Left to right) Mr Wilson Tay (Vice-Principal), Mr Kelvin Lim (Principal), Ms Tan Lay Yen (Vice-Principal Administration)

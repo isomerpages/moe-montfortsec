@@ -1,11 +1,12 @@
 ---
 title: Positive Parenting Programme (PPP) for all Sec 1 Parents
-permalink: /resources/2023/permalink/
+permalink: /resources/2023/PositiveParentingProgrammeforallSec1Parents/
 date: 2023-01-09
 layout: post
 description: ""
 image: ""
 ---
+
 Methodist Welfare Services Family Support Programme (MWS FSP) has been appointed by Ministry of Social and Family Development (MSF) to partner with Montfort Secondary School to conduct secular parenting programmes. 
 
 We are pleased to invite you to attend our fully subsidised, [Positive Parenting Program (Triple P)](/files/Secondary%20School%20Letter%20(Run%203).pdf) webinars via Zoom.

@@ -1,11 +1,12 @@
 ---
 title: Release of 2022 GCE N Level Results
-permalink: /resources/2023/permalink/
+permalink: /resources/2023/releaseof2022GCENlevelresults/
 date: 2022-12-19
 layout: post
 description: ""
 image: ""
 ---
+
 
 ##### Dear 2022 Sec 4N(A) & 4N(T) Montfortians,  
 
