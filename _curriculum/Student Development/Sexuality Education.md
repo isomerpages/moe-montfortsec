@@ -46,45 +46,83 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 **At Montfort Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2023</u>:**
 
 ### Secondary 1 
-
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c9ql{background-color:#D9D9D9;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8r26{background-color:#D9D9D9;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 795px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1013px">
 <colgroup>
-<col style="width: 155px">
-<col style="width: 160px">
-<col style="width: 335px">
-<col style="width: 145px">
+<col style="width: 144px">
+<col style="width: 150px">
+<col style="width: 236px">
+<col style="width: 334px">
+<col style="width: 149px">
 </colgroup>
+<thead>
+  <tr>
+    <th class="tg-c9ql" rowspan="2">Unit</th>
+    <th class="tg-c9ql" rowspan="2">Lesson Title /&nbsp;&nbsp;&nbsp;Duration</th>
+    <th class="tg-c9ql" rowspan="2">Lesson Overview</th>
+    <th class="tg-c9ql">Lesson Objectives</th>
+    <th class="tg-c9ql">Time Period</th>
+  </tr>
+  <tr>
+    <th class="tg-8r26">At the end of the lesson, students will be able to:</th>
+    <th class="tg-c9ql">(e.g.Term 1 Week&nbsp;&nbsp;&nbsp;2)</th>
+  </tr>
+</thead>
 <tbody>
   <tr>
-    <td class="tg-reen"><span style="color:black">NIT</span></td>
-    <td class="tg-reen"><span style="color:black">LESSONS / DURATION</span></td>
-    <td class="tg-reen"><span style="color:black">LESSON OBJECTIVES</span><br><span style="color:black">At the end of the lesson, students will be able to:</span></td>
-    <td class="tg-reen"><span style="color:black">TIME PERIOD</span><br><span style="color:black">(e.g. Term 1 Week 2)</span></td>
+    <td class="tg-c3ow" rowspan="10">Respectful Relationships &amp; Safety</td>
+    <td class="tg-c3ow">Steady or Not</td>
+    <td class="tg-0pky" rowspan="4">This lesson helps students  understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards  dating and romantic relationships and understand how to build healthy and   supportive relationships, both online and offline.</td>
+    <td class="tg-0pky">·  recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles </td>
+    <td class="tg-c3ow" rowspan="4">Term 2 Week 7</td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
-    <td class="tg-ncov">1<br>(60 mins)</td>
-    <td class="tg-ncov">·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>·       <span style="background-color:initial">Recognise that there are different forms of love (e.g. familial, platonic, romantic love) </span><br><br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
-    <td class="tg-ncov">Term 2 Week 6</td>
+    <td class="tg-c3ow">Lesson 1</td>
+    <td class="tg-0pky">·       recognise&nbsp;&nbsp;&nbsp;that there are different forms of love (e.g. familial, platonic, romantic love) </td>
   </tr>
   <tr>
-    <td class="tg-ncov">2<br>(60 mins)</td>
-    <td class="tg-ncov">·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-    <td class="tg-ncov">Term 3 Week 8</td>
+    <td class="tg-c3ow">(60 mins)</td>
+    <td class="tg-0pky">·  recognise the importance and understand what builds healthy and supportive relationships, both online and offline </td>
   </tr>
   <tr>
-    <td class="tg-ncov">3<br>(60 mins)</td>
-    <td class="tg-ncov">·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
-    <td class="tg-ncov">Term 4 Week 2</td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">·     understand what dating is, and recognise that the readiness and interest in dating vary among individuals </td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Being Aware, Being Safe</td>
+    <td class="tg-0pky" rowspan="3">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. </td>
+    <td class="tg-0pky" rowspan="3">·         understand that physical and psychological abuse   from others, especially those we know and trust, can have strong negative   effects on a person’s self-concept</td>
+    <td class="tg-c3ow" rowspan="3">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Lesson 2</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">(60 mins)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">More than Meets the Eye</td>
+    <td class="tg-0pky" rowspan="3">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexuabehaviours. </td>
+    <td class="tg-0pky">·    understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences </td>
+    <td class="tg-c3ow" rowspan="3">Term 3 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Lesson 3 </td>
+    <td class="tg-0pky">·      recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">(60 mins)</td>
+    <td class="tg-0pky"> </td>
   </tr>
 </tbody>
 </table>
