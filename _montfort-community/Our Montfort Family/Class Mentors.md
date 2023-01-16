@@ -197,7 +197,7 @@ third_nav_title: Our Montfort Family
   </tr>
   <tr>
     <td>4 CHRISTE</td>
-    <td>Mr Azman Bin Hussin<br>azman_bin_akmad@moe.edu.sg</td>
+    <td>Mr Azman Bin Hussin<br>azman_hussin@moe.edu.sg </td>
     <td>Ms Yeo Zi Han Emmeline<br>yeo_zi_han@moe.edu.sg</td>
   </tr>
   <tr>

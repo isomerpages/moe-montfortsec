@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /curriculum/Student-Development/sexuality-education
+permalink: /curriculum/Student-Development/sexuality-education/
 description: ""
 third_nav_title: Student Development
 ---
@@ -24,7 +24,7 @@ third_nav_title: Student Development
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-### Overview of Montfort Secondary School's Sexuality Education Programme in 2022
+### Overview of Montfort Secondary School's Sexuality Education Programme in 2023
 
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -43,7 +43,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Montfort Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2022</u>:**
+**At Montfort Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2023</u>:**
 
 ### Secondary 1 
 
@@ -266,7 +266,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 </tbody>
 </table>
 
-_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+
 
 
 ### eTeens Programme
@@ -278,7 +278,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
  
 9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Montfort Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+**At Montfort Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -304,12 +304,12 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
   <tr>
     <td class="tg-ncov"><br><span style="background-color:initial">Mass Talk by HPB appointed vendor</span><br></td>
     <td class="tg-ncov"><span style="font-weight:400;font-style:normal">·    Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:400;font-style:normal">·    Modes of transmission</span><br><br><span style="font-weight:400;font-style:normal">·    Modes of protection, specifically on how the condom is used</span><br><br><span style="font-weight:400;font-style:normal">·    </span>Consequences and impact of STIs/HIV</td>
-    <td class="tg-ncov"><br>Term 2 Week 10</td>
+    <td class="tg-ncov"><br>Term 3 Week 5</td>
   </tr>
   <tr>
     <td class="tg-ncov"><span style="background-color:initial">Classroom-based Lesson</span><br></td>
     <td class="tg-ncov">  ·    Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-ncov">Term 2 Week 10</td>
+    <td class="tg-ncov">Term 3 Week 6</td>
   </tr>
 </tbody>
 </table>
@@ -319,9 +319,9 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1JzlhP1kH3wsdZzMKFLOJCWWUlfk8amrR/view). The completed form is to be submitted by **11/02/2022**. 
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20Lessons%20Opt%20Out%20form.pdf). The completed form is to be submitted by **20/01/2023**. 
 
-12\. Parents who wish to opt their children out of the _**eTeens**_ **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1QbipQHkLvjTzy2E-AKEmcnjyGf2i7e28/view). The completed form is to be submitted by **11/02/2022**.
+12\. Parents who wish to opt their children out of the _**eTeens**_ **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Parents%20Opt%20Out%20Form%20(Sec)%20(1).pdf). The completed form is to be submitted by **20/01/2023**.
 
   
 

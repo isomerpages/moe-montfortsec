@@ -18,5 +18,5 @@ description: ""
           <img style="width:100%" src="/images/banner_staging.jpg"></a></center>
 
 <center><h4>CCA Schedule</h4></center>
-<center><a target="_self" href="/files/Consolidated%20CCA%20Timings%202023%20updated%205%20Jan.pdf"> 
+<center><a target="_self" href="/files/Consolidated%20CCA%20Timings%202023%20updated%2013%20Jan.pdf"> 
           <img style="width:25%" src="/images/CCA%20Schedule.jpeg"></a></center>
