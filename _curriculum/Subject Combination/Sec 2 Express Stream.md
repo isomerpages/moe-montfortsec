@@ -4,9 +4,9 @@ permalink: /curriculum/Subject-Combination/sec-2-express/
 description: ""
 third_nav_title: Subject Combination
 ---
-Sec 3 Subject Combination 2023 for Sec 2 Express students in 2022
+Sec 3 Subject Combination 2024 for Sec 2 Express students in 2023
 
-*Information is accurate as of 1 June 2022. Any changes will be communicated through Parents Gateway (PG).*
+*Information is accurate as of 17 January 2023. Any changes will be communicated through Parents Gateway (PG).*
 
 ### 1\. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS
 
@@ -28,7 +28,7 @@ Students need to choose based on their aptitude, interests and their future post
 
 ### 2\. SUBJECTS OFFERED FOR S3 EXPRESS
 
-![](/images/Exp1.jpeg)
+![S3 Exp Subjects](/images/S3%20Express%20Subjects%202023.png)
 
 ### 3\. S3 EXPRESS SUBJECT COMBINATIONS
 
