@@ -55,7 +55,7 @@ third_nav_title: Our Montfort Family
   <td class="tg-0lax">Subject Head/ English Language – <span style="font-weight:bold">Ms Tan Pei Pei Eleanor </span>(tan_pei_pei_eleanor@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Subject Head/ Science (Acting) - <span style="font-weight:bold">Mdm Khairunnisa Bte Yahya</span> (khairunnisa_bte khairunnisa_yahya@moe.edu.sg)</td>
+    <td class="tg-0lax">Subject Head/ Science (Acting) - <span style="font-weight:bold">Mdm Khairunnisa Bte Yahya</span> (khairunnisa_yahya@moe.edu.sg)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Subject Head/ Geography – <span style="font-weight:bold">Mr Mansoor Abdul Rahman</span> (mansoor_abdul_rahman@moe.edu.sg)</td>
