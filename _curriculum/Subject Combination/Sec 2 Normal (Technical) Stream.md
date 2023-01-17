@@ -1,12 +1,12 @@
 ---
 title: Sec 2 Normal (Technical) Stream
-permalink: /curriculum/Subject-Combination/sec-2-nt
+permalink: /curriculum/Subject-Combination/sec-2-nt/
 description: ""
 third_nav_title: Subject Combination
 ---
-Sec 3 Subject Combination 2023 for Sec 2 Normal (Technical) students in 2022
+##### Sec 3 Subject Combination 2024 for Sec 2 Normal (Technical) students in 2023
 
-_Information is accurate as at 1 June 2022. Any changes will be communicated through Parents Gateway (PG)._
+_Information is accurate as at 17 January 2023. Any changes will be communicated through Parents Gateway (PG)._
 
 ### 1\. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS
   
@@ -28,7 +28,7 @@ Students need to choose based on their aptitude, interests and their future post
 
 ### 3\. OUT OF STREAM SUBJECT (OOS)
 
-![](/images/NT2.jpeg)
+
 
 ### 4\. S3 NORMAL (TECHNICAL) SUBJECT COMBINATIONS
 
