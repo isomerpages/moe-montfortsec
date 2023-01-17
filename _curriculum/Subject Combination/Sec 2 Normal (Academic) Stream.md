@@ -1,12 +1,12 @@
 ---
 title: Sec 2 Normal (Academic) Stream
-permalink: /curriculum/Subject-Combination/sec-2-na
+permalink: /curriculum/Subject-Combination/sec-2-na/
 description: ""
 third_nav_title: Subject Combination
 ---
-Sec 3 Subject Combination 2023 for Sec 2 Normal (Academic) students in 2022
+##### Sec 3 Subject Combination 2024 for Sec 2 Normal (Academic) students in 2023
 
-_Information is accurate as at 1 June 2022. Any changes will be communicated through Parents Gateway (PG)._  
+_Information is accurate as at 17 January 2023. Any changes will be communicated through Parents Gateway (PG)._  
 
 ### 1\. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS
 
@@ -18,14 +18,13 @@ _Information is accurate as at 1 June 2022. Any changes will be communicated thr
 * **Subject-specific / Combination requirements**
 * **Availability of vacancies** in each subject (subject to School Resources) 
 
-
 ### 2\. SUBJECTS OFFERED FOR S3 NORMAL (ACADEMIC)
 
-![](/images/NANo2_new.jpeg)
+![3NA Subjects](/images/S3%20NA%20Subjects%202023.png)
 
 ### 3\. OUT OF STREAM SUBJECT (OOS)
 
-![](/images/NA2.jpeg)
+![OOS](/images/OOS%20for%20NA.png)
 
 ### 4. S3 NORMAL (ACADEMIC) SUBJECT COMBINATIONS
 
