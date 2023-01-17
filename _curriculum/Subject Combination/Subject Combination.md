@@ -4,7 +4,7 @@ permalink: /curriculum/Subject-Combination/subject-combi/
 description: ""
 third_nav_title: Subject Combination
 ---
-<strong><u>Sec 3 Subject Combination 2023</u></strong>
+<strong><u>Sec 3 Subject Combination 2024</u></strong>
 
 Welcome to our Subject Combination Information Site!
 
@@ -17,7 +17,7 @@ In order for the students to make a more informed decision on the subjects he wo
 
 <strong>Calendar of Events</strong>
 
-![Timeline for 2023](/images/timeline%202023.png)
+![Timeline for 2023](/images/Timeline%20(2)%20for%202023.png)
 
 <strong>Tips for Choosing Subject Combination</strong>
 
