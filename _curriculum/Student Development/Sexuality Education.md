@@ -130,44 +130,97 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 ### Secondary 2
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-px6y{background-color:#D9D9D9;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-2m49{background-color:#D9D9D9;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 795px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1015px">
 <colgroup>
-<col style="width: 155px">
-<col style="width: 160px">
-<col style="width: 335px">
-<col style="width: 145px">
+<col style="width: 147px">
+<col style="width: 175px">
+<col style="width: 242px">
+<col style="width: 312px">
+<col style="width: 139px">
 </colgroup>
+<thead>
+  <tr>
+    <th class="tg-px6y" rowspan="2">Unit</th>
+    <th class="tg-px6y" rowspan="2">Lesson Title /   Duration</th>
+    <th class="tg-px6y" rowspan="2">Lesson Overview</th>
+    <th class="tg-px6y">Lesson Objectives</th>
+    <th class="tg-px6y">Time Period</th>
+  </tr>
+  <tr>
+    <th class="tg-2m49">At the end of the lesson, students will be able to:</th>
+    <th class="tg-px6y">(e.g.Term 1 Week&nbsp;&nbsp;&nbsp;2)</th>
+  </tr>
+</thead>
 <tbody>
   <tr>
-    <td class="tg-reen"><span style="color:black">UNIT</span></td>
-    <td class="tg-reen"><span style="color:black">LESSONS / DURATION</span></td>
-    <td class="tg-reen"><span style="color:black">LESSON OBJECTIVES</span><br><span style="color:black">At the end of the lesson, students will be able to:</span></td>
-    <td class="tg-reen"><span style="color:black">TIME PERIOD</span><br><span style="color:black">(e.g. Term 1 Week 2)</span></td>
+    <td class="tg-baqh">Respectful Relationships &amp; Safety</td>
+    <td class="tg-baqh">A Role for Everyone </td>
+    <td class="tg-0lax">This lesson focus on how the family, culture and society can   influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females  traditionally as doing household chores) and how gender stereotypes are formed. Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots,  while men can be nurses.</td>
+    <td class="tg-0lax">·       know that one’s understanding of gender roles should not be limited by gender  stereotypes</td>
+    <td class="tg-0lax">Term 1 Week 9</td>
   </tr>
   <tr>
-    <td class="tg-ncov" rowspan="3">Respectful Relationships &amp; Safety</td>
-    <td class="tg-ncov">1<br>(60  mins)</td>
-    <td class="tg-sxkx">·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>·      Understand what sexual orientation entails</td>
-    <td class="tg-ncov">Term 2 Week 3</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Lesson 1</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">·       develop an appreciation of one’s own unique qualities and characteristics as a male or female</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-ncov">2A<br>(60 mins)</td>
-    <td class="tg-sxkx">·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
-    <td class="tg-ncov">Term 3 Week 2</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">(60 mins)</td>
+    <td class="tg-0lax">Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. </td>
+    <td class="tg-0lax">·      &nbsp;&nbsp;&nbsp;understand what sexual orientation entails</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-ncov">2B<br>(60 mins)</td>
-    <td class="tg-sxkx">·    Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>·   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-    <td class="tg-ncov">Term 4 Week 2</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Online Safety Challenge </td>
+    <td class="tg-0lax" rowspan="3">This   lesson focuses on the issue of online grooming and cyber-flashing. It  emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. </td>
+    <td class="tg-0lax" rowspan="3">·       recognise one’s vulnerability to risky situations  and the importance of exercising discretion to reduce risks and avoid  negative consequences, both online and offline</td>
+    <td class="tg-baqh" rowspan="3">Term 2 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Lesson 2A</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">(60 mins)</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Do I or Don’t I </td>
+    <td class="tg-0lax" rowspan="3">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual  abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.  </td>
+    <td class="tg-0lax">·       recognise the importance of self-respect and respect for others in relating to members of the opposite gender </td>
+    <td class="tg-baqh" rowspan="3">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Lesson 2B</td>
+    <td class="tg-0lax">·       recognise one’s vulnerability to risky situations  and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">(60 mins)</td>
+    <td class="tg-0lax"> </td>
   </tr>
 </tbody>
 </table>
