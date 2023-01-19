@@ -6,8 +6,6 @@ third_nav_title: Sports
 ---
 ![](/images/wushu1.jpeg)
 
-![](/images/wushu2.png)
-
 ![](/images/Wushu.png)
 
 ![](/images/wushu4.jpeg)
