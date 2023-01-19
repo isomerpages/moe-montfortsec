@@ -148,7 +148,7 @@ Resources to support your child's decision-making process at their key education
 
 [For O- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&hash=555A5ECD895D93910DFF28299017A3B2B1A15F68)
 
-[Next Step Forward](https://www.moe.gov.sg/microsites/next-step-forward/)     
+[Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972) 
 The possible education and career pathways are aplenty. Follow the story of these 54 individuals’ journeys and be inspired!
 
 [2023 Intake Exercise (N) Booklet ](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2)  
