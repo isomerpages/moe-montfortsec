@@ -6,8 +6,6 @@ third_nav_title: Sports
 ---
 ![](/images/sb1.png)
 
-![](/images/sb2.png)
-
 ![](/images/Softball.png)
 
 ![](/images/sb4.png)
