@@ -6,8 +6,6 @@ third_nav_title: Performing Arts
 ---
 ![](/images/mc1.jpeg)
 
-![](/images/mc2.png)
-
 ![](/images/Chorale.png)
 
 ![](/images/mc4.jpeg)

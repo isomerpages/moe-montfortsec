@@ -6,8 +6,6 @@ third_nav_title: Clubs and Societies
 ---
 ![](/images/av1.png)
 
-![](/images/av2.jpeg)
-
 ![](/images/AV.png)
 
 ![](/images/av4.png)

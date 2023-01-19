@@ -8,9 +8,6 @@ third_nav_title: Clubs and Societies
 
 ![](/images/cs4.png)
 
-![](/images/cs2.png)
-
-
 
 ### Photo Gallery
 

@@ -6,11 +6,11 @@ third_nav_title: Performing Arts
 ---
 ![](/images/mb1.jpeg)
 
-![](/images/mb2.png)
+![](/images/Band.png)
 
 ![](/images/mb4.jpeg)
 
-![](/images/Band.png)
+
 
 
 
