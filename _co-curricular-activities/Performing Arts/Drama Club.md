@@ -6,8 +6,6 @@ third_nav_title: Performing Arts
 ---
 ![](/images/drc1.jpeg)
 
-![](/images/drc3.png)
-
 ![](/images/Drama.png)
 
 ![](/images/drc4.png)
