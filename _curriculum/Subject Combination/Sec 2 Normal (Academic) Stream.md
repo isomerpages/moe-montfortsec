@@ -6,7 +6,7 @@ third_nav_title: Subject Combination
 ---
 ##### Sec 3 Subject Combination 2024 for Sec 2 Normal (Academic) students in 2023
 
-_Information is accurate as at 17 January 2023. Any changes will be communicated through Parents Gateway (PG)._  
+_Information is accurate as of 17 January 2023. Any changes will be communicated through Parents Gateway (PG)._  
 
 ### 1\. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS
 
