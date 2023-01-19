@@ -32,15 +32,15 @@ Students need to choose based on their aptitude, interests and their future post
 
 ### 3\. S3 EXPRESS SUBJECT COMBINATIONS
 
-a) Maximum 8 Subjects **[pending]**
+a) Maximum 8 Subjects [*More information will be updated soon*]
 
 
 
-b) Maximum 7 Subjects **[pending]**
+b) Maximum 7 Subjects [*More information will be updated soon*]
 
 
 <strong><u>Notes</u></strong>      
 #Students who are exempted from MT or taking MTB should take note that they have 1 less O-level subject.       
 *The humanities subject for combined Humanities and Pure Humanities cannot be the same. Student can only take Social Studies/History if they choose Pure Geography and Social Studies/Geography if they choose Pure History.
 
-### 4\. MINIMUM CRITERIA FOR S3 EXPRESS SUBJECTS [pending]
+### 4\. MINIMUM CRITERIA FOR S3 EXPRESS SUBJECTS [*More information will be updated soon*]

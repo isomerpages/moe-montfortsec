@@ -594,7 +594,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education%20Lessons%20Opt%20Out%20form.pdf). The completed form is to be submitted by **20/01/2023**. 
 
-12\. Parents who wish to opt their children out of the _**eTeens**_ **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here]((/files/1eTeens%20Parents%20letter%20with%20Opt-out%20Form%20(Sec)%202023.pdf). The completed form is to be submitted by **20/01/2023**.
+12\. Parents who wish to opt their children out of the _**eTeens**_ **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/1eTeens%20Parents%20letter%20with%20Opt-out%20Form%20(Sec)%202023.pdf). The completed form is to be submitted by **20/01/2023**.
 
   
 
