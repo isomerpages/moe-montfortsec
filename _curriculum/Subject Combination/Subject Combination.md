@@ -4,7 +4,7 @@ permalink: /curriculum/Subject-Combination/subject-combi/
 description: ""
 third_nav_title: Subject Combination
 ---
-### **_Sec 3 Subject Combination 2024_**
+<h3> <strong><u>Sec 3 Subject Combination 2024</u></strong></h3>
 
 Every Montfortian will participate in the Sec 3 Subject Combination Exercise after the Sec 2 year-end examinations. 
 
@@ -13,18 +13,19 @@ This exercise provides an opportunity for every Montfortian to indicate his p
 All subject combinations offered will pave the way for students to pursue post-secondary courses at the various tertiary educational institutions including Junior Colleges, Polytechnics, and the Institutes of Technical Education.
 
 We aim to provide information that could possibly help you and your child make an informed choice. The page is organised as follows:
+<ul>
+<li>the list of subjects offered in each stream;</li>
+<li>the eligibility criteria for the pure sciences combination, pure humanities combination and elective subjects;</li>
+<li>the Information of Secondary 3 subjects;</li>
+<li>the information of his post-secondary education pathways.</li>
+</ul>
+<br>
 
-* the list of subjects offered in each stream;
-* the eligibility criteria for the pure sciences combination, pure humanities combination and elective subjects;
-* the Information of Secondary 3 subjects;
-* the information of his post-secondary education pathways.
+<h5><strong>Calendar of Events</strong></h5>
 
+<img alt="Timeline for 2023" src="/images/Timeline%20(2)%20for%202023.png">
 
-##### **Calendar of Events**
-
-![Timeline for 2023](/images/Timeline%20(2)%20for%202023.png)
-
-**Tips for Choosing Subject Combination**
+<strong>Tips for Choosing Subject Combination</strong>
 
 It is important to take into account the following factors,
 
