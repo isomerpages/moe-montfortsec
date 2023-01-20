@@ -19,6 +19,7 @@ We aim to provide information that could possibly help you and your child make a
 * the Information of Secondary 3 subjects;
 * the information of his post-secondary education pathways.
 
+
 ##### **Calendar of Events**
 
 ![Timeline for 2023](/images/Timeline%20(2)%20for%202023.png)
