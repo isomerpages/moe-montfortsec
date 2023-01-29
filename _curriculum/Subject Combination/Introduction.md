@@ -38,5 +38,3 @@ There is no “best” or “most prestigious” subject combination that a Mont
 Click the video to watch a video talk by our ECG Counsellor, Ms. Leaw Hui Meen on choosing subject combination.
 
 <a href = "https://drive.google.com/file/d/135041pPKLzQNszkuXI0glcTAlzTRsi27/view" target = "_self"><img src="/images/ECG%20video%20picture.png"></a>
-
-<a href = "https://drive.google.com/file/d/1cEJ5wfg6bHafi0KIn_ERjyTgFm6JZnvi/view" target = "_self"><img src="/images/ECG%20video.jpeg"></a>
