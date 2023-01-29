@@ -4,7 +4,6 @@ permalink: /curriculum/Subject-Combination/subject-combi/
 description: ""
 third_nav_title: Subject Combination
 ---
-
 <h3> <strong><u>Sec 3 Subject Combination 2024</u></strong></h3>
 
 Every Montfortian will participate in the Sec 3 Subject Combination Exercise after the Sec 2 year-end examinations. 
@@ -37,5 +36,7 @@ It is important to take into account the following factors,
 There is no “best” or “most prestigious” subject combination that a Montfortian should opt for. Instead, the primary consideration should be to choose a subject combination which is most ideal for himself according to his interests, aptitude and aspiration for post-secondary education. 
 
 Click the video to watch a video talk by our ECG Counsellor, Ms. Leaw Hui Meen on choosing subject combination.
+
+<a href = "https://drive.google.com/file/d/135041pPKLzQNszkuXI0glcTAlzTRsi27/view" target = "_self"><img src="/images/ECG%20video%20picture.png"></a>
 
 <a href = "https://drive.google.com/file/d/1cEJ5wfg6bHafi0KIn_ERjyTgFm6JZnvi/view" target = "_self"><img src="/images/ECG%20video.jpeg"></a>
