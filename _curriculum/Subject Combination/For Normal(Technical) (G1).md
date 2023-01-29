@@ -4,8 +4,6 @@ permalink: /curriculum/Subject-Combination/sec-2-nt/
 description: ""
 third_nav_title: Subject Combination
 ---
-
-
 #### Sec 3 Subject Combination 2024 for Sec 2 Normal (Technical) students in 2023
 
 _Information is accurate as of 17 January 2023. Any changes will be communicated through Parents Gateway (PG)._
@@ -20,9 +18,9 @@ Students need to choose based on their aptitude, interests and their future post
 • **Availability of vacancies** in each subject (subject to School Resources) 
 
 
-### 2\. SUBJECTS OFFERED FOR S3 NORMAL (TECHNICAL) [*More information will be updated soon*]
+### 2\. SUBJECTS OFFERED FOR S3 NORMAL (TECHNICAL)
 
-     
+![S3 NT Subj](/images/S3%20NT%20Subjects%202023.png)
 
 ### 3\. OUT OF STREAM SUBJECT (OOS)
 
