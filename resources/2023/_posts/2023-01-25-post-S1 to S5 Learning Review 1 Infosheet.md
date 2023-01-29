@@ -16,4 +16,4 @@ Click here to view your respective LR1 infosheet.
 
 [2023 Sec 3 (G1/G2/G3) LR1 Infosheet](https://drive.google.com/drive/folders/1rWqCbRmgrXCFXiVTXacDwWxQW4JAxQSj)
   
-[2023 Sec 4E/NA/NT/5NA LR1 Infosheet](https://drive.google.com/drive/folders/13BJ3NtmIQir2qMP7RSeBcaubeebEbWnl)  
+[2023 Sec 4E/NA/NT/5NA LR1 Infosheet](https://drive.google.com/drive/folders/13BJ3NtmIQir2qMP7RSeBcaubeebEbWnl)
