@@ -1,5 +1,5 @@
 ---
-title: Sec 2 Normal (Academic) Stream
+title: For Normal(Academic) (G2)
 permalink: /curriculum/Subject-Combination/sec-2-na/
 description: ""
 third_nav_title: Subject Combination
@@ -26,12 +26,11 @@ _Information is accurate as of 17 January 2023. Any changes will be communicated
 
 ![OOS](/images/OOS%20for%20NA.png)
 
-### 4. S3 NORMAL (ACADEMIC) SUBJECT COMBINATIONS
+### 4. S3 NORMAL (ACADEMIC) SUBJECT COMBINATIONS [*More information will be updated soon*]
 
-![](/images/NA3.jpeg)
+
 
 <strong><u>Notes</u></strong>       
-*Not recommended for students who are exempted from MT and taking MTB      
 #Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
 
 ### 5. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) SUBJECTS

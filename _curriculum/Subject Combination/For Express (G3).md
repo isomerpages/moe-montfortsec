@@ -1,5 +1,5 @@
 ---
-title: Sec 2 Express Stream
+title: For Express (G3)
 permalink: /curriculum/Subject-Combination/sec-2-express/
 description: ""
 third_nav_title: Subject Combination
@@ -30,14 +30,7 @@ Students need to choose based on their aptitude, interests and their future post
 
 ![S3 Exp Subjects](/images/S3%20Express%20Subjects%202023.png)
 
-### 3\. S3 EXPRESS SUBJECT COMBINATIONS
-
-a) Maximum 8 Subjects [*More information will be updated soon*]
-
-
-
-b) Maximum 7 Subjects [*More information will be updated soon*]
-
+### 3\. S3 EXPRESS SUBJECT COMBINATIONS [*More information will be updated soon*]
 
 <strong><u>Notes</u></strong>      
 #Students who are exempted from MT or taking MTB should take note that they have 1 less O-level subject.       
