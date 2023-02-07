@@ -14,6 +14,8 @@ description: ""
 * [Parent Support Group (PSG)'s Address](https://drive.google.com/file/d/10aXBTow5VK30KUUf0n4nTaM1yVak1ryl/view?usp=sharing)
 
 **Secondary One**
+* *Meet-and-Greet with Class Mentors slides will be sent out through Parents Gateway (PG).*
+* [CCA Briefing ](https://drive.google.com/file/d/13zFyiG5HAi0nwNW_adNHYPm-DR_B3jUA/view?usp=sharing)
 
 **Secondary Two**
 
@@ -24,4 +26,4 @@ description: ""
 
 **Secondary Four/Five**
 * [Year Head's Address](https://drive.google.com/file/d/1Ejw0mLwycexO9g8HRY_A4VBms7EQaHXR/view?usp=sharing)
-
+* [Journeying with your child](https://drive.google.com/file/d/1wHyeM8oa0W90kfxZUifRiNOBKX1MTHNY/view?usp=sharing)
