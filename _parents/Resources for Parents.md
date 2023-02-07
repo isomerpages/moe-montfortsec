@@ -14,7 +14,7 @@ description: ""
 * [Parent Support Group (PSG)'s Address](https://drive.google.com/file/d/10aXBTow5VK30KUUf0n4nTaM1yVak1ryl/view?usp=sharing)
 
 **Secondary One**
-* *Meet-and-Greet with Class Mentors slides will be sent out through Parents Gateway (PG).*
+* *Meet-and-Greet with Class Mentors slides will be sent through Parents Gateway (PG).*
 * [CCA Briefing ](https://drive.google.com/file/d/13zFyiG5HAi0nwNW_adNHYPm-DR_B3jUA/view?usp=sharing)
 
 **Secondary Two**
