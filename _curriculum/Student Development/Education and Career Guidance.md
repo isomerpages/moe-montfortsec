@@ -123,10 +123,31 @@ Phone: 6831 1420
 E-appointment system: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre)
 
 ### ECG Resources
+##### POST- SECONDARY PATHWAYS
+Click the links to understand the pathways shared during 2023 Parents Symposium.         
+
+[4E5N Pathways](/files/Sec%204E5N_%20Parent%20Symposium_2023%20(Final).pdf)
+
+[2023 4NT Pathways](/files/2023%20Sec%204NT%20Parent%20Symposium%20(For%20Sharing).pdf)
+
+[2023 4NA Pathways](/files/Sec%204NA%20Pathways%20(MSS%20Parents%20Symposium%203Feb22).pdf)
 
 [A Guide to Post Secondary Exercises]([undefined](https://go.gov.sg/postsecadminguide))     
 An overview of the pathways available and admissions exercises after secondary school.
 
+##### What’s Next
+
+Resources to support your child's decision-making process at their key education stages.
+
+[For N- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-n-level.ashx?la=en&hash=38C22BCDEF5100BBF86352767907BC49C733D7DF)
+
+[For O- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&hash=555A5ECD895D93910DFF28299017A3B2B1A15F68)
+
+[Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972)              
+The possible education and career pathways are aplenty. Follow the story of these 54 individuals’ journeys and be inspired!
+
+
+##### UNDERSTANDING OURSELVES BETTER
 [MySkillsFuture Student Portal]([undefined](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html))    
 A one-stop platform to explore the various educational and career pathways. 
 
@@ -140,17 +161,7 @@ Explore courses based on aggregate type, score, and area of interest offered in 
 [Journeying with Our Children, Supporting Their Success]([undefined(https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8))  
 A guide that provides tips and suggestions for parents to engage their child in conversations and activities related to ECG.
 
-##### What’s Next
-
-Resources to support your child's decision-making process at their key education stages.
-
-[For N- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-n-level.ashx?la=en&hash=38C22BCDEF5100BBF86352767907BC49C733D7DF)
-
-[For O- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&hash=555A5ECD895D93910DFF28299017A3B2B1A15F68)
-
-[Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972)              
-The possible education and career pathways are aplenty. Follow the story of these 54 individuals’ journeys and be inspired!
-
+##### ADMISSION EXERCISES BOOKLETS
 [2023 Intake Exercise (N) Booklet ](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2)  
 Admission Booklet for GCE ‘N’ Level Holders
 
