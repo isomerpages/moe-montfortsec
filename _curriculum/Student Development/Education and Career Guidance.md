@@ -106,7 +106,7 @@ WhatsApp: 6832 9385 
 
 Email: [Leaw\_Hui\_Meen@schools.gov.sg](mailto:Leaw_Hui_Meen@schools.gov.sg)
 
-[Booking Form](https://go.gov.sg/bookecgc)
+[Booking Form](https://go.gov.sg/ecgcmss)
 
         
 
