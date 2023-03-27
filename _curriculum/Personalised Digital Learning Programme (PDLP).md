@@ -103,7 +103,7 @@ Click [here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent and Edusave Withdrawal</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 Apr 2023</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device</span></td>
   </tr>
 </tbody>
@@ -135,11 +135,11 @@ Click [here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For Payment via GIRO, deduction would be made on 6 Mar 2023.</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Between 7 Mar - 29 Mar 2023</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For cash paying students, payment to be made via AXS kiosks, AXS e-station (online at</span> <a href="http://www.axs.com.sg/"><span style="text-decoration:none;color:#BD3527"><a href="www.axs.com.sg">www.axs.com.sg</a></span></a><span style="color:#222;background-color:#EAEAEA">) or AXS m-station (mobile app) </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 April 2023</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device </span></td>
   </tr>
 </tbody>
