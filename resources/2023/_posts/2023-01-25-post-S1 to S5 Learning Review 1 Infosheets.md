@@ -1,11 +1,12 @@
 ---
-title: S1 to S5 Learning Review 1 Infosheet
+title: S1 to S5 Learning Review 1 Infosheets
 permalink: /resources/2023/permalink/
 date: 2023-01-25
 layout: post
 description: ""
 image: ""
 ---
+
 Dear Sec1 - Sec 5 Montfortians
 
 Click here to view your respective LR1 infosheet.
