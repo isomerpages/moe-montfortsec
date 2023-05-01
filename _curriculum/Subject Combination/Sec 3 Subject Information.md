@@ -55,7 +55,7 @@ third_nav_title: Subject Combination
   <tr>
     <td class="tg-baqh"><a href="https://drive.google.com/file/d/12BK9ipKFfJtfE87D50Z52h-Tx8pVVEjN/view" target="_self"> 
           <img src="/images/Art.jpeg"></a></td>
-		<td class="tg-baqh"><a href="https://drive.google.com/file/d/1KpT8Ct7hpRVZW_npM6C8lfrbGSuYdrXy/view?usp=share_link" target="_self"> 
+		<td class="tg-baqh"><a href="https://drive.google.com/file/d/1KpT8Ct7hpRVZW_npM6C8lfrbGSuYdrXy/view?usp=share_link" target="_self">
           <img src="/images/d&amp;t%20us%20(cover).jpg"></a>
   </td></tr>
   <tr>
