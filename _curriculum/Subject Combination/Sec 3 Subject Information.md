@@ -62,7 +62,7 @@ third_nav_title: Subject Combination
     <td class="tg-amwm">Art<br>Express/ Normal (Academic)/ <br>Normal (Technical) Stream</td>
     <td class="tg-amwm">Design &amp; Technology <br>Express/ Normal (Academic)/ Normal (Technical) Stream</td>
   </tr>
-<tr><td class="tg-baqh"><a href="[]/files/upper%20sec%20nt%20nfs%20mss%202024.pdf" target="_self"> 
+<tr><td class="tg-baqh"><a href="https://drive.google.com/file/d/1PDymaCDIGymVA3f9QyChxsodi-rgyZHC/view?usp=share_link" target="_self">
           <img src="/images/nutrition%20&amp;%20food%20science%20cover.jpg"></a>
   </td></tr>
     <tr><td class="tg-amwm">Nutrition &amp; Food Science<br>Express/ Normal (Academic)/ <br>Normal (Technical) Stream</td></tr></tbody>
