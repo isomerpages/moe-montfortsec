@@ -21,6 +21,6 @@ third_nav_title: Subject Combination
 
 ##### 3\. OUT OF STREAM SUBJECT (OOS)![OOS](/images/OOS%20for%20NA.png)
 
-###### 4. S3 NORMAL (ACADEMIC) SUBJECT COMBINATIONS ![](/images/s3%20g2%20subject%20combi.png)<strong><u>Note</u></strong>: Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
+##### 4. S3 NORMAL (ACADEMIC) SUBJECT COMBINATIONS ![](/images/s3%20g2%20subject%20combi.png)<strong><u>Note</u></strong>: Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
 
 ##### 5. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) SUBJECTS/G2![](/images/s3%20g2%20min%20criteria.png)
