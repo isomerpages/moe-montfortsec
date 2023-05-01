@@ -36,5 +36,3 @@ third_nav_title: Subject Combination
 
 ###### 5. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) SUBJECTS/G2
 ![](/images/s3%20g2%20min%20criteria.png)
-
-![](/images/NA4.jpeg)
