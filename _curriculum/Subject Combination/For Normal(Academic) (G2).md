@@ -34,6 +34,7 @@ third_nav_title: Subject Combination
 <strong><u>Notes</u></strong>       
 #Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
 
-### 5. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) SUBJECTS
+###### 5. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) SUBJECTS/G2
+![](/images/s3%20g2%20min%20criteria.png)
 
 ![](/images/NA4.jpeg)
