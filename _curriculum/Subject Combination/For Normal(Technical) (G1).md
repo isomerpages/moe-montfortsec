@@ -18,8 +18,8 @@ Students need to choose based on their aptitude, interests and their future post
 • **Availability of vacancies** in each subject (subject to School Resources and ranking order will be taken into account when the number of applicants exceed the number of places allocated) 
 
 
-##### 2\. SUBJECTS OFFERED FOR S3 NORMAL (TECHNICAL)
+##### 2\. SUBJECTS OFFERED FOR S3 NORMAL (TECHNICAL)![](/images/s3%20nt%20subjects%202023v2.png)
 
 ##### 3\. OUT OF STREAM SUBJECT (OOS)![OOS for NT](/images/OOS%20for%20NT.png)
 
-##### 4\. S3 NORMAL (TECHNICAL) SUBJECT COMBINATIONS /G1 
+##### 4\. S3 NORMAL (TECHNICAL) SUBJECT COMBINATIONS /G1![](/images/s3%20g1%20subject%20combi.png)
