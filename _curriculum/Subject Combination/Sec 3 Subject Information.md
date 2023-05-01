@@ -55,14 +55,14 @@ third_nav_title: Subject Combination
   <tr>
     <td class="tg-baqh"><a href="https://drive.google.com/file/d/12BK9ipKFfJtfE87D50Z52h-Tx8pVVEjN/view" target="_self"> 
           <img src="/images/Art.jpeg"></a></td>
-		<td class="tg-baqh"><a target="/files/upper%20sec%20d&amp;t%202024%20mss.pdf"> 
+		<td class="tg-baqh"><a href="/files/upper%20sec%20d&amp;t%202024%20mss.pdf" target="_self"> 
           <img src="/images/d&amp;t%20us%20(cover).jpg"></a>
   </td></tr>
   <tr>
     <td class="tg-amwm">Art<br>Express/ Normal (Academic)/ <br>Normal (Technical) Stream</td>
     <td class="tg-amwm">Design &amp; Technology <br>Express/ Normal (Academic)/ Normal (Technical) Stream</td>
   </tr>
-<tr><td class="tg-baqh"><a target="/files/upper%20sec%20nt%20nfs%20mss%202024.pdf"> 
+<tr><td class="tg-baqh"><a href="[]/files/upper%20sec%20nt%20nfs%20mss%202024.pdf" target="_self"> 
           <img src="/images/nutrition%20&amp;%20food%20science%20cover.jpg"></a>
   </td></tr>
     <tr><td class="tg-amwm">Nutrition &amp; Food Science<br>Express/ Normal (Academic)/ <br>Normal (Technical) Stream</td></tr></tbody>
