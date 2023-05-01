@@ -27,11 +27,12 @@ Students need to choose based on their aptitude, interests and their future post
 
 ![S3 Exp Subjects](/images/S3%20Express%20Subjects%202023.png)
 
-## 3\. S3 EXPRESS/G3 SUBJECT COMBINATIONS 
+###### 3\. S3 EXPRESS/G3 SUBJECT COMBINATIONS 
 ![](/images/s3%20g3%20subject%20combi.png)
 
 <strong><u>Notes</u></strong>      
-#Students who are exempted from MT or taking MTB should take note that they have 1 less O-level subject.       
-*The humanities subject for combined Humanities and Pure Humanities cannot be the same. Student can only take Social Studies/History if they choose Pure Geography and Social Studies/Geography if they choose Pure History.
+1. Students who are exempted from MT or taking MTB should take note that they have 1 less O-level subject.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+1. The humanities subject for combined Humanities and Pure Humanities cannot be the same. Student can only take Social Studies/History if they choose Pure Geography and Social Studies/Geography if they choose Pure History.
 
 ###### 4\. MINIMUM CRITERIA FOR S3 EXPRESS/G3 SUBJECTS
