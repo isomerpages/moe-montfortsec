@@ -20,9 +20,7 @@ We aim to provide information that could possibly help you and your child make a
 <li>the information of his post-secondary education pathways.</li>
 </ul>
 <br>
-
 <h5><strong>Calendar of Events</strong></h5>
-
 <img alt="Timeline for 2023" src="/images/Timeline%20(2)%20for%202023.png">
 
 <strong>Tips for Choosing Subject Combination</strong>
