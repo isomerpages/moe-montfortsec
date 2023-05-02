@@ -4,35 +4,23 @@ permalink: /curriculum/Subject-Combination/sec-2-na/
 description: ""
 third_nav_title: Subject Combination
 ---
-##### Sec 3 Subject Combination 2024 for Sec 2 Normal (Academic) students in 2023
+#### Sec 3 Subject Combination 2024 for&nbsp;Sec 2 Normal (Academic) students in 2023
 
-_Information is accurate as of 17 January 2023. Any changes will be communicated through Parents Gateway (PG)._  
+ _Information is accurate as of 1 May 2023. Any changes will be communicated through Parents Gateway (PG) and updated in this website._
 
-### 1\. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS
-
+##### 1\. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS
 * **Evidences of demonstrated aptitude and ability**   
-        - Sec 2 Subject Overall Results 
+&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;Sec 2 Subject Overall Results&nbsp;
 
- * **Students’ choices**    
-        Students need to choose based on their aptitude, interests and their future post-secondary option and submit their final choice during the Sec 3 subject combination exercise in October.
+ * **Students’ choices**&nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; Students need to choose based on their aptitude, interests and their future post-secondary option and submit their final choice during the Sec 3 subject combination exercise in October.
 * **Subject-specific / Combination requirements**
-* **Availability of vacancies** in each subject (subject to School Resources) 
+* **Availability of vacancies**&nbsp;in each subject (subject to School Resources and    ranking order will be taken into account when the number of applicants exceed the number of places allocated)&nbsp;
 
-### 2\. SUBJECTS OFFERED FOR S3 NORMAL (ACADEMIC)
+##### 2\. SUBJECTS OFFERED FOR S3 NORMAL (ACADEMIC)/G2![3NA Subjects](/images/S3%20NA%20Subjects%202023.png)
 
-![3NA Subjects](/images/S3%20NA%20Subjects%202023.png)
+##### 3\. OUT OF STREAM SUBJECT (OOS)![OOS](/images/OOS%20for%20NA.png)
 
-### 3\. OUT OF STREAM SUBJECT (OOS)
+##### 4. S3 NORMAL (ACADEMIC) SUBJECT COMBINATIONS ![](/images/s3%20g2%20subject%20combi.png)<strong><u>Note</u></strong>: Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
 
-![OOS](/images/OOS%20for%20NA.png)
-
-### 4. S3 NORMAL (ACADEMIC) SUBJECT COMBINATIONS [*More information will be updated soon*]
-
-
-
-<strong><u>Notes</u></strong>       
-#Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
-
-### 5. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) SUBJECTS
-
-![](/images/NA4.jpeg)
+##### 5. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) SUBJECTS/G2![](/images/s3%20g2%20min%20criteria.png)
