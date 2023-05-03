@@ -13,7 +13,6 @@ Application for direct school admission through the Montfort Leadership through 
 4 May 2023 - 31 May 2023
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3pm. &nbsp;  
-
 For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).&nbsp;
 
 
