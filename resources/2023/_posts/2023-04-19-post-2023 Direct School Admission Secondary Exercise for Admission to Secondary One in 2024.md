@@ -9,4 +9,4 @@ image: ""
 ---
 2023 Direct School Admission-Secondary (DSA-SEC) Exercise for Admission to Secondary One (S1) in 2024- **Montfort Leadership through Sports (Badminton, Softball, Football, Basketball, Rugby and Wushu) Excellence Programme.**
 
-The selection criteria and process for the above talent areas will be updated from early May. For more information on DSA-Sec, please click [here](https://www.moe.gov.sg/secondary/dsa)
+Application will be open from 4 May 2023, 11 am. For more information, please click [here](https://www.montfortsec.moe.edu.sg/admission/dsa/)
