@@ -30,4 +30,4 @@ image: /images/hair for hope 2023_poster.jpg
 5.  Once you have completed the registration, fill in this form to inform us: [I Have Registered for Hair for Hope 2023](https://forms.gle/BeWfFDGcqmZqc1ic7)
 
 Please visit 
-[https://www.hairforhope.org.sg/](https://www.hairforhope.org.sg/) for more information .
+[https://www.hairforhope.org.sg/](https://www.hairforhope.org.sg/) for more information.
