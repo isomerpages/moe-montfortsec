@@ -19,15 +19,15 @@ image: /images/hair for hope 2023_poster.jpg
     
 ### **How to Sign Up?**
 
-1.  Scan the QR code in the poster OR click on this link: [https://www.hairforhope.org.sg/join-satellite-event.php](https://www.hairforhope.org.sg/join-satellite-event.php)**
+1.  Scan the QR code in the poster OR click on this link: [https://www.hairforhope.org.sg/join-satellite-event.php](https://www.hairforhope.org.sg/join-satellite-event.php)
     
 2.  Key in Satellite ID: SE268-5pBw2sb6
     
 3.  Refer to your student ICON email for the step-by-step guide to register (starts from Step 5).
     
-4.  Sign up by Wednesday, 17th May 2023, 5pm.
+4.  Sign up by **Wednesday, 17th May 2023, 5pm**.
     
 5.  Once you have completed the registration, fill in this form to inform us: [I Have Registered for Hair for Hope 2023](https://forms.gle/BeWfFDGcqmZqc1ic7)
 
 Please visit 
-[https://www.hairforhope.org.sg/](https://www.hairforhope.org.sg/) for more information . 
+[https://www.hairforhope.org.sg/](https://www.hairforhope.org.sg/) for more information .
