@@ -32,4 +32,4 @@ Students need to choose based on their aptitude, interests and their future post
 
 1. The humanities subject for combined Humanities and Pure Humanities cannot be the same. Student can only take Social Studies/History if they choose Pure Geography and Social Studies/Geography if they choose Pure History.
 
-##### 4\. MINIMUM CRITERIA FOR S3 EXPRESS/G3 SUBJECTS![](/images/s3%20g3%20min%20criteria.png)
+##### 4\. MINIMUM CRITERIA FOR S3 EXPRESS/G3 SUBJECTS!![](/images/s3%20g3%20min%20criteria%20(new).png)
