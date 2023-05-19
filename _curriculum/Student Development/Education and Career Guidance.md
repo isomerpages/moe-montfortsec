@@ -57,14 +57,14 @@ Montfortians are encouraged to strive towards a higher education pathway and a c
 </table>
 
 
-**ECG Framework:** 
+**ECG Framework:**&nbsp;
 
   
 
-There are 3 contact points designed to provide students with the learning environment to acquire the necessary information to make sense of their possible post-secondary options:     
-(1) Classroom Learning   
-(2) Community Experiences     
-(3) Guidance & Counselling.
+There are 3 contact points designed to provide students with the learning environment to acquire the necessary information to make sense of their possible post-secondary options:&nbsp;    
+(1) Classroom Learning&nbsp;  
+(2) Community Experiences&nbsp;    
+(3) Guidance &amp; Counselling.
 
 
 <style type="text/css">
@@ -98,15 +98,9 @@ There are 3 contact points designed to provide students with the learning enviro
 
 ### ECG Counselling
   
-Our ECG Counsellor, Ms. Leaw Hui Meen, is in school every Wednesdays. Come and have a chat with her at Pinnacle’s ECG Corner to find out more about your post-secondary options, possible education and career pathways, and strengths and interests! 
+We are currently awaiting a new ECGC to be attached to our school. In the meanwhile, do look for your CMs or book an appointment with the ECG centre @MOE.&nbsp;
 
-To book an appointment with Ms. Leaw, please use the following:
 
-WhatsApp: 6832 9385 
-
-Email: [Leaw\_Hui\_Meen@schools.gov.sg](mailto:Leaw_Hui_Meen@schools.gov.sg)
-
-[Booking Form](https://go.gov.sg/ecgcmss)
 
         
 
@@ -116,11 +110,11 @@ The ECG Centre @ MOE provides ECG counselling services for students during perio
 
 To book an appointment, please contact:
 
-Email: [MOE\_ECG@moe.gov.sg](mailto:MOE_ECG@moe.gov.sg)
+Email:&nbsp;[MOE\_ECG@moe.gov.sg](mailto:MOE_ECG@moe.gov.sg)
 
 Phone: 6831 1420
 
-E-appointment system: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre)
+E-appointment system:&nbsp;[https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre)
 
 ### ECG Resources
 ##### POST- SECONDARY PATHWAYS
@@ -132,33 +126,33 @@ Click the links to understand the pathways shared during 2023 Parents Symposium.
 
 [2023 4NA Pathways](/files/Sec%204NA%20Pathways%20(MSS%20Parents%20Symposium%203Feb22).pdf)
 
-[A Guide to Post Secondary Exercises]([undefined](https://go.gov.sg/postsecadminguide))     
+[A Guide to Post Secondary Exercises]([undefined](https://go.gov.sg/postsecadminguide))&nbsp;    
 An overview of the pathways available and admissions exercises after secondary school.
 
 ##### What’s Next
 
 Resources to support your child's decision-making process at their key education stages.
 
-[For N- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-n-level.ashx?la=en&hash=38C22BCDEF5100BBF86352767907BC49C733D7DF)
+[For N- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-n-level.ashx?la=en&amp;hash=38C22BCDEF5100BBF86352767907BC49C733D7DF)
 
-[For O- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&hash=555A5ECD895D93910DFF28299017A3B2B1A15F68)
+[For O- Level Students ](https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&amp;hash=555A5ECD895D93910DFF28299017A3B2B1A15F68)
 
-[Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972)              
+[Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972)              
 The possible education and career pathways are aplenty. Follow the story of these 54 individuals’ journeys and be inspired!
 
 
 ##### UNDERSTANDING OURSELVES BETTER
-[MySkillsFuture Student Portal]([undefined](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html))    
-A one-stop platform to explore the various educational and career pathways. 
+[MySkillsFuture Student Portal]([undefined](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html))&nbsp;   
+A one-stop platform to explore the various educational and career pathways.&nbsp;
 
   
 
-[CourseFinder]([undefined](https://www.moe.gov.sg/coursefinder))    
-Explore courses based on aggregate type, score, and area of interest offered in post-secondary institutes (polytechnics & ITE).
+[CourseFinder]([undefined](https://www.moe.gov.sg/coursefinder))&nbsp;   
+Explore courses based on aggregate type, score, and area of interest offered in post-secondary institutes (polytechnics &amp; ITE).
 
   
 
-[Journeying with Our Children, Supporting Their Success]([undefined(https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8))  
+[Journeying with Our Children, Supporting Their Success]([undefined(https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&amp;hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8))  
 A guide that provides tips and suggestions for parents to engage their child in conversations and activities related to ECG.
 
 ##### ADMISSION EXERCISES BOOKLETS
@@ -168,5 +162,5 @@ Admission Booklet for GCE ‘N’ Level Holders
 [2023 Intake Exercise (O) Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf?sfvrsn=182e5d54_2)   
 ITE Admission Booklet for GCE ‘O’ Level Holders
 
-[2023 Joint Admission Exercise Booklet ](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx?la=en&hash=AEC48D61A122C8011AD4CAE0E978567828BB1EDB)    
+[2023 Joint Admission Exercise Booklet ](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx?la=en&amp;hash=AEC48D61A122C8011AD4CAE0E978567828BB1EDB)    
 For Candidates seeking admission to Junior Colleges, Millenia Institute, Polytechnics, Institute of Technical Education
