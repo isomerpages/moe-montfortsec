@@ -89,7 +89,7 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>2 Service</td>
     <td>Mr Caleb Chin Jia Le<br>chin_jia_le@moe.edu.sg</td>
-    <td>Khairunnisa Bte Yahya<br>khairunnisa_yahya@moe.edu.sg</td>
+    <td>Ms Khairunnisa Bte Yahya<br>khairunnisa_yahya@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Team Spirit</td>
