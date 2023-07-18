@@ -1,6 +1,6 @@
 ---
 title: "Hair for Hope: Appeal for Online Donation"
-permalink: /resources/2023/permalink/
+permalink: /resources/2023/hairforhopeappealforonlinedonation/
 date: 2023-05-30
 layout: post
 description: ""
