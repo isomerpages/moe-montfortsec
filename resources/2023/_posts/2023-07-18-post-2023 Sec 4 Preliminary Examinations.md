@@ -10,7 +10,7 @@ Dear Sec 4 / 5 Montfortians
 
 Click here to view your Preliminary Examinations infosheets.
 
-[2023 Sec 4E/5N Prelim Infosheet](/files/2023%204e5n%20prelim%20infosheet.pdf)
+[2023 Sec 4E/ 5N Prelim Infosheet](/files/2023%204e5n%20prelim%20infosheet.pdf)
 
 [2023 Sec 4E/ 5N Prelim Timetable](/files/2023%204e5n%20prelim%20timetable.pdf)
 
