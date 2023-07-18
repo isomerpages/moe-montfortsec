@@ -6,17 +6,17 @@ third_nav_title: Our Montfort Family
 ---
 ### Secondary 1
 
-<table  style="text-align: center">
+<table style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3"  style="text-align: center">Class Mentors (in alphabetical order)</th>
+    <th colspan="3" style="text-align: center">Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>1 Compassion</td>
     <td>Mr JS Sasikumar<br>js_sasikumar@moe.edu.sg</td>
-    <td>Ms Koh Xin Wei (Semester 1 only)<br>koh_xin_wei_a@moe.edu.sg<br>Ms Ang Guat Hong (Semester 2 only)<br>ang_guat_hong@moe.edu.sg</td>
+    <td>Ms Ang Guat Hong <br>ang_guat_hong@moe.edu.sg</td>
   </tr>
   <tr>
     <td>1 Humility</td>
@@ -26,7 +26,7 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>1 Respect<br> </td>
     <td>Mr R Jayakumar<br>r_jayakumar@moe.edu.sg</td>
-    <td>Ms Sheena Lee Jia En<br>sheena_lee_jia_en@moe.edu.sg</td>
+    <td>Mr Soh Yi Jie<br>soh_yi_jie@moe.edu.sg</td>
   </tr>
   <tr>
     <td>1 Integrity</td>
@@ -51,7 +51,7 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>1 CHRISTE</td>
     <td>Mr Sin Kum Sing, Simon<br>sin_kum_sing@moe.edu.sg</td>
-    <td>Ms Teo Wan Lin (Term 2 onwards)<br>teo_wan_lin@moe.edu.sg</td>
+    <td>Ms Teo Wan Lin <br>teo_wan_lin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -59,10 +59,10 @@ third_nav_title: Our Montfort Family
     
 ### Secondary 2
 
-<table  style="text-align: center">
+<table style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3"  style="text-align: center">    Class Mentors (in alphabetical order)</th>
+    <th colspan="3" style="text-align: center">    Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
@@ -111,10 +111,10 @@ third_nav_title: Our Montfort Family
  
 ### Secondary 3
 
-<table  style="text-align: center">
+<table style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3"  style="text-align: center">Class Mentors (in alphabetical order)</th>
+    <th colspan="3" style="text-align: center">Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
@@ -126,9 +126,8 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>3 Humility</td>
     <td>Ms Tan Wan Sim<br>tan_wan_sim_a@moe.edu.sg</td>
-    <td>Mr Wong De Wei, Shawn (Term 2 onwards)</td>
-  </tr>
-  <tr>
+    <td>Dr Wong De Wei, Shawn <br>wong_de_wei_shawn@moe.edu.sg
+</td></tr><tr>
     <td>3 Respect</td>
     <td>Ms Kavitha Supramanian<br>kavitha_a@moe.edu.sg</td>
     <td>Ms Tan Pei Pei, Eleanor<br>tan_pei_pei_eleanor@moe.edu.sg</td>
@@ -141,7 +140,7 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>3 Service</td>
     <td>Ms Chua Jing Lin, Eunice<br>chua_jing_lin_eunice@moe.edu.sg</td>
-    <td>Ms Tirunavukkarasu Poongodi (Term 2 onwards)<br>tirunavukkarasu_poongodi@moe.edu.sg</td>
+    <td>Ms Tirunavukkarasu Poongodi <br>tirunavukkarasu_poongodi@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Team Spirit</td>
@@ -151,7 +150,7 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>3 Excellence</td>
     <td>Mr Lim Kim Huat<br>lim_kim_huat@moe.edu.sg</td>
-    <td>Ms Low Guan Lin, Jamie (T2 onwards)<br>low_guan_lin@moe.edu.sg</td>
+    <td>Ms Low Guan Lin, Jamie <br>low_guan_lin@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 CHRISTE</td>
@@ -168,10 +167,10 @@ third_nav_title: Our Montfort Family
 		
 ### 	Secondary 4 &amp; 5
 
-<table  style="text-align: center">
+<table style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3"  style="text-align: center">  Class Mentors (in alphabetical order)</th>
+    <th colspan="3" style="text-align: center">  Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
