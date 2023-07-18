@@ -103,7 +103,7 @@ third_nav_title: Our Montfort Family
   </tr>
   <tr>
     <td>2 CHRISTE</td>
-    <td>Mr Lim Cheng Teik, Sebastian (Semester 1 only)<br>lim_cheng_teik_sebastian@moe.edu.sg</td>
+    <td>Ms Xiang Yifei<br>xiang_yifei@moe.edu.sg</td>
     <td>Ms Nithiyaa R<br>nithiyaa_rajaratnam@moe.edu.sg</td>
   </tr>
 </tbody>
@@ -121,7 +121,7 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>3 Compassion</td>
     <td>Mr Heng Wei Chin, Wilson<br>heng_wei_chin_wilson@moe.edu.sg</td>
-    <td>Liu Yong Feng<br>liu_yong_feng@moe.edu.sg</td>
+    <td>Mr Liu Yong Feng<br>liu_yong_feng@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Humility</td>
@@ -177,7 +177,7 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>4 Excellence</td>
     <td>Ms Noor Siyah Salleh<br>noor_siyah_salleh@moe.edu.sg</td>
-    <td>Mr Wong Teck Piaw (Semester 1 only)<br>wong_teck_piaw@moe.edu.sg</td>
+    <td>Ms Regunathan Niveda<br>Regunathan_Niveda@moe.edu.sg</td>
   </tr>
   <tr>
     <td>4 Team Spirit</td>
@@ -212,12 +212,12 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>4 Compassion</td>
     <td>Mr Hairul Nizam Bin Ramli<br>hairul_nizam_ramli@moe.edu.sg</td>
-    <td>Ms Ow Ju‐Lin<br>ow_ju-lin@moe.edu.sg</td>
+    
   </tr>
   <tr>
     <td>5 Respect</td>
-    <td>Kumari Shanker<br>kumari_shanker@moe.edu.sg</td>
-    <td>Wong Boon Chong, Kenny<br>wong_boon_chong_kenny@moe.edu.sg</td>
+    <td>Ms Kumari Shanker<br>kumari_shanker@moe.edu.sg</td>
+    <td>Mr Wong Boon Chong, Kenny<br>wong_boon_chong_kenny@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
