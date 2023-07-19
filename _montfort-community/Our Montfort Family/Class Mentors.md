@@ -177,8 +177,8 @@ third_nav_title: Our Montfort Family
   <tr>
     <td>4 Excellence</td>
     <td>Ms Noor Siyah Salleh<br>noor_siyah_salleh@moe.edu.sg</td>
-    <td>Ms Regunathan Niveda<br>Regunathan_Niveda@moe.edu.sg</td>
-  </tr>
+    <td>Ms Regunathan Niveda<br>
+  </td></tr>
   <tr>
     <td>4 Team Spirit</td>
     <td>Ms Ng Wei Ying<br>ng_wei_ying_a@moe.edu.sg</td>
