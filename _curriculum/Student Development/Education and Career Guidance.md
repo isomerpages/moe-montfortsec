@@ -126,7 +126,7 @@ Click the links to understand the pathways shared during 2023 Parents Symposium.
 
 [2023 4NA Pathways](/files/Sec%204NA%20Pathways%20(MSS%20Parents%20Symposium%203Feb22).pdf)
 
-[A Guide to Post Secondary Exercises]([undefined](https://go.gov.sg/postsecadminguide))&nbsp;    
+[A Guide to Post Secondary Exercises](https://go.gov.sg/postsecadminguide)&nbsp;    
 An overview of the pathways available and admissions exercises after secondary school.
 
 ##### What’s Next
