@@ -18,9 +18,8 @@ description: ""
           <img style="width:100%" src="/images/banner_staging.jpg"></a></center>
 
 <center><h4>CCA Schedule</h4></center>
-<center>
-	
-[Click here](/files/consolidated%20cca%20timings%202023%20updated%2019%20jul.pdf)
+<center>Click <a href="/files/consolidated%20cca%20timings%202023%20updated%2019%20jul.pdf">here</a>
+
 
 
 </center>
