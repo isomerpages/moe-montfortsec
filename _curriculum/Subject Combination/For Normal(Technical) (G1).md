@@ -23,5 +23,5 @@ Students need to choose based on their aptitude, interests and their future post
 
 ##### 3\. OUT OF STREAM SUBJECT (OOS)![OOS for NT](/images/OOS%20for%20NT.png)
 
-##### 4\. S3 NORMAL (TECHNICAL) SUBJECT COMBINATIONS /G1
+##### 4\. S3 NORMAL (TECHNICAL)/G1 SUBJECT COMBINATIONS
 ![S3 G1 Subj Combi](/images/s3%20g1%20subject%20combi_1.png)
