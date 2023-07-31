@@ -17,9 +17,8 @@ We aim to provide information that could possibly help you and your child make a
 <li>the list of subjects offered in each stream;</li>
 <li>the eligibility criteria for Secondary 3 subjects (if any);</li>
 <li>the Information of Secondary 3 subjects;</li>
-<li>the information of his post-secondary education pathways.</li>
-</ul>
-<br>
+	<li>the information of his post-secondary education pathways.
+</li>
 <h5><strong>Calendar of Events</strong></h5>
 <img alt="Timeline for 2023" src="/images/Timeline%20(2)%20for%202023.png">
 
@@ -35,4 +34,4 @@ There is no “best” or “most prestigious” subject combination that a Mont
 
 Click the video to watch a video talk by our ECG Counsellor, Ms. Leaw Hui Meen on choosing subject combination.
 
-<a href="https://drive.google.com/file/d/135041pPKLzQNszkuXI0glcTAlzTRsi27/view" target="_self"><img src="/images/ECG%20video%20picture.png"></a>
+<a href="https://drive.google.com/file/d/135041pPKLzQNszkuXI0glcTAlzTRsi27/view" target="_self"><img src="/images/ECG%20video%20picture.png"></a></ul>
