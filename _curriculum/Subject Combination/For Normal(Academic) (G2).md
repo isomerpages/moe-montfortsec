@@ -18,12 +18,12 @@ third_nav_title: Subject Combination
 * **Availability of vacancies**&nbsp;in each subject (subject to School Resources and    ranking order will be taken into account when the number of applicants exceed the number of places allocated)&nbsp;
 
 ##### 2\. SUBJECTS OFFERED FOR S3 NORMAL (ACADEMIC)/G2
-![S3 NA Subj](/images/s3%20na%20subjects%202023_1.png)
+![S3 NA subjects](/images/s3%20na%20subjects%202023_2.png)
 
 ##### 3\. OUT OF STREAM SUBJECT (OOS)![OOS](/images/OOS%20for%20NA.png)
 
 ##### 4. S3 NORMAL (ACADEMIC)/G2 SUBJECT COMBINATIONS
-![S3 NA Subject Combi](/images/s3%20g2%20subject%20combi_1.png)
+![S3 G2 Subject Combi](/images/s3%20g2%20subject%20combi_2.png)
 <strong><u>Note</u></strong>: Students who are exempted from MT or taking MTB should take note that they have 1 less N-level subject.
 
 ##### 5. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) /G2 SUBJECTS![](/images/s3%20g2%20min%20criteria.png)
