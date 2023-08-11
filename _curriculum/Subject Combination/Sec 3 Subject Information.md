@@ -43,13 +43,13 @@ third_nav_title: Subject Combination
     <td class="tg-amwm">Pure Literature<br>Express Stream</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="https://drive.google.com/file/d/1gfkKvnO3ZPVr0fcH9X92PAS9SxXEJpQq/view" target="_self"> 
+    <td class="tg-baqh"><a href="https://drive.google.com/file/d/17OIgbAlirTn1-IY7PDSmR12YAbqM42IJ/view?usp=sharing" target="_self"> 
           <img src="/images/POA.jpeg"></a></td>
     <td class="tg-baqh"><a href="https://drive.google.com/file/d/1u3zcYbPTFgJIJLsahM04NMiZS-8jNLks/view" target="_self"> 
           <img src="/images/Computing.jpeg"></a></td>
   </tr>
   <tr>
-    <td class="tg-amwm">Principles of Accounts <br>Normal (Academic) Stream</td>
+    <td class="tg-amwm">Principles of Accounts <br>Express/Normal (Academic) Stream</td>
 <td class="tg-amwm">Computing <br>Express Stream</td>
   </tr>
   <tr>
