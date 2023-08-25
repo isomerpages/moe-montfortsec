@@ -20,7 +20,7 @@ Tel: 6510 7065
 Email: [Jim\_Bek@moe.edu.sg](mailto:Jim_Bek@moe.edu.sg)
 
  
- **Ms. Farah Jezmine Binte Mohamad Seth, School Welfare Officer**    
+ **Ms. Farah Jezmine Binte Mohamad Seth, Student Welfare Officer**    
 Tel: 6510 7065      
 Email: [farah_jezmine_mohamad_seth@moe.edu.sg](mailto:aishwariyaa_rajandra@moe.edu.sg)
 
