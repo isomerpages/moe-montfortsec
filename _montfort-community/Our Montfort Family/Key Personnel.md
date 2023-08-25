@@ -52,7 +52,7 @@ third_nav_title: Our Montfort Family
 		<td class="tg-0lax">HOD/ Aesthetics, Craft and Technology - <span style="font-weight:bold">Ms Thian Hui Ling</span> (thian_hui_ling@moe.edu.sg)	
     </td>
   </tr>
-  <td class="tg-0lax">Subject Head/ English Language – <span style="font-weight:bold">Ms Tan Pei Pei Eleanor </span>(tan_pei_pei_eleanor@moe.edu.sg)</td>
+  <tr><td class="tg-0lax">Subject Head/ English Language – <span style="font-weight:bold">Ms Tan Pei Pei Eleanor </span>(tan_pei_pei_eleanor@moe.edu.sg)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Subject Head/ Science (Acting) - <span style="font-weight:bold">Mdm Khairunnisa Bte Yahya</span> (khairunnisa_yahya@moe.edu.sg)</td>
@@ -88,8 +88,8 @@ third_nav_title: Our Montfort Family
     <td class="tg-0lax">Operations Manager 1 – <span style="font-weight:bold">Mr Benny Ng Kum Weng</span> (ng_kum_weng@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Operations Manager 2 – <span style="font-weight:bold">Mr Ek Gek Huat</span> (ek_gek_huat@moe.edu.sg)
-  </tr>
+    <td class="tg-0lax">Operations Manager 2 – <span style="font-weight:bold">Mr Ng Hon Yew Alvin</span> (ng_hon_yew_alvin@moe.edu.sg)
+  </td></tr>
   <tr>
     <td class="tg-0lax">Senior Teacher/ Science (Biology) – <span style="font-weight:bold">Mr Azman Bin Hussin </span>(azman_hussin@moe.edu.sg)</td>
   </tr>
