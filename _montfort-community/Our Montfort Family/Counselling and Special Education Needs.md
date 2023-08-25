@@ -26,13 +26,13 @@ Email: [farah_jezmine_mohamad_seth@moe.edu.sg](mailto:aishwariyaa_rajandra@moe.
 
   
 
-**Mdm June Yeo Swee Lin, Allied Educator (Learning & Behavioural Support)**    
+**Mdm June Yeo Swee Lin, Senior Special Education Needs Officer (SENO)**    
 Tel: 6510 7073    
  Email: [june\_yeo@moe.edu.sg](mailto:june_yeo@moe.edu.sg)
 
   
 
-**Ms Bai Huiying, Allied Educator (Learning & Behavioural Support)**   
+**Ms Bai Huiying, Senior Special Education Needs Officer (SENO)**   
 Tel: 6510 7073    
 Email: [bai\_huiying@moe.edu.sg](mailto:bai_huiying@moe.edu.sg)
 
