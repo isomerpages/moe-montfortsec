@@ -8,7 +8,7 @@ image: ""
 ---
 Dear Sec 1 - Sec 3 Montfortians
 
-Click here to view your respective EoY infosheet. 
+Click here to view your EoY infosheets. 
 
 [2023 Sec 1 EoY Infosheet](/files/2023%20sec%201%20eoy%20infosheet.pdf)
 
