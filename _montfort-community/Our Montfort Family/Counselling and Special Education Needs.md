@@ -4,7 +4,6 @@ permalink: /montfort-community/Montfort-Family/counselling-and-special-education
 description: ""
 third_nav_title: Our Montfort Family
 ---
-
 ### Contacts
 
 **Ms Silver, School Counsellor**       
@@ -21,19 +20,19 @@ Tel: 6510 7065
 Email: [Jim\_Bek@moe.edu.sg](mailto:Jim_Bek@moe.edu.sg)
 
  
- **Ms. Aishwaryaa D/O Rajandra, School Welfare Officer**    
+ **Ms. Farah Jezmine Binte Mohamad Seth, Student Welfare Officer**    
 Tel: 6510 7065      
-Email: [aishwariyaa\_rajandra@moe.edu.sg](mailto:aishwariyaa_rajandra@moe.edu.sg)
+Email: [farah_jezmine_mohamad_seth@moe.edu.sg](mailto:aishwariyaa_rajandra@moe.edu.sg)
 
   
 
-**Mdm June Yeo Swee Lin, Allied Educator (Learning & Behavioural Support)**    
+**Mdm June Yeo Swee Lin, Senior Special Education Needs Officer (SENO)**    
 Tel: 6510 7073    
  Email: [june\_yeo@moe.edu.sg](mailto:june_yeo@moe.edu.sg)
 
   
 
-**Ms Bai Huiying, Allied Educator (Learning & Behavioural Support)**   
+**Ms Bai Huiying, Senior Special Education Needs Officer (SENO)**   
 Tel: 6510 7073    
 Email: [bai\_huiying@moe.edu.sg](mailto:bai_huiying@moe.edu.sg)
 
