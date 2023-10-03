@@ -20,8 +20,6 @@ Teacher - **Mr Muhammad Idris Bin Anwar (Physical Education & Elements of Busin
 
 Teacher - **Mr Tan Eng Hwee**    
 
-Teacher - **Mr Wong Teck Piaw**  
-
 Teacher - **Mr Yeo Kok How Adam** 
 
 Student Health Advisor: **Ms Rohani Binte Jalil**
