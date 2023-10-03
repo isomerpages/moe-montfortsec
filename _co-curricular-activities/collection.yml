@@ -2,8 +2,8 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Catholic Society.md
       - Montfort Sports Excellence Programme (MSPEX).md
+      - Catholic Society.md
       - Co Curricular Activities.md
       - Clubs and Societies/.keep
       - Clubs and Societies/IMDA (Audio Visual Club).md
