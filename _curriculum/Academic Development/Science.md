@@ -6,7 +6,7 @@ third_nav_title: Academic Development
 ---
 ### Mission
 
-We are a **_community_** which aims to develop **_skills, competencies_** and **_values_** in our students so as to enable them to better serve **_the 21st century society_**.
+We are a&nbsp;**_community_**&nbsp;which aims to develop&nbsp;**_skills, competencies_**&nbsp;and&nbsp;**_values_**&nbsp;in our students so as to enable them to better serve&nbsp;**_the 21st century society_**.
 
 We will achieve our mission by:
 
@@ -15,53 +15,52 @@ We will achieve our mission by:
 
 ### Our Team  
 
-Head of Department – **Mr Yu Yang Ming Ernest**
+Head of Department –&nbsp;**Mr Yu Yang Ming Ernest**
 
-Subject Head / Science (Acting) - **Ms Khairunissa Bte Yahya**
+Subject Head / Science (Acting) -&nbsp;**Ms Khairunissa Bte Yahya**
 
-School Staff Developer - **Ms Eileen Lee Poh Ping** 
+School Staff Developer -&nbsp;**Ms Eileen Lee Poh Ping**&nbsp;
 
-Head Of Department / Character and Citizenship Education (CCE) – **Mrs Tan-Yeo Su Lynn Jaime**
+Head Of Department / Character and Citizenship Education (CCE) –&nbsp;**Mrs&nbsp;Tan-Yeo Su Lynn Jaime**
 
-Head of Department / Information and Communication Technology (ICT) - **Mr Aaron Cheng Chi En**
+Head of Department / Information and Communication Technology (ICT) -&nbsp;**Mr Aaron Cheng Chi En**
 
-Senior Teacher (Biology) – **Mr Azman Bin Hussin**
+Senior Teacher (Biology) –&nbsp;**Mr Azman Bin Hussin**
 
-Teacher – **Ms Chew Kit Har**
+Teacher –&nbsp;**Ms Chew Kit Har**
 
-Teacher -  **Mr Chia Yong Koon**
+Teacher -&nbsp; **Mr Chia Yong Koon**
 
-Teacher – **Ms Chua Yingying Joyce** 
+Teacher –&nbsp;**Ms Chua Yingying Joyce**&nbsp;
 
-Teacher – **Mr Eric Loh Tian Hon**
+Teacher –&nbsp;**Mr Eric Loh Tian Hon**
 
-Teacher – **Ms Ho Hwee Bin**
+Teacher –&nbsp;**Ms Ho Hwee Bin**
 
-Teacher – **Mr Js Sasikumar**
+Teacher –&nbsp;**Mr Js Sasikumar**
 
-Teacher – **Mr Lim Kim Huat**
+Teacher –&nbsp;**Mr Lim Kim Huat**
 
-Teacher - **Ms Ong Qiulin**
+Teacher -&nbsp;**Ms Ong Qiulin**
 
-Teacher – **Mrs Tan-Sin Li Huang**
+Teacher –&nbsp;**Mrs Tan-Sin Li Huang**
 
-Teacher – **Mr Wong De Wei Shawn**
+Teacher –&nbsp;**Dr Wong De Wei Shawn**
 
-Laboratory Technician – **Ms Lee Boy San**
+Laboratory Technician –&nbsp;**Ms Lee Boy San**
 
-Laboratory Technician – **Mdm Roslne Binte Karsani**
+Laboratory Technician –&nbsp;**Mdm Roslne Binte Karsani**
 
-Laboratory Technician – **Mr Thomas Ang Juay Theng**
+Laboratory Technician –&nbsp;**Mr Thomas Ang Juay Theng**
 
 ### Instructional Programme
 
 **Our Curriculum Feature**
 
-<img src="/images/science_prog1.png" 
-     style="width:45%">
+<img src="/images/science_prog1.png" style="width:45%">
 
 
-We have tiered our science programmes to give our students an EDGE when they complete their secondary education with us.
+We have tiered our science programmes to give our students an&nbsp;EDGE&nbsp;when they complete their secondary education with us.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -86,18 +85,16 @@ We have tiered our science programmes to give our students an EDGE when they c
 
 **Our Curriculum Framework**  
 
-Science Department’s Instructional Programme is driven by **Inquiry-Based** **Science Department’s direction is driven by Inquiry-Based Learning Approach and guided by SOLO Taxonomy of Learning Outcomes and 5 E’s model of inquiry.**
+Science Department’s Instructional Programme is driven by&nbsp;**Inquiry-Based**&nbsp;**Science Department’s direction is driven by Inquiry-Based Learning Approach and guided by SOLO Taxonomy of Learning Outcomes and 5 E’s model of inquiry.**
 
 
-<img src="/images/Under%20Our%20curriculum%20framework_pic1.jpeg" 
-     style="width:25%">
+<img src="/images/Under%20Our%20curriculum%20framework_pic1.jpeg" style="width:25%">
 		 
 ![](/images/Under%20Our%20curriculum%20framework_pic2.png)
 
 <strong><u>Food and Consumer Education</u></strong>
 
-<img src="/images/Under%20Food%20and%20Consumer%20Education%20(Refer%20to%20word%20document).png" 
-     style="width:65%">
+<img src="/images/Under%20Food%20and%20Consumer%20Education%20(Refer%20to%20word%20document).png" style="width:65%">
 
 
 **Our Curriculum Objectives**

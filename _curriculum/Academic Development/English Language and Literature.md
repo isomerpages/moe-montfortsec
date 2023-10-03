@@ -8,65 +8,59 @@ third_nav_title: Academic Development
 
   
 
-*   To equip our students with aural, oral and written skills to express thoughts and ideas and subtleties in communicating proficiently and effectively in Standard English.  
+*   To equip our students with aural, oral and written skills to express thoughts and ideas and subtleties in communicating proficiently and effectively in Standard English. &nbsp;
 *   To offer a wide range of opportunities for students to explore the use of language, stimulate their interest and encourage their enjoyment of English.
 
 ### Our Team
 
-Head of Department  – **Mr Kang Soon Leong Casimir**
+Head of Department&nbsp; –&nbsp;**Mr Kang Soon Leong Casimir**
 
-Subject Head – **Mrs Eleanor Leong**
+Subject Head –&nbsp;**Mrs Eleanor Leong**
 
-Head of Department / Special Educational Needs (SEN)  – **Mr Lee Beng Wah**
+Head of Department / Special Educational Needs (SEN)&nbsp; –&nbsp;**Mr Lee Beng Wah**
 
-Senior Teacher (Music) – **Ms Chua Jing Lin Eunice**
+Senior Teacher (Music) –&nbsp;**Ms Chua Jing Lin Eunice**
 
-Teacher – **Mr Azahar Bin Mohamed**
+Teacher –&nbsp;**Mr Azahar Bin Mohamed**
 
-Teacher – **Mr Azman Bin Akmad**
+Teacher –&nbsp;**Mr Azman Bin Akmad**
 
-Teacher - **Mr Hector Tan Teck Huat**
+Teacher -&nbsp;**Mr Hector Tan Teck Huat**
 
-Teacher - **Mr Joshua Ho Jin Teck**
+Teacher -&nbsp;**Mr Joshua Ho Jin Teck**
 
-Teacher - **Ms Kumari Shanker**
+Teacher -&nbsp;**Ms Kumari Shanker**
 
-Teacher – **Mrs Lee Poh Lin**
+Teacher –&nbsp;**Mrs Lee Poh Lin**
 
-Teacher - **Ms Megan Tan Shu Ning**
+Teacher -&nbsp;**Ms Megan Tan Shu Ning**
 
-Teacher - **Ms Nithiyaa D/O Rajaratnam**  
+Teacher -&nbsp;**Ms Nithiyaa D/O Rajaratnam**  
 
-Teacher – **Mdm Ow Ju-Lin**
+Teacher –&nbsp;**Ms Tey Ser Ling**
 
-Teacher - **Ms Sheena Lee Jia En**
-
-Teacher – **Ms Tey Ser Ling**
-
-Teacher - **Mr Wong Jun Pei Nicholas**
+Teacher -&nbsp;**Mr Wong Jun Pei Nicholas**
 
 ### Instructional Programme
 
 
-<img src="/images/eng_prog1.png" 
-     style="width:65%">
+<img src="/images/eng_prog1.png" style="width:65%">
 
 Our English Language Department recognises the need for English teaching to integrate both skills and knowledge. As such we have adopted a skills-based instruction coupled with relevant themes that provide content knowledge, vocabulary and awareness of current affairs.
 
 The department has carefully organised an English curriculum with Spiral Progression, Process Orientation, Structuring Consolidation and Enabling Application as the key facets that underpin our Teaching and Learning Programme.
 
-<img src="/images/eng_prog2.png" 
-     style="width:65%">
+<img src="/images/eng_prog2.png" style="width:65%">
 		
 **English Language (Lower Secondary)**
 
   
 
-The objective of the Lower Secondary English Language programme is to ensure that our students develop all the skills necessary for communication and language competency by interacting with rich texts and being provided with the opportunities to use and apply the language in authentic settings, through fun and collaborative ways. 
+The objective of the Lower Secondary English Language programme is to ensure that our students develop all the skills necessary for communication and language competency by interacting with rich texts and being provided with the opportunities to use and apply the language in authentic settings, through fun and collaborative ways.&nbsp;
 
   
 
-The Secondary one classes will have the opportunity to go through a Presentation and Communications Workshop, where they will acquire skills to communicate effectively and conduct presentations confidently. They will do this in fun and engaging ways through role-plays and scenarios like presenting information to various groups of audience, for example, CCA mates, peers and visitors to our school. Students will be keenly attuned to the need to consider their tone, articulation, purpose, audience and context as they prepare their speeches. 
+The Secondary one classes will have the opportunity to go through a Presentation and Communications Workshop, where they will acquire skills to communicate effectively and conduct presentations confidently. They will do this in fun and engaging ways through role-plays and scenarios like presenting information to various groups of audience, for example, CCA mates, peers and visitors to our school. Students will be keenly attuned to the need to consider their tone, articulation, purpose, audience and context as they prepare their speeches.&nbsp;
 
   
 
@@ -89,8 +83,7 @@ In the first two years of their study, students explore the three literary genre
 The study of Literature in Montfort Secondary seeks to empower students to actively construct meaning in texts and see themselves and the world from diverse perspectives. It inspires students to empathise with others, find their own voice as they reflect on the human condition with discernment, and to consider the impact of their beliefs and actions on society.
 
 
-<img src="/images/eng_prog3.jpeg" 
-     style="width:65%">
+<img src="/images/eng_prog3.jpeg" style="width:65%">
 
   
 

@@ -30,8 +30,6 @@ Teacher – **Mr Hairul Nizam Bin Ramli**
 
 Teacher - **Mr Kek Liok Ken Michael**
 
-Teacher – **Ms Koh Xin Wei**
-
 Teacher - **Mr Pang Jun Yi**
 
 Teacher – **Ms Tan Wan Sim (Mathematics & Elements of Business Skills)**

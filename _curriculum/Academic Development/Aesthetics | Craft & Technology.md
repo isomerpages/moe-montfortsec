@@ -12,29 +12,27 @@ We seek to develop a life-long interest in an appreciation of the arts.  Nurture
 
 Head of Department - **Ms Thian Hui Ling**
 
-Teacher - **Mr Khairyl B Hashim (Art)**
+Teacher -&nbsp;**Mr Khairyl B Hashim (Art)**
 
-Teacher - **Ms Rafidah Binte Muhammad Nasir (Art)**
+Teacher -&nbsp;**Ms Rafidah Binte Muhammad Nasir (Art)**
 
-Teacher - **Mr Yong Keen Whye (Art)**
+Teacher -&nbsp;**Mr Yong Keen Whye (Art)**
 
-Teacher - **Ms Agnes David (FCE)**
+Teacher -&nbsp;**Ms Agnes David (FCE)**
 
-Teacher - **Mdm Jamilah Bte Rati (FCE)**
+Teacher -&nbsp;**Mdm Jamilah Bte Rati (FCE)**
 
-Teacher - **Ms Jeslin Ang Hui Min (FCE)**
+Teacher -&nbsp;**Ms Jeslin Ang Hui Min (FCE)**
 
-Teacher - **Mr Izuan Bin Hussain Bagarib (D&T)**
+Teacher -&nbsp;**Mr Izuan Bin Hussain Bagarib (D&amp;T)**
 
-Teacher - **Mr Khoo Chin Yong, Herald (D&T)**
+Teacher -&nbsp;**Mr Khoo Chin Yong, Herald (D&amp;T)**
 
-Teacher - **Mr Lim Cheng Teik, Sebastian (D&T)**
+Teacher -&nbsp;**Mr Sin Kum Sing, Simon (D&amp;T)**
 
-Teacher - **Mr Sin Kum Sing, Simon (D&T)**
+Workshop Instructor -&nbsp;**Mr Tan Chin Eng**
 
-Workshop Instructor - **Mr Tan Chin Eng**
-
-Workshop Instructor - **Mr Hashim Bin Othman**
+Workshop Instructor -&nbsp;**Mr Hashim Bin Othman**
 
 
 ### Art Instructional Programme
@@ -52,7 +50,7 @@ Therefore, in Montfort Secondary,
 
 **Lower Secondary**
 
-The lower secondary program will see students through an exciting introduction of both 2D and 3D art-making lessons. Skills taught include Still Life Drawing & Painting, Figure Sketching, Mixed-media, Digital photography and Visual Art Appreciation. Apart from the acquisition of the various skills, the teaching also aims to inculcate a sense of observation, understanding, and appreciation of aesthetic values in nature and in our living environment.
+The lower secondary program will see students through an exciting introduction of both 2D and 3D art-making lessons. Skills taught include Still Life Drawing &amp; Painting, Figure Sketching, Mixed-media, Digital photography and Visual Art Appreciation. Apart from the acquisition of the various skills, the teaching also aims to inculcate a sense of observation, understanding, and appreciation of aesthetic values in nature and in our living environment.
 
 Learning Art does go beyond our classroom as our students are also involved in external visitations to art galleries, performances and art events that will give them a holistic understanding and appreciation of the arts and aesthetics.
 
@@ -154,7 +152,7 @@ The General Music Programme focuses on cultivating and developing our students�
 </tbody>
 </table>
 
-### D&T  Instructional Programme
+### D&amp;T  Instructional Programme
   
 The programme prepares the students for Design Thinking. It enables students to harness their innate curiosity and ability to create through design-and-make activities, foster positive values and develop dispositions for enterprise, creativity and innovation through research and exploration, continuous refinement of their ideas during idea conceptualisation and development stage, visual communication, working with different materials and tools and develop safe working habits in the workshop.
 
@@ -162,15 +160,14 @@ The programme prepares the students for Design Thinking. It enables students to 
 
 **Lower Secondary**
 
-The one-year programme for each level is designed to benefit the students from the Design and Technology (D&T) and Applied Learning Programme (ALP) disciplines. The students take half a semester to learn each discipline.
+The one-year programme for each level is designed to benefit the students from the Design and Technology (D&amp;T) and Applied Learning Programme (ALP) disciplines. The students take half a semester to learn each&nbsp;discipline.
 
-Under the D&T curriculum, the students will make artefacts. They will learn and apply design thinking skills to solve problems and document their work in their design journal. They are also exposed to workshop skills through the making of various artefacts in order to build and develop their confidence in handling different hand tools and machines. 
+Under the D&amp;T curriculum, the students will make artefacts. They will learn and apply design thinking skills to solve problems and document their work in their design journal. They are also exposed to workshop skills through the making of various artefacts in order to build and develop their confidence in handling different hand tools and machines.&nbsp;
 
-<img src="/images/designtech_prog3.png" 
-     style="width:25%">
+<img src="/images/designtech_prog3.png" style="width:25%">
 
 **Upper Secondary**
 
-The one-year programme for this level continues to build on the fundamentals the students have learnt from their lower secondary with the focus to prepare them for the D&T coursework in their graduating year.
+The one-year programme for this level continues to build on the fundamentals the students have learnt from their lower secondary with the focus to prepare them for the D&amp;T coursework in their graduating year.
 
-Under the D&T curriculum, the students will deepen their understanding of empathy and the subject by identifying design problems using different techniques, gathering of relevant research information, generating creative ideas, making a prototype and finally, realising their conceptual idea into a physical product in the workshop. In the process of learning, they will experience the use of CAD software for their journaling work. Their learning is further enhanced through the enrichment activities/elective module respectively.
+Under the D&amp;T curriculum, the students will deepen their understanding of empathy and the subject by identifying design problems using different techniques, gathering of relevant research information, generating creative ideas, making a prototype and finally, realising their conceptual idea into a physical product in the workshop. In the process of learning, they will experience the use of CAD software for their journaling work. Their learning is further enhanced through the enrichment&nbsp;activities/elective module respectively.
