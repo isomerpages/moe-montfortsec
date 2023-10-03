@@ -2,8 +2,8 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Student Council.md
       - Montfort Sports Excellence Programme (MSPEX).md
+      - Student Council.md
       - Catholic Society.md
       - Co Curricular Activities.md
       - Clubs and Societies/.keep
