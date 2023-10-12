@@ -2,5 +2,5 @@ collections:
   admission:
     output: true
     order:
-      - Open House 2023.md
       - DSA.md
+      - Open House 2023.md
