@@ -31,4 +31,6 @@ Here are the scheduled tour times for your convenience:
 
 This day isn't just about learning about our school; it's about becoming part of our welcoming community! And here's a sweet treat to make your day even more special - *free popcorn and cotton candy! So, bring your family and join us on the 25th of November for a day filled with exploration, enlightenment, and joy. Together, let's discover if our school is the ideal place for your child's future!
 
-*While stock last
+For more information about the school, please  [click to visit our open house site!](https://montfortsec.wixsite.com/mssopenhouse)
+
+**While stock last*
