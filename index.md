@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "Montfort Secondary School "
+title: Montfort Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/school_crest.png
 permalink: /
@@ -18,6 +18,13 @@ sections:
           description: Student Resources
           url: https://workspace.google.com/dashboard
       background: /images/banner_staging.jpg
+  - infopic:
+      title: Open House 2023
+      id: infopic
+      button: Click here
+      url: /admission/openhouse2023/
+      image: /images/2023 open house.jpg
+      alt: Image alt text
   - resources:
       title: Announcements
       subtitle: Our Latest News
