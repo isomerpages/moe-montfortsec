@@ -22,7 +22,7 @@ sections:
       title: Open House 2023
       id: infopic
       button: Click here
-      url: https://montfortsec.moe.edu.sg/admission/openhouse2023/
+      url: /admission/openhouse2023/
       image: /images/2023 open house.jpg
       alt: Image alt text
   - resources:
