@@ -74,14 +74,14 @@ Finally, the content of the ALP should be made relevant by incorporating element
 ### Our Team
 
 Teacher - Mr Aaron Cheng (HOD ICT)    
-Teacher -&nbsp;Ms Tan Ying Lin Johanna (ALP Co-ordinator)
-Teacher -&nbsp;Mr Azman Bin Hussin      
+Teacher -&nbsp;Ms Tan Ying Lin Johanna (ALP Co-ordinator)   
 Teacher -&nbsp;Mr R Jayakumar     
 Teacher -&nbsp;Mr Simon Sin Kum Sing    
 Teacher -&nbsp;Mr Wong Yong Zhao Caleb  
+Teacher -&nbsp;Mr Azman Bin Hussin   
 Teacher -&nbsp;Mdm Ong Qiulin    
-Teacher -&nbsp;Mdm Khairunnisa
-Teacher -&nbsp;Mr Lim Kim Huat     
+Teacher -&nbsp;Mr Lim Kim Huat  
+Teacher -&nbsp;Mdm Khairunnisa   
 Teacher -&nbsp;Dr Shawn Wong    
 Teacher - Mr Soh Yi Jie
 
