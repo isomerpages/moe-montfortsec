@@ -89,7 +89,7 @@ Teacher - Mr Soh Yi Jie
 
 **Sec 1 Programme**
 
-At the introduction stage, Secondary One students are equipped with fundamental skills in basic programming, microcontrollers, and electronics. Students are provided with a challenge task of applying their knowledge of Science and Mathematics through the development of their own automated Arduino-based Shooter Game.
+At the introduction stage, Secondary One students are equipped with fundamental skills in basic programming, microcontrollers, and electronics. Students are provided with a challenge task of applying design thinking, integrate interdisciplinary knowledge to solve real world problems.
 
 **Sec 2 Programme**
 
