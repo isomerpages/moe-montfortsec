@@ -4,7 +4,6 @@ permalink: /curriculum/Distinctive-Programme/applied-learning-programme/
 description: ""
 third_nav_title: Distinctive Programmes
 ---
-
 ### **Applied Learning Programme – Made In Montfort**
 
 <style type="text/css">
@@ -22,15 +21,15 @@ third_nav_title: Distinctive Programmes
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1IO0SRNYiDPYCRYrnLjs5hCSf6s6afl4c/view" target = "_self"> 
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1IO0SRNYiDPYCRYrnLjs5hCSf6s6afl4c/view" target="_self"> 
           <img src="/images/alp3.png"></a></td>
-    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1rPbfyWNh_qKI2n2XzZdiYcml8x7TQm8m/view" target = "_self"> 
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1rPbfyWNh_qKI2n2XzZdiYcml8x7TQm8m/view" target="_self"> 
           <img src="/images/alp4.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1LnAlceBT9e2bXcErWA8YjEjVdcGdmUzT/view" target = "_self"> 
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1LnAlceBT9e2bXcErWA8YjEjVdcGdmUzT/view" target="_self"> 
           <img src="/images/alp2.png"></a></td>
-    <td class="tg-0lax"><a href = "https://drive.google.com/file/d/1z-9VLS5Sk4zt18VNbEZt3fEk-gJXMz8L/view" target = "_self"> 
+    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1z-9VLS5Sk4zt18VNbEZt3fEk-gJXMz8L/view" target="_self"> 
           <img src="/images/alp1.png"></a></td>
   </tr>
 </tbody>
@@ -74,23 +73,27 @@ Finally, the content of the ALP should be made relevant by incorporating element
 
 ### Our Team
 
-Teacher - Mr Wong Teck Piaw (ALP Co-ordinator)    
-Teacher - Mr Azman Bin Hussin      
-Teacher - Mr R Jayakumar     
-Teacher - Mr Simon Sin Kum Sing    
-Teacher - Ms Tan Ying Lin Johanna    
-Teacher - Ms Chue Pui Fang     
-Teacher - Mr Wong Yong Zhao Caleb    
+Teacher - Mr Aaron Cheng (HOD ICT)    
+Teacher -&nbsp;Ms Tan Ying Lin Johanna (ALP Co-ordinator)
+Teacher -&nbsp;Mr Azman Bin Hussin      
+Teacher -&nbsp;Mr R Jayakumar     
+Teacher -&nbsp;Mr Simon Sin Kum Sing    
+Teacher -&nbsp;Mr Wong Yong Zhao Caleb  
+Teacher -&nbsp;Mdm Ong Qiulin    
+Teacher -&nbsp;Mdm Khairunnisa
+Teacher -&nbsp;Mr Lim Kim Huat     
+Teacher -&nbsp;Dr Shawn Wong    
+Teacher - Mr Soh Yi Jie
 
 ### Instructional Programme
 
 **Sec 1 Programme**
 
-At the introduction stage, Secondary One students are equipped with fundamental skills in basic programming, microcontrollers, and electronics. Students are provided with a challenge task of applying their knowledge of Science and Mathematics through the development of their own automated Arduino-based Shooter Game.
+At the introduction stage, Secondary One students are equipped with fundamental skills in basic programming, microcontrollers, and electronics. Students are provided with a challenge task of applying design thinking, integrate interdisciplinary knowledge to solve real world problems.
 
 **Sec 2 Programme**
 
-The Secondary Two programme is collaborating with Amazon Web Services (AWS) Educate and Cloud Tech to introduce students to the cutting edge technologies in cloud computing and Artificial Intelligence/Machine Learning. Our students will learn basic applications in AI and ML, such as image recognition, the deployment of chatbots and smart assistants harnessing Natural Language Processing, and reinforcement learning in the training of self-driving vehicles. This exposure readies our students to harness these key technologies as they enter the digital workforce in the near future. This programme then continues by building on the formal curriculum of Design and Technology. Students are introduced to advanced programming concepts and more knowledge of electronics applications that incorporate the use of sensors and actuators. Their learning culminates in the design of a final product, i.e. a blockchain-inspired Smart Savings Bank that allows the student to collect data on their spending habits, as well as automate the process of depositing and storing money. 
+The Secondary Two programme is collaborating with Amazon Web Services (AWS) Educate and Cloud Tech to introduce students to the cutting edge technologies in cloud computing and Artificial Intelligence/Machine Learning. Our students will learn basic applications in AI and ML, such as image recognition, the deployment of chatbots and smart assistants harnessing Natural Language Processing, and reinforcement learning in the training of self-driving vehicles. This exposure readies our students to harness these key technologies as they enter the digital workforce in the near future. This programme then continues by building on the formal curriculum of Design and Technology. Students are introduced to advanced programming concepts and more knowledge of electronics applications that incorporate the use of sensors and actuators. Their learning culminates in the design of a final product, i.e. a blockchain-inspired Smart Savings Bank that allows the student to collect data on their spending habits, as well as automate the process of depositing and storing money.&nbsp;
 
 **Tier 2 Programme**
 
@@ -107,5 +110,4 @@ Through its ALP, Montfort Secondary School works towards developing its students
 
 ### Agency Partner
 
-<img src="/images/aws%20educate.png" 
-     style="width:45%">
+<img src="/images/aws%20educate.png" style="width:45%">
