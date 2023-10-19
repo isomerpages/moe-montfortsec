@@ -6,7 +6,8 @@ third_nav_title: Academic Development
 ---
 ### Mission
 
-We seek to develop a life-long interest in an appreciation of the arts.  Nurture our students into men for others â€“ being interdependent, self-motivated, creative and enterprising problem solvers.
+To nurture in our Montfortians attitudes, dispositions, and skills to take on the
+opportunities and challenges of the future.
 
 ### Our Team
 
@@ -30,9 +31,11 @@ Teacher -&nbsp;**Mr Khoo Chin Yong, Herald (D&amp;T)**
 
 Teacher -&nbsp;**Mr Sin Kum Sing, Simon (D&amp;T)**
 
+Teacher -&nbsp;**Mr Soo Kwok Wah (D&amp;T)**
+
 Workshop Instructor -&nbsp;**Mr Tan Chin Eng**
 
-Workshop Instructor -&nbsp;**Mr Hashim Bin Othman**
+Workshop Instructor -&nbsp;**Mr Zev Nuraqlan bin Roslan**
 
 
 ### Art Instructional Programme
@@ -110,6 +113,28 @@ At the Upper Secondary Level, we focus on strengthening of skill, techniques and
 </tbody>
 </table>
 
+### D&amp;T  Instructional Programme
+  
+In D&amp;T, students undertake different design projects which engages them in designing and prototyping ideas through the mind and hands. Through the design process, they understand human needs to create possibilities to make life better. It also develops in them skills that turn ideas into reality and values like mindfulness, empathy and sensitivity in the areas of social, culture and environment.
+
+![](/images/dnttt1.png)
+*The Design Process Model*
+
+![](/images/dnt.png)
+
+**Lower Secondary**
+         
+In Lower Secondary, the program focuses in cultivating in students visual-spatial thinking through sketching, experimenting and prototyping using appropriate materials and basic hand tools, equipment and machines safely.&nbsp; Through the activities, students develop confidence and pride through turning ideas into physical objects.
+
+
+<img src="/images/designtech_prog3.png" style="width:25%">
+
+**Upper Secondary**
+
+The one-year programme for this level continues to build on the fundamentals the students have learnt from their lower secondary with the focus to prepare them for the D&amp;T coursework in their graduating year.
+
+Under the D&amp;T curriculum, the students will deepen their understanding of empathy and the subject by identifying design problems using different techniques, gathering of relevant research information, generating creative ideas, making a prototype and finally, realising their conceptual idea into a physical product in the workshop. In the process of learning, they will experience the use of CAD software for their journaling work. Their learning is further enhanced through the enrichment&nbsp;activities/elective module respectively.
+
 ### Music  Instructional Programme
 
 **Lower Secondary**
@@ -152,22 +177,3 @@ The General Music Programme focuses on cultivating and developing our studentsâ€
 </tbody>
 </table>
 
-### D&amp;T  Instructional Programme
-  
-The programme prepares the students for Design Thinking. It enables students to harness their innate curiosity and ability to create through design-and-make activities, foster positive values and develop dispositions for enterprise, creativity and innovation through research and exploration, continuous refinement of their ideas during idea conceptualisation and development stage, visual communication, working with different materials and tools and develop safe working habits in the workshop.
-
-![](/images/dnt.png)
-
-**Lower Secondary**
-
-The one-year programme for each level is designed to benefit the students from the Design and Technology (D&amp;T) and Applied Learning Programme (ALP) disciplines. The students take half a semester to learn each&nbsp;discipline.
-
-Under the D&amp;T curriculum, the students will make artefacts. They will learn and apply design thinking skills to solve problems and document their work in their design journal. They are also exposed to workshop skills through the making of various artefacts in order to build and develop their confidence in handling different hand tools and machines.&nbsp;
-
-<img src="/images/designtech_prog3.png" style="width:25%">
-
-**Upper Secondary**
-
-The one-year programme for this level continues to build on the fundamentals the students have learnt from their lower secondary with the focus to prepare them for the D&amp;T coursework in their graduating year.
-
-Under the D&amp;T curriculum, the students will deepen their understanding of empathy and the subject by identifying design problems using different techniques, gathering of relevant research information, generating creative ideas, making a prototype and finally, realising their conceptual idea into a physical product in the workshop. In the process of learning, they will experience the use of CAD software for their journaling work. Their learning is further enhanced through the enrichment&nbsp;activities/elective module respectively.
