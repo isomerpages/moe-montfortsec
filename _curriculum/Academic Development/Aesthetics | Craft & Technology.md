@@ -138,9 +138,6 @@ FCE and F&amp;N provide students with a broad understanding in nutrition and hea
 
 ![](/images/fceeee!1.jpg)
 
-#### Programme Structure for FCE/F&amp;N
-![](/images/fceeeeeee2.png)
-
 **At lower secondary, the FCE programme is designed for students to:**
 
 • Understand the importance of nutrition and food safety and lead a healthier lifestyle proactively.
@@ -150,6 +147,8 @@ FCE and F&amp;N provide students with a broad understanding in nutrition and hea
 • Manage resources optimally and sustainably.
 
 • Make responsible and informed decisions for self, family and the community.
+
+![](/images/fceeeeeee2.png)
 
 **At upper secondary, the F&amp;N programme builds on the skills and attitudes from lower secondary to build students’ ability to:**
 
