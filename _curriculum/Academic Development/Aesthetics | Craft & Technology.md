@@ -6,7 +6,8 @@ third_nav_title: Academic Development
 ---
 ### Mission
 
-We seek to develop a life-long interest in an appreciation of the arts.  Nurture our students into men for others – being interdependent, self-motivated, creative and enterprising problem solvers.
+To nurture in our Montfortians attitudes, dispositions, and skills to take on the
+opportunities and challenges of the future.
 
 ### Our Team
 
@@ -30,9 +31,11 @@ Teacher -&nbsp;**Mr Khoo Chin Yong, Herald (D&amp;T)**
 
 Teacher -&nbsp;**Mr Sin Kum Sing, Simon (D&amp;T)**
 
+Teacher -&nbsp;**Mr Soo Kwok Wah (D&amp;T)**
+
 Workshop Instructor -&nbsp;**Mr Tan Chin Eng**
 
-Workshop Instructor -&nbsp;**Mr Hashim Bin Othman**
+Workshop Instructor -&nbsp;**Mr Zev Nuraqlan bin Roslan**
 
 
 ### Art Instructional Programme
@@ -110,6 +113,51 @@ At the Upper Secondary Level, we focus on strengthening of skill, techniques and
 </tbody>
 </table>
 
+### D&amp;T  Instructional Programme
+  
+In D&amp;T, students undertake different design projects which engages them in designing and prototyping ideas through the mind and hands. Through the design process, they understand human needs to create possibilities to make life better. It also develops in them skills that turn ideas into reality and values like mindfulness, empathy and sensitivity in the areas of social, culture and environment.
+
+![](/images/dnttt1.png)
+*The Design Process Model*
+
+**Lower Secondary**
+         
+In Lower Secondary, the program focuses in cultivating in students visual-spatial thinking through sketching, experimenting and prototyping using appropriate materials and basic hand tools, equipment and machines safely.&nbsp; Through the activities, students develop confidence and pride through turning ideas into physical objects.
+
+![](/images/dnt%20tttt2.png)
+
+**Upper Secondary**
+
+In Upper Secondary, designing and making are dealt with at greater depth and scope.&nbsp; Students will learn how to do research to understand and define user needs, explore and develop design solutions, and prototype their ideas using appropriate work processes.&nbsp; In the process, pupils cultivate creative, critical and reflective thinking and develop design related dispositions and skills.
+
+![](/images/dnt.png)
+
+### Food and Consumer Education (FCE) / Food &amp; Nutrition Science (F&amp;N) Instructional Programme
+
+FCE and F&amp;N provide students with a broad understanding in nutrition and health, food literacy and principles of food science.&nbsp; The programme uses a structured approach to build students’ skills and attitudes to manage their lives for the present and the future.
+
+![](/images/fceeee!1.jpg)
+
+**At lower secondary, the FCE programme is designed for students to:**
+
+• Understand the importance of nutrition and food safety and lead a healthier lifestyle proactively.
+
+• Apply basic culinary science in preparing healthier food to meet the needs of target groups.
+
+• Manage resources optimally and sustainably.
+
+• Make responsible and informed decisions for self, family and the community.
+
+![](/images/fceeeeeee2.png)
+
+**At upper secondary, the F&amp;N programme builds on the skills and attitudes from lower secondary to build students’ ability to:**
+
+• Lead a healthier lifestyle proactively through proper diet and nutrition.
+
+• Advocate sustainable food consumption by planning and making appropriate food choices.
+
+&nbsp;• Apply principles of culinary science creatively in food preparation and cooking.
+ 
 ### Music  Instructional Programme
 
 **Lower Secondary**
@@ -151,23 +199,3 @@ The General Music Programme focuses on cultivating and developing our students�
   </tr>
 </tbody>
 </table>
-
-### D&amp;T  Instructional Programme
-  
-The programme prepares the students for Design Thinking. It enables students to harness their innate curiosity and ability to create through design-and-make activities, foster positive values and develop dispositions for enterprise, creativity and innovation through research and exploration, continuous refinement of their ideas during idea conceptualisation and development stage, visual communication, working with different materials and tools and develop safe working habits in the workshop.
-
-![](/images/dnt.png)
-
-**Lower Secondary**
-
-The one-year programme for each level is designed to benefit the students from the Design and Technology (D&amp;T) and Applied Learning Programme (ALP) disciplines. The students take half a semester to learn each&nbsp;discipline.
-
-Under the D&amp;T curriculum, the students will make artefacts. They will learn and apply design thinking skills to solve problems and document their work in their design journal. They are also exposed to workshop skills through the making of various artefacts in order to build and develop their confidence in handling different hand tools and machines.&nbsp;
-
-<img src="/images/designtech_prog3.png" style="width:25%">
-
-**Upper Secondary**
-
-The one-year programme for this level continues to build on the fundamentals the students have learnt from their lower secondary with the focus to prepare them for the D&amp;T coursework in their graduating year.
-
-Under the D&amp;T curriculum, the students will deepen their understanding of empathy and the subject by identifying design problems using different techniques, gathering of relevant research information, generating creative ideas, making a prototype and finally, realising their conceptual idea into a physical product in the workshop. In the process of learning, they will experience the use of CAD software for their journaling work. Their learning is further enhanced through the enrichment&nbsp;activities/elective module respectively.
