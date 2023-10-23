@@ -6,7 +6,7 @@ third_nav_title: Academic Development
 ---
 ### Mission
 
-We are a&nbsp;community&nbsp; which aims to develop&nbsp;skills, competencies &nbsp;and&nbsp;values&nbsp; in our students so as to enable them to better serve&nbsp;the 21st century society.
+We are a&nbsp;community&nbsp;which aims to develop&nbsp;skills, competencies&nbsp;and&nbsp;values&nbsp;in our students so as to enable them to better serve&nbsp;the 21st century society.
 
 We will achieve our mission by:
 
