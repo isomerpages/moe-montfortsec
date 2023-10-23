@@ -120,21 +120,45 @@ In D&amp;T, students undertake different design projects which engages them in d
 ![](/images/dnttt1.png)
 *The Design Process Model*
 
-![](/images/dnt.png)
-
 **Lower Secondary**
          
 In Lower Secondary, the program focuses in cultivating in students visual-spatial thinking through sketching, experimenting and prototyping using appropriate materials and basic hand tools, equipment and machines safely.&nbsp; Through the activities, students develop confidence and pride through turning ideas into physical objects.
 
-
-<img src="/images/designtech_prog3.png" style="width:25%">
+![](/images/dnt%20tttt2.png)
 
 **Upper Secondary**
 
-The one-year programme for this level continues to build on the fundamentals the students have learnt from their lower secondary with the focus to prepare them for the D&amp;T coursework in their graduating year.
+In Upper Secondary, designing and making are dealt with at greater depth and scope.&nbsp; Students will learn how to do research to understand and define user needs, explore and develop design solutions, and prototype their ideas using appropriate work processes.&nbsp; In the process, pupils cultivate creative, critical and reflective thinking and develop design related dispositions and skills.
 
-Under the D&amp;T curriculum, the students will deepen their understanding of empathy and the subject by identifying design problems using different techniques, gathering of relevant research information, generating creative ideas, making a prototype and finally, realising their conceptual idea into a physical product in the workshop. In the process of learning, they will experience the use of CAD software for their journaling work. Their learning is further enhanced through the enrichment&nbsp;activities/elective module respectively.
+![](/images/dnt.png)
 
+### Food and Consumer Education (FCE) / Food &amp; Nutrition Science (F&amp;N) Instructional Programme
+
+FCE and F&amp;N provide students with a broad understanding in nutrition and health, food literacy and principles of food science.&nbsp; The programme uses a structured approach to build students’ skills and attitudes to manage their lives for the present and the future.
+
+![](/images/fceeee!1.jpg)
+
+#### Programme Structure for FCE/F&amp;N
+![](/images/fceeeeeee2.png)
+
+**At lower secondary, the FCE programme is designed for students to:**
+
+• Understand the importance of nutrition and food safety and lead a healthier lifestyle proactively.
+
+• Apply basic culinary science in preparing healthier food to meet the needs of target groups.
+
+• Manage resources optimally and sustainably.
+
+• Make responsible and informed decisions for self, family and the community.
+
+**At upper secondary, the F&amp;N programme builds on the skills and attitudes from lower secondary to build students’ ability to:**
+
+• Lead a healthier lifestyle proactively through proper diet and nutrition.
+
+• Advocate sustainable food consumption by planning and making appropriate food choices.
+
+&nbsp;• Apply principles of culinary science creatively in food preparation and cooking.
+ 
 ### Music  Instructional Programme
 
 **Lower Secondary**
