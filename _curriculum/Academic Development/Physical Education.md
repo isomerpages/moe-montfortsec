@@ -16,7 +16,7 @@ Head of Department / Student Management - **Mr Mun Shiun**
 
 Teacher - **Mr Caleb Wong Yong Zhao**  
 
-Teacher - **Mr Muhammad Idris Bin Anwar (Physical Education & Elements of Business Skills)**
+Teacher - **Mr Muhammad Idris Bin Anwar**
 
 Teacher - **Mr Tan Eng Hwee**    
 
