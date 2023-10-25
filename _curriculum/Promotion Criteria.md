@@ -35,6 +35,5 @@ Goals must be achievable and evaluated regularly.
 **ACADEMIC PROMOTION CRITERIA**
 
 The following are the guidelines for promotion of pupils in the various streams. *Please note that this promotion criteria applies to students admitted to Secondary One before 2023.*
-![](/images/promo2.png)
-
+![](/images/promo%203.png)
 *Students may be offered lateral transfer to a more academically demanding course they are assessed to be able to cope with the rigour of the more demanding course (especially in English Language and Mathematics), **and** have obtained a minimum of 70% in the overall percentage of all subject combined.
