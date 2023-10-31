@@ -2,6 +2,7 @@ collections:
   montfort-community:
     output: true
     order:
+      - "Our Montfort Story/Video: Years Ahead with Us.md"
       - Our Montfort Story/.keep
       - Our Montfort Story/Principal's Message.md
       - Our Montfort Story/School History.md
