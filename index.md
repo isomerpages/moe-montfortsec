@@ -19,6 +19,16 @@ sections:
           url: https://workspace.google.com/dashboard
       background: /images/banner_staging.jpg
   - infopic:
+      title: "Video: Years Ahead with Us"
+      id: infopic
+      description: Watch John embark on an exploration of vibrant school life, and
+        discover values that will shape his future with us at Montfort Secondary
+        School and beyond.
+      button: View Video
+      url: https://www.youtube.com/watch?v=eowg_Dv0p9k&t=10s
+      image: /images/john12.png
+      alt: Image alt text
+  - infopic:
       title: Open House 2023
       id: infopic
       button: Click here
