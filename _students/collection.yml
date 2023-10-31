@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Sec 1 Onboarding/Sale of School Attires.md
       - Sec 1 Onboarding/Sec 1 Book Lists.md
       - Sec 1 Onboarding/.keep
       - Sec 1 Onboarding/Sec 1 Administration.md
