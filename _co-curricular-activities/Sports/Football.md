@@ -14,7 +14,7 @@ third_nav_title: Sports
 
 ### Photo Gallery
 
-
+![soccer](/images/soccer.png)
 <table style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
@@ -23,11 +23,11 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td><img src="/images/fb5.jpeg"></td>
-    <td><img src="/images/fb6.jpeg"></td>
+    <td><img src="/images/fb8.jpeg"></td>
   </tr>
   <tr>
-    <td><img src="/images/fb7.jpeg"></td>
-    <td><img src="/images/fb8.jpeg"></td>
+   
+    
   </tr>
 </tbody>
 </table>
