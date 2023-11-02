@@ -7,4 +7,4 @@ description: ""
 image: /images/registration.jpg
 ---
 ![](/images/registration.jpg)
-Click [here](https://www.montfortsec.moe.edu.sg/students/Sec-1-Onboarding/sec-1-onboarding/) for more information
+Click [here](/students/Sec-1-Onboarding/sec-1-onboarding/) for more information
