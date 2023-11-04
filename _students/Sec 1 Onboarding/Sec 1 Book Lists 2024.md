@@ -18,13 +18,14 @@ Parents may place an order online at:
 Parents may opt for:
 * Home delivery Service (fee applicable)  \[Recommended\]
 * Self-collection at the school’s bookstore
+
 **The supplier will get in touch with you to confirm the delivery date or self-collection date.**
 
 **2024 Sec 1 Booklists**  
-**Please download the relevant book lists and stationery lists below.**&nbsp;
+Please download the relevant book lists and stationery lists below.**&nbsp;
 
-* Sec 1 G3 Booklist and Stationery list
-* Sec 1 G2 Booklist and Stationery list
-* Sec 1 G1 Booklist and Stationery list
+* [Sec 1 G3 Booklist and Stationery list](/files/2024%20sec%201_g3%20booklist.pdf)
+* [Sec 1 G2 Booklist and Stationery list](/files/2024%20sec%201_g2%20booklist.pdf)
+* [Sec 1 G1 Booklist and Stationery list](/files/2024%20sec%201_g1%20booklist.pdf)
 
 **Students who are offered subjects at a more demanding level (SBB) are reminded to purchase the relevant books of the more demanding level.**
