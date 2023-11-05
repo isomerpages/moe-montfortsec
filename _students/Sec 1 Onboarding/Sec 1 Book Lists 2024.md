@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Sec 1 Onboarding
 variant: markdown
 ---
-##### SALE OF TEXTBOOKS, STATIONERY & ALTERNATIVE UNIFORM BY THE SCHOOL BOOKSHOP
+##### <u>SALE OF TEXTBOOKS, STATIONERY &amp; ALTERNATIVE UNIFORM BY THE SCHOOL BOOKSHOP</u>
 Parents are strongly encouraged to purchase textbooks, stationery and alternative uniform online. Students are allowed to wear the alternative uniform on Thursdays and Fridays. However, it is not compulsory and students who do not have the alternative uniform may wear the school uniform on these days
 
-Note that alternative uniform is not available for sale at Shirley Season Wear, School uniform supplier.
+<u>Note that alternative uniform is not available for sale at Shirley Season Wear, school uniform supplier.</u>
 
 Parents may place an order online at:
 * Link: https://dyeducation.net
@@ -16,14 +16,14 @@ Parents may place an order online at:
 * Password: 668888
 
 Parents may opt for:
-* Home delivery Service (fee applicable)  \[Recommended\]
+* Home delivery Service (fee applicable)&nbsp; \[Recommended\]
 * Self-collection at the school’s bookstore
 
 **The supplier will get in touch with you to confirm the delivery date or self-collection date.**
 
-**2024 Sec 1 Booklists**  
-Please download the relevant book lists and stationery lists below.**&nbsp;
+**<u>2024 Sec 1 Booklists</u>**
 
+Please download the relevant book lists and stationery lists below.
 * [Sec 1 G3 Booklist and Stationery list](/files/2024%20sec%201_g3%20booklist.pdf)
 * [Sec 1 G2 Booklist and Stationery list](/files/2024%20sec%201_g2%20booklist.pdf)
 * [Sec 1 G1 Booklist and Stationery list](/files/2024%20sec%201_g1%20booklist.pdf)
