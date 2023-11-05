@@ -12,3 +12,11 @@ variant: markdown
 
 Free dental checks are provided by Health Promotion Board for secondary school students. Please submit the online consent form for the dental checks using this link:
 https://childconsent.hpb.gov.sg/ .
+
+**Parents/Guardians of our secondary 1 Montfortians, please check your MOE Parents Gateway (PG) daily for latest updates. **
+
+If you do not have access to PG,
+* please download and install MOE Parents Gateway (PG) app from App Store or Google Play onto your mobile smartphone.    
+(Click [Link](https://www.montfortsec.moe.edu.sg/students/Sec-1-Onboarding/parents-gateway) for installation guide)
+
+* please contact the school at 6510 7070.        
