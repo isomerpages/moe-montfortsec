@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sec 1 Onboarding
 variant: markdown
 ---
-##### APPEALS AND DISCRETIONARY ADMISSIONS
+##### **<u> APPEALS AND DISCRETIONARY ADMISSIONS</u>**
 
 **Appeal to transfer in to Montfort Secondary School (Discretionary Admissions)**
 * You do not need to come in person and may submit your appeal via this link *(pending link)*
