@@ -20,5 +20,5 @@ Shirley Season Wear will also be in school for exchanges or last-minute purchase
 
 | Dates of Sales| Timings| Venue |
 | -------- | -------- | -------- |
-| Thursday,  January 2024    | 10 am to 1 pm  | Canteen |
-| Friday,  January 2024    | 10 am to 1 pm   | Canteen |
+| Thursday,  January 2024 (TBC)    | 10 am to 1 pm  | Canteen |
+| Friday,  January 2024 (TBC)   | 10 am to 1 pm   | Canteen |
