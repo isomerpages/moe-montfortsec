@@ -15,6 +15,7 @@ Parents/Guardians are strongly encouraged to purchase the PE attire, school unif
 * Opening Hours	for January to November : 12 pm to 6 pm
    (Closed on Sundays/Public Holidays)
 * Opening Hours for December: 12 pm to 6 pm (DAILY)
+###### Note that alternative uniform can only be bought from the school bookshop .
 
 Shirley Season Wear will also be in school for exchanges or last-minute purchases on:
 
