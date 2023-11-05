@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Sec 1 Onboarding
 variant: markdown
 ---
-##### SALE OF PE ATTIRE, SCHOOL UNIFORM, NAME TAG, APRON, SCHOOL SOCKS AND SHOES BY SHIRLEY SEASON WEAR
+##### <u>SALE OF PE ATTIRE, SCHOOL UNIFORM, NAME TAG, APRON, SCHOOL SOCKS AND SHOES BY SHIRLEY SEASON WEAR</u>
 
-###### Note that alternative uniform can only be bought from the school bookshop .
+##### ***Note that alternative uniform can only be bought from the school bookshop .***
 
 Parents/Guardians are strongly encouraged to purchase the PE attire, school uniform, name tag, apron, school socks and white shoes online at:
 * Link			: http://www.shirleyuni.com 
