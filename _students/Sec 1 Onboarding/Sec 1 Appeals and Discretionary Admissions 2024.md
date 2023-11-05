@@ -9,7 +9,7 @@ variant: markdown
 
 **Appeal to transfer in to Montfort Secondary School (Discretionary Admissions)**
 * You do not need to come in person and may submit your appeal via this link *(pending link)*
-* The school will contact parents whose appeal is successful by 29 December 2023, 12 pm.
+* The school will contact parents whose appeal is successful by 29 December 2023, 12 pm (TBC).
 * Please note that students who wish to appeal for a school transfer may submit their appeals but are likely to be unsuccessful if they have not met the cut-off point for the respective courses in this year’s Secondary One Posting to Montfort Secondary School. 
 
  
