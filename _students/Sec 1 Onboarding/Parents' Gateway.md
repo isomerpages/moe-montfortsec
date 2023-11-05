@@ -7,15 +7,11 @@ variant: markdown
 ---
 ##### <u>COMMUNICATION BETWEEN SCHOOL AND PARENTS/GUARDIANS</u>
 
-Important school information and announcement will be put up on the school website (https://montfortsec.moe.edu.sg/). 
-If there are necessary and urgent updates, the school administration will communicate with parents/guardians via MOE Parents Gateway (PG). 
+1. Important school information and announcement will be put up on the school website.
+2. If there are necessary and urgent updates, the school administration will communicate with parents/guardians via MOE Parents Gateway (PG). 
+3. Please download and install PG app from App Store or Google Play onto your mobile smartphone. This will be the primary platform for communication with parents and guardians.
 
-Please download and install PG app from App Store or Google Play onto your mobile smartphone. This will be the primary platform for communication with parents and guardians.
-
-
-
-
-**<center><u>Parents’ Guide to Getting Started with Parents Gateway</u></center>**
+**<u>Parents’ Guide to Getting Started with Parents Gateway</u>**
 
 ![](/images/PG%20step1.jpeg)
 ![](/images/PG%20step%202.jpeg)
