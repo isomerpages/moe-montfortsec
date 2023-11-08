@@ -14,7 +14,7 @@ variant: markdown
 
 **Request for school transfer out of Montfort Secondary School due to serious medical reasons and severe physical impairments.**
 
-* You will need to submit your appeal <u>**in perso**n</u> through Montfort Secondary School by 22 December 2023, 12 pm (TBC).
+* You will need to submit your appeal <u>**in person**</u> through Montfort Secondary School by 22 December 2023, 12 pm (TBC).
 * Complete the transfer request form which is obtainable from Montfort Secondary School General Office.
 * Attach a valid medical letter and relevant supporting document to the form.
 * MOE will call parents to inform them on the outcome of appeal.
