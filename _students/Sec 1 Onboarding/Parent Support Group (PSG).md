@@ -1,8 +1,9 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /students/Sec-1-Onboarding/parent-support-group
+permalink: /students/Sec-1-Onboarding/parent-support-group/
 description: ""
 third_nav_title: Sec 1 Onboarding
+variant: markdown
 ---
 Dear Parents/Guardians
 
@@ -18,10 +19,9 @@ To continue to do this good work, the PSG needs more hands, new members and fres
 
 Take up this challenge! Be a member of the Montfort PSG. 
 
-To register, please sign up [online](https://docs.google.com/forms/d/e/1FAIpQLSfHYs5mNSWgmrvxAYqNcgfBRyFZTIxAy-5JbVpN1343Qgbc0w/viewform).
+To register, please sign up [online](https://docs.google.com/forms/d/e/1FAIpQLSfHYs5mNSWgmrvxAYqNcgfBRyFZTIxAy-5JbVpN1343Qgbc0w/viewform).[TBC]
 
 _Aqe Quod Agis!_
 
-  
 Mrs Judeana Lim      
 School PSG Coordinator
