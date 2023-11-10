@@ -31,7 +31,7 @@ Teacher –&nbsp;**Mr Azman Bin Akmad**
 
 Teacher -&nbsp;**Mr Bennett Tan Chuan Lee**
 
-Teacher -&nbsp;**Mr Mr Brendan Hoe Qing En**
+Teacher -&nbsp;**Mr Brendan Hoe Qing En**
 
 Teacher -&nbsp;**Mr Hector Tan Teck Huat**
 
@@ -45,7 +45,7 @@ Teacher -&nbsp;**Ms Megan Tan Shu Ning**
 
 Teacher -&nbsp;**Ms Nithiyaa D/O Rajaratnam**  
 
-Teacher -&nbsp;**Mr Preetha Preklathan**
+Teacher -&nbsp;**Ms Preetha Preklathan**
 
 Teacher –&nbsp;**Ms Tey Ser Ling**
 
