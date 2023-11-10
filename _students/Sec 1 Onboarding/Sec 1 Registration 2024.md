@@ -10,8 +10,8 @@ variant: markdown
 
 ***Please refer to&nbsp;[2024 Sec 1 Registration Brief] [Pending]&nbsp;for administration information.***
 
-Free dental checks are provided by Health Promotion Board for secondary school students. Please submit the online consent form for the dental checks using this link:
-https://childconsent.hpb.gov.sg/ (TBC)
+Free dental checks are provided by Health Promotion Board for secondary school students. Please submit the online consent form for the dental checks using this
+[link:](https://childconsent.hpb.gov.sg/) (TBC)
 
 <b>Parents/Guardians of our secondary 1 Montfortians, please check your MOE Parents Gateway (PG) daily for latest updates. </b>
 
