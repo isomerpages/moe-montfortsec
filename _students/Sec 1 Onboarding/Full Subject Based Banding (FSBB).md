@@ -18,3 +18,10 @@ Parents and students of the 2024 S1 cohort can also go to the following websites
 i.	[MOE Full SBB microsite](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).  
 
 ii.	[Full SBB interactive webpage](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/interactive.html)
+
+If you have questions regarding Subject-Based Banding (SBB), you may send in your queries through email to
+
+| Mdm Rachel Tang  | Ms Norazidah |
+| -------- | -------- |
+| tang_yau_khee@schools.gov.sg   | norazidah_abdol_aziz@schools.gov.sg|
+
