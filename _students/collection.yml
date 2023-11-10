@@ -2,13 +2,13 @@ collections:
   students:
     output: true
     order:
-      - Sec 1 Onboarding/Full Subject Based Banding (FSBB).md
       - Sec 1 Onboarding/.keep
       - Sec 1 Onboarding/Sec 1 Registration 2024.md
       - Sec 1 Onboarding/Sec 1 Appeals and Discretionary Admissions 2024.md
       - Sec 1 Onboarding/Sale of School Attires.md
       - Sec 1 Onboarding/Sec 1 Book Lists 2024.md
       - Sec 1 Onboarding/Sec 1 Orientation Programme 2024.md
+      - Sec 1 Onboarding/Full Subject Based Banding (FSBB).md
       - Sec 1 Onboarding/Parents' Gateway.md
       - Sec 1 Onboarding/Parent Support Group (PSG).md
       - ICT Matters.md
