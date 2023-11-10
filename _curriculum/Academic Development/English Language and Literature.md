@@ -96,27 +96,4 @@ The creative endeavours do not stop at learning experiences, they have also foun
 
 Through all these learning experiences, we seek to empower students to actively construct meaning in texts and see themselves and the world from diverse perspectives, to find their own voice as they reflect on the human condition with discernment, and to consider the impact of their beliefs and actions on society. Most of all, we hope to build empathy in all who pass through our doors; to have in them the capacity to see the world through the eyes of others, and to share in the common human experience, upon which hangs the very thread of our shared humanity.
 
-
-
 <img src="/images/eng_prog3.jpeg" style="width:65%">
-
-  
-
-**English Language (Upper Secondary)**
-
-The key focus of the Upper Secondary Curriculum is to enable our students to apply the skills learnt and to be critical thinkers who can evaluate the purpose, credibility and reliability of the multiple texts they interact with on daily basis.
-
-  
-All students at all levels of study are strongly encouraged to bring a story book to read every day, enjoying the stories while acquiring the language inductively. We have class library books for loan and digital copies of The Straits Times to keep them updated on current affairs in both Singapore and the world. Every weekend, reading articles and videos will be emailed to them with insightful questions for them to reflect on, so as to build their content knowledge and develop their critical thinking faculties.  
-
-  
-
-**Literature in English (Upper Secondary)**
-
-  
-
-In the classroom, students explore various themes through the critical study of literary texts (films, songs, poems, prose and poems). The Literature Curriculum aims to develop students who actively construct meaning and in the process make connections between the texts, their lives and the world.
-
-  
-
-All Literature students will attend one play, which is usually their O Level text, once in their 2 year Literature course. Students get to interact with the director and actors after the play, which gives them the opportunity to visualise how dramatic techniques and symbols are represented on stage.
