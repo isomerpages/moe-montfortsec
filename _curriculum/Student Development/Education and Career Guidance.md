@@ -3,6 +3,7 @@ title: Education and Career Guidance
 permalink: /curriculum/Student-Development/ecg/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ### Vision
 To develop resilient Montfortians who are empowered to plan for his post-secondary education and career options in his journey of lifelong learning.
@@ -98,23 +99,13 @@ There are 3 contact points designed to provide students with the learning enviro
 
 ### ECG Counselling
   
-We are currently awaiting a new ECGC to be attached to our school. In the meanwhile, do look for your CMs or book an appointment with the ECG centre @MOE.&nbsp;
+Our ECG Counsellor, Mr Isaac Ang, is in school on Wednesdays and Thursdays. Come and have a chat with him to find out more about your post-secondary options, possible education and career pathways, and strengths and interests!&nbsp;
 
+To book an appointment with Mr Ang, please use the following:
 
+**WhatsApp:** 6883 6904
 
-        
-
-### ECG Centre @ MOE
-
-The ECG Centre @ MOE provides ECG counselling services for students during periods such as the release of their GCE N-Level, O-Level and A-Level examination results.
-
-To book an appointment, please contact:
-
-Email:&nbsp;[MOE\_ECG@moe.gov.sg](mailto:MOE_ECG@moe.gov.sg)
-
-Phone: 6831 1420
-
-E-appointment system:&nbsp;[https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre)
+**Email:** ang_zhaoliang@moe.edu.sg
 
 ### ECG Resources
 ##### POST- SECONDARY PATHWAYS
