@@ -10,6 +10,8 @@ variant: markdown
 
 ***Please refer to&nbsp;[2024 Sec 1 Registration Brief] [Pending]&nbsp;for administration information.***
 
+
+
 Free dental checks are provided by Health Promotion Board for secondary school students. Please submit the online consent form for the dental checks using this
 [link:](https://childconsent.hpb.gov.sg/) (TBC)
 
@@ -20,3 +22,5 @@ If you do not have access to PG,
 (Click [link](https://www.montfortsec.moe.edu.sg/students/Sec-1-Onboarding/parents-gateway) for installation guide)
 
 * please contact the school at 6510 7070.
+
+If your son/ward is unable to report to school on 2nd January 2024 due to valid reasons, please contact the school after receiving his posting results to confirm his placement in the school.
