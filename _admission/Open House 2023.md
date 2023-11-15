@@ -2,6 +2,7 @@
 title: Open House 2023
 permalink: /admission/openhouse2023/
 description: ""
+variant: markdown
 ---
 ## **Open House**
 ![](/images/2023_4724x2000_hires_final.jpg)
@@ -28,7 +29,7 @@ It's important to note that slots for our guided tours are limited and allocated
 Here are the scheduled tour times for your convenience:
 
 *   8:30 AM: School Tour 1
-*   10:15 AM: School Tour 2
+*   10:00 AM: School Tour 2
 
 This day isn't just about learning about our school; it's about becoming part of our welcoming community! And here's a sweet treat to make your day even more special - *free popcorn and cotton candy! So, bring your family and join us on the 25th of November for a day filled with exploration, enlightenment, and joy. Together, let's discover if our school is the ideal place for your child's future!
 
