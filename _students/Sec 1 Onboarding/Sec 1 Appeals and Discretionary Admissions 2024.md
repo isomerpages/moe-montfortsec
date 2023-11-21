@@ -8,7 +8,7 @@ variant: markdown
 ##### **<u> APPEALS AND DISCRETIONARY ADMISSIONS</u>**
 
 **Appeal to transfer in to Montfort Secondary School (Discretionary Admissions)**
-* You do not need to come in person and may submit your appeal via this [link](https://form.gov.sg/655b57578e4b8a0012495fde) .
+* You do not need to come in person and may submit your appeal via this <b>[link](https://form.gov.sg/655b57578e4b8a0012495fde)</b> .
 * The school will contact parents whose appeal is successful by 2 January 2024.
 * Please note that students who wish to appeal for a school transfer may submit their appeals but are likely to be unsuccessful if they have not met the cut-off point for the respective courses in this year’s Secondary One Posting to Montfort Secondary School. 
 
