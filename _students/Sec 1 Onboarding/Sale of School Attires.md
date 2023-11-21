@@ -23,4 +23,4 @@ Shirley Season Wear will also be in school for exchanges  on:
 
 | Dates of Sales| Timings| Venue |
 | -------- | -------- | -------- |
-| Thursday, 4 January 2024    | 10 am to 2 pm  | Canteen   | 10 am to 1 pm   | Canteen |
+| Thursday, 4 January 2024    | 10 am to 2 pm  | Canteen|
