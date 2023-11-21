@@ -19,9 +19,8 @@ Parents/Guardians are strongly encouraged to purchase the PE attire, school unif
 * Opening Hours for December: 12 pm to 6 pm (DAILY)
 
 
-Shirley Season Wear will also be in school for exchanges or last-minute purchases on:
+Shirley Season Wear will also be in school for exchanges  on:
 
 | Dates of Sales| Timings| Venue |
 | -------- | -------- | -------- |
-| Thursday,  January 2024 (TBC)    | 10 am to 1 pm  | Canteen |
-| Friday,  January 2024 (TBC)   | 10 am to 1 pm   | Canteen |
+| Thursday, 4 January 2024    | 10 am to 2 pm  | Canteen   | 10 am to 1 pm   | Canteen |
