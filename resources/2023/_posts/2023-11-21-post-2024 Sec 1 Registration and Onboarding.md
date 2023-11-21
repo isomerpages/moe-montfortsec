@@ -5,7 +5,7 @@ date: 2023-11-21
 layout: post
 description: ""
 image: /images/2024_onboarding.jpg
-variant: tiptap
+variant: markdown
 ---
-![](/images/registration.jpg)
+![](/images/2024_onboarding.jpg)
 Click [here](/students/sec-1-onboarding/sec-1-onboarding/) for more information
