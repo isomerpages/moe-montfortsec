@@ -10,7 +10,7 @@ variant: markdown
 ##### ***Note that alternative uniform can only be bought from the school bookshop .***
 
 Parents/Guardians are strongly encouraged to purchase the PE attire, school uniform, name tag, apron, school socks and white shoes online at:
-* Link			: http://www.shirleyuni.com 
+* Link			: [http://www.shirleyuni.com ](http://www.shirleyuni.com )
 * Uniform Supplier	: Shirley Season Wear
 * Address		: Northstar 7030 Ang Mo Kio Ave 5, #04-55 (Lift Lobby 1), S(569880)
 * Telephone		: 62804917
