@@ -12,11 +12,11 @@ Parents are strongly encouraged to purchase textbooks, stationery and alternativ
 
 Parents may place an order online at:
 * Link: https://dyeducation.net
-* Click on ‘Montfort Secondary School’
+* Click on ‘Montfort Secondary’
 * Password: 668888
 
 Parents may opt for:
-* Home delivery Service (fee applicable)&nbsp; \[Recommended\]
+* Home delivery Service (fee applicable)&nbsp; \[**Recommended**\]
 * Self-collection at the school’s bookstore
 
 **The supplier will get in touch with you to confirm the delivery date or self-collection date.**
