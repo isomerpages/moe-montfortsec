@@ -10,7 +10,7 @@ variant: markdown
 ##### ***Note that alternative uniform can only be bought from the school bookshop .***
 
 Parents/Guardians are strongly encouraged to purchase the PE attire, school uniform, name tag, apron, school socks and white shoes online at:
-* Link			: http://www.shirleyuni.com 
+* Link			: [http://www.shirleyuni.com ](http://www.shirleyuni.com )
 * Uniform Supplier	: Shirley Season Wear
 * Address		: Northstar 7030 Ang Mo Kio Ave 5, #04-55 (Lift Lobby 1), S(569880)
 * Telephone		: 62804917
@@ -19,9 +19,8 @@ Parents/Guardians are strongly encouraged to purchase the PE attire, school unif
 * Opening Hours for December: 12 pm to 6 pm (DAILY)
 
 
-Shirley Season Wear will also be in school for exchanges or last-minute purchases on:
+Shirley Season Wear will also be in school for exchanges  on:
 
 | Dates of Sales| Timings| Venue |
 | -------- | -------- | -------- |
-| Thursday,  January 2024 (TBC)    | 10 am to 1 pm  | Canteen |
-| Friday,  January 2024 (TBC)   | 10 am to 1 pm   | Canteen |
+| Thursday, 4 January 2024    | 10 am to 2 pm  | Canteen|
