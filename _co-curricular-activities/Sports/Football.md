@@ -15,7 +15,6 @@ variant: markdown
 
 ### Photo Gallery
 
-![soccer](/images/soccer.png)
 <table style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
