@@ -3,12 +3,13 @@ title: Football
 permalink: /co-curricular-activities/Sports/football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-![](/images/fb1.jpeg)
+![soccer mission](/images/soccer_1_jpg.png)
 
-![](/images/Football.png)
+![training hours](/images/soccer_2_1_jpg.png)
 
-![](/images/fb3.png)
+![](/images/soccer_3_3.png)
 
 
 
