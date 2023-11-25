@@ -18,6 +18,10 @@ sections:
           description: Student Resources
           url: https://workspace.google.com/dashboard
       background: /images/banner_staging.jpg
+  - resources:
+      title: Announcements
+      subtitle: Our Latest News
+      button: View More
   - infopic:
       title: "Video: Years Ahead with Us"
       id: infopic
@@ -35,10 +39,6 @@ sections:
       url: /admission/openhouse2023/
       image: /images/2023 open house.jpg
       alt: Image alt text
-  - resources:
-      title: Announcements
-      subtitle: Our Latest News
-      button: View More
   - infopic:
       title: Montfort Heritage Video
       subtitle: Our History and Heritage
