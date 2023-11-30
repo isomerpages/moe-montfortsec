@@ -27,4 +27,4 @@ variant: markdown
 * [Sec 4 G1 Booklist and Stationery list](/files/2024_Sec_4_G1_Booklist.pdf)
   
 **Sec 5**  
-[Sec 5 NA Booklist and Stationery list](/files/2024_Sec_5NA_Booklist.pdf)
+* [Sec 5 NA Booklist and Stationery list](/files/2024_Sec_5NA_Booklist.pdf)
