@@ -4,7 +4,7 @@ permalink: /parents/book-list/
 description: ""
 variant: markdown
 ---
-**Booklist 2023**  
+**Booklist 2024**  
 
 **Sec 1**  
 * [Sec 1 G3 Booklist and Stationery list](/files/2024%20sec%201_g3%20booklist.pdf)
@@ -12,28 +12,19 @@ variant: markdown
 * [Sec 1 G1 Booklist and Stationery list](/files/2024%20sec%201_g1%20booklist.pdf)
   
 **Sec 2**  
-[Sec 2 Express G3 Booklist](/files/Sec%202%20Exp%20G3%20BOOKLIST.pdf)    
-[Sec 2 Express G3 Stationery](/files/Sec%202%20Exp%20G3%20STATIONERY.pdf)   
-[Sec 2 NA G2 Booklist](/files/Sec%202%20NA%20G2%20BOOKLIST.pdf)  
-[Sec 2 NA G2 Stationery](/files/Sec%202%20NA%20G2%20STATIONERY.pdf)   
-[Sec 2 NT G1 Booklist](/files/Sec%202%20NT%20G1%20BOOKLIST.pdf)   
-[Sec 2 NT G1 Stationery](/files/Sec%202%20NT%20G1%20STATIONERY.pdf)   
+* [Sec 2 G3 Booklist and Stationery list](/files/2024_Sec_2_G3_Booklist.pdf)
+* [Sec 2 G2 Booklist and Stationery list](/files/2024_Sec_2_G2_Booklist.pdf)
+* [Sec 2 G1 Booklist and Stationery list](/files/2024_Sec_2_G1_Booklist.pdf)
   
 **Sec 3**  
-[Sec 3 Express G3 Booklist](/files/Sec%203%20Exp%20G3%20BOOKLIST.pdf)   
-[Sec 3 Express G3 Stationery](/files/Sec%203%20Exp%20G3%20STATIONERY.pdf)   
-[Sec 3 NA G2 Booklist](/files/Sec%203%20NA%20G2%20BOOKLIST.pdf)  
-[Sec 3 NA G2 Stationery](/files/Sec%203%20NA%20G2%20STATIONERY.pdf)  
-[Sec 3 NT G1 Booklist](/files/Sec%203%20NT%20G1%20BOOKLIST.pdf)   
-[Sec 3 NT G1 Stationery](/files/Sec%203%20NT%20G1%20STATIONERY.pdf)
+* [Sec 3 G3 Booklist and Stationery list](/files/2024_Sec_3_G3_Booklist.pdf)
+* [Sec 3 G2 Booklist and Stationery list](/files/2024_Sec_3_G2_Booklist.pdf)
+* [Sec 3 G1 Booklist and Stationery list](/files/2024_Sec_3_G1_Booklist.pdf)
   
 **Sec 4**  
-[Sec 4 Express Booklist](/files/Sec%204E%20BOOKLIST.pdf)   
-[Sec 4 NA Booklist](/files/Sec%204NA%20BOOKLIST.pdf)   
-[Sec 4 Express & NA Stationery](/files/Sec%204E%20%20NA%20STATIONERY.pdf)    
-[Sec 4 NT Booklist](/files/Sec%204NT%20BOOKLIST.pdf)   
-[Sec 4 NT Stationery](/files/Sec%204NT%20STATIONERY.pdf)
+* [Sec 4 G3 Booklist and Stationery list](/files/2024_Sec_4_G3_Booklist.pdf)
+* [Sec 4 G2 Booklist and Stationery list](/files/2024_Sec_4_G2_Booklist.pdf)
+* [Sec 4 G1 Booklist and Stationery list](/files/2024_Sec_4_G1_Booklist.pdf)
   
 **Sec 5**  
-[Sec 5 NA Booklist](/files/Sec%205NA%20BOOKLIST.pdf)   
-[Sec 5 NA Stationery](/files/Sec%205NA%20STATIONERY.pdf)
+[Sec 5 NA Booklist and Stationery list](/files/2024_Sec_5NA_Booklist.pdf)
