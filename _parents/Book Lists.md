@@ -2,17 +2,14 @@
 title: Book Lists
 permalink: /parents/book-list/
 description: ""
+variant: markdown
 ---
-
 **Booklist 2023**  
 
 **Sec 1**  
-[Sec 1 Express G3 Booklist](/files/Sec%201%20Express%20G3%20BOOKLIST.pdf)   
-[Sec 1 Express G3 Stationery](/files/Sec%201%20Express%20G3%20STATIONERY%20LIST.pdf)   
-[Sec 1 NA G2 Booklist](/files/Sec%201%20NA%20G2%20BOOKLIST.pdf)   
-[Sec 1 NA G2 Stationery](/files/Sec%201%20NA%20G21%20STATIONERY%20LIST.pdf)   
-[Sec 1 NT G1 Booklist](/files/Sec%201%20NT%20G1%20BOOKLIST.pdf)   
-[Sec 1 NT G1 Stationery](/files/Sec%201%20NT%20G1%20STATIONERY%20LIST.pdf)
+* [Sec 1 G3 Booklist and Stationery list](/files/2024%20sec%201_g3%20booklist.pdf)
+* [Sec 1 G2 Booklist and Stationery list](/files/2024%20sec%201_g2%20booklist.pdf)
+* [Sec 1 G1 Booklist and Stationery list](/files/2024%20sec%201_g1%20booklist.pdf)
   
 **Sec 2**  
 [Sec 2 Express G3 Booklist](/files/Sec%202%20Exp%20G3%20BOOKLIST.pdf)    
