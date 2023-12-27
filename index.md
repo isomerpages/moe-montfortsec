@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Montfort Times
           description: Montfort Heartbeat
-          url: https://drive.google.com/drive/folders/1zbsTEo2VT70hZFL9xNJpS_KkUqP2tfTa
+          url: https://drive.google.com/file/d/1VDTwyNdbHjtrqCzZ9scD9HjvRSxcnn6Z/view
         - title: ALP
           description: Applied Learning Programme
           url: /curriculum/Distinctive-Programme/applied-learning-programme
