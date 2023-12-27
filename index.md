@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Montfort Times
           description: Montfort Heartbeat
-          url: https://drive.google.com/drive/folders/1zbsTEo2VT70hZFL9xNJpS_KkUqP2tfTa
+          url: https://drive.google.com/file/d/1VDTwyNdbHjtrqCzZ9scD9HjvRSxcnn6Z/view
         - title: ALP
           description: Applied Learning Programme
           url: /curriculum/Distinctive-Programme/applied-learning-programme
@@ -31,13 +31,6 @@ sections:
       button: View Video
       url: https://www.youtube.com/watch?v=eowg_Dv0p9k&t=10s
       image: /images/john12.png
-      alt: Image alt text
-  - infopic:
-      title: Open House 2023
-      id: infopic
-      button: Click here
-      url: /admission/openhouse2023/
-      image: /images/2023 open house.jpg
       alt: Image alt text
   - infopic:
       title: Montfort Heritage Video
