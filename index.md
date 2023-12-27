@@ -33,13 +33,6 @@ sections:
       image: /images/john12.png
       alt: Image alt text
   - infopic:
-      title: Open House 2023
-      id: infopic
-      button: Click here
-      url: /admission/openhouse2023/
-      image: /images/2023 open house.jpg
-      alt: Image alt text
-  - infopic:
       title: Montfort Heritage Video
       subtitle: Our History and Heritage
       button: View Video
