@@ -55,28 +55,20 @@ Parents can refer to the student’s handbook for the&nbsp; AUP in school.
 
 
 ### Device Information
-##### **Secondary 1**
 ![](/images/laptop_3.png)
-##### **Secondary 2-5**
-![](/images/PDLP_school%20PLD.png)
+
 
 ### Funding Information
 
 **The cost of the device bundle can be paid using your child’s Edusave account**, after setting aside provision for payment of second-tier miscellaneous fees.
 
-To ensure the affordability of devices, there was a&nbsp;**one-time Edusave top-up of $200 in April 2020**&nbsp;to support the purchase of the device.&nbsp;
-
-This is on top of the&nbsp;**annual $290**&nbsp;credited into the Edusave account for Secondary School students.
+To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students.
 
 For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0.&nbsp;
 
-Subsidies will be provided for SC who need support, particularly those whose Gross Household Income (GHI) is below $4,000 or Per Capita Income (PCI)# is below $1,000.
+![](/images/finance_1.png)
 
 For more details on financial assistance, please approach the school.&nbsp;
-
-Permanent residents (PR) and international students (IS) who need support could apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI)# is below $1000.&nbsp;
-
-For more details, please approach the school.&nbsp;
 
 
 ### What's Next?
