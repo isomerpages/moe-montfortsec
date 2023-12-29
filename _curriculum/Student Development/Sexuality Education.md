@@ -27,7 +27,7 @@ sexuality that are premised on the family as the basic unit of society.
 
 You may [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-### Overview of Montfort Secondary School's Sexuality Education Programme in 2023
+### Overview of Montfort Secondary School's Sexuality Education Programme in 2024
 
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -44,7 +44,7 @@ You may [here](https://go.gov.sg/moe-sexuality-education) for more information o
 
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Montfort Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2023</u>:**
+**At Montfort Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2024</u>:**
 
 ### Secondary 1 
 <style type="text/css">
