@@ -12,27 +12,52 @@ Under the NDLP, every secondary school student will&nbsp;own a school-prescribed
 
 ### Digital Competencies
 
-Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework is further unpacked into 9 digital competencies to support deepening of digital literacy in schools.
-![](/images/9_digital_competencies.png)
 Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the&nbsp;**‘Find, Think, Apply and Create’**&nbsp;framework.
 
-Through the NDLP, all secondary school students will own a school-prescribed personal learning device (PLD) by end 2021, Singapore Citizen students can use their Edusave Account to pay for the PLD.
+Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework is further unpacked into 9 digital competencies to support deepening of digital literacy in schools.
+![](/images/9_digital_competencies.png)
 
-The device will be used to facilitate an environment that encourages personalised learning.
+### Intended Outcomes of the PLD Initiative
 
-
-
-
-
-
-### Intended Outcomes of a Personalised Learning Environment
-
-The use of the Personal Learning Device for teaching and learning aims to:
-
+The use of the PLD for teaching and learning aims to:
 ![](/images/PDLP_Outcome.png)
 
-### Device Information
+### Responsible Usage of PLDs
 
+
+The school has in place to enable a safer digital environment for&nbsp;learning with the use of PLDs. The role of the parent is also key in partnering the school to support your child.
+
+**A. Educating students on Cyber Wellness**
+
+MOE has made significant changes to the Character and Citizenship Education&nbsp;(CCE) curriculum. Cyber Wellness lessons will feature significantly in these&nbsp;lessons.
+
+The broad topics covered in Cyber Wellness are:&nbsp;
+
+*   Cyber Use
+*   Cyber Identity
+*   Cyber Relationships
+*   Cyber Citizenship
+*   Cyber Ethics
+
+
+**B. Device Management Application**&nbsp;
+
+Device management application (DMA) software will be installed on your child’s device to&nbsp;provide a safer digital&nbsp;environment for learning, and to prevent misuse of the device.
+
+The DMA will be&nbsp;**funded by MOE**&nbsp;and will be&nbsp;**uninstalled from the device when the child graduates/ leaves the school.**&nbsp;
+
+
+**C. Acceptable Use Policy (AUP)**
+
+Parents could refer to the AUP when helping to manage his/her child’s use of the PLD. The AUP will help your child to&nbsp;**understand the expectations**&nbsp;of device use to&nbsp;**enable a conducive learning environment**.&nbsp;
+It also&nbsp;**outlines**&nbsp;the&nbsp;**consequences**&nbsp;for violating the policy.&nbsp;
+Parents can refer to the student’s handbook for the&nbsp; AUP in school.
+
+
+### Device Information
+##### **Secondary 1**
+![](/images/laptop_3.png)
+##### **Secondary 2-5**
 ![](/images/PDLP_school%20PLD.png)
 
 ### Funding Information
@@ -53,39 +78,6 @@ Permanent residents (PR) and international students (IS) who need support could 
 
 For more details, please approach the school.&nbsp;
 
-### Responsible Usage of PLD
-
-
-The school has in place some measures to enable a safe and seamless learning environment for students. The role of the parent is also key in partnering the school to support your child.
-
-**A. Educating students on Cyber Wellness**
-
-MOE has made significant changes to the Character and Citizenship Education. Cyber Wellness lessons will feature significantly in the CCE2021 lessons.
-
-Topics covered in the Cyber Wellness lessons include:&nbsp;
-*   Cyber Use
-*   Cyber Identity
-*   Cyber Relationships
-*   Cyber Citizenship
-*   Cyber Ethics
-
-
-**B. Device Management Application**&nbsp;
-
-Device management application (DMA) software will be installed on your child’s device to provide a safe learning experience for your child, and to prevent misuse of the device.
-
-The DMA will be&nbsp;**funded by MOE**&nbsp;and will be&nbsp;**uninstalled from the device when the child graduates/ leaves the school.**&nbsp;
-
-
-**C. Acceptable Use Policy (AUP)**
-
-Parents could refer to the AUP when helping to manage his/her child’s use of the PLD. The AUP will help your child to&nbsp;**understand the expectations**&nbsp;of device use to&nbsp;**enable a conducive learning environment**.&nbsp;
-
-It also&nbsp;**outlines**&nbsp;the&nbsp;**consequences**&nbsp;for violating the policy.&nbsp;
-
-Parents can refer to the student’s handbook for the&nbsp; Acceptable Use Policy in school.
-
-Click&nbsp;[here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/view)&nbsp;for the device contractor (Acer)'s information.
 
 ### What's Next?
 
@@ -153,6 +145,14 @@ Click&nbsp;[here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wv
 </tbody>
 </table>
 
-### Parent Handbook (I) on 1-to-1 Learning
-  
-Click&nbsp;[here](https://drive.google.com/file/d/1i8ZUn6kAKk_RpvUQamzMikHjjue3MHoe/view)&nbsp;for the Parent handbook
+## Additional Information
+### Acer Service Centre Contact Details
+
+If the PLD is malfunctioning and requires repairs, please notify the Class Mentors and then contact Acer for professional assistance. Click&nbsp;[here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/view)&nbsp;for the device contractor (Acer)'s information.
+
+### Parent Handbooks on 1-to-1 Learning
+*   [Parent Handbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+
+*  [Parent Handbook II](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
+
+
