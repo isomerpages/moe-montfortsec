@@ -1,0 +1,21 @@
+collections:
+  montfort-community:
+    output: true
+    order:
+      - "Our Montfort Story/Video: Years Ahead with Us.md"
+      - Our Montfort Story/.keep
+      - Our Montfort Story/Principal's Message.md
+      - Our Montfort Story/School History.md
+      - Our Montfort Story/Vision, Mission & Values.md
+      - Our Montfort Story/Logo and Song.md
+      - Our Montfort Story/Montfort Education Charter.md
+      - Our Montfort Family/School Management Committee.md
+      - Our Montfort Family/Principal and Vice Principals.md
+      - Our Montfort Family/Key Personnel.md
+      - Our Montfort Family/Class Mentors.md
+      - Our Montfort Family/Other Educators.md
+      - Our Montfort Family/Parent Support Group.md
+      - Our Montfort Family/Counselling and Special Education Needs.md
+      - Our Montfort Family/.keep
+      - Other Information/Non Financial Information.md
+      - Other Information/.keep

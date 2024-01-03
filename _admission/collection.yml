@@ -1,0 +1,5 @@
+collections:
+  admission:
+    output: true
+    order:
+      - DSA.md
