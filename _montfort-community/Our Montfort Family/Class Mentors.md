@@ -75,7 +75,7 @@ variant: markdown
   <tr>
     <td>2 Humility</td>
     <td>Ms Punitha Haridas<br>punitha_haridas@moe.edu.sg</td>
-    <td>Mr Roy Chew<br>@moe.edu.sg</td>
+    <td>Mr Roy Chew<br>roy_chew_hock_wu@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Respect</td>
@@ -95,7 +95,7 @@ variant: markdown
   <tr>
     <td>2 Team Spirit</td>
     <td>Mr Wong Jun Pei, Nicholas<br>wong_jun_pei_nicholas@moe.edu.sg</td>
-    <td>Mr Glen Ng<br>@moe.edu.sg</td>
+    <td>Mr Glen Ng<br>glen_ng_b@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Excellence</td>
@@ -122,7 +122,7 @@ variant: markdown
   <tr>
     <td>3 Compassion</td>
     <td>Ms Ho Hwee Bin<br>ho_hwee_bin@moe.edu.sg</td>
-    <td>Ms Preetha d/o Preklathan<br></td>
+    <td>Ms Preetha d/o Preklathan<br>preetha_preklathan@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Humility</td>
