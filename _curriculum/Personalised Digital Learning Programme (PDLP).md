@@ -91,11 +91,11 @@ For more details on financial assistance, please approach the school.&nbsp;
     <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Activity</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 15 Feb 2023</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent and Edusave Withdrawal</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 5 Jan 2024</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 Apr 2023</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device</span></td>
   </tr>
 </tbody>
@@ -119,19 +119,19 @@ For more details on financial assistance, please approach the school.&nbsp;
     <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Activity</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 15 Feb 2023</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 Jan 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 6 Mar 2023</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For Payment via GIRO, deduction would be made on 6 Mar 2023.</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For Payment via GIRO</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Between 7 Mar - 29 Mar 2023</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For cash paying students, payment to be made via AXS kiosks, AXS e-station (online at</span> <a href="http://www.axs.com.sg/"><span style="text-decoration:none;color:#BD3527"></span></a><a href="www.axs.com.sg">www.axs.com.sg</a><span style="color:#222;background-color:#EAEAEA">) or AXS m-station (mobile app) </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 April 2023</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device </span></td>
   </tr>
 </tbody>
@@ -146,5 +146,3 @@ If the PLD is malfunctioning and requires repairs, please notify the Class Mento
 *   [Parent Handbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
 
 *  [Parent Handbook II](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
-
-
