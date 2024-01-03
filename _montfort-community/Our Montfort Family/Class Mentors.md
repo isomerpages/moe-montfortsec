@@ -121,103 +121,98 @@ variant: markdown
 <tbody>
   <tr>
     <td>3 Compassion</td>
-    <td>Mr Heng Wei Chin, Wilson<br>heng_wei_chin_wilson@moe.edu.sg</td>
-    <td>Mr Liu Yong Feng<br>liu_yong_feng@moe.edu.sg</td>
+    <td>Ms Ho Hwee Bin<br>ho_hwee_bin@moe.edu.sg</td>
+    <td>Ms Preetha d/o Preklathan<br></td>
   </tr>
   <tr>
     <td>3 Humility</td>
-    <td>Ms Tan Wan Sim<br>tan_wan_sim_a@moe.edu.sg</td>
-    <td>Dr Wong De Wei, Shawn <br>wong_de_wei_shawn@moe.edu.sg
+    <td>Ms Cynthia Chua<br>chua_mui_kiang_cynthia_jane@moe.edu.sg</td>
+    <td>Ms Ong Qiulin<br>ong_qiulin@moe.edu.sg
 </td></tr><tr>
     <td>3 Respect</td>
-    <td>Ms Kavitha Supramanian<br>kavitha_a@moe.edu.sg</td>
-    <td>Ms Tan Pei Pei, Eleanor<br>tan_pei_pei_eleanor@moe.edu.sg</td>
+    <td>Mr Tan Teck Huat, Hector<br>tan_teck_huat@moe.edu.sg</td>
+    <td>Mr Wong Yong Zhao Caleb<br>wong_yong_zhao_caleb@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Integrity</td>
-    <td>Mr Joshua Ho Jin Teck<br>joshua_ho_jin_teck@moe.edu.sg</td>
-    <td>Ms Lim Hui Qi<br>lim_hui_qi_a@moe.edu.sg</td>
+    <td>Mr Chia Yong Koon<br> 
+chia_yong_koon@moe.edu.sg</td>
+    <td>Ms Kumari Shanker<br>kumari_shanker@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Service</td>
-    <td>Ms Chua Jing Lin, Eunice<br>chua_jing_lin_eunice@moe.edu.sg</td>
-    <td>Ms Tirunavukkarasu Poongodi <br>tirunavukkarasu_poongodi@moe.edu.sg</td>
+    <td>Ms Michelle Ho Min<br>michelle_ho_ min@moe.edu.sg</td>
+    <td>Ms Norshirin Sulaiman<br>norshirin_sulaiman@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Team Spirit</td>
-    <td>Ms Chew Kit Har<br>chew_kit_har@moe.edu.sg</td>
-    <td>Ms Dhanalakshmi Gunasekaran<br>gunasekaran_dhanalakshmi@moe.edu.sg</td>
+    <td>Ms Leong Kar Wai, Karen<br>leong_kar_wai_karen@moe.edu.sg</td>
+    <td>Ms Tey Ser Ling<br>tey_ser_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Excellence</td>
-    <td>Mr Lim Kim Huat<br>lim_kim_huat@moe.edu.sg</td>
-    <td>Ms Low Guan Lin, Jamie <br>low_guan_lin@moe.edu.sg</td>
+    <td>Mr Muhammad Idris Bin Anwar<br></td>
+    <td>Ms Peh Kaijia Celine<br>peh_kaijia@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 CHRISTE</td>
-    <td>Mr Marcus Tan Lee Kiang<br>marcus_tan_lee_kiang@moe.edu.sg</td>
-    <td>Ms Norasikin Awang<br>norasikin_awang@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>3 Harmony</td>
-    <td>Mr Tan Eng Hwee<br>tan_eng_hwee@moe.edu.sg</td>
-    <td>Mr Pang Jun Yi<br>pang_jun_yi@moe.edu.sg</td>
-  </tr>
-</tbody>
+    <td>Mr Azman Bin Hussin<br></td>
+
+</tr></tbody>
 </table>
 		
 ### 	Secondary 4 &amp; 5
 
+
 <table style="text-align: center">
 <thead>
   <tr>
-    <th colspan="3" style="text-align: center">  Class Mentors (in alphabetical order)</th>
+    <th colspan="3" style="text-align: center">Class Mentors (in alphabetical order)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>4 Excellence</td>
-    <td>Ms Noor Siyah Salleh<br>noor_siyah_salleh@moe.edu.sg</td>
-    <td>Ms Regunathan Niveda<br>
-  </td></tr>
-  <tr>
-    <td>4 Team Spirit</td>
-    <td>Ms Ng Wei Ying<br>ng_wei_ying_a@moe.edu.sg</td>
-    <td>Mr Wong Yong Zhao Caleb<br>wong_yong_zhao_caleb@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>4 Service</td>
-    <td>Mr Muhammad Idris Bin Anwar<br>muhd_idris_anwar@moe.edu.sg</td>
-    <td>Ms Tan Ying Lin Johanna<br>tan_ying_lin_johanna@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>4 Integrity</td>
-    <td>Mr Chia Yong Koon<br>chia_yong_koon@moe.edu.sg</td>
-    <td>Ms Michelle Ho Min<br>michelle_ho_min@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>4 CHRISTE</td>
-    <td>Mr Azman Bin Hussin<br>azman_hussin@moe.edu.sg </td>
-    <td>Ms Yeo Zi Han Emmeline<br>yeo_zi_han@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>4 Respect</td>
-    <td>Ms Norshirin Sulaiman<br>norshirin_sulaiman@moe.edu.sg</td>
-    <td>Ms Tey Ser Ling<br>tey_ser_ling@moe.edu.sg</td>
+    <td>4 Compassion</td>
+    <td>Mr Heng Wei Chin, Wilson<br>heng_wei_chin_wilson@moe.edu.sg</td>
+    <td>Mr Liu Yong Feng<br>liu_yong_feng@moe.edu.sg</td>
   </tr>
   <tr>
     <td>4 Humility</td>
-    <td>Mr Khairyl Hassim<br>khairyl_b_hashim@moe.edu.sg</td>
-    <td>Ms Ko Zen Rae Melisa<br>ko_zen_rae_melisa@moe.edu.sg</td>
+    <td>Ms Tan Wan Sim<br>tan_wan_sim_a@moe.edu.sg</td>
+    <td>Dr Wong De Wei, Shawn <br>wong_de_wei_shawn@moe.edu.sg
+</td></tr><tr>
+    <td>4 Respect</td>
+    <td>Ms Kavitha Supramanian<br>kavitha_a@moe.edu.sg</td>
+    <td>Ms Tan Pei Pei, Eleanor<br>tan_pei_pei_eleanor@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>4 Compassion</td>
-    <td>Mr Hairul Nizam Bin Ramli<br>hairul_nizam_ramli@moe.edu.sg</td>
-    
+    <td>4 Integrity</td>
+    <td>Mr Joshua Ho Jin Teck<br>joshua_ho_jin_teck@moe.edu.sg</td>
+    <td>Ms Lim Hui Qi<br>lim_hui_qi_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>5 Respect</td>
-    <td>Ms Kumari Shanker<br>kumari_shanker@moe.edu.sg</td>
+    <td>4 Service</td>
+    <td>Ms Chua Jing Lin, Eunice<br>chua_jing_lin_eunice@moe.edu.sg</td>
+    <td>Ms Tirunavukkarasu Poongodi <br>tirunavukkarasu_poongodi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>4 Team Spirit</td>
+    <td>Ms Chew Kit Har<br>chew_kit_har@moe.edu.sg</td>
+    <td>Ms Dhanalakshmi Gunasekaran<br>gunasekaran_dhanalakshmi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>4 Excellence</td>
+    <td>Mr Lim Kim Huat<br>lim_kim_huat@moe.edu.sg</td>
+    <td>Ms Low Guan Lin, Jamie <br>low_guan_lin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>4 CHRISTE</td>
+    <td>Ms Solvia Ng Chu Yi <br>@moe.edu.sg</td>
+    <td>Ms Norasikin Awang<br>norasikin_awang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>4 Harmony</td>
+    <td>Mr Tan Eng Hwee<br>tan_eng_hwee@moe.edu.sg</td>
     <td>Mr Wong Boon Chong, Kenny<br>wong_boon_chong_kenny@moe.edu.sg</td>
   </tr>
 </tbody>
