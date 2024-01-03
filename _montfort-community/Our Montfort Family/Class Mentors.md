@@ -32,17 +32,17 @@ variant: markdown
   <tr>
     <td>1 Integrity</td>
     <td>Ms Yeo Zi Han Emmeline<br>yeo_zi_han@moe.edu.sg</td>
-    <td><br></td>
+    <td>-<br></td>
   </tr>
   <tr>
     <td>1 Service</td>
     <td>Mr Hairul Nizam Bin Ramli<br>hairul_nizam_ramli@moe.edu.sg</td>
-    <td><br></td>
+    <td>-<br></td>
   </tr>
   <tr>
     <td>1 Team Spirit</td>
     <td>Ms Ng Wei Ying<br>ng_wei_ying_a@moe.edu.sg</td>
-    <td><br></td>
+    <td>-<br></td>
   </tr>
   <tr>
     <td>1 Excellence</td>
@@ -70,7 +70,7 @@ variant: markdown
   <tr>
     <td>2 Compassion</td>
     <td>Mr JS Sasikumar<br>js_sasikumar@moe.edu.sg</td>
-    <td><br></td>
+    <td>-<br></td>
   </tr>
   <tr>
     <td>2 Humility</td>
@@ -157,6 +157,8 @@ chia_yong_koon@moe.edu.sg</td>
   <tr>
     <td>3 CHRISTE</td>
     <td>Mr Azman Bin Hussin<br>azman_hussin@moe.edu.sg</td>
+		<td>-<br></td>
+		
 
 </tr></tbody>
 </table>
@@ -218,6 +220,7 @@ chia_yong_koon@moe.edu.sg</td>
 	<tr>
 <td>5 Respect</td>
 	<td>Mr Eric Loh<br>eric_loh_tian_hon@moe.edu.sg</td>
+	<td>-<br></td>
   </tr>
 </tbody>
 </table>
