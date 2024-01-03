@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /montfort-community/Montfort-Family/key-personnel/
 description: ""
 third_nav_title: Our Montfort Family
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -30,7 +31,7 @@ third_nav_title: Our Montfort Family
     <td class="tg-0lax">HOD/ Humanities – <span style="font-weight:bold">Ms Judeana Woon Hsiao Hui</span> (woon_hsiao_hui@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">HOD/ Information and Communication Technology - <span style="font-weight:bold">Mr Aaron Cheng Chi En </span>(cheng_chi_en@moe.edu.sg)</td>
+    
   </tr>
   <tr>
     <td class="tg-0lax">HOD/ Mother Tongue Languages - <span style="font-weight:bold">Ms Sim Siew Ngoh</span> (sim_siew_ngoh@moe.edu.sg)</td>
@@ -55,20 +56,25 @@ third_nav_title: Our Montfort Family
   <tr><td class="tg-0lax">Subject Head/ English Language – <span style="font-weight:bold">Ms Tan Pei Pei Eleanor </span>(tan_pei_pei_eleanor@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Subject Head/ Science (Acting) - <span style="font-weight:bold">Mdm Khairunnisa Bte Yahya</span> (khairunnisa_yahya@moe.edu.sg)</td>
+    <td class="tg-0lax">Subject Head/ Mathematics - <span style="font-weight:bold">Ms Cynthia Chua</span> (chua_mui_kiang_cynthia_jane@moe.edu.sg)</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax">Subject Head/ Chemistry - <span style="font-weight:bold">Ms Celine Peh Kaijia</span> (peh_kaijia@moe.edu.sg)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Subject Head/ Geography – <span style="font-weight:bold">Mr Mansoor Abdul Rahman</span> (mansoor_abdul_rahman@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Subject Head/ Corporate Relations and ICT -<span style="font-weight:bold"> Ms Ong Wan Ting</span> (ong_wan_ting@moe.edu.sg)</td>
+   
   </tr>
   <tr>
     <td class="tg-0lax">Subject Head/ Discipline – <span style="font-weight:bold">Mr Wong Boon Chong Kenny</span> (wong_boon_chong_kenny@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Subject Head/ Character and Citizenship Education – <span style="font-weight:bold">Mr Chin Jia Le</span> (chin_jia_le@moe.edu.sg)</td>
+   </tr><tr>
+    <td class="tg-0lax">Subject Head/ ICT - <span style="font-weight:bold">Ms Ong Wan Ting</span> (ong_wan_ting@moe.edu.sg)</td>
   </tr>
+  
   <tr>
     <td class="tg-0lax">Subject Head/ Student Leadership – <span style="font-weight:bold">Mr Heng Wei Chin Wilson</span> (heng_wei_chin_wilson@moe.edu.sg)</td>
   </tr>
@@ -79,16 +85,16 @@ third_nav_title: Our Montfort Family
     <td class="tg-0lax">Year Head – <span style="font-weight:bold">Ms Norazidah Abdol Aziz </span>(norazidah_abdol_aziz@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Assistant Year Head – <span style="font-weight:bold">Mr Jasper Lee Teng Yi</span> (jasper_lee_teng_yi@moe.edu.sg)</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">Assistant Year Head – <span style="font-weight:bold">Ms Ong Wuan Seah</span> (ong_wuan_seah@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Operations Manager 1 – <span style="font-weight:bold">Mr Benny Ng Kum Weng</span> (ng_kum_weng@moe.edu.sg)</td>
+    <td class="tg-0lax">Assistant Year Head – <span style="font-weight:bold">Mr Chin Jia Le</span> (chin_jia_le@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Operations Manager 2 – <span style="font-weight:bold">Mr Ng Hon Yew Alvin</span> (ng_hon_yew_alvin@moe.edu.sg)
+    <td class="tg-0lax">Operations Manager 1 – <span style="font-weight:bold">Mr Ng Hon Yew Alvin</span> (ng_hon_yew_alvin@moe.edu.sg)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Operations Manager 2 – <span style="font-weight:bold">Mr Ek Gek Huat</span> (ek_gek_huat_a@moe.edu.sg)
   </td></tr>
   <tr>
     <td class="tg-0lax">Senior Teacher/ Science (Biology) – <span style="font-weight:bold">Mr Azman Bin Hussin </span>(azman_hussin@moe.edu.sg)</td>

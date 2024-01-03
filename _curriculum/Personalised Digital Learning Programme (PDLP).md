@@ -2,59 +2,37 @@
 title: Personalised Digital Learning Programme (PDLP)
 permalink: /curriculum/Subject-Combination/pdlp/
 description: ""
+variant: markdown
 ---
 ### Overview
 
-Digital technology is becoming increasingly pervasive in  jobs, workplaces and society.
+MOE’s National Digital Literacy Programme (NDLP) was launched in March 2020 to strengthen their digital&nbsp;literacy and&nbsp;acquire digital skills&nbsp;needed to navigate an increasingly&nbsp;digitalised&nbsp;world.
 
-The NDLP was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready. 
+Under the NDLP, every secondary school student will&nbsp;own a school-prescribed&nbsp;Personal Learning Device (PLD). Students may use funds from their Edusave&nbsp;Account&nbsp;to pay for the PLD.&nbsp;
 
-The NDLP aims to equip our students with Digital Literacies. 
+### Digital Competencies
 
-Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the **‘Find, Think, Apply and Create’** framework.
+Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the&nbsp;**‘Find, Think, Apply and Create’**&nbsp;framework.
 
-Through the NDLP, all secondary school students will own a school-prescribed personal learning device (PLD) by end 2021, Singapore Citizen students can use their Edusave Account to pay for the PLD.
+Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework is further unpacked into 9 digital competencies to support deepening of digital literacy in schools.
+![](/images/9_digital_competencies.png)
 
-The device will be used to facilitate an environment that encourages personalised learning.
+### Intended Outcomes of the PLD Initiative
 
-### Intended Outcomes of a Personalised Learning Environment
-
-The use of the Personal Learning Device for teaching and learning aims to:
-
+The use of the PLD for teaching and learning aims to:
 ![](/images/PDLP_Outcome.png)
 
-### Device Information
-
-![](/images/PDLP_school%20PLD.png)
-
-### Funding Information
-
-**The cost of the device bundle can be paid using your child’s Edusave account**, after setting aside provision for payment of second-tier miscellaneous fees.
-
-To ensure the affordability of devices, there was a **one-time Edusave top-up of $200 in April 2020** to support the purchase of the device. 
-
-This is on top of the **annual $290** credited into the Edusave account for Secondary School students.
-
-For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0. 
-
-Subsidies will be provided for SC who need support, particularly those whose Gross Household Income (GHI) is below $4,000 or Per Capita Income (PCI)# is below $1,000.
-
-For more details on financial assistance, please approach the school. 
-
-Permanent residents (PR) and international students (IS) who need support could apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI)# is below $1000. 
-
-For more details, please approach the school. 
-
-### Responsible Usage of PLD
+### Responsible Usage of PLDs
 
 
-The school has in place some measures to enable a safe and seamless learning environment for students. The role of the parent is also key in partnering the school to support your child.
+The school has in place to enable a safer digital environment for&nbsp;learning with the use of PLDs. The role of the parent is also key in partnering the school to support your child.
 
 **A. Educating students on Cyber Wellness**
 
-MOE has made significant changes to the Character and Citizenship Education. Cyber Wellness lessons will feature significantly in the CCE2021 lessons.
+MOE has made significant changes to the Character and Citizenship Education&nbsp;(CCE) curriculum. Cyber Wellness lessons will feature significantly in these&nbsp;lessons.
 
-Topics covered in the Cyber Wellness lessons include: 
+The broad topics covered in Cyber Wellness are:&nbsp;
+
 *   Cyber Use
 *   Cyber Identity
 *   Cyber Relationships
@@ -62,22 +40,36 @@ Topics covered in the Cyber Wellness lessons include: 
 *   Cyber Ethics
 
 
-**B. Device Management Application** 
+**B. Device Management Application**&nbsp;
 
-Device management application (DMA) software will be installed on your child’s device to provide a safe learning experience for your child, and to prevent misuse of the device.
+Device management application (DMA) software will be installed on your child’s device to&nbsp;provide a safer digital&nbsp;environment for learning, and to prevent misuse of the device.
 
-The DMA will be **funded by MOE** and will be **uninstalled from the device when the child graduates/ leaves the school.** 
+The DMA will be&nbsp;**funded by MOE**&nbsp;and will be&nbsp;**uninstalled from the device when the child graduates/ leaves the school.**&nbsp;
 
 
 **C. Acceptable Use Policy (AUP)**
 
-Parents could refer to the AUP when helping to manage his/her child’s use of the PLD. The AUP will help your child to **understand the expectations** of device use to **enable a conducive learning environment**. 
+Parents could refer to the AUP when helping to manage his/her child’s use of the PLD. The AUP will help your child to&nbsp;**understand the expectations**&nbsp;of device use to&nbsp;**enable a conducive learning environment**.&nbsp;
+It also&nbsp;**outlines**&nbsp;the&nbsp;**consequences**&nbsp;for violating the policy.&nbsp;
+Parents can refer to the student’s handbook for the&nbsp; AUP in school.
 
-It also **outlines** the **consequences** for violating the policy. 
 
-Parents can refer to the student’s handbook for the  Acceptable Use Policy in school.
+### Device Information
+![](/images/laptop_3.png)
 
-Click [here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/view) for the device contractor (Acer)'s information.
+
+### Funding Information
+
+**The cost of the device bundle can be paid using your child’s Edusave account**, after setting aside provision for payment of second-tier miscellaneous fees.
+
+To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students.
+
+For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0.&nbsp;
+
+![](/images/finance_1.png)
+
+For more details on financial assistance, please approach the school.&nbsp;
+
 
 ### What's Next?
 
@@ -99,11 +91,11 @@ Click [here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/
     <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Activity</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 15 Feb 2023</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent and Edusave Withdrawal</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 5 Jan 2024</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 Apr 2023</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device</span></td>
   </tr>
 </tbody>
@@ -127,24 +119,30 @@ Click [here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/
     <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Activity</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 15 Feb 2023</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 Jan 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 6 Mar 2023</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For Payment via GIRO, deduction would be made on 6 Mar 2023.</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For Payment via GIRO</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Between 7 Mar - 29 Mar 2023</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For cash paying students, payment to be made via AXS kiosks, AXS e-station (online at</span> <a href="http://www.axs.com.sg/"><span style="text-decoration:none;color:#BD3527"><a href="www.axs.com.sg">www.axs.com.sg</a></span></a><span style="color:#222;background-color:#EAEAEA">) or AXS m-station (mobile app) </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For cash paying students, payment to be made via AXS kiosks, AXS e-station (online at</span> <a href="http://www.axs.com.sg/"><span style="text-decoration:none;color:#BD3527"></span></a><a href="www.axs.com.sg">www.axs.com.sg</a><span style="color:#222;background-color:#EAEAEA">) or AXS m-station (mobile app) </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 April 2023</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device </span></td>
   </tr>
 </tbody>
 </table>
 
-### Parent Handbook (I) on 1-to-1 Learning
-  
-Click [here](https://drive.google.com/file/d/1i8ZUn6kAKk_RpvUQamzMikHjjue3MHoe/view) for the Parent handbook
+## Additional Information
+### Acer Service Centre Contact Details
+
+If the PLD is malfunctioning and requires repairs, please notify the Class Mentors and then contact Acer for professional assistance. Click&nbsp;[here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/view)&nbsp;for the device contractor (Acer)'s information.
+
+### Parent Handbooks on 1-to-1 Learning
+*   [Parent Handbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+
+*  [Parent Handbook II](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
