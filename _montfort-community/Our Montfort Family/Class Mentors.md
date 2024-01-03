@@ -52,7 +52,7 @@ variant: markdown
   <tr>
     <td>1 CHRISTE</td>
     <td>Ms Ko Zen Rae Melisa<br>ko_zen_rae_melisa@moe.edu.sg</td>
-    <td>Mr Wong Chyng Shiau Kenny <br></td>
+    <td>Mr Wong Chyng Shiau Kenny <br>wong_chyng_shiau@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
