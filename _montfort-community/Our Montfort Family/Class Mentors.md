@@ -215,5 +215,9 @@ chia_yong_koon@moe.edu.sg</td>
     <td>Mr Tan Eng Hwee<br>tan_eng_hwee@moe.edu.sg</td>
     <td>Mr Wong Boon Chong, Kenny<br>wong_boon_chong_kenny@moe.edu.sg</td>
   </tr>
+	<tr>
+<td>5 Respect</td>
+	<td>Mr Eric Loh<br>eric_loh_tian_hon@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
