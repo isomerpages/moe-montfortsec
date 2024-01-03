@@ -32,7 +32,7 @@ variant: markdown
   <tr>
     <td>1 Integrity</td>
     <td>Ms Yeo Zi Han Emmeline<br>yeo_zi_han@moe.edu.sg</td>
-    <td>Ms Khairunnisa Bte Yahya<br></td>
+    <td><br></td>
   </tr>
   <tr>
     <td>1 Service</td>
@@ -69,43 +69,43 @@ variant: markdown
 <tbody>
   <tr>
     <td>2 Compassion</td>
-    <td>Mr Tan Teck Huat, Hector<br>tan_teck_huat@moe.edu.sg</td>
-    <td>Mr Yeo Kok How Adam<br>yeo_kok_how@moe.edu.sg</td>
+    <td>Mr JS Sasikumar<br>js_sasikumar@moe.edu.sg</td>
+    <td><br></td>
   </tr>
   <tr>
     <td>2 Humility</td>
-    <td>Ms Jamilah Bte Rati<br>jamilah_rati@moe.edu.sg</td>
-    <td>Ms Leong Kar Wai, Karen<br>leong_kar_wai_karen@moe.edu.sg</td>
+    <td>Ms Punitha Haridas<br>punitha_haridas@moe.edu.sg</td>
+    <td>Mr Roy Chew<br>@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Respect</td>
-    <td>Mr Azman Akmad<br>azman_bin_akmad@moe.edu.sg</td>
-    <td>Mr Hoe Qing En, Brendan<br>hoe_qing_en_brendan@moe.edu.sg</td>
+    <td>Mr R Jayakumar<br>r_jayakumar@moe.edu.sg</td>
+    <td>Mr Soh Yi Jie<br>soh_yi_jie@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Integrity</td>
-    <td>Mr Khoo Chin Yong Herald<br>khoo_chin_yong_herald@moe.edu.sg</td>
-    <td>Ms Ong Qiulin<br>ong_qiulin@moe.edu.sg</td>
+    <td>Mr Izuan Bin Hussain Bagarib<br>izuan_hussain_bagarib@moe.edu.sg</td>
+    <td>Ms Megan Tan Shu Ning<br>megan_tan_shu_ning@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Service</td>
-    <td>Mr Caleb Chin Jia Le<br>chin_jia_le@moe.edu.sg</td>
-    <td>Ms Khairunnisa Bte Yahya<br>khairunnisa_yahya@moe.edu.sg</td>
+    <td>Ms Jeslin Ang Hui Min<br>jeslin_ang_hui_min@moe.edu.sg</td>
+    <td>Ms Ong Wan Ting<br>ong_wan_ting@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Team Spirit</td>
-    <td>Ms Chua Yingying, Joyce<br>chua_yingying_joyce@moe.edu.sg</td>
-    <td>Mr Quek Soon Heng<br>quek_soon_heng@moe.edu.sg</td>
+    <td>Mr Wong Jun Pei, Nicholas<br>wong_jun_pei_nicholas@moe.edu.sg</td>
+    <td>Mr Glen Ng<br>@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Excellence</td>
-    <td>Ms Ho Hwee Bin<br>ho_hwee_bin@moe.edu.sg</td>
-    <td>Ms Rafidah Bte Muhammad Nasir<br>binte_muhammad_nasir_rafidah@moe.edu.sg</td>
+    <td>Mr Mansoor Abdul Rahman<br>mansoor_abdul_rahman@moe.edu.sg</td>
+    <td>Ms Teo Wan Lin<br>teo_wan_lin@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 CHRISTE</td>
-    <td>Ms Xiang Yifei<br>xiang_yifei@moe.edu.sg</td>
-    <td>Ms Nithiyaa R<br>nithiyaa_rajaratnam@moe.edu.sg</td>
+    <td>Mr Sin Kum Sing, Simon<br>sin_kum_sing@moe.edu.sg</td>
+    <td>Ms Tan Ying Lin Johanna<br>tan_ying_lin_johanna@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -151,12 +151,12 @@ chia_yong_koon@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Excellence</td>
-    <td>Mr Muhammad Idris Bin Anwar<br></td>
+    <td>Mr Muhammad Idris Bin Anwar<br>muhd_idris_anwar@moe.edu.sg</td>
     <td>Ms Peh Kaijia Celine<br>peh_kaijia@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 CHRISTE</td>
-    <td>Mr Azman Bin Hussin<br></td>
+    <td>Mr Azman Bin Hussin<br>azman_hussin@moe.edu.sg</td>
 
 </tr></tbody>
 </table>
