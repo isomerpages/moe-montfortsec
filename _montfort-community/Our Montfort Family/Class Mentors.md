@@ -207,7 +207,7 @@ chia_yong_koon@moe.edu.sg</td>
   </tr>
   <tr>
     <td>4 CHRISTE</td>
-    <td>Ms Solvia Ng Chu Yi <br>@moe.edu.sg</td>
+    <td>Ms Solvia Ng Chu Yi <br>solvia_ng_chu_yi@moe.edu.sg</td>
     <td>Ms Norasikin Awang<br>norasikin_awang@moe.edu.sg</td>
   </tr>
   <tr>
