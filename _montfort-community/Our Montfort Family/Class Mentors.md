@@ -3,6 +3,7 @@ title: Class Mentors
 permalink: /montfort-community/Montfort-Family/class-mentors/
 description: ""
 third_nav_title: Our Montfort Family
+variant: markdown
 ---
 ### Secondary 1
 
@@ -15,43 +16,43 @@ third_nav_title: Our Montfort Family
 <tbody>
   <tr>
     <td>1 Compassion</td>
-    <td>Mr JS Sasikumar<br>js_sasikumar@moe.edu.sg</td>
-    <td>Ms Ang Guat Hong <br>ang_guat_hong@moe.edu.sg</td>
+    <td>Ms Jamilah Bte Rati<br>jamilah_rati@moe.edu.sg</td>
+    <td>Ms Latha D/O Murugiah<br></td>
   </tr>
   <tr>
     <td>1 Humility</td>
-    <td>Mrs Punitha Ramesh<br>punitha_haridas@moe.edu.sg</td>
-    <td>Ms Chua Hwei Ling, Cindy<br>chua_hwei_ling@moe.edu.sg</td>
+    <td>Mr Azman Akmad<br>azman_bin_akmad@moe.edu.sg</td>
+    <td>Mr Zhang Wenjie<br></td>
   </tr>
   <tr>
     <td>1 Respect<br> </td>
-    <td>Mr R Jayakumar<br>r_jayakumar@moe.edu.sg</td>
-    <td>Mr Soh Yi Jie<br>soh_yi_jie@moe.edu.sg</td>
+    <td>Mr Hoe Qing En, Brendan<br>hoe_qing_en_brendan@moe.edu.sg</td>
+    <td>Mr Khairyl Hassim<br>khairyl_b_hashim@moe.edu.sg</td>
   </tr>
   <tr>
     <td>1 Integrity</td>
-    <td>Mr Izuan Bin Hussain Bagarib<br>izuan_hussain_bagarib@moe.edu.sg</td>
-    <td>Ms Megan Tan Shu Ning<br>megan_tan_shu_ning@moe.edu.sg</td>
+    <td>Ms Yeo Zi Han Emmeline<br>yeo_zi_han@moe.edu.sg</td>
+    <td>Ms Khairunnisa Bte Yahya<br></td>
   </tr>
   <tr>
     <td>1 Service</td>
-    <td>Ms Jeslin Ang Hui Min<br>jeslin_ang_hui_min@moe.edu.sg</td>
-    <td>Ms Ong Wan Ting<br>ong_wan_ting@moe.edu.sg</td>
+    <td>Mr Hairul Nizam Bin Ramli<br>hairul_nizam_ramli@moe.edu.sg</td>
+    <td><br></td>
   </tr>
   <tr>
     <td>1 Team Spirit</td>
-    <td>Ms Nur Nadzirah Abdul Halim<br>nur_nadzirah_abdul@moe.edu.sg</td>
-    <td>Mr Wong Jun Pei, Nicholas<br>wong_jun_pei_nicholas@moe.edu.sg</td>
+    <td>Ms Ng Wei Ying<br>ng_wei_ying_a@moe.edu.sg</td>
+    <td><br></td>
   </tr>
   <tr>
     <td>1 Excellence</td>
-    <td>Mr Mansoor Abdul Rahman<br>mansoor_abdul_rahman@moe.edu.sg</td>
-    <td>Mr Yong Keen Whye<br>yong_keen_whye@moe.edu.sg</td>
+    <td>Mr Quek Soon Heng<br>quek_soon_heng@moe.edu.sg</td>
+    <td>Ms Rafidah Bte Muhammad Nasir<br>binte_muhammad_nasir_rafidah@moe.edu.sg</td>
   </tr>
   <tr>
     <td>1 CHRISTE</td>
-    <td>Mr Sin Kum Sing, Simon<br>sin_kum_sing@moe.edu.sg</td>
-    <td>Ms Teo Wan Lin <br>teo_wan_lin@moe.edu.sg</td>
+    <td>Ms Ko Zen Rae Melisa<br>ko_zen_rae_melisa@moe.edu.sg</td>
+    <td>Mr Wong Chyng Shiau Kenny <br></td>
   </tr>
 </tbody>
 </table>
