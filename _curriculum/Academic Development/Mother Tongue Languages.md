@@ -15,7 +15,7 @@ Head of Department – **Ms Sim Siew Ngoh**
 
 Year Head – **Ms Su Huimin**   
 
-Subject Head / Assistant Year Head  – **Mr Chin Jia Le**
+Assistant Year Head  – **Mr Chin Jia Le**
 
 Senior Teacher (CCE) – **Ms Ng Wei Ying**   
 
