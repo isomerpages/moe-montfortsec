@@ -3,6 +3,7 @@ title: Aesthetics | Craft & Technology
 permalink: /curriculum/Academic-Development/aesthetics/
 description: ""
 third_nav_title: Academic Development
+variant: markdown
 ---
 ### Mission
 
@@ -17,19 +18,19 @@ Teacher -&nbsp;**Mr Khairyl B Hashim (Art)**
 
 Teacher -&nbsp;**Ms Rafidah Binte Muhammad Nasir (Art)**
 
-Teacher -&nbsp;**Mr Yong Keen Whye (Art)**
-
-Teacher -&nbsp;**Ms Agnes David (FCE)**
+Teacher -&nbsp;**Mr Wong Chyng Shiau (FCE)**
 
 Teacher -&nbsp;**Mdm Jamilah Bte Rati (FCE)**
 
 Teacher -&nbsp;**Ms Jeslin Ang Hui Min (FCE)**
 
+Teacher -&nbsp;**Ms Agnes David (FCE)**
+
 Teacher -&nbsp;**Mr Izuan Bin Hussain Bagarib (D&amp;T)**
 
-Teacher -&nbsp;**Mr Khoo Chin Yong, Herald (D&amp;T)**
-
 Teacher -&nbsp;**Mr Sin Kum Sing, Simon (D&amp;T)**
+
+Teacher -&nbsp;**Mr Roy Chew Hock Wu (D&amp;T)**
 
 Teacher -&nbsp;**Mr Soo Kwok Wah (D&amp;T)**
 
