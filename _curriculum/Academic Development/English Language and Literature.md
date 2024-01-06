@@ -45,6 +45,8 @@ Teacher -&nbsp;**Ms Megan Tan Shu Ning**
 
 Teacher -&nbsp;**Ms Preetha Preklathan**
 
+Teacher -&nbsp;**Ms Lo Cai Yue Brenda**
+
 Teacher –&nbsp;**Mr Azahar Bin Mohamed**
 
 Teacher -&nbsp;**Mr Bennett Tan Chuan Lee**
