@@ -3,6 +3,7 @@ title: Science
 permalink: /curriculum/Academic-Development/science/
 description: ""
 third_nav_title: Academic Development
+variant: markdown
 ---
 ### Mission
 
@@ -17,13 +18,11 @@ We will achieve our mission by:
 
 Head of Department –&nbsp;**Mr Yu Yang Ming Ernest**
 
-Subject Head / Science (Acting) -&nbsp;**Ms Khairunissa Bte Yahya**
+Subject Head -&nbsp;**Ms Peh Kaijia Celine**
 
 School Staff Developer -&nbsp;**Ms Eileen Lee Poh Ping**&nbsp;
 
 Head Of Department / Character and Citizenship Education (CCE) –&nbsp;**Mrs&nbsp;Tan-Yeo Su Lynn Jaime**
-
-Head of Department / Information and Communication Technology (ICT) -&nbsp;**Mr Aaron Cheng Chi En**
 
 Senior Teacher (Biology) –&nbsp;**Mr Azman Bin Hussin**
 
@@ -31,9 +30,7 @@ Teacher –&nbsp;**Ms Chew Kit Har**
 
 Teacher -&nbsp; **Mr Chia Yong Koon**
 
-Teacher –&nbsp;**Ms Chua Yingying Joyce**&nbsp;
-
-Teacher –&nbsp;**Mr Eric Loh Tian Hon**
+Teacher –&nbsp;**Mdm Khairunnisa Bte Yahya**&nbsp;
 
 Teacher –&nbsp;**Ms Ho Hwee Bin**
 
@@ -43,9 +40,15 @@ Teacher –&nbsp;**Mr Lim Kim Huat**
 
 Teacher -&nbsp;**Ms Ong Qiulin**
 
+Teacher -&nbsp;**Mr Soh Yijie**
+
+Teacher -&nbsp;**Mr Lucas Tang An Sheng**
+
 Teacher –&nbsp;**Mrs Tan-Sin Li Huang**
 
 Teacher –&nbsp;**Dr Wong De Wei Shawn**
+
+Teacher –&nbsp;**Mr Eric Loh Tian Hon**
 
 Laboratory Technician –&nbsp;**Ms Lee Boy San**
 
