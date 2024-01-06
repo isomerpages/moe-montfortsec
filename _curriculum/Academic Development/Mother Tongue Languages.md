@@ -17,13 +17,13 @@ Year Head – **Ms Su Huimin**
 
 Subject Head / Assistant Year Head  – **Mr Chin Jia Le**
 
+Senior Teacher (CCE) – **Ms Ng Wei Ying**   
+
 Teacher – **Ms Lim Hui Qi** 
 
 Teacher – **Ms Ko Zen Rae Melisa**
 
 Teacher – **Mr Liu Yong Feng**    
-
-Senior Teacher (CCE) – **Ms Ng Wei Ying**   
 
 Teacher – **Mdm Norasikin Awang**    
 
