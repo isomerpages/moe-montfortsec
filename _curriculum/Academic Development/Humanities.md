@@ -3,6 +3,7 @@ title: Humanities
 permalink: /curriculum/Academic-Development/Humanities/
 description: ""
 third_nav_title: Academic Development
+variant: markdown
 ---
 ### Mission
 *   To nurture every Montfortian to be responsible, respectful and reflective citizens with care and concern for the world around them.  
@@ -13,27 +14,27 @@ third_nav_title: Academic Development
 
 ### Our Team
 
-Head of Department – **Mrs Judeana Lim**
+Head of Department –&nbsp;**Mrs Judeana Lim**
 
-Subject Head (Geography) – **Mr Mansoor Bin Abdul Rahman**
+Subject Head (Geography) –&nbsp;**Mr Mansoor Bin Abdul Rahman**
 
-Subject Head / Corporate Relations, & Information, Communication and Technology (ICT) – **Ms Ong Wan Ting**  
+Subject Head /  Information, Communication and Technology (ICT) –&nbsp;**Ms Ong Wan Ting**  
 
-Subject Head / Student Leadership – **Mr Wilson Heng Wei Chin**
+Subject Head / Student Leadership –&nbsp;**Mr Wilson Heng Wei Chin**
 
-Senior Teacher (History) – **Mrs Punitha Ramesh** 
+Senior Teacher (History) –&nbsp;**Mrs Punitha Ramesh**&nbsp;
 
-Senior Teacher (Social Studies) – **Ms Jamie Low Guan Lin** 
+Senior Teacher (Social Studies) –&nbsp;**Ms Jamie Low Guan Lin**&nbsp;
 
-Teacher - **Ms Emmeline Yeo Zi Han**
+Teacher -&nbsp;**Ms Emmeline Yeo Zi Han**
 
-Teacher – **Ms Kavitha** 
+Teacher –&nbsp;**Ms Kavitha**&nbsp;
 
-Teacher - **Ms Leong Kar Wai Karen**
+Teacher -&nbsp;**Ms Leong Kar Wai Karen**
 
-Teacher – **Mr Marcus Tan Lee Kiang** 
 
-Teacher - **Ms Michelle Ho Min** 
+
+Teacher -&nbsp;**Ms Michelle Ho Min**&nbsp;
 
 ### Instructional Programme
 
@@ -85,11 +86,11 @@ Key content and skills are progressively built from lower to upper secondary.
 
   
 
-**Lower secondary:** Inference and Comparison Source-Based Skills (History) Describe Trends, O.S.A and Geographical Investigation (Geography)
+**Lower secondary:**&nbsp;Inference and Comparison Source-Based Skills (History) Describe Trends, O.S.A and Geographical Investigation (Geography)
 
   
 
-**Upper secondary:** Reliability, Usefulness and Assertion Source-Based Skills (History and Social Studies) 
+**Upper secondary:**&nbsp;Reliability, Usefulness and Assertion Source-Based Skills (History and Social Studies)&nbsp;
 
 Compare and Contrast, Annotating (Geography)
 
@@ -106,14 +107,14 @@ Use of colour-coded Mind-maps
 I used to think…now I think   
 What makes you say that?   
 Step Inside   
-See-Think-Wonder    
+See-Think-Wonder&nbsp;   
 Circle of Viewpoints
 
 **4\. Structured Lesson Design**
 
 Explicit lesson outcomes   
 Exemplars to set high expectations   
-Student centred self-directed learning    
+Student centred self-directed learning&nbsp;   
 Use of success criteria and rubrics   
 Checking for understanding
 
