@@ -14,6 +14,8 @@ opportunities and challenges of the future.
 
 Head of Department - **Ms Thian Hui Ling**
 
+Senior Teacher (Music) -&nbsp;**Ms Chua Jing Lin Eunice**
+
 Teacher -&nbsp;**Mr Khairyl B Hashim (Art)**
 
 Teacher -&nbsp;**Ms Rafidah Binte Muhammad Nasir (Art)**
