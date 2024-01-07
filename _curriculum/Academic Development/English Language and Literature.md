@@ -25,11 +25,11 @@ Head of Department / Special Educational Needs (SEN)&nbsp; –&nbsp;**Mr Lee Ben
 
 Senior Teacher (Music) –&nbsp;**Ms Chua Jing Lin Eunice**
 
-Teacher –&nbsp;**Mr Azahar Bin Mohamed**
+Teacher –&nbsp;**Ms Tey Ser Ling**
 
 Teacher –&nbsp;**Mr Azman Bin Akmad**
 
-Teacher -&nbsp;**Mr Bennett Tan Chuan Lee**
+Teacher -&nbsp;**Mr Wong Jun Pei Nicholas**
 
 Teacher -&nbsp;**Mr Brendan Hoe Qing En**
 
@@ -43,13 +43,13 @@ Teacher –&nbsp;**Mrs Lee Poh Lin**
 
 Teacher -&nbsp;**Ms Megan Tan Shu Ning**
 
-Teacher -&nbsp;**Ms Nithiyaa D/O Rajaratnam**  
-
 Teacher -&nbsp;**Ms Preetha Preklathan**
 
-Teacher –&nbsp;**Ms Tey Ser Ling**
+Teacher -&nbsp;**Ms Lo Cai Yue Brenda**
 
-Teacher -&nbsp;**Mr Wong Jun Pei Nicholas**
+Teacher –&nbsp;**Mr Azahar Bin Mohamed**
+
+Teacher -&nbsp;**Mr Bennett Tan Chuan Lee**
 
 ### Instructional Programme
 

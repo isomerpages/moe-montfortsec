@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /curriculum/Academic-Development/mother-tongue/
 description: ""
 third_nav_title: Academic Development
+variant: markdown
 ---
 ### Mission
 
@@ -14,21 +15,19 @@ Head of Department – **Ms Sim Siew Ngoh**
 
 Year Head – **Ms Su Huimin**   
 
-Subject Head / Character and Citizenship (CCE)  – **Mr Chin Jia Le**
+Assistant Year Head  – **Mr Chin Jia Le**
 
-Teacher – **Mdm Gunasekaran Dhanalakshmi**
+Senior Teacher (CCE) – **Ms Ng Wei Ying**   
 
 Teacher – **Ms Lim Hui Qi** 
 
+Teacher – **Ms Ko Zen Rae Melisa**
+
 Teacher – **Mr Liu Yong Feng**    
-
-Teacher – **Ms Ng Wei Ying**   
-
-Teacher – **Mdm Noorsiyah Salleh**   
 
 Teacher – **Mdm Norasikin Awang**    
 
-Teacher – **Ms Nur Nadzirah Binte Abdul Halim**    
+Teacher – **Mdm Gunasekaran Dhanalakshmi**
 
 Teacher – **Mdm Tirunavukkarasu Poongodi**     
 
@@ -76,13 +75,13 @@ Our curriculum aims to equip and emphasize the four major aspects of language sk
 
   
 
-*   Sec 1 – **E**ngage  
+*   Sec 1 –&nbsp;**E**ngage  
     
-*   Sec 2 – **D**evelop  
+*   Sec 2 –&nbsp;**D**evelop  
     
-*   Sec 3 – **G**row  
+*   Sec 3 –&nbsp;**G**row  
     
-*   Sec 4/5 – **E**xcel  
+*   Sec 4/5 –&nbsp;**E**xcel  
    
 
 Recognising oracy as the natural foundation for language learning, our Lower Secondary curriculum focuses more on developing oracy skills in our students. This is complemented with systematic teaching of oral vocabulary and sentence structures to develop students’ reading and writing skills. As they progress to upper secondary levels, the Upper Secondary Curriculum focuses to ensure our students are able to apply the skills they have learnt, think critically and achieve excellence in both written and spoken forms through communicating their ideas confidently.

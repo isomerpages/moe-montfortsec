@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /curriculum/Academic-Development/Physical-Education/
 description: ""
 third_nav_title: Academic Development
+variant: markdown
 ---
 ### Mission
   
@@ -20,7 +21,7 @@ Teacher - **Mr Muhammad Idris Bin Anwar**
 
 Teacher - **Mr Tan Eng Hwee**    
 
-Teacher - **Mr Yeo Kok How Adam** 
+Teacher - **Ms Zhang Wenjie** 
 
 
 ### Instructional Programme

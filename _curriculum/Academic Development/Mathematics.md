@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /curriculum/Academic-Development/mathematics/
 description: ""
 third_nav_title: Academic Development
+variant: markdown
 ---
 ### Mission
 
@@ -12,36 +13,36 @@ To develop Montfortians to be analytical thinkers through problem solving and th
   
 Head of Department – **Mdm Rachel Tang Yau Khee**
 
-Teacher (Year Head) –**Ms Norazidah Abdol Aziz**
+Subject Head – **Ms Cynthia Chua**
+
+Teacher (Year Head) – **Ms Norazidah Abdol Aziz**
 
 Teacher (Assistant Year Head) – **Ms Ong Wuan Seah**
 
-Teacher (Assistant Year Head) - **Mr Jasper Lee Teng Yi**
-
 Teacher (Subject Head / Discipline) – **Mr Wong Boon Chong Kenny**
 
-Teacher – **Ms Ang Guat Hong**
-
-Teacher - **Mdm Cindy Chua**
-
-Teacher – **Ms Clare Choy**
+Teacher – **Ms Tan Wan Sim**
 
 Teacher – **Mr Hairul Nizam Bin Ramli**
 
-Teacher - **Mr Kek Liok Ken Michael**
-
-Teacher - **Mr Pang Jun Yi**
-
-Teacher – **Ms Tan Wan Sim (Mathematics & Elements of Business Skills)**
+Teacher – **Ms Ho Hwee Bin**
 
 Teacher - **Ms Tan Ying Lin Johanna**
+
+Teacher - **Ms Latha D/O Murugiah**
 
 Teacher - **Ms Teo Wan Lin
 Jocelyn**
 
-Teacher – **Ms Yap Siew Phing**
+Teacher - **Mr Ranon Mak Enhao**
+
+Teacher – **Ms Clare Choy**
+
+Teacher - **Mr Kek Liok Ken Michael**
 
 Teacher – **Mdm Norshirin Sulaiman (Principles Of Accounts)**  
+
+Teacher - **Mdm V Santhi (Principles of Accounts)**
 
 Instructional Programme
 -----------------------
