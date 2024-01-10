@@ -20,6 +20,3 @@ Mr Caleb Wong, S1 CCA Coordinator by **Tuesday, 16 January 2024**.
 
 <center><h4>CCA Schedule 2024</h4></center>
 Click [here](/files/S1_CCA_Timings_2024_updated_2_Jan_Parents.pdf) for more information on the CCA schedule. 
-
-
-
