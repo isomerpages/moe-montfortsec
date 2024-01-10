@@ -1,34 +1,31 @@
 ---
 title: ICT Matters
-permalink: /quick-links/Students/ict-matters
+permalink: /quick-links/Students/ict-matters/
 description: ""
+variant: markdown
 ---
+Each Montfortian will be provisioned with a <b>Multi Identity Management System (MIMS)</b> account.
+<br><br>
+The <b>MIMS</b> account is connected to all accounts listed.
+<p>Please note that <u><b>resetting your MIMS/Student iCON password would mean that the password for all services will be changed and you are to use the latest password</b></u> you have changed for all the account/services below.</p>
 
-Every Montfortian will be provisioned with the following ICT accounts:
+* ACER PLD login
+* Student iCON email
+* Google Services (Drive, Classroom etc.)
+* Student Learning Space (SLS)
+* Zoom account
+* Microsoft 365 account
+* Windows (SSOE) laptop in the computer lab
 
-Note: The <u>password is the same</u> for the following school accounts.
+**Q) How do I log in to Student iCON?**
 
-**Q) Who do I look for if I have forgotten the password to these accounts?**
-
-A: Please approach the Desktop Engineers (DE) at     
-    Level 1, Computer Lab 2    
-    Level 2, Computer Lab 4  
+A: Go to this link https://mims.moe.gov.sg&nbsp;   
+&nbsp; &nbsp; Username: Student iCON email address   
+&nbsp; &nbsp; Password: MIMS password
 
 
-**1) Windows (SSOE) / School Wireless Network (SWN) Account**
+**Q) Who do I look for if I have forgotten the password to the accounts mentioned above?**
 
-This account enables the student to use the laptops in school. The same account is also used to sign in to the WIFI network in school. 
-
-The SSID for the wireless network is **<u>SWN@SSOE</u>**
-
-**2) Student iCON email**
-
-URL: [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
-
-Email Address: < your assigned ID >@students.edu.sg   
-Password: your Student iCON password  
-
-**3) Log in to ACER PLD**  
-
-Log in: < your assigned ID >@students.edu.sg  
-Password: your Student iCON password
+A: Please approach the Desktop Engineer (DE) at&nbsp;   
+&nbsp; &nbsp; Level 1, Computer Lab 2 office   
+&nbsp; &nbsp; Level 2, Computer Lab 4 office
