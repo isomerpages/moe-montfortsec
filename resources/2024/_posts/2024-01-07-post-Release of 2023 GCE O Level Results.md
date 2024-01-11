@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear 2023 Sec 4E5N Montfortians,</p><p></p><p>Please refer to the GCE-O Level Briefing slides fo</p><p></p>
+<p>Dear 2023 Sec 4E5N Montfortians,</p><p></p><p>Please refer to <a href="/files/2024_O_Level_Admin_Matters_11_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides for O-Level Results Release</a> for registration and administration matters.</p><p></p>
