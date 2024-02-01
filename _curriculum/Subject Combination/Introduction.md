@@ -53,4 +53,5 @@ Hui Meen on choosing subject combination.</p>
 <p></p>
 </li>
 </ul>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14JX0DxYLkhzm8JmMWMX2izL0uEGjfq1A/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG video picture.png"></a>
 <p></p>
