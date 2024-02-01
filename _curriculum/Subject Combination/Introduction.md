@@ -3,8 +3,9 @@ title: Introduction
 permalink: /curriculum/Subject-Combination/subject-combi/
 description: ""
 third_nav_title: Subject Combination
+variant: markdown
 ---
-<h3> <strong><u>Sec 3 Subject Combination 2024</u></strong></h3>
+<h3> <strong><u>Sec 3 Subject Combination 2024 for </u></strong></h3>
 
 Every Montfortian will participate in the Sec 3 Subject Combination Exercise after the Sec 2 year-end examinations.&nbsp;
 
