@@ -22,7 +22,7 @@ variant: markdown
   <tr>
     <td>1 Humility</td>
     <td>Mr Azman Akmad<br>azman_bin_akmad@moe.edu.sg</td>
-    <td>Mr Zhang Wenjie<br>zhang_wenjie@moe.edu.sg</td>
+    <td>Ms Zhang Wenjie<br>zhang_wenjie@moe.edu.sg</td>
   </tr>
   <tr>
     <td>1 Respect<br> </td>
