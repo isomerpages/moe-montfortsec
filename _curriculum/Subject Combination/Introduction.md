@@ -48,10 +48,10 @@ an informed choice. The page is organised as follows:</p>
 should opt for. Instead, the primary consideration should be to choose
 a subject combination which is most ideal for himself according to his
 interests, aptitude and aspiration for post-secondary education.</p>
-<p>Click the video to watch a video talk by our ECG Counsellor, Ms. Leaw
-Hui Meen on choosing subject combination.</p>
+<p>Click the video to watch a video talk by our ECG Counsellor, Mr Isaac
+on choosing subject combination.</p>
 <p></p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14JX0DxYLkhzm8JmMWMX2izL0uEGjfq1A/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG video picture.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1xp9_lL8LnfO8R_0IGH3qty2wz_5JTgFY/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_talk_by_Isaac.jpg"></a>
 <p></p>
