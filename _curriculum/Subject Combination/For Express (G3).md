@@ -3,6 +3,7 @@ title: For Express (G3)
 permalink: /curriculum/Subject-Combination/sec-2-express/
 description: ""
 third_nav_title: Subject Combination
+variant: markdown
 ---
 #### Sec 3 Subject Combination 2024 for Sec 2 Express students in 2023
 
@@ -36,3 +37,7 @@ Students need to choose based on their aptitude, interests and their future post
 
 ##### 4\. MINIMUM CRITERIA FOR S3 EXPRESS/G3 SUBJECTS
 ![S3 G3 min criteria](/images/s3%20g3%20min%20criteria%204.png)
+
+### 5. G3 Subject Combination Talk
+Click the video to watch a video talk by our ECG Counsellor, Mr Isaac.
+![](/images/Subj_Combi_G3_Talk_by_Isaac.png)
