@@ -3,41 +3,68 @@ title: For Express (G3)
 permalink: /curriculum/Subject-Combination/sec-2-express/
 description: ""
 third_nav_title: Subject Combination
-variant: markdown
+variant: tiptap
 ---
-#### Sec 3 Subject Combination 2024 for Sec 2 Express students in 2023
-
-*Information is accurate as of 1 August 2023. Any changes will be communicated through Parents Gateway (PG) and updated in this website.*
-
-##### 1\. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS
-
-* **Evidences of demonstrated aptitude and ability**   
-        (a) Sec 2 Overall Results      
-        (b) Sec 2 Subject Overall Results    
-        (c) Sec 2 End of Year Subject Results
-				
-* **Students’ choices**    
-Students need to choose based on their aptitude, interests and their future post-secondary option and submit their final choice during the Sec 3 subject combination exercise in October.
-* **Subject-specific / Combination requirements**   
-	* E.g. To take 8 subjects
-		(at least 65% in Overall Results)
-
-* **Availability of vacancies** in each subject (subject to School Resources and ranking order will be taken into account when the number of applicants exceed the number of places allocated ) 
-
-##### 2\. SUBJECTS OFFERED FOR S3 EXPRESS/G3
-![S3 Exp Subjects](/images/s3%20express%20subjects%202023_2.png)
-
-##### 3\. S3 EXPRESS/G3 SUBJECT COMBINATIONS 
-![S3 G3 Subject Combi](/images/s3%20g3%20subject%20combi_2.png)
-
-<strong><u>Notes</u></strong>      
-1. Students who are exempted from MT or taking MTB should take note that they have 1 less O-level subject.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-1. The humanities subject for combined Humanities and Pure Humanities cannot be the same. Student can only take Social Studies/History if they choose Pure Geography and Social Studies/Geography if they choose Pure History.
-
-##### 4\. MINIMUM CRITERIA FOR S3 EXPRESS/G3 SUBJECTS
-![S3 G3 min criteria](/images/s3%20g3%20min%20criteria%204.png)
-
-### 5. G3 Subject Combination Talk
-Click the video to watch a video talk by our ECG Counsellor, Mr Isaac.
-![](/images/Subj_Combi_G3_Talk_by_Isaac.png)
+<h4>Sec 3 Subject Combination 2024 for Sec 2 Express students in 2023</h4>
+<p><em>Information is accurate as of 1 August 2023. Any changes will be communicated through Parents Gateway (PG) and updated in this website.</em>
+</p>
+<h5>1. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS</h5>
+<ul>
+<li>
+<p><strong>Evidence of demonstrated aptitude and ability</strong>
+<br>(a) Sec 2 Overall Results
+<br>(b) Sec 2 Subject Overall Results
+<br>(c) Sec 2 End of Year Subject Results</p>
+</li>
+<li>
+<p><strong>Students’ choices</strong>
+<br>Students need to choose based on their aptitude, interests, and future
+post-secondary options and submit their final choice during the Sec 3 subject
+combination exercise in October.</p>
+</li>
+<li>
+<p><strong>Subject-specific / Combination requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>E.g. To take 8 subjects (at least 65% in Overall Results)</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Availability of vacancies</strong> in each subject (subject to
+School Resources and ranking order will be taken into account when the
+number of applicants exceed the number of places allocated )</p>
+</li>
+</ul>
+<h5>2. SUBJECTS OFFERED FOR S3 EXPRESS/G3</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S3 Exp Subjects" src="/images/s3%20express%20subjects%202023_2.png">
+</div>
+<h5>3. S3 EXPRESS/G3 SUBJECT COMBINATIONS</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S3 G3 Subject Combi" src="/images/s3%20g3%20subject%20combi_2.png">
+</div>
+<p><strong><u>Notes</u></strong>
+</p>
+<ol>
+<li>
+<p>Students who are exempted from MT or taking MTB should take note that
+they have 1 less O-level subject.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>The humanities subject for combined Humanities and Pure Humanities cannot
+be the same. Student can only take Social Studies/History if they choose
+Pure Geography and Social Studies/Geography if they choose Pure History.</p>
+</li>
+</ol>
+<h5>4. MINIMUM CRITERIA FOR S3 EXPRESS/G3 SUBJECTS</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S3 G3 min criteria" src="/images/s3%20g3%20min%20criteria%204.png">
+</div>
+<h4>5. G3 Subject Combination Talk</h4>
+<p>Click the video to watch a video talk by our ECG Counsellor, Mr Isaac.</p>
+<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1gFnWfQDsbvh0-FjdBp3Un8V3fYSNiroE/view?usp=drive_link">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subj_Combi_G3_Talk_by_Isaac.png">
+</a>
+<p></p>
