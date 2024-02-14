@@ -11,7 +11,7 @@ variant: tiptap
 <h5>1. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS</h5>
 <ul>
 <li>
-<p><strong>Evidence of demonstrated aptitude and ability</strong>
+<p><strong>Evidence of demonstrated aptitude and ability</strong> 
 <br>&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;Sec 2 Subject Overall Results&nbsp;</p>
 </li>
 <li>
