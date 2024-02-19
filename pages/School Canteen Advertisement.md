@@ -55,8 +55,7 @@ via email OR to the School's General Office.</p>
 <p>Contact No: 65107070</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">montfort_ss@moe.edu.sg</a>
-</p>
+<p>Email: montfort_ss@moe.edu.sg</p>
 </li>
 <li>
 <p>Contact Person: Ms Seah Lee Cheng</p>
