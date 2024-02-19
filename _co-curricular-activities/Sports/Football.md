@@ -7,7 +7,6 @@ variant: markdown
 ---
 ![soccer mission](/images/soccer_1_jpg.png)
 
-![training hours](/images/soccer_2_1_jpg.png)
 
 ![](/images/soccer_3_3.png)
 
