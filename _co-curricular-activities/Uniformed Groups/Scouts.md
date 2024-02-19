@@ -3,12 +3,11 @@ title: Scouts
 permalink: /co-curricular-activities/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/scouts1.jpeg)
 
 ![](/images/scouts2.png)
-
-![](/images/Scouts.png)
 
 ![](/images/scouts4.png)
 
