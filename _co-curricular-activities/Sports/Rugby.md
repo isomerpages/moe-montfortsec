@@ -3,10 +3,9 @@ title: Rugby
 permalink: /co-curricular-activities/Sports/rugby/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/rb1.jpeg)
-
-![](/images/rb3.png)
 
 ![](/images/rb4.jpeg)
 
