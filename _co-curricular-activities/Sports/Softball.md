@@ -3,10 +3,9 @@ title: Softball
 permalink: /co-curricular-activities/Sports/softball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/sb1.png)
-
-![](/images/Softball.png)
 
 ![](/images/sb4.png)
 
