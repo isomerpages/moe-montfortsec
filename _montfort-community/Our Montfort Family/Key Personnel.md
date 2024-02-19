@@ -94,7 +94,7 @@ variant: markdown
     <td class="tg-0lax">Operations Manager 1 – <span style="font-weight:bold">Mr Ng Hon Yew Alvin</span> (ng_hon_yew_alvin@moe.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Operations Manager 2 – <span style="font-weight:bold">Mr Ek Gek Huat</span> (ek_gek_huat_a@moe.edu.sg)
+    <td class="tg-0lax">Operations Manager 2 – <span style="font-weight:bold">Mr Uthayakumar Ratnam</span> (uthayakumar_ratnam_a@moe.edu.sg)
   </td></tr>
   <tr>
     <td class="tg-0lax">Senior Teacher/ Science (Biology) – <span style="font-weight:bold">Mr Azman Bin Hussin </span>(azman_hussin@moe.edu.sg)</td>
