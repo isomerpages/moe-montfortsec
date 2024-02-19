@@ -42,7 +42,7 @@ variant: markdown
   <tr>
     <td>1 Team Spirit</td>
     <td>Ms Ng Wei Ying<br>ng_wei_ying_a@moe.edu.sg</td>
-    <td>-<br></td>
+    <td>Mr Roy Chew Hock Wu<br>roy_chew_hock_wu@moe.edu.sg</td>
   </tr>
   <tr>
     <td>1 Excellence</td>
@@ -75,7 +75,7 @@ variant: markdown
   <tr>
     <td>2 Humility</td>
     <td>Ms Punitha Haridas<br>punitha_haridas@moe.edu.sg</td>
-    <td>Mr Roy Chew<br>roy_chew_hock_wu@moe.edu.sg</td>
+    <td>-<br></td>
   </tr>
   <tr>
     <td>2 Respect</td>
