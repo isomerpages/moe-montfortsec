@@ -3,10 +3,9 @@ title: Wushu
 permalink: /co-curricular-activities/Sports/wushu/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/wushu1.jpeg)
-
-![](/images/Wushu.png)
 
 ![](/images/wushu4.jpeg)
 
