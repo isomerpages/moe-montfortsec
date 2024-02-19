@@ -1,14 +1,15 @@
 ---
 title: Non Financial Information
-permalink: /montfort-community/Other-Information/non-financial-information
+permalink: /montfort-community/Other-Information/non-financial-information/
 description: ""
 third_nav_title: Other Information
+variant: markdown
 ---
-<table class="tg" style="undefined;table-layout: fixed; width: 720px;"><colgroup> <col style="width: 360px;" /> <col style="width: 360px;" /> </colgroup>
+<table class="tg" style="undefined;table-layout: fixed; width: 720px;"><colgroup> <col style="width: 360px;"> <col style="width: 360px;"> </colgroup>
 <tbody>
 <tr>
-<td class="tg-1wig"><strong>Name of Organisation</strong>: <span style="font-weight: normal;">Montfort Secondary School</span><br /><strong>Address</strong>: <span style="font-weight: normal;">50 Hougang Ave 8 </span><br /><span style="font-weight: normal;">Singapore 538785</span></td>
-<td class="tg-amwm"><strong>Name of Contact Person</strong>: <span style="font-weight: 400;">Tan Lay Yen</span><br /><strong>Telephone No</strong>: <span style="font-weight: 400;">65107076</span><br /><strong>Fax No</strong>: <span style="font-weight: 400;">63862804</span><br /><strong>Email Address</strong>: <span style="font-weight: 400;">montfort_ss@moe.edu.sg</span><br /><strong>Website Address</strong>: <span style="font-weight: 400;">https://staging.d2ck5peb7tuhh1.amplifyapp.com/</span></td>
+<td class="tg-1wig"><strong>Name of Organisation</strong>: <span style="font-weight: normal;">Montfort Secondary School</span><br><strong>Address</strong>: <span style="font-weight: normal;">50 Hougang Ave 8 </span><br><span style="font-weight: normal;">Singapore 538785</span></td>
+<td class="tg-amwm"><strong>Name of Contact Person</strong>: <span style="font-weight: 400;">Tan Lay Yen</span><br><strong>Telephone No</strong>: <span style="font-weight: 400;">65107076</span><br><strong>Fax No</strong>: <span style="font-weight: 400;">63862804</span><br><strong>Email Address</strong>: <span style="font-weight: 400;">montfort_ss@moe.edu.sg</span><br><strong>Website Address</strong>: <span style="font-weight: 400;">https://www.montfortsec.moe.edu.sg/</span></td>
 </tr>
 </tbody>
 </table>
@@ -34,15 +35,15 @@ third_nav_title: Other Information
 </tbody>
 </table>
 
-**Objectives:** 
+**Objectives:**&nbsp;
 
   
 
-Montfort Secondary School, established in 1916, is a Government Aided School of the Montfort Brothers of St Gabriel under the Catholic Archdiocese of Singapore.  As a Catholic school, we espouse the Universal Gospel Values and are committed to providing an inclusive, safe and dynamic environment for all our boys regardless of faith and background.  We also believe that there is a place for an all-boys education and we develop and cater our programmes to the needs of boys - giving them appropriate structure and discipline as well as the space to grow and discover their leadership, talents and strengths.
+Montfort Secondary School, established in 1916, is a Government Aided School of the Montfort Brothers of St Gabriel under the Catholic Archdiocese of Singapore.&nbsp; As a Catholic school, we espouse the Universal Gospel Values and are committed to providing an inclusive, safe and dynamic environment for all our boys regardless of faith and background.&nbsp; We also believe that there is a place for an all-boys education and we develop and cater our programmes to the needs of boys - giving them appropriate structure and discipline as well as the space to grow and discover their leadership, talents and strengths.
 
   
 
-Our School Motto "Age Quod Agis" translates to "Do Well in Whatever you Do".  It reminds our boys of the dignity of work and that the work they do is important, and represents who they are.  Therefore, they need to take pride in their assigned tasks and do them to the best of their abilities.  Our School Values are Compassion, Humility, Respect, Integrity, Service, Team Spirit & Excellence - together they spell CHRISTE which also represents our faith in God and Christ.
+Our School Motto "Age Quod Agis" translates to "Do Well in Whatever you Do".&nbsp; It reminds our boys of the dignity of work and that the work they do is important, and represents who they are.&nbsp; Therefore, they need to take pride in their assigned tasks and do them to the best of their abilities.&nbsp; Our School Values are Compassion, Humility, Respect, Integrity, Service, Team Spirit &amp; Excellence - together they spell CHRISTE which also represents our faith in God and Christ.
 
   
 
@@ -58,23 +59,23 @@ Montfort is a Catholic School. Guided by our Montfortian Values and Spirituality
 
   
 
-**Programs/Activities:** 
+**Programs/Activities:**&nbsp;
 
   
 
-Underlying Montfort Secondary School's teaching and learning approach is the belief that boys learn better when we adopt Boy-Centric Teaching (BCT) strategies. Translated into classroom delivery, this would mean that teachers now incorporate novelty, movement and relevance into their lessons. The Applied Learning Programme (ALP) in Information Systems Technology & Design aims to provide our students with foundational skills in this frontier learning domain. 
+Underlying Montfort Secondary School's teaching and learning approach is the belief that boys learn better when we adopt Boy-Centric Teaching (BCT) strategies. Translated into classroom delivery, this would mean that teachers now incorporate novelty, movement and relevance into their lessons. The Applied Learning Programme (ALP) in Information Systems Technology &amp; Design aims to provide our students with foundational skills in this frontier learning domain.&nbsp;
 
   
 
-The development of leadership and character is another vital part of our Montfortian Education.  We do this through our flagship Montfortian Values Plus (MVP) programme and supported by a tiered Values-in-Action Programme for our boys from Sec 1 to 5. 
+The development of leadership and character is another vital part of our Montfortian Education.&nbsp; We do this through our flagship Montfortian Values Plus (MVP) programme and supported by a tiered Values-in-Action Programme for our boys from Sec 1 to 5.&nbsp;
 
   
 
-Our Learning for Life Programme (LLP) is centred on Leadership Development through Sports (Badminton, Softball, Football, Wushu, Rugby & Basketball) & Outdoor Education, where our boys hone their leadership skills through various class, CCA and community projects. 
+Our Learning for Life Programme (LLP) is centred on Leadership Development through Sports (Badminton, Softball, Football, Wushu, Rugby &amp; Basketball) &amp; Outdoor Education, where our boys hone their leadership skills through various class, CCA and community projects.&nbsp;
 
   
 
-For our Catholic boys, the programmes catered for them include Religious and Moral Education lessons and regular Eucharistic celebrations.  The school also provides opportunities for the students to appreciate the Arts through our 3 "E" Approach (Exposure, Expression & Excellence).
+For our Catholic boys, the programmes catered for them include Religious and Moral Education lessons and regular Eucharistic celebrations.&nbsp; The school also provides opportunities for the students to appreciate the Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).
 
 **Board Members :**
 
@@ -172,7 +173,7 @@ For our Catholic boys, the programmes catered for them include Religious and Mor
 </tbody>
 </table>
 
-**Key Employees** 
+**Key Employees**&nbsp;
 
 Mr Kelvin Lim Hock Seong, Principal of Montfort Secondary School  
 
