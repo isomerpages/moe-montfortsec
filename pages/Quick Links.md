@@ -8,4 +8,6 @@ variant: markdown
 
 [SchoolBag SG](https://www.schoolbag.sg/)
 
-[Students](https://montfortsec.moe.edu.sg/students/sec-1-onboarding/sec-1-onboarding/)
+[Students](https://montfortsec.moe.edu.sg/students/sec-1-onboarding/sec-1-onboarding/)  
+
+[School Canteen advertisement]
