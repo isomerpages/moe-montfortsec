@@ -3,10 +3,9 @@ title: IDMA (Infocomm Club)
 permalink: /co-curricular-activities/Clubs-and-Societies/imda-infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/ic1.jpeg)
-
-![](/images/ic3.png)
 
 ![](/images/ic4.png)
 

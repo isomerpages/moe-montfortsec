@@ -3,10 +3,9 @@ title: IMDA (Audio Visual Club)
 permalink: /co-curricular-activities/Clubs-and-Societies/imda-audio-visual-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/av1.png)
-
-![](/images/AV.png)
 
 ![](/images/av4.png)
 

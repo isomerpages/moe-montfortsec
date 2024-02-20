@@ -3,10 +3,9 @@ title: Montfort Chorale
 permalink: /co-curricular-activities/Performing-Arts/chorale/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/mc1.jpeg)
-
-![](/images/Chorale.png)
 
 ![](/images/mc4.jpeg)
 

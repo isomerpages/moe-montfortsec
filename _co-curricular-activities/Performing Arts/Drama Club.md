@@ -3,10 +3,9 @@ title: Drama Club
 permalink: /co-curricular-activities/Performing-Arts/drama-club/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/drc1.jpeg)
-
-![](/images/Drama.png)
 
 ![](/images/drc4.png)
 
