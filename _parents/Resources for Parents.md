@@ -2,28 +2,27 @@
 title: Resources for Parents
 permalink: /parents/resources-for-parents/
 description: ""
+variant: markdown
 ---
 ## Parents Symposium 
 
-#### February 2023
+#### February 2024
 
 **General Address**
 
-* [Principal's Address](https://drive.google.com/file/d/1XEBxVJMO5_Mvw9DLImW3-zFi6BJ9tbNK/view?usp=sharing)
-
-* [Parent Support Group (PSG)'s Address](https://drive.google.com/file/d/10aXBTow5VK30KUUf0n4nTaM1yVak1ryl/view?usp=sharing)
+* [Principal's Address](https://drive.google.com/file/d/1RPq9jTcXFIHkZOvdEv9xK8vcpMBFyy2o/view?usp=sharing)
+* [Lower Sec Discipline Talk](https://drive.google.com/file/d/1pqpuTe8XYEUZRC0S6nbat_Mu0p9LQyrV/view?usp=sharing)
 
 **Secondary One**
 * *Meet-and-Greet with Class Mentors slides will be sent through Parents Gateway (PG).*
-* [CCA Briefing ](https://drive.google.com/file/d/13zFyiG5HAi0nwNW_adNHYPm-DR_B3jUA/view?usp=sharing)
+* [CCA Briefing](https://drive.google.com/file/d/1ulDiG27jH4C-qyLMp1XVpA6KownKxyuG/view?usp=sharing)
 
 **Secondary Two**
 
 * [Year Head's Address](https://drive.google.com/file/d/1vs-W1utBMtzsBPNsz9PZ9NYJx3oar5EQ/view?usp=sharing)
 
 **Secondary Three**
-* [Year Head's Address](https://drive.google.com/file/d/1zyvojJ_qEq6uc7OygvDGR0FFYSI-Zb0O/view?usp=sharing)
+* [Year Head's Address](https://drive.google.com/file/d/1g0d8_viD5PCwAAId_xXgIMbz1AMldE88/view?usp=sharing)
 
 **Secondary Four/Five**
-* [Year Head's Address](https://drive.google.com/file/d/1Ejw0mLwycexO9g8HRY_A4VBms7EQaHXR/view?usp=sharing)
-* [Journeying with your child](https://drive.google.com/file/d/1Yvz_LToVTdMHqpsRjvzr7QpImFLeEe15/view?usp=sharing)
+* [Year Head's Address](https://drive.google.com/file/d/1r3PBx0vcYj5pp73PQ55JlTxsebHbrMwQ/view?usp=sharing)
