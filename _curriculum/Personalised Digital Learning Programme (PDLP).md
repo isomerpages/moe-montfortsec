@@ -123,15 +123,15 @@ For more details on financial assistance, please approach the school.&nbsp;
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">6 Mar 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For Payment via GIRO</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 17 Mar 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For cash paying students, payment to be made via AXS kiosks, AXS e-station (online at</span> <a href="http://www.axs.com.sg/"><span style="text-decoration:none;color:#BD3527"></span></a><a href="www.axs.com.sg">www.axs.com.sg</a><span style="color:#222;background-color:#EAEAEA">) or AXS m-station (mobile app) </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">20 Mar 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device </span></td>
   </tr>
 </tbody>
