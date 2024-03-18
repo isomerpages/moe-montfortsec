@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - School Rules.md
       - Sec 1 Onboarding/.keep
       - Sec 1 Onboarding/Sec 1 Registration 2024.md
       - Sec 1 Onboarding/Sec 1 Appeals and Discretionary Admissions 2024.md
