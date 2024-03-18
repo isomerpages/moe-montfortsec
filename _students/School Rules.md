@@ -125,26 +125,22 @@ for test and examination.)</p>
 </li>
 </ul>
 <h2><strong>Handphone Policy</strong></h2>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>All handphones must be switched off and always kept in the bag/locker
 during curriculum time.</p>
 </li>
 <li>
 <p>Students are only allowed to use their handphones</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>during their recess and lunch breaks, <strong>and</strong>
-</p>
 </li>
 <li>
-<p>only on the ground floor, <strong>and</strong>
-</p>
+<p>during their recess and lunch breaks, and</p>
+</li>
+<li>
+<p>only on the ground floor, and</p>
 </li>
 <li>
 <p>only in the canteen and areas before the canteen</p>
-</li>
-</ol>
 </li>
 <li>
 <p>Should there be any breach of any of the above, the student’s handphone
@@ -159,5 +155,5 @@ one week before it can be collected by the student’s parent/ guardian.</p>
 <p>Refusal to surrender the handphone when requested is considered as defiance.
 Consequences will be meted out for acts of defiance.&nbsp;</p>
 </li>
-</ol>
+</ul>
 <p>&nbsp;</p>
