@@ -75,7 +75,7 @@ variant: markdown
   <tr>
     <td>2 Humility</td>
     <td>Ms Punitha Haridas<br>punitha_haridas@moe.edu.sg</td>
-    <td>-<br></td>
+    <td>Mr Ranon Mak Enhao<br>ranon_mak_enhao@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Respect</td>
