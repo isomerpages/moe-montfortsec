@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - School Rules.md
+      - ICT Matters.md
       - Sec 1 Onboarding/.keep
       - Sec 1 Onboarding/Sec 1 Registration 2024.md
       - Sec 1 Onboarding/Sec 1 Appeals and Discretionary Admissions 2024.md
@@ -12,4 +12,4 @@ collections:
       - Sec 1 Onboarding/Full Subject Based Banding (FSBB).md
       - Sec 1 Onboarding/Parents' Gateway.md
       - Sec 1 Onboarding/Parent Support Group (PSG).md
-      - ICT Matters.md
+      - School Rules.md
