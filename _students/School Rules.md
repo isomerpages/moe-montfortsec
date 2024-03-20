@@ -91,23 +91,18 @@ notes)</p>
 <p>Focus on class tasks and complete all homework on time.</p>
 </li>
 <li>
-<p>Take responsibility for their learning:</p>
-<p><em>a)&nbsp;&nbsp;&nbsp; Recording homework, assignments and CCA activities in the P&amp;G Journal.</em>
-</p>
-<p><em>b)&nbsp;&nbsp;&nbsp; Bringing all books home for revision</em>.</p>
+<p>Take responsibility for their learning:
+<br><em>a)&nbsp;&nbsp;&nbsp; Recording homework, assignments and CCA activities in the P&amp;G Journal.</em>
+<br><em>b)&nbsp;&nbsp;&nbsp; Bringing all books home for revision</em>.</p>
 <p></p>
 </li>
 <li>
-<p>Respect teachers by:</p>
-<p><em>a)</em>&nbsp; <em>Greeting all teachers.</em>
-</p>
-<p><em>b)&nbsp;&nbsp;&nbsp; Being punctual for lessons.</em>
-</p>
-<p>c)&nbsp;&nbsp;&nbsp;&nbsp;St<em>aying focussed on the lessons.</em>
-</p>
-<p><em>d)&nbsp;&nbsp;&nbsp; Asking questions appropriately and respectfully.</em>
-</p>
-<p><em>e)&nbsp;&nbsp;&nbsp; Seeking permission from teacher first if there is a need to leave the class.</em>
+<p>Respect teachers by:
+<br><em>a)</em>&nbsp; <em>Greeting all teachers.</em>
+<br><em>b)&nbsp;&nbsp;&nbsp; Being punctual for lessons.</em>
+<br>c)&nbsp;&nbsp;&nbsp;&nbsp;St<em>aying focussed on the lessons.</em>
+<br><em>d)&nbsp;&nbsp;&nbsp; Asking questions appropriately and respectfully.</em>
+<br><em>e)&nbsp;&nbsp;&nbsp; Seeking permission from teacher first if there is a need to leave the class.</em>
 </p>
 </li>
 <li>
