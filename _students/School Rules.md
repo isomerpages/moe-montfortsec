@@ -9,8 +9,8 @@ and social responsibility at all times. He understands that discipline
 is at the centre of all we do and that the purpose of school is to learn
 – not just academic subjects but also to learn what appropriate behaviour
 is and to be able to discern right from wrong.</p>
-<p>&nbsp;The adherence to school rules and regulations helps build a school
-and classroom environment that is safe and conducive for learning. Disciplinary
+<p>The adherence to school rules and regulations helps build a school and
+classroom environment that is safe and conducive for learning. Disciplinary
 systems and measures are put in place to enable students to understand
 what is expected of them and to understand the consequences of both positive
 and negative behaviour.</p>
@@ -35,7 +35,6 @@ over the heart.</p>
 are also not allowed to bring any weapon-like item which is intended to
 be used to cause harm to others.</p>
 <p>Furthermore, our students need to show that they are:</p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -92,16 +91,16 @@ notes)</p>
 </li>
 <li>
 <p>Take responsibility for their learning:
-<br><em>a)&nbsp;&nbsp;&nbsp; Recording homework, assignments and CCA activities in the P&amp;G Journal.</em>
+<br><em>a)&nbsp;&nbsp;&nbsp; Recording homework, assignments and CCA activities in the P&amp;G Journal.</em> 
 <br><em>b)&nbsp;&nbsp;&nbsp; Bringing all books home for revision</em>.</p>
 <p></p>
 </li>
 <li>
 <p>Respect teachers by:
-<br><em>a)</em>&nbsp; <em>Greeting all teachers.</em>
-<br><em>b)&nbsp;&nbsp;&nbsp; Being punctual for lessons.</em>
-<br>c)&nbsp;&nbsp;&nbsp;&nbsp;St<em>aying focussed on the lessons.</em>
-<br><em>d)&nbsp;&nbsp;&nbsp; Asking questions appropriately and respectfully.</em>
+<br><em>a)</em>&nbsp; <em>Greeting all teachers.</em> 
+<br><em>b)&nbsp;&nbsp;&nbsp; Being punctual for lessons.</em> 
+<br>c)&nbsp;&nbsp;&nbsp;&nbsp;St<em>aying focussed on the lessons.</em> 
+<br><em>d)&nbsp;&nbsp;&nbsp; Asking questions appropriately and respectfully.</em> 
 <br><em>e)&nbsp;&nbsp;&nbsp; Seeking permission from teacher first if there is a need to leave the class.</em>
 </p>
 </li>
@@ -153,4 +152,5 @@ one week before it can be collected by the student’s parent/ guardian.</p>
 Consequences will be meted out for acts of defiance.&nbsp;</p>
 </li>
 </ol>
+<p>For more information, please download the school rules <a href="/files/Document_2_Montfort_Secondary_School_Rules.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
