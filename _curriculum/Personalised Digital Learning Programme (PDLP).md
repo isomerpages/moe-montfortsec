@@ -21,7 +21,6 @@ Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework
 
 The use of the PLD for teaching and learning aims to:
 ![](/images/PDLP_Outcome.png)
-
 ### Responsible Usage of PLDs
 
 
@@ -95,7 +94,7 @@ For more details on financial assistance, please approach the school.&nbsp;
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">20 March 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device</span></td>
   </tr>
 </tbody>
@@ -123,15 +122,15 @@ For more details on financial assistance, please approach the school.&nbsp;
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">6 Mar 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For Payment via GIRO</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 17 Mar 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For cash paying students, payment to be made via AXS kiosks, AXS e-station (online at</span> <a href="http://www.axs.com.sg/"><span style="text-decoration:none;color:#BD3527"></span></a><a href="www.axs.com.sg">www.axs.com.sg</a><span style="color:#222;background-color:#EAEAEA">) or AXS m-station (mobile app) </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">TBA</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">20 Mar 2024</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device </span></td>
   </tr>
 </tbody>
@@ -141,6 +140,8 @@ For more details on financial assistance, please approach the school.&nbsp;
 ### Acer Service Centre Contact Details
 
 If the PLD is malfunctioning and requires repairs, please notify the Class Mentors and then contact Acer for professional assistance. Click&nbsp;[here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/view)&nbsp;for the device contractor (Acer)'s information.
+### Lost of PLD
+![](/images/lostpld.png)
 
 ### Parent Handbooks on 1-to-1 Learning
 *   [Parent Handbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)

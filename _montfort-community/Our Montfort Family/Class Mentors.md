@@ -32,12 +32,12 @@ variant: markdown
   <tr>
     <td>1 Integrity</td>
     <td>Ms Yeo Zi Han Emmeline<br>yeo_zi_han@moe.edu.sg</td>
-    <td>-<br></td>
+    <td>Mdm Khairunnisa Yahya<br>khairunnisa_yahya@moe.edu.sg</td>
   </tr>
   <tr>
     <td>1 Service</td>
     <td>Mr Hairul Nizam Bin Ramli<br>hairul_nizam_ramli@moe.edu.sg</td>
-    <td>-<br></td>
+    <td>Mr Lucas Tang An Sheng<br>lucas_tang_an_sheng@moe.edu.sg</td>
   </tr>
   <tr>
     <td>1 Team Spirit</td>
@@ -70,12 +70,12 @@ variant: markdown
   <tr>
     <td>2 Compassion</td>
     <td>Mr JS Sasikumar<br>js_sasikumar@moe.edu.sg</td>
-    <td>-<br></td>
+    <td>Ms Lo Cai Yue Brenda<br>lo_cai_yue_brenda@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Humility</td>
     <td>Ms Punitha Haridas<br>punitha_haridas@moe.edu.sg</td>
-    <td>-<br></td>
+    <td>Mr Ranon Mak Enhao<br>ranon_mak_enhao@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Respect</td>
