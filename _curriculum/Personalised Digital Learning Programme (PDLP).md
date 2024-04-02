@@ -21,7 +21,6 @@ Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework
 
 The use of the PLD for teaching and learning aims to:
 ![](/images/PDLP_Outcome.png)
-
 ### Responsible Usage of PLDs
 
 
@@ -141,6 +140,8 @@ For more details on financial assistance, please approach the school.&nbsp;
 ### Acer Service Centre Contact Details
 
 If the PLD is malfunctioning and requires repairs, please notify the Class Mentors and then contact Acer for professional assistance. Click&nbsp;[here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/view)&nbsp;for the device contractor (Acer)'s information.
+### Lost of PLD
+![](/images/lostpld.png)
 
 ### Parent Handbooks on 1-to-1 Learning
 *   [Parent Handbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
