@@ -2,17 +2,18 @@
 title: DSA
 permalink: /admission/dsa/
 description: ""
+variant: markdown
 ---
-### 2023 (DSA-Sec) Exercise for Admission to Secondary One (S1) in 2024
+### 2024 (DSA-Sec) Exercise for Admission to Secondary One (S1) in 2025
 
-Application for direct school admission through the Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme is&nbsp;**open from 4 May 2023**.
+Application for direct school admission through the Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme is&nbsp;**open from 7 May 2024**.
 
 
 **(I) APPLICATION PERIOD**&nbsp; &nbsp;
 
-4 May 2023 - 31 May 2023
+7 May 2024 - 3 June 2024
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3pm. &nbsp;  
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11 am to 3 June 2024, 3pm. &nbsp;  
 For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).&nbsp;
 
 
@@ -42,9 +43,9 @@ Students who intend to apply for admission to the Montfort Leadership through Sp
 </table>
 
 
-Students who satisfy the above criteria will be informed to attend a selection trial by&nbsp;**6 July 2023**.&nbsp;
+Students who satisfy the above criteria will be informed to attend a selection trial by&nbsp;**Tues, 2 July 2024**.&nbsp;
 
-Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+Applicants who do not have prior experience may also apply, and will be assessed based on their potential. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
   
 
@@ -79,7 +80,7 @@ Leadership Skills
 * To Serve
   
 
-**SELECTION RESULTS WILL BE RELEASED BY 11 SEPTEMBER 2023**
+**SELECTION RESULTS WILL BE RELEASED BY 9 SEPTEMBER 2024**
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
