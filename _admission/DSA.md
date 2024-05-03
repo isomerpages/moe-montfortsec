@@ -45,7 +45,7 @@ Students who intend to apply for admission to the Montfort Leadership through Sp
 
 Students who satisfy the above criteria will be informed to attend a selection trial by&nbsp;**Tues, 2 July 2024**.&nbsp;
 
-Applicants who do not have prior experience may also apply, and will be assessed based on their potential. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+Applicants who do not have prior experience may also apply and will be assessed based on their potential. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
 The selection trial will be based on:
 
