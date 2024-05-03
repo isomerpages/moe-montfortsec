@@ -86,4 +86,4 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Secondary 1-4.
 
-Click&nbsp;[here](https://drive.google.com/file/d/1LPk36rjJW2zszLwQT-lsgDpgXCiTGrrh/view)&nbsp;for a list of FAQs (Frequently Asked Questions) regarding DSA.
+Click&nbsp;[here](https://drive.google.com/file/d/1PrWUj1VT6iPXu8dq_X_zO6kyQg091MJu/view)&nbsp;for a list of FAQs (Frequently Asked Questions) regarding DSA.
