@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Application for (DSA-SEC) through Montfort Leadership through Sports (Badminton,
+<p>Application for DSA-SEC through Montfort Leadership through Sports (Badminton,
 Softball, Football, Basketball, Rugby and Wushu) Excellence Programme is
 open <strong><u>from 7 May 2024.</u></strong>
 </p>
