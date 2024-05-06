@@ -8,11 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>2024 Direct School Admission-Secondary (DSA-SEC) Exercise for Admission
-to Secondary One (S1) in 2025- Montfort Leadership through Sports (Badminton,
-Softball, Football, Basketball, Rugby and Wushu) Excellence Programme.</p>
-<p>The selection criteria and process for the above talent areas will be
-updated from early-May. For more information on DSA-Sec, please refer to
-the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p>Application for DSA-SEC through Montfort Leadership through Sports (Badminton,
+Softball, Football, Basketball, Rugby and Wushu) Excellence Programme will
+be open from <strong>7 May 2024, 11 a.m.</strong>  <strong>to 3 June 2024, 3 p.m.</strong>
 </p>
+<p>For more information, please click <a href="https://www.montfortsec.moe.edu.sg/admission/dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>

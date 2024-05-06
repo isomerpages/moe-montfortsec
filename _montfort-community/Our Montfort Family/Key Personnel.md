@@ -90,6 +90,9 @@ variant: markdown
   <tr>
     <td class="tg-0lax">Assistant Year Head – <span style="font-weight:bold">Mr Chin Jia Le</span> (chin_jia_le@moe.edu.sg)</td>
   </tr>
+	<tr>
+    <td class="tg-0lax">Administration Manager – <span style="font-weight:bold">Mdm Mary Yap Pei Imm</span> (mary_yap@moe.edu.sg)</td>
+  </tr>
   <tr>
     <td class="tg-0lax">Operations Manager 1 – <span style="font-weight:bold">Mr Ng Hon Yew Alvin</span> (ng_hon_yew_alvin@moe.edu.sg)</td>
   </tr>
