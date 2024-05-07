@@ -13,8 +13,7 @@ variant: markdown
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-=
-    <table class="tg" style="undefined;table-layout: fixed; width: 670px">
+<table class="tg" style="undefined;table-layout: fixed; width: 670px">
 <colgroup>
 <col style="width: 130px">
 <col style="width: 130px">
