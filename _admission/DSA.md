@@ -79,8 +79,8 @@ Leadership Skills
 | -------- | -------- | -------- |
 | Mon, 8 July 2024     | 3.30pm     | Softball, Basketball &amp; Badminton
 | Wed, 10 July 2024 | 3.30pm | Rugby, Wushu &amp; Football |
-| Mon, 15 July 2024 (Reserve Date)    | 3.30pm     | Softball, Basketball &amp; Badminton
-| Wed, 17 July 2024 (Reserve Date)    | 3.30pm     | Rugby, Wushu &amp; Football
+| Mon, 15 July 2024 (Reserved Date)    | 3.30pm     | Softball, Basketball &amp; Badminton
+| Wed, 17 July 2024 (Reserved Date)    | 3.30pm     | Rugby, Wushu &amp; Football
 
 
 
