@@ -103,6 +103,9 @@ variant: markdown
     <td class="tg-0lax">Senior Teacher/ Science (Biology) – <span style="font-weight:bold">Mr Azman Bin Hussin </span>(azman_hussin@moe.edu.sg)</td>
   </tr>
   <tr>
+		<td class="tg-0lax">Senior Teacher/ CCE – <span style="font-weight:bold">Ms Ng Wei Ying </span>(ng_wei_ying_a@moe.edu.sg)</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Senior Teacher/ History – <span style="font-weight:bold">Mrs Punitha Ramesh</span> (punitha_haridas@moe.edu.sg)</td>
   </tr>
   <tr>
