@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /montfort-community/Montfort-Family/school-management-committee/
 description: ""
 third_nav_title: Our Montfort Family
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -12,7 +13,8 @@ third_nav_title: Our Montfort Family
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 670px">
+=
+    <table class="tg" style="undefined;table-layout: fixed; width: 670px">
 <colgroup>
 <col style="width: 130px">
 <col style="width: 130px">
@@ -29,24 +31,22 @@ third_nav_title: Our Montfort Family
     <td class="tg-0lax"><img src="/images/smc5.png"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><strong>Advisor</strong><br />Mr James Cher</td>
-    <td class="tg-0lax"><strong>Supervisor of Schools</strong><br />Brother Dominic Yeo-Koh</td>
-    <td class="tg-0lax"><strong>Chairman</strong><br />Mr&nbsp;Mark Tay Teck Chye</td>
-    <td class="tg-0lax"><strong>Vice-Chairman</strong><br />Mr Charles Ng Kok&nbsp; Wee</td>
-    <td class="tg-0lax"><strong>Honorary Treasurer</strong><br />Mr Ngan Swee Heng</td>
+    <td class="tg-0lax"><strong>Advisor</strong><br>Mr James Cher</td>
+    <td class="tg-0lax"><strong>Supervisor of Schools</strong><br>Brother Dominic Yeo-Koh</td>
+    <td class="tg-0lax"><strong>Chairman</strong><br>Mr&nbsp;Mark Tay Teck Chye</td>
+    <td class="tg-0lax"><strong>Vice-Chairman</strong><br>Mr Charles Ng Kok&nbsp; Wee</td>
+    <td class="tg-0lax"><strong>Honorary Treasurer</strong><br>Mr Ngan Swee Heng</td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/smc6.jpeg"></td>
     <td class="tg-0lax"><img src="/images/smc7.jpeg"></td>
-    <td class="tg-0lax"><img src="/images/smc8.jpeg"></td>
-    <td class="tg-0lax"><img src="/images/smc9.jpeg"></td>
+ 
+   <td class="tg-0lax"><img src="/images/smc9.jpeg"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><strong>Member</strong><br />Mr Rajesh Sreenivasan</td>
-    <td class="tg-0lax"><strong>Member</strong><br />Mr Dennis Ho</td>
-		<td class="tg-0lax"><strong>Member</strong><br>Dr Lim Wan Teck Darren</td>
-    <td class="tg-0lax"><strong>Member</strong><br />Dr David Woon
+    <td class="tg-0lax"><strong>Member</strong><br>Mr Rajesh Sreenivasan</td>
+    <td class="tg-0lax"><strong>Member</strong><br>Mr Dennis Ho</td><td class="tg-0lax"><strong>Member</strong><br>Dr David Woon
 
 </td>
     <td class="tg-0lax"></td>
@@ -59,9 +59,9 @@ third_nav_title: Our Montfort Family
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><strong>Member</strong><br />Mr Teo Chen Tuan Fabian</td>
-    <td class="tg-0lax"><strong>Member</strong><br />Mr David Lye Pak Sun</td>
-    <td class="tg-0lax"><strong>Member</strong><br />Mdm Lim Lei Nore</td>
+    <td class="tg-0lax"><strong>Member</strong><br>Mr Teo Chen Tuan Fabian</td>
+    <td class="tg-0lax"><strong>Member</strong><br>Mr David Lye Pak Sun</td>
+    <td class="tg-0lax"><strong>Member</strong><br>Mdm Lim Lei Nore</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -73,8 +73,8 @@ third_nav_title: Our Montfort Family
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><strong>Principal</strong><br />(Montfort Secondary)<br />Mr Kelvin Lim</td>
-    <td class="tg-0lax"><strong>Principal</strong><br />(Montfort Junior)<br />Mr Victor Tan</td>
+    <td class="tg-0lax"><strong>Principal</strong><br>(Montfort Secondary)<br>Mr Kelvin Lim</td>
+    <td class="tg-0lax"><strong>Principal</strong><br>(Montfort Junior)<br>Mr Victor Tan</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
