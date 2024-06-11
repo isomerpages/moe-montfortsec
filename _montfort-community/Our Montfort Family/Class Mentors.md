@@ -90,7 +90,7 @@ variant: markdown
   <tr>
     <td>2 Service</td>
     <td>Ms Jeslin Ang Hui Min<br>jeslin_ang_hui_min@moe.edu.sg</td>
-    <td>Ms Ong Wan Ting<br>ong_wan_ting@moe.edu.sg</td>
+    <td><br></td>
   </tr>
   <tr>
     <td>2 Team Spirit</td>
@@ -105,7 +105,7 @@ variant: markdown
   <tr>
     <td>2 CHRISTE</td>
     <td>Mr Sin Kum Sing, Simon<br>sin_kum_sing@moe.edu.sg</td>
-    <td>Ms Tan Ying Lin Johanna<br>tan_ying_lin_johanna@moe.edu.sg</td>
+    <td><br></td>
   </tr>
 </tbody>
 </table>
@@ -137,11 +137,11 @@ variant: markdown
     <td>3 Integrity</td>
     <td>Mr Chia Yong Koon<br> 
 chia_yong_koon@moe.edu.sg</td>
-    <td>Ms Kumari Shanker<br>kumari_shanker@moe.edu.sg</td>
+    <td><br></td>
   </tr>
   <tr>
     <td>3 Service</td>
-    <td>Ms Michelle Ho Min<br>michelle_ho_ min@moe.edu.sg</td>
+    <td><br>g</td>
     <td>Ms Norshirin Sulaiman<br>norshirin_sulaiman@moe.edu.sg</td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ chia_yong_koon@moe.edu.sg</td>
     <td>Dr Wong De Wei, Shawn <br>wong_de_wei_shawn@moe.edu.sg
 </td></tr><tr>
     <td>4 Respect</td>
-    <td>Ms Kavitha Supramanian<br>kavitha_a@moe.edu.sg</td>
+    <td><br></td>
     <td>Ms Tan Pei Pei, Eleanor<br>tan_pei_pei_eleanor@moe.edu.sg</td>
   </tr>
   <tr>
