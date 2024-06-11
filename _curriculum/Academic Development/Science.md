@@ -44,7 +44,7 @@ Teacher -&nbsp;**Mr Soh Yijie**
 
 Teacher -&nbsp;**Mr Lucas Tang An Sheng**
 
-Teacher –&nbsp;**Mrs Tan-Sin Li Huang**
+Teacher –&nbsp;**Mr Wong Wei Wen Clarence**
 
 Teacher –&nbsp;**Dr Wong De Wei Shawn**
 
