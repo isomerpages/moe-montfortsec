@@ -27,8 +27,6 @@ Teacher – **Mr Hairul Nizam Bin Ramli**
 
 Teacher – **Ms Ho Hwee Bin**
 
-Teacher - **Ms Tan Ying Lin Johanna**
-
 Teacher - **Ms Latha D/O Murugiah**
 
 Teacher - **Ms Teo Wan Lin
@@ -39,6 +37,8 @@ Teacher - **Mr Ranon Mak Enhao**
 Teacher – **Ms Clare Choy**
 
 Teacher - **Mr Kek Liok Ken Michael**
+
+Teacher - **Ms Yap Siew Phing**
 
 Teacher – **Mdm Norshirin Sulaiman (Principles Of Accounts)**  
 
