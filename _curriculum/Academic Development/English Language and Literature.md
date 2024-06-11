@@ -43,6 +43,8 @@ Teacher -&nbsp;**Ms Preetha Preklathan**
 
 Teacher -&nbsp;**Ms Lo Cai Yue Brenda**
 
+Teacher -&nbsp;**Ms Gan Jia Lin**
+
 Teacher –&nbsp;**Mr Azahar Bin Mohamed**
 
 Teacher -&nbsp;**Mr Bennett Tan Chuan Lee**
