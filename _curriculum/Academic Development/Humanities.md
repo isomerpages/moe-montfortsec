@@ -18,7 +18,7 @@ Head of Department –&nbsp;**Mrs Judeana Lim**
 
 Subject Head (Geography) –&nbsp;**Mr Mansoor Bin Abdul Rahman**
 
-Subject Head /  Information, Communication and Technology (ICT) –&nbsp;**Ms Ong Wan Ting**  
+Subject Head /  Character &amp; Citizenship Education –&nbsp;**Ms Ong Yew Yi Eve**  
 
 Subject Head / Student Leadership –&nbsp;**Mr Wilson Heng Wei Chin**
 
@@ -28,13 +28,7 @@ Senior Teacher (Social Studies) –&nbsp;**Ms Jamie Low Guan Lin**&nbsp;
 
 Teacher -&nbsp;**Ms Emmeline Yeo Zi Han**
 
-Teacher –&nbsp;**Ms Kavitha**&nbsp;
-
 Teacher -&nbsp;**Ms Leong Kar Wai Karen**
-
-
-
-Teacher -&nbsp;**Ms Michelle Ho Min**&nbsp;
 
 ### Instructional Programme
 
