@@ -37,10 +37,6 @@ Teacher -&nbsp;**Mr Hector Tan Teck Huat**
 
 Teacher -&nbsp;**Mr Joshua Ho Jin Teck**
 
-Teacher -&nbsp;**Ms Kumari Shanker**
-
-Teacher –&nbsp;**Mrs Lee Poh Lin**
-
 Teacher -&nbsp;**Ms Megan Tan Shu Ning**
 
 Teacher -&nbsp;**Ms Preetha Preklathan**
