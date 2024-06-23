@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Subject Combination
 variant: tiptap
 ---
-<h4>Sec 3 Subject Combination 2024 for Sec 2 Express students in 2023</h4>
-<p><em>Information is accurate as of 1 August 2023. Any changes will be communicated through Parents Gateway (PG) and updated in this website.</em>
+<h4>Sec 3 Subject Combination 2025 for Sec 2 Express students in 2024</h4>
+<p><em>Information is accurate as of 24 June 2024. Any changes will be communicated through Parents Gateway (PG) and updated in this website.</em>
 </p>
 <h5>1. GUIDING PRINCIPLES FOR ALLOCATION OF SUBJECT COMBINATIONS</h5>
 <ul>

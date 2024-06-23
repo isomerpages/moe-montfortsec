@@ -23,6 +23,8 @@ Teacher - **Mr Tan Eng Hwee**
 
 Teacher - **Ms Zhang Wenjie** 
 
+Teacher - **Mr Low Ying Hong Theodore** 
+
 
 ### Instructional Programme
 The Physical Education (PE) curriculum provides for a positive movement and healthy lifestyle experience and allows our students to develop the above values.

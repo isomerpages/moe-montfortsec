@@ -72,7 +72,7 @@ variant: markdown
   </tr>
   <tr>
    </tr><tr>
-    <td class="tg-0lax">Subject Head/ ICT - <span style="font-weight:bold">Ms Ong Wan Ting</span> (ong_wan_ting@moe.edu.sg)</td>
+    <td class="tg-0lax">Subject Head/ Character and Citizenship Education - <span style="font-weight:bold">Ms Ong Yew Yi Eve</span> (@moe.edu.sg)</td>
   </tr>
   
   <tr>
