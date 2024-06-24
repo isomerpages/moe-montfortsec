@@ -105,7 +105,7 @@ variant: markdown
   <tr>
     <td>2 CHRISTE</td>
     <td>Mr Sin Kum Sing, Simon<br>sin_kum_sing@moe.edu.sg</td>
-    <td><br></td>
+    <td>Ms Gan Jia Lin<br>gan_jia_lin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
