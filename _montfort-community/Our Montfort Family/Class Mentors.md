@@ -137,7 +137,7 @@ variant: markdown
     <td>3 Integrity</td>
     <td>Mr Chia Yong Koon<br> 
 chia_yong_koon@moe.edu.sg</td>
-    <td><br></td>
+    <td>Mr Wong Wei Wen Clarence<br>wong_wei_wen_clarence@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Service</td>
@@ -215,7 +215,7 @@ chia_yong_koon@moe.edu.sg</td>
   <tr>
     <td>4 Harmony</td>
     <td>Mr Tan Eng Hwee<br>tan_eng_hwee@moe.edu.sg</td>
-    <td>Mr Wong Boon Chong, Kenny<br>wong_boon_chong_kenny@moe.edu.sg</td>
+    <td><br></td>
   </tr>
 	<tr>
 <td>5 Respect</td>
