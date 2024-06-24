@@ -31,7 +31,7 @@ variant: markdown
   </tr>
   <tr>
     <td>1 Integrity</td>
-    <td>Ms Yeo Zi Han Emmeline<br>yeo_zi_han@moe.edu.sg</td>
+    <td>Mr Low Ying Hong Theodore <br>low_ying_hongtheodore@moe.edu.sg</td>
     <td>Mdm Khairunnisa Yahya<br>khairunnisa_yahya@moe.edu.sg</td>
   </tr>
   <tr>
