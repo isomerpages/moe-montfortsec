@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/npcc1.png)
 
-![](/images/Team.png)
+
 
 ![](/images/npcc4.jpeg)
 
