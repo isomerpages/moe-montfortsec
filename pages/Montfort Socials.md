@@ -1,7 +1,8 @@
 ---
 title: Montfort Socials
-permalink: /instagrams
+permalink: /instagrams/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -18,16 +19,16 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_main/" target = "_self"> 
+    <td class="tg-0lax"><a href="https://www.instagram.com/montfortsecsch/?igsh=cGoxb2ZrcHIwNDRo&amp;utm_source=qr" target="_self"> 
           <img src="/images/mainmont.gif"></a>
 </td>
-    <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_sports/" target = "_self"> 
+    <td class="tg-0lax"><a href="https://www.instagram.com/montfortsec_sports/" target="_self"> 
 			<img src="/images/montsports.gif"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_ugs/" target = "_self"> 
+    <td class="tg-0lax"><a href="https://www.instagram.com/montfortsec_ugs/" target="_self"> 
           <img src="/images/montug.gif"></a></td>
-    <td class="tg-0lax"><a href = "https://www.instagram.com/montfortsec_aesthetics_clubs/" target = "_self"> 
+    <td class="tg-0lax"><a href="https://www.instagram.com/montfortsec_aesthetics_clubs/" target="_self"> 
           <img src="/images/montac.gif"></a></td>
   </tr>
 </tbody>

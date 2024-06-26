@@ -31,7 +31,7 @@ variant: markdown
   </tr>
   <tr>
     <td>1 Integrity</td>
-    <td>Ms Yeo Zi Han Emmeline<br>yeo_zi_han@moe.edu.sg</td>
+    <td>Mr Low Ying Hong Theodore <br>low_ying_hongtheodore@moe.edu.sg</td>
     <td>Mdm Khairunnisa Yahya<br>khairunnisa_yahya@moe.edu.sg</td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ variant: markdown
   <tr>
     <td>2 Service</td>
     <td>Ms Jeslin Ang Hui Min<br>jeslin_ang_hui_min@moe.edu.sg</td>
-    <td><br></td>
+    <td>Ms Nur Liyana Binte Md Ghazali<br>nur_liyana_md_ghazali@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Team Spirit</td>
@@ -105,7 +105,7 @@ variant: markdown
   <tr>
     <td>2 CHRISTE</td>
     <td>Mr Sin Kum Sing, Simon<br>sin_kum_sing@moe.edu.sg</td>
-    <td><br></td>
+    <td>Ms Gan Jia Lin<br>gan_jia_lin@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -157,7 +157,7 @@ chia_yong_koon@moe.edu.sg</td>
   <tr>
     <td>3 CHRISTE</td>
     <td>Mr Azman Bin Hussin<br>azman_hussin@moe.edu.sg</td>
-		<td>-<br></td>
+		<td>Mr Lim Sheng Guan<br>lim_sheng_guan@moe.edu.sg</td>
 		
 
 </tr></tbody>
@@ -184,8 +184,8 @@ chia_yong_koon@moe.edu.sg</td>
     <td>Dr Wong De Wei, Shawn <br>wong_de_wei_shawn@moe.edu.sg
 </td></tr><tr>
     <td>4 Respect</td>
-    <td><br></td>
     <td>Ms Tan Pei Pei, Eleanor<br>tan_pei_pei_eleanor@moe.edu.sg</td>
+    <td>Mr Koh Ming Sheng, Daniel<br>koh_ming_sheng_daniel@moe.edu.sg</td>
   </tr>
   <tr>
     <td>4 Integrity</td>
@@ -209,13 +209,13 @@ chia_yong_koon@moe.edu.sg</td>
   </tr>
   <tr>
     <td>4 CHRISTE</td>
-    <td>Ms Solvia Ng Chu Yi <br>solvia_ng_chu_yi@moe.edu.sg</td>
-    <td>Ms Norasikin Awang<br>norasikin_awang@moe.edu.sg</td>
+    <td>Mdm Norasikin Awang <br>norasikin_awang@moe.edu.sg</td>
+    <td>Ms Solvia Ng Chu Yi<br>solvia_ng_chu_yi@moe.edu.sg</td>
   </tr>
   <tr>
     <td>4 Harmony</td>
     <td>Mr Tan Eng Hwee<br>tan_eng_hwee@moe.edu.sg</td>
-    <td><br></td>
+    <td>Ms Nurul Afifah Binte Zulkhairi<br>nurul_afifah_zulkhairi@moe.edu.sg</td>
   </tr>
 	<tr>
 <td>5 Respect</td>
