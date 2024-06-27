@@ -19,7 +19,7 @@ variant: markdown
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="https://www.instagram.com/montfortsecsch/?igsh=cGoxb2ZrcHIwNDRo&amp;utm_source=qr" target="_self"> 
+    <td class="tg-0lax"><a href="https://www.instagram.com/montfortsecsch/" target="_self"> 
           <img src="/images/mainmont.gif"></a>
 </td>
     <td class="tg-0lax"><a href="https://www.instagram.com/montfortsec_sports/" target="_self"> 
