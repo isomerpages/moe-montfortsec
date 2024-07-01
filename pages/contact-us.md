@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: Montfort Secondary School
 locations:
   - address:
-      - 50 Hougang
-      - Ave 8
+      - 50 Hougang Ave 8
+      - ""
       - Singapore 538785
     operating_hours: []
     maps_link: https://www.google.com/maps?ll=1.374084,103.888829&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=4294816132951406636
