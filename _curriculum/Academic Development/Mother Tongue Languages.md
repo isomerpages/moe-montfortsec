@@ -17,7 +17,7 @@ Year Head – **Ms Su Huimin**
 
 Assistant Year Head  – **Mr Chin Jia Le**
 
-Senior Teacher (CCE) – **Ms Ng Wei Ying**   
+Senior Teacher (Character &amp; Citizenship Education) – **Ms Ng Wei Ying**   
 
 Teacher – **Ms Lim Hui Qi** 
 

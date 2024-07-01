@@ -26,8 +26,6 @@ Senior Teacher (History) –&nbsp;**Mrs Punitha Ramesh**&nbsp;
 
 Senior Teacher (Social Studies) –&nbsp;**Ms Jamie Low Guan Lin**&nbsp;
 
-Teacher -&nbsp;**Ms Emmeline Yeo Zi Han**
-
 Teacher -&nbsp;**Ms Leong Kar Wai Karen**
 
 ### Instructional Programme

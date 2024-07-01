@@ -22,7 +22,7 @@ Subject Head -&nbsp;**Ms Peh Kaijia Celine**
 
 School Staff Developer -&nbsp;**Ms Eileen Lee Poh Ping**&nbsp;
 
-Head Of Department / Character and Citizenship Education (CCE) –&nbsp;**Mrs&nbsp;Tan-Yeo Su Lynn Jaime**
+Head Of Department / Character &amp; Citizenship Education –&nbsp;**Mrs&nbsp;Tan-Yeo Su Lynn Jaime**
 
 Senior Teacher (Biology) –&nbsp;**Mr Azman Bin Hussin**
 
