@@ -17,7 +17,7 @@ Thank you for visiting Montfort Secondary School website. By accessing and using
 
 **Privacy Policy**
 
-5\. Click here to review this Web Site Privacy Statement.
+5\. Click [here](https://www.montfortsec.moe.edu.sg/privacy/) to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
