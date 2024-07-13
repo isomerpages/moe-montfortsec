@@ -59,15 +59,15 @@ variant: markdown
   <td class="tg-0lax"><img src="/images/smc12.jpeg"></td>
 		<td class="tg-0lax"><img src="/images/smc13.jpeg"></td>
 		    <td class="tg-0lax"><img src="/images/Victor%20Tan.jpg"></td>
-    <td class="tg-0lax"></td>
+   
 		
   </tr>
   <tr>
     <td class="tg-0lax"><strong>Member</strong><br>Mdm Lim Lei Nore</td>
 		<td class="tg-0lax"><strong>Principal</strong><br><i>Montfort Secondary</i><br>Mr Kelvin Lim</td>
 			<td class="tg-0lax"><strong>Principal</strong><br><i>Montfort Junior</i><br>Mr Victor Tan</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+ 
+    
   </tr>
 	<tr>
     
