@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Montfort Secondary School
-description: An Isomer site of the Singapore Government
+description: Scholar. Sportsman. Gentleman. Leader. A Man for Others.
 image: /images/school_crest.png
 permalink: /
 notification: Scholar. Sportsman.Gentleman. Leader.   A Man for Others.
