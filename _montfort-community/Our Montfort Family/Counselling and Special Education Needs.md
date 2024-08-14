@@ -15,11 +15,6 @@ Email: [selvarani\_kunasela@moe.edu.sg](mailto:selvarani_kunasela@moe.edu.sg)
 Tel: 6883 6919    
 Email: [clifford\_lam\_jun\_ting@moe.edu.sg](mailto:clifford_lam_jun_ding@moe.edu.sg)
 
-  
-**Mr Jim Bek,** **School Counsellor**    
-Tel: 6510 7065     
-Email: [Jim\_Bek@moe.edu.sg](mailto:Jim_Bek@moe.edu.sg)
-
  
 
 **Mdm June Yeo Swee Lin, Senior Special Education Needs Officer (SENO)**    
