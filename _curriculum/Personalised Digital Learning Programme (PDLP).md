@@ -139,7 +139,7 @@ For more details on financial assistance, please approach the school.&nbsp;
 ## Additional Information
 ### Acer Service Centre Contact Details
 
-If the PLD is malfunctioning and requires repairs, please notify the Class Mentors and then contact Acer for professional assistance. Click&nbsp;[here](https://drive.google.com/file/d/1L1t6WjCm3TyRBicjw91NbTJtxi2wvVMI/view)&nbsp;for the device contractor (Acer)'s information.
+If the PLD is malfunctioning and requires repairs, please notify the Class Mentors and then contact Acer for professional assistance. Click&nbsp;[here](https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view)&nbsp;for the device contractor (Acer)'s information.
 ### Lost of PLD
 ![](/images/lostpld.png)
 
