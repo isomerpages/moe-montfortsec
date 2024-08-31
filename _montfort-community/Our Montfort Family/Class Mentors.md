@@ -90,12 +90,12 @@ variant: markdown
   <tr>
     <td>2 Service</td>
     <td>Ms Jeslin Ang Hui Min<br>jeslin_ang_hui_min@moe.edu.sg</td>
-    <td>Ms Nur Liyana Binte Md Ghazali<br>nur_liyana_md_ghazali@moe.edu.sg</td>
+    <td>-<br>-</td>
   </tr>
   <tr>
     <td>2 Team Spirit</td>
     <td>Mr Wong Jun Pei, Nicholas<br>wong_jun_pei_nicholas@moe.edu.sg</td>
-    <td>Mr Glen Ng<br>glen_ng_b@moe.edu.sg</td>
+    <td>-<br>-</td>
   </tr>
   <tr>
     <td>2 Excellence</td>
@@ -137,7 +137,7 @@ variant: markdown
     <td>3 Integrity</td>
     <td>Mr Chia Yong Koon<br> 
 chia_yong_koon@moe.edu.sg</td>
-    <td>Mr Wong Wei Wen Clarence<br>wong_wei_wen_clarence@moe.edu.sg</td>
+    <td>-<br>-</td>
   </tr>
   <tr>
     <td>3 Service</td>
