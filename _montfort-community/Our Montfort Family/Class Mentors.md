@@ -137,7 +137,7 @@ variant: markdown
     <td>3 Integrity</td>
     <td>Mr Chia Yong Koon<br> 
 chia_yong_koon@moe.edu.sg</td>
-    <td>-<br>-</td>
+    <td>Ms Yogeswari Elangovan<br>yogeswari_elangovan@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3 Service</td>
