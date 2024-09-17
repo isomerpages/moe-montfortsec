@@ -41,6 +41,8 @@ Teacher -&nbsp;**Ms Megan Tan Shu Ning**
 
 Teacher -&nbsp;**Ms Preetha Preklathan**
 
+Teacher -&nbsp;**Ms Yogeswari Elangovan**
+
 Teacher -&nbsp;**Ms Lo Cai Yue Brenda**
 
 Teacher -&nbsp;**Ms Gan Jia Lin**
