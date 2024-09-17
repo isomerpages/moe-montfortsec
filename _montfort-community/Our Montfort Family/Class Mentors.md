@@ -95,7 +95,7 @@ variant: markdown
   <tr>
     <td>2 Team Spirit</td>
     <td>Mr Wong Jun Pei, Nicholas<br>wong_jun_pei_nicholas@moe.edu.sg</td>
-    <td>-<br>-</td>
+    <td>Ms Rachel Angelique Galistan<br>rachel_angelique_galistan@moe.edu.sg</td>
   </tr>
   <tr>
     <td>2 Excellence</td>
