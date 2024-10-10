@@ -23,12 +23,6 @@ School Counsellor / PSG Liaison - Ms. Silver SK
 Chairperson - Ms. Cynthia Chung Choo Min    
 Vice-Chairperson - Ms. Julia Chua Hwee Ling
 
-
-### Join Montfort PSG
-
-To register, please sign up using this&nbsp;[link](https://docs.google.com/forms/d/e/1FAIpQLSfHYs5mNSWgmrvxAYqNcgfBRyFZTIxAy-5JbVpN1343Qgbc0w/viewform).  
-  
-
 ### Programmes
 
 The following activities/events have been planned and organised in partnership with our PSG.&nbsp;
