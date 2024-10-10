@@ -3,6 +3,7 @@ title: Applied Learning Programme
 permalink: /curriculum/Distinctive-Programme/applied-learning-programme/
 description: ""
 third_nav_title: Distinctive Programmes
+variant: markdown
 ---
 ### **Applied Learning Programme – Made In Montfort**
 
@@ -73,17 +74,20 @@ Finally, the content of the ALP should be made relevant by incorporating element
 
 ### Our Team
 
-Teacher - Mr Aaron Cheng (HOD ICT)    
-Teacher -&nbsp;Ms Tan Ying Lin Johanna (ALP Co-ordinator)   
+Teacher - Mr Ernest Yu    
+Teacher -&nbsp;Mdm Ong Qiulin   
 Teacher -&nbsp;Mr R Jayakumar     
 Teacher -&nbsp;Mr Simon Sin Kum Sing    
 Teacher -&nbsp;Mr Wong Yong Zhao Caleb  
 Teacher -&nbsp;Mr Azman Bin Hussin   
-Teacher -&nbsp;Mdm Ong Qiulin    
+Teacher -&nbsp;Mr Wong Chyng Shiau     
 Teacher -&nbsp;Mr Lim Kim Huat  
 Teacher -&nbsp;Mdm Khairunnisa   
-Teacher -&nbsp;Dr Shawn Wong    
-Teacher - Mr Soh Yi Jie
+Teacher -&nbsp;Dr Shawn Wong   
+Teacher -&nbsp;Mr Eric Loh Tian Hon   
+Teacher -&nbsp;Mr Soh Yi Jie  
+Teacher -&nbsp;Mr Khairyl Hashim   
+Teacher -&nbsp;Mr Quek Soon Heng Damien  
 
 ### Instructional Programme
 
