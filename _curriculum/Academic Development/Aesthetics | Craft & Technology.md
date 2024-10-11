@@ -7,8 +7,7 @@ variant: markdown
 ---
 ### Mission
 
-To nurture in our Montfortians attitudes, dispositions, and skills to take on the
-opportunities and challenges of the future.
+To nurture in our Montfortians attitudes, dispositions, and skills to take on the opportunities and challenges of the future.
 
 ### Our Team
 
