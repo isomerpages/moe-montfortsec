@@ -74,20 +74,20 @@ Finally, the content of the ALP should be made relevant by incorporating element
 
 ### Our Team
 
-Teacher - Mr Ernest Yu    
-Teacher -&nbsp;Mdm Ong Qiulin   
-Teacher -&nbsp;Mr R Jayakumar     
-Teacher -&nbsp;Mr Simon Sin Kum Sing    
-Teacher -&nbsp;Mr Wong Yong Zhao Caleb  
-Teacher -&nbsp;Mr Azman Bin Hussin   
-Teacher -&nbsp;Mr Wong Chyng Shiau     
-Teacher -&nbsp;Mr Lim Kim Huat  
-Teacher -&nbsp;Mdm Khairunnisa   
-Teacher -&nbsp;Dr Shawn Wong   
-Teacher -&nbsp;Mr Eric Loh Tian Hon   
-Teacher -&nbsp;Mr Soh Yi Jie  
-Teacher -&nbsp;Mr Khairyl Hashim   
-Teacher -&nbsp;Mr Quek Soon Heng Damien  
+Teacher - **Mr Ernest Yu**    
+Teacher -&nbsp;**Mdm Ong Qiulin**   
+Teacher -&nbsp;**Mr R Jayakumar**     
+Teacher -&nbsp;**Mr Sin Kum Sing Simon**    
+Teacher -&nbsp;**Mr Wong Yong Zhao Caleb**  
+Teacher -&nbsp;**Mr Azman Bin Hussin**   
+Teacher -&nbsp;**Mr Wong Chyng Shiau**     
+Teacher -&nbsp;**Mr Lim Kim Huat**  
+Teacher -&nbsp;**Mdm Khairunnisa**   
+Teacher -&nbsp;**Dr Shawn Wong**   
+Teacher -&nbsp;**Mr Eric Loh Tian Hon**   
+Teacher -&nbsp;**Mr Soh Yi Jie**  
+Teacher -&nbsp;**Mr Khairyl Hashim**   
+Teacher -&nbsp;**Mr Quek Soon Heng**  
 
 ### Instructional Programme
 
