@@ -17,7 +17,7 @@ experiences.
 
 ### Our Team
 
-Head of Department&nbsp; –&nbsp;**Mr Kang Soon Leong Casimir**
+Head of Department&nbsp; –&nbsp;**Mr Kang Soon Leong Casimir**  
 Subject Head –&nbsp;**Mrs Eleanor Leong**  
 Head of Department / Special Educational Needs (SEN)&nbsp; –&nbsp;**Mr Lee Beng Wah**  
 Senior Teacher (Music) –&nbsp;**Ms Chua Jing Lin Eunice**
