@@ -13,8 +13,8 @@ To develop Montfortians to be analytical thinkers through problem solving and th
   
 Head of Department – **Mdm Rachel Tang Yau Khee**
 Subject Head – **Ms Cynthia Chua**  
-Teacher (Year Head) – **Ms Norazidah Abdol Aziz**  
-Teacher (Assistant Year Head) – **Ms Ong Wuan Seah**  
+Year Head – **Ms Norazidah Abdol Aziz**  
+Assistant Year Head – **Ms Ong Wuan Seah**  
 Subject Head (Discipline) – **Mr Wong Boon Chong Kenny**  
 Teacher – **Ms Tan Wan Sim**  
 Teacher – **Mr Hairul Nizam Bin Ramli**  
