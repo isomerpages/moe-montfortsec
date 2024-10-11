@@ -11,24 +11,15 @@ We are committed to nurturing students to be effective communicators with an und
 
 ### Our Team
 
-Head of Department – **Ms Sim Siew Ngoh**
-
+Head of Department – **Ms Sim Siew Ngoh**  
 Year Head – **Ms Su Huimin**   
-
-Assistant Year Head  – **Mr Chin Jia Le**
-
-Senior Teacher (Character &amp; Citizenship Education) – **Ms Ng Wei Ying**   
-
-Teacher – **Ms Lim Hui Qi** 
-
-Teacher – **Ms Ko Zen Rae Melisa**
-
-Teacher – **Mr Liu Yong Feng**    
-
+Assistant Year Head  – **Mr Chin Jia Le**  
+Senior Teacher (Character &amp; Citizenship Education) – **Ms Ng Wei Ying**    
+Teacher – **Ms Lim Hui Qi**  
+Teacher – **Ms Ko Zen Rae Melisa**  
+Teacher – **Mr Liu Yong Feng**     
 Teacher – **Mdm Norasikin Awang**    
-
-Teacher – **Mdm Gunasekaran Dhanalakshmi**
-
+Teacher – **Mdm Gunasekaran Dhanalakshmi**  
 Teacher – **Mdm Tirunavukkarasu Poongodi**     
 
 ### Instructional Programme
