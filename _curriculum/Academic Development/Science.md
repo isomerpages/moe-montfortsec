@@ -27,7 +27,7 @@ Teacher –&nbsp;**Mdm Khairunnisa Bte Yahya**
 Teacher –&nbsp;**Ms Ho Hwee Bin**  
 Teacher –&nbsp;**Mr Js Sasikumar**  
 Teacher –&nbsp;**Mr Lim Kim Huat**  
-Teacher -&nbsp;**Ms Ong Qiulin**  
+Teacher -&nbsp;**Mdm Ong Qiulin**  
 Teacher -&nbsp;**Mr Soh Yijie**  
 Teacher -&nbsp;**Mr Lucas Tang An Sheng**  
 Teacher –&nbsp;**Dr Wong De Wei Shawn**  
