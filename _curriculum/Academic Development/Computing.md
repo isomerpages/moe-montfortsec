@@ -13,12 +13,9 @@ To develop in students the knowledge, skills and attitudes necessary to understa
 ### Our Team
 
 Teacher - **Mr Caleb Wong Yong Zhao (Computing)**  
-
-Teacher - **Mr Wong Chyng Shiau (Computing)**  
-
+Teacher - **Mr Wong Chyng Shiau (Computing)**    
+Teacher - **Mr R Jayakumar (Computer Applications)**  
 Teacher - **Mr Quek Soon Heng (Computer Applications)**
-
-Teacher - **Mr R Jayakumar (Computer Applications)**
 
 
 ### Instructional Programme
