@@ -27,7 +27,7 @@ number of applicants exceeds the number of places allocated)</p>
 </div>
 <h4>4. G1 Subject Combination Talk</h4>
 <p>Click the video to watch a video talk by our ECG Counsellor, Mr Isaac.</p>
-<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1XOR7k6cBgAQeyO84IFsvl2fQqLk21_ub/view?usp=drive_link">
+<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1tgz6LZazGneQvl4zbhZ8sst1j-q4-QRF/view?t=3">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subj_Combi_G1_Talk_by_Isaac.png">
 </a>
 <p></p>
