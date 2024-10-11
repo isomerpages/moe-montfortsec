@@ -12,36 +12,20 @@ To develop Montfortians to be analytical thinkers through problem solving and th
 ### Our Team
   
 Head of Department – **Mdm Rachel Tang Yau Khee**
-
-Subject Head – **Ms Cynthia Chua**
-
-Teacher (Year Head) – **Ms Norazidah Abdol Aziz**
-
-Teacher (Assistant Year Head) – **Ms Ong Wuan Seah**
-
-Teacher (Subject Head / Discipline) – **Mr Wong Boon Chong Kenny**
-
-Teacher – **Ms Tan Wan Sim**
-
-Teacher – **Mr Hairul Nizam Bin Ramli**
-
-Teacher – **Ms Ho Hwee Bin**
-
-Teacher - **Ms Latha D/O Murugiah**
-
-Teacher - **Ms Teo Wan Lin
-Jocelyn**
-
-Teacher - **Mr Ranon Mak Enhao**
-
-Teacher – **Ms Clare Choy**
-
-Teacher - **Mr Kek Liok Ken Michael**
-
-Teacher - **Ms Yap Siew Phing**
-
-Teacher – **Mdm Norshirin Sulaiman (Principles Of Accounts)**  
-
+Subject Head – **Ms Cynthia Chua**  
+Teacher (Year Head) – **Ms Norazidah Abdol Aziz**  
+Teacher (Assistant Year Head) – **Ms Ong Wuan Seah**  
+Subject Head (Discipline) – **Mr Wong Boon Chong Kenny**  
+Teacher – **Ms Tan Wan Sim**  
+Teacher – **Mr Hairul Nizam Bin Ramli**  
+Teacher – **Ms Ho Hwee Bin**  
+Teacher - **Ms Latha D/O Murugiah**  
+Teacher - **Ms Teo Wan Lin Jocelyn**  
+Teacher - **Mr Ranon Mak Enhao**  
+Teacher – **Ms Clare Choy**  
+Teacher - **Mr Kek Liok Ken Michael**  
+Teacher - **Ms Yap Siew Phing**  
+Teacher – **Mdm Norshirin Sulaiman (Principles Of Accounts)**   
 Teacher - **Mdm V Santhi (Principles of Accounts)**
 
 Instructional Programme
