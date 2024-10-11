@@ -18,38 +18,22 @@ experiences.
 ### Our Team
 
 Head of Department&nbsp; –&nbsp;**Mr Kang Soon Leong Casimir**
-
-Subject Head –&nbsp;**Mrs Eleanor Leong**
-
-Head of Department / Special Educational Needs (SEN)&nbsp; –&nbsp;**Mr Lee Beng Wah**
-
+Subject Head –&nbsp;**Mrs Eleanor Leong**  
+Head of Department / Special Educational Needs (SEN)&nbsp; –&nbsp;**Mr Lee Beng Wah**  
 Senior Teacher (Music) –&nbsp;**Ms Chua Jing Lin Eunice**
-
-Teacher –&nbsp;**Ms Tey Ser Ling**
-
-Teacher –&nbsp;**Mr Azman Bin Akmad**
-
-Teacher -&nbsp;**Mr Wong Jun Pei Nicholas**
-
-Teacher -&nbsp;**Mr Brendan Hoe Qing En**
-
-Teacher -&nbsp;**Mr Hector Tan Teck Huat**
-
-Teacher -&nbsp;**Mr Joshua Ho Jin Teck**
-
-Teacher -&nbsp;**Ms Megan Tan Shu Ning**
-
-Teacher -&nbsp;**Ms Preetha Preklathan**
-
-Teacher -&nbsp;**Ms Yogeswari Elangovan**
-
-Teacher -&nbsp;**Ms Lo Cai Yue Brenda**
-
-Teacher -&nbsp;**Ms Gan Jia Lin**
-
-Teacher –&nbsp;**Mr Azahar Bin Mohamed**
-
-Teacher -&nbsp;**Mr Bennett Tan Chuan Lee**
+Teacher –&nbsp;**Ms Tey Ser Ling**  
+Teacher –&nbsp;**Mr Azman Bin Akmad**  
+Teacher -&nbsp;**Mr Wong Jun Pei Nicholas**  
+Teacher -&nbsp;**Mr Brendan Hoe Qing En**  
+Teacher -&nbsp;**Mr Hector Tan Teck Huat**  
+Teacher -&nbsp;**Mr Joshua Ho Jin Teck**  
+Teacher -&nbsp;**Ms Megan Tan Shu Ning**  
+Teacher -&nbsp;**Ms Preetha Preklathan**  
+Teacher -&nbsp;**Ms Yogeswari Elangovan**  
+Teacher -&nbsp;**Ms Lo Cai Yue Brenda**  
+Teacher -&nbsp;**Ms Gan Jia Lin**  
+Teacher –&nbsp;**Mr Azahar Bin Mohamed**  
+Teacher -&nbsp;**Mr Tan Chuan Lee Bennett**  
 
 ### Instructional Programme
 
