@@ -11,18 +11,12 @@ To develop Montfortians into healthy, rugged and resilient sportsman with good s
 
 ### Our Team
 
-Head of Department - **Mr Faizan Bin Muhamad Nor** 
-
-Head of Department / Student Management - **Mr Mun Shiun**    
-
-Teacher - **Mr Caleb Wong Yong Zhao**  
-
-Teacher - **Mr Muhammad Idris Bin Anwar**
-
+Head of Department - **Mr Faizan Bin Muhamad Nor**  
+Head of Department / Student Management - **Mr Mun Shiun**     
+Teacher - **Mr Caleb Wong Yong Zhao**   
+Teacher - **Mr Muhammad Idris Bin Anwar**  
 Teacher - **Mr Tan Eng Hwee**    
-
-Teacher - **Ms Zhang Wenjie** 
-
+Teacher - **Ms Zhang Wenjie**  
 Teacher - **Mr Low Ying Hong Theodore** 
 
 
