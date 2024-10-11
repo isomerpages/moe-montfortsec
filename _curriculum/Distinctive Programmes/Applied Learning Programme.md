@@ -28,10 +28,10 @@ variant: markdown
           <img src="/images/alp4.png"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1LnAlceBT9e2bXcErWA8YjEjVdcGdmUzT/view" target="_self"> 
-          <img src="/images/alp2.png"></a></td>
-    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1z-9VLS5Sk4zt18VNbEZt3fEk-gJXMz8L/view" target="_self"> 
-          <img src="/images/alp1.png"></a></td>
+    <td class="tg-0lax">
+          <img src="/images/alp2.png"></td>
+    <td class="tg-0lax">
+          <img src="/images/alp1.png"></td>
   </tr>
 </tbody>
 </table>
