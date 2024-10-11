@@ -16,43 +16,25 @@ We will achieve our mission by:
 
 ### Our Team  
 
-Head of Department –&nbsp;**Mr Yu Yang Ming Ernest**
-
-Subject Head -&nbsp;**Ms Peh Kaijia Celine**
-
-School Staff Developer -&nbsp;**Ms Eileen Lee Poh Ping**&nbsp;
-
-Head Of Department / Character &amp; Citizenship Education –&nbsp;**Mrs&nbsp;Tan-Yeo Su Lynn Jaime**
-
-Senior Teacher (Biology) –&nbsp;**Mr Azman Bin Hussin**
-
-Teacher –&nbsp;**Ms Chew Kit Har**
-
-Teacher -&nbsp; **Mr Chia Yong Koon**
-
-Teacher –&nbsp;**Mdm Khairunnisa Bte Yahya**&nbsp;
-
-Teacher –&nbsp;**Ms Ho Hwee Bin**
-
-Teacher –&nbsp;**Mr Js Sasikumar**
-
-Teacher –&nbsp;**Mr Lim Kim Huat**
-
-Teacher -&nbsp;**Ms Ong Qiulin**
-
-Teacher -&nbsp;**Mr Soh Yijie**
-
-Teacher -&nbsp;**Mr Lucas Tang An Sheng**
-
-Teacher –&nbsp;**Dr Wong De Wei Shawn**
-
-Teacher –&nbsp;**Mr Eric Loh Tian Hon**
-
-Laboratory Technician –&nbsp;**Ms Lee Boy San**
-
-Laboratory Technician –&nbsp;**Mdm Roslne Binte Karsani**
-
-Laboratory Technician –&nbsp;**Mr Thomas Ang Juay Theng**
+Head of Department –&nbsp;**Mr Yu Yang Ming Ernest**  
+Subject Head -&nbsp;**Ms Peh Kaijia Celine**  
+School Staff Developer -&nbsp;**Ms Eileen Lee Poh Ping**   
+Head Of Department / Character &amp; Citizenship Education –&nbsp;**Mrs&nbsp;Tan-Yeo Su Lynn Jaime**  
+Senior Teacher (Biology) –&nbsp;**Mr Azman Bin Hussin**  
+Teacher –&nbsp;**Ms Chew Kit Har**  
+Teacher -&nbsp; **Mr Chia Yong Koon**  
+Teacher –&nbsp;**Mdm Khairunnisa Bte Yahya**  
+Teacher –&nbsp;**Ms Ho Hwee Bin**  
+Teacher –&nbsp;**Mr Js Sasikumar**  
+Teacher –&nbsp;**Mr Lim Kim Huat**  
+Teacher -&nbsp;**Ms Ong Qiulin**  
+Teacher -&nbsp;**Mr Soh Yijie**  
+Teacher -&nbsp;**Mr Lucas Tang An Sheng**  
+Teacher –&nbsp;**Dr Wong De Wei Shawn**  
+Teacher –&nbsp;**Mr Eric Loh Tian Hon**  
+STEM Instructor (Laboratory) –&nbsp;**Ms Lee Boy San**  
+STEM Instructor (Laboratory) –&nbsp;**Mdm Roslne Binte Karsani**  
+STEM Instructor (Laboratory) –&nbsp;**Mr Thomas Ang Juay Theng**
 
 ### Instructional Programme
 
