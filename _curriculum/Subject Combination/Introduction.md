@@ -53,5 +53,5 @@ on choosing subject combination.</p>
 <p></p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1xp9_lL8LnfO8R_0IGH3qty2wz_5JTgFY/view?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_talk_by_Isaac.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ad03Ww4HzSSnP0mF6SIXCA5dzTEBrnJf/view?t=1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_talk_by_Isaac.jpg"></a>
 <p></p>
