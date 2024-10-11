@@ -24,7 +24,7 @@ variant: markdown
   <tr>
     <td class="tg-0lax"><a href="https://drive.google.com/file/d/192_7vdAys6vGXI4ktEu3_OO08JnLJmnF/view?t=4" target="_self"> 
           <img src="/images/alp3.png"></a></td>
-    <td class="tg-0lax"><a href="https://drive.google.com/file/d/1rPbfyWNh_qKI2n2XzZdiYcml8x7TQm8m/view" target="_self"> 
+    <td class="tg-0lax"><a href="" target="_self"> 
           <img src="/images/alp4.png"></a></td>
   </tr>
   <tr>
