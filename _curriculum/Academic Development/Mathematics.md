@@ -11,7 +11,7 @@ To develop Montfortians to be analytical thinkers through problem solving and th
 
 ### Our Team
   
-Head of Department – **Mdm Rachel Tang Yau Khee**
+Head of Department – **Mdm Rachel Tang Yau Khee**  
 Subject Head – **Ms Cynthia Chua**  
 Year Head – **Ms Norazidah Abdol Aziz**  
 Assistant Year Head – **Ms Ong Wuan Seah**  
