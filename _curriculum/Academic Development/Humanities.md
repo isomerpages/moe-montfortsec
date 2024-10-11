@@ -14,18 +14,12 @@ variant: markdown
 
 ### Our Team
 
-Head of Department –&nbsp;**Mrs Judeana Lim**
-
-Subject Head (Geography) –&nbsp;**Mr Mansoor Bin Abdul Rahman**
-
-Subject Head /  Character &amp; Citizenship Education –&nbsp;**Ms Ong Yew Yi Eve**  
-
-Subject Head / Student Leadership –&nbsp;**Mr Wilson Heng Wei Chin**
-
-Senior Teacher (History) –&nbsp;**Mrs Punitha Ramesh**&nbsp;
-
-Senior Teacher (Social Studies) –&nbsp;**Ms Jamie Low Guan Lin**&nbsp;
-
+Head of Department –&nbsp;**Mrs Judeana Lim**  
+Subject Head (Geography) –&nbsp;**Mr Mansoor Bin Abdul Rahman**  
+Subject Head (Student Leadership) –&nbsp;**Ms Ong Yew Yi Eve**  
+Subject Head (History) –&nbsp;**Mr Wilson Heng Wei Chin**  
+Senior Teacher (History) –&nbsp;**Mrs Punitha Ramesh**  
+Senior Teacher (Social Studies) –&nbsp;**Ms Jamie Low Guan Lin**  
 Teacher -&nbsp;**Ms Leong Kar Wai Karen**
 
 ### Instructional Programme
