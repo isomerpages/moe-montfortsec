@@ -7,9 +7,9 @@ variant: markdown
 Each Montfortian will be provisioned with a <b>Multi Identity Management System (MIMS)</b> account.
 <br><br>
 The <b>MIMS</b> account is connected to all accounts listed.
-<p>Please note that <u><b>resetting your MIMS/Student iCON password would mean that the password for all services will be changed and you are to use the latest password</b></u> you have changed for all the account/services below.</p>
+<p>Please note that <u><b>resetting your MIMS/Student iCON password would mean that the password for all services will be changed and you are to use the latest password</b></u>for all the account/services below.</p>
 
-* ACER PLD login
+* PLD login
 * Student iCON email
 * Google Services (Drive, Classroom etc.)
 * Student Learning Space (SLS)
