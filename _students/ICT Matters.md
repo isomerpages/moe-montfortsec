@@ -19,7 +19,7 @@ The <b>MIMS</b> account is connected to all accounts listed.
 
 **Q) How do I log in to Student iCON?**
 
-A: Go to this link https://mims.moe.gov.sg&nbsp;   
+A: Go to this [link](https://mims.moe.gov.sg)&nbsp;   
 &nbsp; &nbsp; Username: Student iCON email address   
 &nbsp; &nbsp; Password: MIMS password
 
@@ -27,5 +27,5 @@ A: Go to this link https://mims.moe.gov.sg&nbsp;
 **Q) Who do I look for if I have forgotten the password to the accounts mentioned above?**
 
 A: Please approach the Desktop Engineer (DE) at&nbsp;   
-&nbsp; &nbsp; Level 1, Computer Lab 2 office   
-&nbsp; &nbsp; Level 2, Computer Lab 4 office
+&nbsp; &nbsp; Blk C, Level 1, Computer Lab ICT office   
+&nbsp; &nbsp; Blk C, Level 2, Computer Lab ICT office
