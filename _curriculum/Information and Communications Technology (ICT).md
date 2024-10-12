@@ -6,12 +6,12 @@ variant: markdown
 ---
 ## ICT Accounts
 
-Each Montfortian will be provisioned with a <b>Multi Identity Management System (MIMS)</b> account.
+Each Montfortian is provisioned with a <b>Multi Identity Management System (MIMS)</b> account.
 <br><br>
 The <b>MIMS</b> account is connected to all accounts listed.
-<p>Please note that <u><b>resetting your MIMS/Student iCON password would mean that the password for all services will be changed and you are to use the latest password</b></u> you have changed for all the account/services below.</p>
+<p>Please note that <u><b>resetting your MIMS/Student iCON password would mean that the password for all services will be changed and you are to use the latest password</b></u> for all the account/services below.</p>
 
-* ACER PLD login
+* PLD login
 * Student iCON email
 * Google Services (Drive, Classroom etc.)
 * Student Learning Space (SLS)
@@ -21,7 +21,7 @@ The <b>MIMS</b> account is connected to all accounts listed.
 
 **Q) How do I log in to Student iCON?**
 
-A: Go to this link https://mims.moe.gov.sg&nbsp;   
+A: Go to this [link](https://mims.moe.gov.sg)&nbsp;   
 &nbsp; &nbsp; Username: Student iCON email address   
 &nbsp; &nbsp; Password: MIMS password
 
@@ -29,12 +29,5 @@ A: Go to this link https://mims.moe.gov.sg&nbsp;
 **Q) Who do I look for if I have forgotten the password to the accounts mentioned above?**
 
 A: Please approach the Desktop Engineer (DE) at&nbsp;   
-&nbsp; &nbsp; Level 1, Computer Lab 2 office   
-&nbsp; &nbsp; Level 2, Computer Lab 4 office
-
-
-
-
-
-  
-
+&nbsp; &nbsp; Blk C, Level 1, Computer Lab ICT office   
+&nbsp; &nbsp; Blk C, Level 2, Computer Lab ICT office
