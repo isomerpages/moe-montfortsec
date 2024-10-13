@@ -19,7 +19,7 @@ To continue to do this good work, the PSG needs more hands, new members and fres
 
 Take up this challenge! Be a member of the Montfort PSG.&nbsp;
 
-To register, please sign up&nbsp;<b>[online](https://docs.google.com/forms/d/e/1FAIpQLSeoquZ3oXOng4thDnJ1G1QUGgpaCjGRKibdbv5vE4oACXDg0Q/closedform)</b>.[Link opens in first week of 2024]
+
 
 _Aqe Quod Agis!_
 

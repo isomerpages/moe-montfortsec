@@ -14,7 +14,9 @@ variant: markdown
 
 **Request for school transfer out of Montfort Secondary School due to serious medical reasons and severe physical impairments.**
 
-* You will need to submit your appeal <u><b>in person<b></b></b></u><b><b> through Montfort Secondary School after the release of the posting results, **by 12pm of the following working day.**
+* You will need to submit your appeal <u><b>in person</b></u> through Montfort Secondary School after the release of the posting results, **by 12pm of the following working day.**
 * Complete the transfer request form which is obtainable from Montfort Secondary School General Office.
 * Attach a valid medical letter and relevant supporting document to the form.
-* MOE will call parents to inform them on the outcome of appeal.</b></b>
+* MOE will call parents to inform them on the outcome of appeal.
+	
+	

@@ -132,22 +132,22 @@ The possible education and career pathways are aplenty. Follow the story of thes
 
 
 ##### UNDERSTANDING OURSELVES BETTER
-[MySkillsFuture Student Portal]([undefined](https://go.gov.sg/MySFSec)&nbsp;   
+[MySkillsFuture Student Portal](https://go.gov.sg/MySFSec)&nbsp;   
 A one-stop platform to explore the various educational and career pathways.&nbsp;
 
   
 
-[CourseFinder]([undefined](https://www.moe.gov.sg/coursefinder)&nbsp;   
+[CourseFinder](https://www.moe.gov.sg/coursefinder)&nbsp;   
 Explore courses based on aggregate type, score, and area of interest offered in post-secondary institutes (polytechnics &amp; ITE).
 
   
 
 ##### Journeying with Our Children, Supporting Their Success
-Visit https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx for a guide that provides tips and suggestions for parents to engage their child in conversations and activities related to ECG.
+Click [here](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx) for a guide that provides tips and suggestions for parents to engage their child in conversations and activities related to ECG.
 
 ##### ADMISSION EXERCISES BOOKLETS
 [2024 Intake Exercise (For January 2024 intake) ](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf)  
 
 [2024 Intake Exercise Admission Booklet (For GCE 'O' Level Holders](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-o-admission-booklet-2024.pdf)   
 
-[2024 Joint Admission Exercise Booklet ](https://www.moe.gov.sg/-/media/files/post-secondary/2024-jae/2024-jae-courses.pdf)    
+[2024 Joint Admission Exercise Booklet ](https://www.moe.gov.sg/-/media/files/post-secondary/2024-jae/2024-jae-courses.pdf)

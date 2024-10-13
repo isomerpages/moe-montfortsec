@@ -64,7 +64,7 @@ Pure Geography and Social Studies/Geography if they choose Pure History.</p>
 </div>
 <h4>5. G3 Subject Combination Talk</h4>
 <p>Click the video to watch a video talk by our ECG Counsellor, Mr Isaac.</p>
-<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1gFnWfQDsbvh0-FjdBp3Un8V3fYSNiroE/view?usp=drive_link">
+<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1avziKGkr1j38PwdzjI1NW4n6E5gYEuhf/view?t=2">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subj_Combi_G3_Talk_by_Isaac.png">
 </a>
 <p></p>
