@@ -15,7 +15,6 @@ Head of Department – **Ms Sim Siew Ngoh**
 Year Head – **Ms Su Huimin**   
 Assistant Year Head  – **Mr Chin Jia Le**  
 Senior Teacher (Character &amp; Citizenship Education) – **Ms Ng Wei Ying**    
-Teacher – **Ms Lim Hui Qi**  
 Teacher – **Ms Ko Zen Rae Melisa**  
 Teacher – **Mr Liu Yong Feng**     
 Teacher – **Mdm Norasikin Awang**    
