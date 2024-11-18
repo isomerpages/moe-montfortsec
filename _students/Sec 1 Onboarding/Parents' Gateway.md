@@ -13,7 +13,7 @@ variant: markdown
 
 **<u>Parents’ Guide to Getting Started with Parents Gateway</u>**
 
-![](/images/PG%20step1.jpeg)
-![](/images/PG%20step%202.jpeg)
-![](/images/PG%20step%203.jpeg)
-![](/images/PG%20step%204.jpeg)
+![](/images/PG_singpass.jpg)
+![](/images/PG4.png)
+![](/images/PG_2.jpg)
+![](/images/PG_3.png)

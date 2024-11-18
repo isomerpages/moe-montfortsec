@@ -24,14 +24,11 @@ Senior Teacher (Biology) –&nbsp;**Mr Azman Bin Hussin**
 Teacher –&nbsp;**Ms Chew Kit Har**  
 Teacher -&nbsp; **Mr Chia Yong Koon**  
 Teacher –&nbsp;**Mdm Khairunnisa Bte Yahya**  
-Teacher –&nbsp;**Ms Ho Hwee Bin**  
 Teacher –&nbsp;**Mr Js Sasikumar**  
 Teacher –&nbsp;**Mr Lim Kim Huat**  
-Teacher -&nbsp;**Mdm Ong Qiulin**  
 Teacher -&nbsp;**Mr Soh Yijie**  
 Teacher -&nbsp;**Mr Lucas Tang An Sheng**  
 Teacher –&nbsp;**Dr Wong De Wei Shawn**  
-Teacher –&nbsp;**Mr Eric Loh Tian Hon**  
 STEM Instructor (Laboratory) –&nbsp;**Ms Lee Boy San**  
 STEM Instructor (Laboratory) –&nbsp;**Mdm Roslne Binte Karsani**  
 STEM Instructor (Laboratory) –&nbsp;**Mr Thomas Ang Juay Theng**
