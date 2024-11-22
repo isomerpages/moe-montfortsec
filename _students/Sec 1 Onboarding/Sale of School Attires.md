@@ -19,7 +19,7 @@ Parents/Guardians are strongly encouraged to purchase the PE attire, school unif
 * Opening Hours for December: 12 pm to 6 pm (DAILY)
 
 
-The Supplier, Shirley Season Wear will also be in school as follows:
+The Supplier, Shirley Season Wear, will also be in school as follows:
 
 | Dates of Sales| Timings| Venue |
 | -------- | -------- | -------- |
