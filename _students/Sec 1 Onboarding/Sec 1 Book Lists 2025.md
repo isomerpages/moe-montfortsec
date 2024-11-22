@@ -18,7 +18,7 @@ The following are the Booklist for 2025 Sec 1:
 
 Parents are encouraged to purchase textbooks and stationery online with details as follows:. 
 
-* Link: https://dyeducation.net
+* Link: [https://dyeducation.net](https://dyeducation.net)
 * Click on ‘Montfort Secondary’
 * Password: 668888
 
