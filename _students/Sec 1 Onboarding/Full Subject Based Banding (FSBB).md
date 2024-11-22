@@ -9,7 +9,7 @@ third_nav_title: Sec 1 Onboarding
 
 Students may be offered to take subjects (English Language, Mathematics, Mother Tongue Language and Science) at a more demanding level, if they meet the SBB eligibility criteria.
 
-A letter will be sent to parents via Parent Gateway (PG) on 21 December 2024. 
+A letter will be sent to parents via Parent Gateway (PG) by 21 December 2024. 
 Parents can accept the offer by giving consent via Parents Gateway.
 
 Parents and students of the 2025 S1 cohort can also go to the following websites for more information on **Full SBB:**
