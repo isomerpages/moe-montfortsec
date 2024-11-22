@@ -8,7 +8,7 @@ variant: markdown
 ##### Dear Parents/ Guardians, 
 
 1.  We warmly welcome your son/ward and you to the Montfortian family!
-2. More information on Sec 1 Orientation will be shared with you via Parent Gateway (PG) on 27 December 2024.
+2. More information on Sec 1 Orientation will be shared with you via Parent Gateway (PG) by 27 December 2024.
 3. More information on CCA experiences will be briefed to your son/ward on Friday,  3 January 2025.
 4. Please feel free to contact the following personnel in the table below should you have queries about Secondary One matters, Orientation matters or CCA matters.
 
