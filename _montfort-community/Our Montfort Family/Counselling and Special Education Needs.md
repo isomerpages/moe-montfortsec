@@ -11,12 +11,6 @@ variant: markdown
 Tel: 6883 6919    
 Email: [selvarani\_kunasela@moe.edu.sg](mailto:selvarani_kunasela@moe.edu.sg)
 
-**Mr Clifford Lam Jun Ting, School Counsellor**    
-Tel: 6883 6919    
-Email: [clifford\_lam\_jun\_ting@moe.edu.sg](mailto:clifford_lam_jun_ding@moe.edu.sg)
-
- 
-
 **Mdm June Yeo Swee Lin, Senior Special Education Needs Officer (SENO)**    
 Tel: 6510 7073    
  Email: [june\_yeo@moe.edu.sg](mailto:june_yeo@moe.edu.sg)
