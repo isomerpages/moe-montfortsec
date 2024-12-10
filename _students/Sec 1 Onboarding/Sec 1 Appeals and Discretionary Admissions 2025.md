@@ -1,5 +1,5 @@
 ---
-title: Sec 1 Appeals and Discretionary Admissions 2024
+title: Sec 1 Appeals and Discretionary Admissions 2025
 permalink: /students/sec-1-onboarding/sec1-appeals/
 description: ""
 third_nav_title: Sec 1 Onboarding
@@ -18,5 +18,3 @@ variant: markdown
 * Complete the transfer request form which is obtainable from Montfort Secondary School General Office.
 * Attach a valid medical letter and relevant supporting document to the form.
 * MOE will call parents to inform them on the outcome of appeal.
-	
-	

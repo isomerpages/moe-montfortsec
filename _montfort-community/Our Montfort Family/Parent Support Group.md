@@ -15,7 +15,7 @@ variant: markdown
 ### Our Team
 
 **PSG School Liaison Team**   
-Teacher Coordinator / IC - Ms. Judeana Woon    
+Teacher Coordinator / IC - Ms. Sim Siew Ngoh  
 School Counsellor / PSG Liaison - Ms. Silver SK   
 
   
