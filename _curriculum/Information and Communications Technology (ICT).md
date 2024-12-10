@@ -29,5 +29,5 @@ A: Go to this [link](https://mims.moe.gov.sg)&nbsp;
 **Q) Who do I look for if I have forgotten the password to the accounts mentioned above?**
 
 A: Please approach the Desktop Engineer (DE) at&nbsp;   
-&nbsp; &nbsp; Blk C, Level 1, Computer Lab ICT office   
-&nbsp; &nbsp; Blk C, Level 2, Computer Lab ICT office
+&nbsp; &nbsp; Blk C, Level 1, Computer Lab ICT Office 1   
+&nbsp; &nbsp; Blk C, Level 2, Computer Lab ICT Office 2
