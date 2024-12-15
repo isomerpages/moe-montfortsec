@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong><u>SEC 1 REGISTRATION</u></strong>
 </p>
-<p><strong><em>Please refer to&nbsp;[2025 Sec 1 Registration Brief]&nbsp;for administration information.</em></strong>
+<p><strong><em>Please refer to&nbsp;[<a href="/files/2025_Sec1_Registration_Brief_Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Registration Brief</a>]&nbsp;for administration information.</em></strong>
 </p>
 <p><strong>Parents/Guardians of our Secondary 1 Montfortians, please check your MOE Parents Gateway (PG) daily for latest updates.</strong>
 </p>
