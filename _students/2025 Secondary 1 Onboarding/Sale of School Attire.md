@@ -7,7 +7,7 @@ variant: markdown
 ---
 ##### <u>SALE OF PE ATTIRE, SCHOOL UNIFORM, NAME TAG, APRON, SCHOOL SOCKS AND SHOES BY SHIRLEY SEASON WEAR</u>
 
-##### ***Note: Students may wear Alternative Uniform on Thursday and Friday. These uniforms can only be bought from the school bookshop .***
+##### ***Note: Students may wear Alternative uniform on Thursdays and Fridays. These uniforms can only be bought from the school bookshop .***
 
 Parents/Guardians are strongly encouraged to purchase the PE attire, school uniform, name tag, apron, school socks and white shoes online at:
 * Link			: [http://www.shirleyuni.com ](http://www.shirleyuni.com )
