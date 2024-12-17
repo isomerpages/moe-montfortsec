@@ -53,7 +53,7 @@ details as follows:</p>
 refer to the booklist for the school bookshop opening dates.</p>
 <p><strong><u>Alternative Uniform</u></strong>
 </p>
-<p>The bookshop sells our alternative uniform that students may wear on Thursdays
+<p>The bookshop sells our Alternative uniform that students may wear on Thursdays
 and Fridays. Alternative uniform is not compulsory.</p>
 <p><strong><em>Note: Alternative uniform is <u>not</u> available at Shirley Season Wear, school uniform supplier.</em></strong>
 </p>
