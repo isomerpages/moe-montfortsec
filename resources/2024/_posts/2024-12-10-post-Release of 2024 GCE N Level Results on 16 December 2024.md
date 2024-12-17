@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Updated on 16 December 2024</p>
+<h4><strong>Congratulations to all on your ‘N’ Level Results. The<a href="https://www.montfortsec.moe.edu.sg/files/Briefing_slides_for_N_Level_Results_Release__students____Final.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;briefing slides</a> are here for your reference.</strong></h4>
+<hr>
 <p>The N-Level Examination Results will be released on Monday, 16 December
 2024, 2pm. Students are to return to school to receive their results. Please
 take note of the following:</p>
