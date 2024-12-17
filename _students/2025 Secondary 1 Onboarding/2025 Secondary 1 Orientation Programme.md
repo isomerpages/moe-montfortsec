@@ -14,4 +14,4 @@ variant: markdown
 
 | Secondary 1 Year Head |  | Head of Department / Physical Education, Co-Curricular Activities |
 | -------- | -------- | -------- |
-| Ms Su Huimin (su_huimin@schools.gov.sg)| | Mr Faizan Muhamad Nor (faizan_muhamad_nor@moe.edu.sg)
+| Ms Su Huimin (su_huimin@moe.edu.sg)| | Mr Faizan Muhamad Nor (faizan_muhamad_nor@moe.edu.sg)
