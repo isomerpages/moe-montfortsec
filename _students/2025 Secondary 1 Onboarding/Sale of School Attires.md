@@ -2,7 +2,7 @@
 title: Sale of School Attires
 permalink: /students/sec-1-onboarding/sale-of-school-attires/
 description: ""
-third_nav_title: Sec 1 Onboarding
+third_nav_title: 2025 Secondary 1 Onboarding
 variant: markdown
 ---
 ##### <u>SALE OF PE ATTIRE, SCHOOL UNIFORM, NAME TAG, APRON, SCHOOL SOCKS AND SHOES BY SHIRLEY SEASON WEAR</u>

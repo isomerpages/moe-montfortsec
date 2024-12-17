@@ -3,7 +3,7 @@ title: Full Subject Based Banding (FSBB)
 permalink: /students/sec-1-onboarding/fsbb/
 variant: markdown
 description: ""
-third_nav_title: Sec 1 Onboarding
+third_nav_title: 2025 Secondary 1 Onboarding
 ---
 ##### **STUDENTS OFFERED SUBJECTS AT A MORE DEMANDING LEVEL (SUBJECT BASED BANDING (SBB))**
 

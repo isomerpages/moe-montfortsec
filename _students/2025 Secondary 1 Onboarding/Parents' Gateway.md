@@ -2,7 +2,7 @@
 title: Parents' Gateway
 permalink: /students/Sec-1-Onboarding/parents-gateway/
 description: ""
-third_nav_title: Sec 1 Onboarding
+third_nav_title: 2025 Secondary 1 Onboarding
 variant: markdown
 ---
 ##### <u>COMMUNICATION BETWEEN SCHOOL AND PARENTS/GUARDIANS</u>

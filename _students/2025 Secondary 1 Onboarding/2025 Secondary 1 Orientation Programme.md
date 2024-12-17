@@ -1,8 +1,8 @@
 ---
-title: Sec 1 Orientation Programme 2025
+title: 2025 Secondary 1 Orientation Programme
 permalink: /students/sec-1-onboarding/sec-1-orientation-programme-2022/
 description: ""
-third_nav_title: Sec 1 Onboarding
+third_nav_title: 2025 Secondary 1 Onboarding
 variant: markdown
 ---
 ##### Dear Parents/ Guardians, 

@@ -2,7 +2,7 @@
 title: 2025 Secondary 1 Appeals and Discretionary Admissions
 permalink: /students/sec-1-onboarding/sec1-appeals/
 description: ""
-third_nav_title: Sec 1 Onboarding
+third_nav_title: 2025 Secondary 1 Onboarding
 variant: markdown
 ---
 ##### **<u> APPEALS AND DISCRETIONARY ADMISSIONS</u>**

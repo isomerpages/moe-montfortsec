@@ -1,5 +1,5 @@
 ---
-title: Secondary 1 Posting and Onboarding 2025
+title: 2025 Secondary 1 Posting and Onboarding
 date: 2024-12-17
 layout: link
 description: ""
