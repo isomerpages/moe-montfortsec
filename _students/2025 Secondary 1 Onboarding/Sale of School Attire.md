@@ -21,6 +21,6 @@ Parents/Guardians are strongly encouraged to purchase the PE attire, school unif
 
 The Supplier, Shirley Season Wear, will also be in school as follows:
 
-| Dates of Sales| Timings| Venue |
+| Date of Sales| Time| Venue |
 | -------- | -------- | -------- |
 | Friday, 3 January 2025    | 10 am to 2 pm  | Canteen|
