@@ -22,4 +22,4 @@ If you have questions regarding Subject-Based Banding (SBB), you may send in you
 
 | Ms Su Huimin  | Ms Norazidah |
 | -------- | -------- |
-| su_huimin@schools.gov.sg   | norazidah_abdol_aziz@schools.gov.sg|
+| su_huimin@moe.edu.sg   | norazidah_abdol_aziz@moe.edu.sg|

@@ -8,7 +8,7 @@ variant: tiptap
 <h5><u>SALE OF TEXTBOOKS, STATIONERY &amp; ALTERNATIVE UNIFORM BY THE SCHOOL BOOKSHOP</u></h5>
 <p><strong><u>Textbooks and Stationery (from Booklist)</u></strong>
 </p>
-<p>The following are the Booklist for 2025 Sec 1:</p>
+<p>The following are the Booklists for 2025 Secondary 1:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>[Sec 1 G3 Booklist<a href="/files/Sec_1_G3_Booklist_and_Stationery_list.pdf" rel="noopener nofollow" target="_blank"> file</a>]</p>
@@ -24,14 +24,14 @@ variant: tiptap
 <p><strong>Students offered subjects at a more demanding level (SBB) are reminded to purchase the relevant books.</strong>
 </p>
 <p>Parents are encouraged to purchase textbooks and stationery online with
-details as follows:.</p>
+details as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Link: <a href="https://dyeducation.net" rel="noopener noreferrer nofollow" target="_blank">https://dyeducation.net</a>
 </p>
 </li>
 <li>
-<p>Click on ‘Montfort Secondary’</p>
+<p>Click on ‘Montfort Secondary’.</p>
 </li>
 <li>
 <p>Password: 668888</p>
@@ -41,7 +41,7 @@ details as follows:.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Home delivery Service (fee applicable)&nbsp; [<strong>Recommended</strong>]</p>
+<p>Home Delivery Service (fee applicable)&nbsp; [<strong>Recommended</strong>]</p>
 </li>
 <li>
 <p>Self-collection at the school’s bookstore</p>
@@ -49,11 +49,11 @@ details as follows:.</p>
 </ul>
 <p><strong>The supplier will get in touch with you on the delivery date or self-collection date.</strong>
 </p>
-<p>The books are also on sales in our school. For December holidays, please
-refer to the booklist for the school bookshop opening dates and time.</p>
-<p><strong><u>Alternative Uniforms</u></strong>
+<p>The books are also on sale in our school. For December holidays, please
+refer to the booklist for the school bookshop opening dates.</p>
+<p><strong><u>Alternative Uniform</u></strong>
 </p>
-<p>The bookshop sells our Alternative Uniform that students may wear on Thursday
-and Friday. Alternative uniform is not compulsory.</p>
+<p>The bookshop sells our Alternative uniform that students may wear on Thursdays
+and Fridays. Alternative uniform is not compulsory.</p>
 <p><strong><em>Note: Alternative uniform is <u>not</u> available at Shirley Season Wear, school uniform supplier.</em></strong>
 </p>
