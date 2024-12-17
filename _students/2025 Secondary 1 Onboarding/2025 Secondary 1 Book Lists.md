@@ -41,7 +41,7 @@ details as follows:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Home delivery Service (fee applicable)&nbsp; [<strong>Recommended</strong>]</p>
+<p>Home Delivery Service (fee applicable)&nbsp; [<strong>Recommended</strong>]</p>
 </li>
 <li>
 <p>Self-collection at the school’s bookstore</p>
@@ -50,7 +50,7 @@ details as follows:</p>
 <p><strong>The supplier will get in touch with you on the delivery date or self-collection date.</strong>
 </p>
 <p>The books are also on sale in our school. For December holidays, please
-refer to the booklist for the school bookshop opening dates and times.</p>
+refer to the booklist for the school bookshop opening dates.</p>
 <p><strong><u>Alternative Uniform</u></strong>
 </p>
 <p>The bookshop sells our alternative uniform that students may wear on Thursdays
