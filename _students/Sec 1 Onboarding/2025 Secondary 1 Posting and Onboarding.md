@@ -25,6 +25,6 @@ installation guide)</p>
 <p>please contact the school at 6510 7070.</p>
 </li>
 </ul>
-<p>If your son/ward is unable to report to school on 2nd January 2025 due
-to valid reasons, please contact the school after receiving his posting
-results to confirm his placement in the school.</p>
+<p>If your son/ward is unable to report to school on 2 January 2025 due to
+valid reasons, please contact the school after receiving his posting results
+to confirm his placement in the school.</p>
