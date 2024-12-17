@@ -2,8 +2,6 @@ collections:
   students:
     output: true
     order:
-      - GCE ‘N’ Level Results Release.md
-      - School Rules.md
       - Sec 1 Onboarding/.keep
       - Sec 1 Onboarding/Sec 1 Registration 2025.md
       - Sec 1 Onboarding/Sec 1 Appeals and Discretionary Admissions 2025.md
@@ -13,4 +11,6 @@ collections:
       - Sec 1 Onboarding/Full Subject Based Banding (FSBB).md
       - Sec 1 Onboarding/Parents' Gateway.md
       - Sec 1 Onboarding/Parent Support Group (PSG).md
+      - GCE ‘N’ Level Results Release.md
       - ICT Matters.md
+      - School Rules.md
