@@ -30,10 +30,9 @@ Institutions and the Catholic Archdiocese of Singapore.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <p>Standing at 108 years old, our school is a testimony of God’s faithfulness
-through the generations. Through the years, we have been and continue to
-be anchored on our school values of Compassion, Humility, Respect, Integrity,
-Service, Team Spirit &amp; Excellence. Together, these values spell CHRISTE
-which represents our faith in God and Christ.</p>
+through the generations. We are anchored on our school values of Compassion,
+Humility, Respect, Integrity, Service, Team Spirit &amp; Excellence. Together,
+these values spell CHRISTE which represents our faith in God and Christ.</p>
 <p>Together with our School Management Committee, alumni, parents and staff
 we continue to be steadfast to our commitment by enriching the lives of
 our Montfortians and preparing them for the future through the rich curriculuar
@@ -42,5 +41,5 @@ motto “Age Quod Agis” which means “Do Well In Whatever You Do” serves to
 inspire our boys to be a living testimony to live a life worthy of their
 calling, and to be a blessing to those around them and the world.
 <br>
-<br><strong>Janice Lim<br>Principal</strong>
+<br><strong>Janice Lim (Mrs.)<br>Principal</strong>
 </p>
