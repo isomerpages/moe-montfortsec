@@ -1,5 +1,5 @@
 ---
-title: 2025 Book and Stationary Lists
+title: 2025 Book and Stationery Lists
 date: 2024-12-18
 layout: link
 description: ""
