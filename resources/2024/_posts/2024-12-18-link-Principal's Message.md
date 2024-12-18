@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.montfortsec.moe.edu.sg/montfort-community/The-Montfort-Story/principals-message/
+external: https://www.montfortsec.moe.edu.sg/montfort-community/The-Montfort-Story/principals-message/
 ---

@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.montfortsec.moe.edu.sg/parents/book-list/
+external: https://www.montfortsec.moe.edu.sg/parents/book-list/
 ---
