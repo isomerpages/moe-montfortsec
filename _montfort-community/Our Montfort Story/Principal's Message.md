@@ -34,7 +34,7 @@ through the generations. We are anchored on our school values of Compassion,
 Humility, Respect, Integrity, Service, Team Spirit &amp; Excellence. Together,
 these values spell CHRISTE which represents our faith in God and Christ.</p>
 <p>Together with our School Management Committee, alumni, parents and staff
-we continue to be steadfast to our commitment by enriching the lives of
+we continue to be steadfast to our commitment of enriching the lives of
 our Montfortians and preparing them for the future through the rich curriculuar
 and co-curricular experiences and the varied learning spaces. Our school
 motto “Age Quod Agis” which means “Do Well In Whatever You Do” serves to
