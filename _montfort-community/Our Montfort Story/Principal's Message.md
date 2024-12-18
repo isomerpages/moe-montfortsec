@@ -13,11 +13,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_17_at_13_40_21.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Warmest Greetings and welcome to Montfort Secondary School!</p>
 <p></p>
 <p>Since 1916, Montfort Secondary School has heeded the call to nurture each
@@ -25,6 +20,12 @@ Montfortian to realise his potential and inspire him to be a Man for Others
 – Scholar, Sportsman, Gentleman, Leader. We share the same mission as Montfort
 Junior School and are an integral part of the Montfortian Gabrielite Education
 Institutions and the Catholic Archdiocese of Singapore.&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_17_at_13_40_21.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 </tbody>
