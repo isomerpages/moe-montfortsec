@@ -5,10 +5,13 @@ description: ""
 third_nav_title: Our Montfort Family
 variant: tiptap
 ---
-<p><strong><em>Updating in Progress</em></strong>
-</p>
 <p></p>
-<p><strong>Mrs Janice Lim </strong>(Principal)
-<br><strong>Mr Wilson Tay </strong>(Vice-Principal)
-<br><strong>Mrs Audrey Wong </strong>(Vice-Principal)
-<br><strong>Ms Tan Lay Yen</strong> (Vice-Principal Administration)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MSS_SLs_2024.jpg">
+</div>
+<p>(<em>From left to right) </em><strong>Ms Tan Lay Yen</strong> (Vice-Principal
+Administration), <strong>Mrs Janice Lim </strong>(Principal), <strong>Mrs Audrey Wong </strong>(Vice-Principal), <strong>Mr Wilson Tay </strong>(Vice-Principal)
+<br>
+<br>
+</p>
