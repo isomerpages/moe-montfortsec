@@ -18,22 +18,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/smc1.jpeg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/smc1.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/smc2.jpeg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/smc2.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/smc3.jpeg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/smc3.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/smc4.jpeg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/smc4.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,17 +73,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/smc6.jpeg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/smc6.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/smc7.jpeg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/smc7.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/smc9.jpeg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/smc9.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,12 +128,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/smc12.jpeg">
+<img style="width: 85%;" height="auto" width="100%" src="/images/smc12.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_17_at_13_40_21.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Janice_Lim_Webpage.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
