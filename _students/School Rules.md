@@ -36,6 +36,7 @@ are also not allowed to bring any weapon-like item which is intended to
 be used to cause harm to others.</p>
 <p></p>
 <p><strong>School Start Time: </strong>Monday to Friday – 8.00 am</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are advised to <u>be in school by 7.45 am daily.</u>
