@@ -35,7 +35,11 @@ over the heart.</p>
 are also not allowed to bring any weapon-like item which is intended to
 be used to cause harm to others.</p>
 <p>Furthermore, our students need to show that they are:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
