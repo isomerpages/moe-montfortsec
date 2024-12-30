@@ -34,7 +34,26 @@ over the heart.</p>
 <p>Students are not allowed to have in their possession any weapon. They
 are also not allowed to bring any weapon-like item which is intended to
 be used to cause harm to others.</p>
-<p>Furthermore, our students need to show that they are:</p>
+<p></p>
+<p><strong>School Start Time:</strong>
+</p>
+<p><strong>Monday to Friday – 8.00 am</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are advised to <u>be in school by 7.45 am daily.</u>
+</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who are <strong>not present with their form classes</strong> at
+the flag-raising ceremony will be considered as late or absent.</p>
+<p></p>
+</li>
+</ul>
+<p>Our students need to be:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -156,5 +175,6 @@ one week before it can be collected by the student’s parent/ guardian.</p>
 Consequences will be meted out for acts of defiance.&nbsp;</p>
 </li>
 </ol>
-<p>For more information, please download the school rules <a href="/files/Document_2_Montfort_Secondary_School_Rules.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For more information, please download the school rules <a href="/files/School_Rules_Updated_2025.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p>&nbsp;</p>
