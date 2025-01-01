@@ -30,7 +30,7 @@ Institutions and the Catholic Archdiocese of Singapore.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>Standing at 108 years old, our school is a testimony of God’s faithfulness
+<p>Standing at 109 years old, our school is a testimony of God’s faithfulness
 through the generations. We are anchored on our school values of Compassion,
 Humility, Respect, Integrity, Service, Team Spirit &amp; Excellence. Together,
 these values spell CHRISTE which represents our faith in God and Christ.</p>
