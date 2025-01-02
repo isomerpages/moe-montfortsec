@@ -13,6 +13,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +114,7 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Su Huimin                       </strong>(<a href="mailto:su_huimin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_huimin@moe.edu.sg</a>)</p>
+<p><strong>Ms Su Huimin </strong>(<a href="mailto:su_huimin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_huimin@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
