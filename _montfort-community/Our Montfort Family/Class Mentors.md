@@ -35,13 +35,11 @@ variant: tiptap
 <p>Ms Tey Ser Ling
 <br><a href="mailto:tey_ser_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey_ser_ling@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Lanting
 <br><a href="mailto:li_lanting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_lanting@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -198,10 +196,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h3>Secondary 2</h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -366,7 +360,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3></h3>
 <h3>Secondary 3</h3>
 <table style="minWidth: 75px">
 <colgroup>
