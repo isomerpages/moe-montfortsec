@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ ICT - <strong>Mr Tang Chee Hung (</strong><a href="mailto:chee_hung_tang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_hung_tang@moe.edu.sg</a>)</p>
+<p>HOD/ ICT - <strong>Mr Tang Chee Hung </strong>(<a href="mailto:chee_hung_tang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_hung_tang@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ Aesthetics, Craft and Technology - <strong>Mr Tan Hock An (</strong>
+<p>HOD/ Aesthetics, Craft and Technology - <strong>Mr Tan Hock An </strong>(
 <a href="mailto:tan_hock_ann@moe.edu" rel="noopener noreferrer nofollow" target="_blank">tan_hock_ann@moe.edu.sg</a>)</p>
 </td>
 </tr>
@@ -143,27 +143,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ Science (Biology) – <strong>Mr Azman Bin Hussin </strong>(azman_hussin@moe.edu.sg)</p>
+<p>Senior Teacher/ Science (Biology) – <strong>Mr Azman Bin Hussin </strong>(
+<a href="mailto:azman_hussin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azman_hussin@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ Character and Citizenship Education – <strong>Ms Ng Wei Ying </strong>(ng_wei_ying_a@moe.edu.sg)</p>
+<p>Senior Teacher/ Character and Citizenship Education – <strong>Ms Ng Wei Ying </strong>(
+<a href="mailto:ng_wei_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_ying_a@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ History – <strong>Mrs Punitha Ramesh</strong> (punitha_haridas@moe.edu.sg)</p>
+<p>Senior Teacher/ History – <strong>Mrs Punitha Ramesh</strong> (<a href="mailto:punitha_haridas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punitha_haridas@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ Social Studies – <strong>Ms Jamie Low Guan Lin</strong> (low_guan_lin@moe.edu.sg)</p>
+<p>Senior Teacher/ Social Studies – <strong>Ms Jamie Low Guan Lin</strong> (
+<a href="mailto:low_guan_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_guan_lin@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ Music – <strong>Ms Eunice Chua Jing Lin</strong> (chua_jing_lin_eunice@moe.edu.sg)</p>
+<p>Senior Teacher/ Music – <strong>Ms Eunice Chua Jing Lin</strong> (<a href="mailto:chua_jing_lin_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_lin_eunice@moe.edu.sg</a>)</p>
 </td>
 </tr>
 </tbody>
