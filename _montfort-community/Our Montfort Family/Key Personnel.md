@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ Aesthetics, Craft and Technology - <strong>Mr Tan Hock An </strong>(
+<p>HOD/ Aesthetics, Craft and Technology - <strong>Mr Tan Hock Ann </strong>(
 <a href="mailto:tan_hock_ann@moe.edu" rel="noopener noreferrer nofollow" target="_blank">tan_hock_ann@moe.edu.sg</a>)</p>
 </td>
 </tr>
