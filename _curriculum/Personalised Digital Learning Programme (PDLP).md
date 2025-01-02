@@ -2,148 +2,193 @@
 title: Personalised Digital Learning Programme (PDLP)
 permalink: /curriculum/Subject-Combination/pdlp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Overview
-
-MOE’s National Digital Literacy Programme (NDLP) was launched in March 2020 to strengthen their digital&nbsp;literacy and&nbsp;acquire digital skills&nbsp;needed to navigate an increasingly&nbsp;digitalised&nbsp;world.
-
-Under the NDLP, every secondary school student will&nbsp;own a school-prescribed&nbsp;Personal Learning Device (PLD). Students may use funds from their Edusave&nbsp;Account&nbsp;to pay for the PLD.&nbsp;
-
-### Digital Competencies
-
-Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the&nbsp;**‘Find, Think, Apply and Create’**&nbsp;framework.
-
-Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework is further unpacked into 9 digital competencies to support deepening of digital literacy in schools.
-![](/images/9_digital_competencies.png)
-
-### Intended Outcomes of the PLD Initiative
-
-The use of the PLD for teaching and learning aims to:
-![](/images/PDLP_Outcome.png)
-### Responsible Usage of PLDs
-
-
-The school has in place to enable a safer digital environment for&nbsp;learning with the use of PLDs. The role of the parent is also key in partnering the school to support your child.
-
-**A. Educating students on Cyber Wellness**
-
-MOE has made significant changes to the Character and Citizenship Education&nbsp;(CCE) curriculum. Cyber Wellness lessons will feature significantly in these&nbsp;lessons.
-
-The broad topics covered in Cyber Wellness are:&nbsp;
-
-*   Cyber Use
-*   Cyber Identity
-*   Cyber Relationships
-*   Cyber Citizenship
-*   Cyber Ethics
-
-
-**B. Device Management Application**&nbsp;
-
-Device management application (DMA) software will be installed on your child’s device to&nbsp;provide a safer digital&nbsp;environment for learning, and to prevent misuse of the device.
-
-The DMA will be&nbsp;**funded by MOE**&nbsp;and will be&nbsp;**uninstalled from the device when the child graduates/ leaves the school.**&nbsp;
-
-
-**C. Acceptable Use Policy (AUP)**
-
-Parents could refer to the AUP when helping to manage his/her child’s use of the PLD. The AUP will help your child to&nbsp;**understand the expectations**&nbsp;of device use to&nbsp;**enable a conducive learning environment**.&nbsp;
-It also&nbsp;**outlines**&nbsp;the&nbsp;**consequences**&nbsp;for violating the policy.&nbsp;
-Parents can refer to the student’s handbook for the&nbsp; AUP in school.
-
-
-### Device Information
-![](/images/laptop_3.png)
-
-
-### Funding Information
-
-**The cost of the device bundle can be paid using your child’s Edusave account**, after setting aside provision for payment of second-tier miscellaneous fees.
-
-To ensure the affordability of devices, MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students.
-
-For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0.&nbsp;
-
-![](/images/finance_1.png)
-
-For more details on financial assistance, please approach the school.&nbsp;
-
-
-### What's Next?
-
-**For Singapore Citizen**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<h3>Overview</h3>
+<p>MOE’s National Digital Literacy Programme (NDLP) was launched in March
+2020 to strengthen their digital&nbsp;literacy and&nbsp;acquire digital
+skills&nbsp;needed to navigate an increasingly&nbsp;digitalised&nbsp;world.</p>
+<p>Under the NDLP, every secondary school student will&nbsp;own a school-prescribed&nbsp;Personal
+Learning Device (PLD). Students may use funds from their Edusave&nbsp;Account&nbsp;to
+pay for the PLD.&nbsp;</p>
+<h3>Digital Competencies</h3>
+<p>Digital Literacies better enable our students, at different stages of
+their education journey, to acquire the digital skills required to navigate
+the digital age through four mutually reinforcing components in the&nbsp;<strong>‘Find, Think, Apply and Create’</strong>&nbsp;framework.</p>
+<p>Under the EdTech Masterplan 2030, the “Find, Think, Apply, Create” framework
+is further unpacked into 9 digital competencies to support deepening of
+digital literacy in schools.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_digital_competencies.png">
+</div>
+<h3>Intended Outcomes of the PLD Initiative</h3>
+<p>The use of the PLD for teaching and learning aims to:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP_Outcome.png">
+</div>
+<h3>Responsible Usage of PLDs</h3>
+<p>The school has in place to enable a safer digital environment for&nbsp;learning
+with the use of PLDs. The role of the parent is also key in partnering
+the school to support your child.</p>
+<p><strong>A. Educating students on Cyber Wellness</strong>
+</p>
+<p>MOE has made significant changes to the Character and Citizenship Education&nbsp;(CCE)
+curriculum. Cyber Wellness lessons will feature significantly in these&nbsp;lessons.</p>
+<p>The broad topics covered in Cyber Wellness are:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cyber Use</p>
+</li>
+<li>
+<p>Cyber Identity</p>
+</li>
+<li>
+<p>Cyber Relationships</p>
+</li>
+<li>
+<p>Cyber Citizenship</p>
+</li>
+<li>
+<p>Cyber Ethics</p>
+</li>
+</ul>
+<p><strong>B. Device Management Application</strong>&nbsp;</p>
+<p>Device management application (DMA) software will be installed on your
+child’s device to&nbsp;provide a safer digital&nbsp;environment for learning,
+and to prevent misuse of the device.</p>
+<p>The DMA will be&nbsp;<strong>funded by MOE</strong>&nbsp;and will be&nbsp;<strong>uninstalled from the device when the child graduates/ leaves the school.</strong>&nbsp;</p>
+<p><strong>C. Acceptable Use Policy (AUP)</strong>
+</p>
+<p>Parents could refer to the AUP when helping to manage his/her child’s
+use of the PLD. The AUP will help your child to&nbsp;<strong>understand the expectations</strong>&nbsp;of
+device use to&nbsp;<strong>enable a conducive learning environment</strong>.&nbsp;
+It also&nbsp;<strong>outlines</strong>&nbsp;the&nbsp;<strong>consequences</strong>&nbsp;for
+violating the policy.&nbsp; Parents can refer to the student’s handbook
+for the&nbsp; AUP in school.</p>
+<h3>Device Information</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/laptop_3.png">
+</div>
+<h3>Funding Information</h3>
+<p><strong>The cost of the device bundle can be paid using your child’s Edusave account</strong>,
+after setting aside provision for payment of second-tier miscellaneous
+fees.</p>
+<p>To ensure the affordability of devices, MOE has provided Edusave top-ups
+of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students
+in primary and secondary schools. This is on top of the annual Edusave
+contribution of $290 for secondary school students and $230 for primary
+school students.</p>
+<p>For students on MOE-FAS, subsidies are available even if there is insufficient
+Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/finance_1.png">
+</div>
+<p>For more details on financial assistance, please approach the school.&nbsp;</p>
+<h3>What's Next?</h3>
+<p><strong>For Singapore Citizen</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Time Frame</span></td>
-    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Activity</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 5 Jan 2024</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">20 March 2024</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time Frame</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 5 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parental Consent for purchase</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 March 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collection of Device</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**For Permanent Residents (PR) / International Students (IS)**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<p><strong>For Permanent Residents (PR) / International Students (IS)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Time Frame</span></td>
-    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Activity</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 Jan 2024</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Parental Consent for purchase</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">6 Mar 2024</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For Payment via GIRO</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">By 17 Mar 2024</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">For cash paying students, payment to be made via AXS kiosks, AXS e-station (online at</span> <a href="http://www.axs.com.sg/"><span style="text-decoration:none;color:#BD3527"></span></a><a href="www.axs.com.sg">www.axs.com.sg</a><span style="color:#222;background-color:#EAEAEA">) or AXS m-station (mobile app) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">20 Mar 2024</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Collection of Device </span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time Frame</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parental Consent for purchase</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Mar 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Payment via GIRO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 17 Mar 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For cash paying students, payment to be made via AXS kiosks, AXS e-station
+(online at <a href="www.axs.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.axs.com.sg</a>)
+or AXS m-station (mobile app)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Mar 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collection of Device</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-## Additional Information
-### Acer Service Centre Contact Details
-
-If the PLD is malfunctioning and requires repairs, please notify the Class Mentors and then contact Acer for professional assistance. Click&nbsp;[here](https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view)&nbsp;for the device contractor (Acer)'s information.
-### Lost of PLD
-![](/images/lostpld.png)
-
-### Parent Handbooks on 1-to-1 Learning
-*   [Parent Handbook I](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
-
-*  [Parent Handbook II](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
+<h2>Additional Information</h2>
+<h3>Acer Service Centre Contact Details</h3>
+<p>If the PLD is malfunctioning and requires repairs, please notify the Class
+Mentors and then contact Acer for professional assistance. Click&nbsp;
+<a href="https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the device contractor (Acer)'s information.</p>
+<h3>Lost of PLD</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lostpld.png">
+</div>
+<h3>Parent Handbooks on 1-to-1 Learning</h3>
+<ul>
+<li>
+<p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a>
+</p>
+</li>
+<li>
+<p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
+</p>
+</li>
+</ul>
+<p></p>
