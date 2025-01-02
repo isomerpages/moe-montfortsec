@@ -71,6 +71,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head – <strong>Ms Su Huimin</strong> (<a href="mailto:su_huimin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_huimin@moe.edu.sg</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head – <strong>Ms Norazidah Abdol Aziz </strong>(<a href="mailto:norazidah_abdol_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norazidah_abdol_aziz@moe.edu.sg</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head/ Mathematics - <strong>Ms Cynthia Chua</strong> (<a href="mailto:chua_mui_kiang_cynthia_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_mui_kiang_cynthia_jane@moe.edu.sg</a>)</p>
 </td>
 </tr>
@@ -82,6 +92,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head/ Geography – <strong>Mr Mansoor Abdul Rahman</strong> (<a href="mailto:mansoor_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mansoor_abdul_rahman@moe.edu.sg</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ History – <strong>Mr Heng Wei Chin Wilson</strong> (<a href="mailto:heng_wei_chin_wilson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_wei_chin_wilson@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -99,21 +114,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Subject Head/ Character and Citizenship Education - <strong>Ms Ong Yew Yi Eve</strong> (
 <a href="mailto:ong_yew_yi_eve@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yew_yi_eve@moe.edu.sg</a>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head/ History – <strong>Mr Heng Wei Chin Wilson</strong> (<a href="mailto:heng_wei_chin_wilson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_wei_chin_wilson@moe.edu.sg</a>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head – <strong>Ms Su Huimin</strong> (<a href="mailto:su_huimin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_huimin@moe.edu.sg</a>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head – <strong>Ms Norazidah Abdol Aziz </strong>(<a href="mailto:norazidah_abdol_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norazidah_abdol_aziz@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
