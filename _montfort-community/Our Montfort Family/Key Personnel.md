@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ ICT</p>
+<p>Subject Head/ Information and Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Alvis Mazon Tan </strong>(<a href="mailto:alvis_mazon_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvis_mazon_tan@moe.edu.sg</a>)</p>
