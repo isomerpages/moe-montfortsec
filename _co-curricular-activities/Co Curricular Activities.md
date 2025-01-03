@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/ccas/
 description: ""
 variant: markdown
 ---
-<center><h4>CCA  2024</h4></center>
+<center><h4>CCA  2025</h4></center>
 
 CCAs play an integral role in developing students into an all-rounded individual. The
 students have attended a CCA briefing on Fri, 5 January 2024.
@@ -18,5 +18,5 @@ Mr Caleb Wong, S1 CCA Coordinator by **Tuesday, 16 January 2024**.
 
 <center><img style="width:100%" src="/images/banner_staging.jpg"></center>
 
-<center><h4>CCA Schedule 2024</h4></center>
-Click [here](/files/S1_CCA_Timings_2024_updated_2_Jan_Parents.pdf) for more information on the CCA schedule. 
+<center><h4>CCA Schedule 2025</h4></center>
+Click [here](https://drive.google.com/file/d/1BqvtcoXKjpNTjc0KqM_ap3yTUm-vvtSh/view) for more information on the CCA schedule.
