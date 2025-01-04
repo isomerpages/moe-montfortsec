@@ -67,7 +67,7 @@ violating the policy.&nbsp; Parents can refer to the student’s handbook
 for the&nbsp; AUP in school.</p>
 <h3>Device Information</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/laptop_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="MSS PLD 2025" src="/images/MSS_PLD.png">
 </div>
 <h3>Funding Information</h3>
 <p><strong>The cost of the device bundle can be paid using your child’s Edusave account</strong>,
@@ -81,7 +81,7 @@ school students.</p>
 <p>For students on MOE-FAS, subsidies are available even if there is insufficient
 Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/finance_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Subsidy Eligibility Final" src="/images/Subsidy_Eligibility_2.png">
 </div>
 <p>For more details on financial assistance, please approach the school.&nbsp;</p>
 <h3>What's Next?</h3>
@@ -103,7 +103,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 5 Jan 2024</p>
+<p>By 13 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parental Consent for purchase</p>
@@ -111,7 +111,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 March 2024</p>
+<p>End March (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Collection of Device</p>
@@ -137,7 +137,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jan 2024</p>
+<p>By 13 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parental Consent for purchase</p>
@@ -145,7 +145,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Mar 2024</p>
+<p>6 Feb 2025 (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Payment via GIRO</p>
@@ -153,7 +153,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 17 Mar 2024</p>
+<p>By 6 Feb 2025 (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For cash paying students, payment to be made via AXS kiosks, AXS e-station
@@ -163,7 +163,7 @@ or AXS m-station (mobile app)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Mar 2024</p>
+<p>End March (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Collection of Device</p>
