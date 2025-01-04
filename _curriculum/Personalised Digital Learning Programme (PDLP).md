@@ -176,19 +176,31 @@ or AXS m-station (mobile app)</p>
 <p>If the PLD is malfunctioning and requires repairs, please notify the Class
 Mentors and then contact Acer for professional assistance. Click&nbsp;
 <a href="https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the device contractor (Acer)'s information.</p>
-<h3>Lost of PLD</h3>
+<h3>Loss of PLD</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lostpld.png">
 </div>
-<h3>Parent Handbooks on 1-to-1 Learning</h3>
-<ul>
+<h3>Supporting Resources</h3>
+<p>Parents/guardians play a crucial role in guiding your child/ward to use
+devices responsibly and safely. DMA complements your efforts in supporting
+your child/ward as they navigate the digital space. Here are some resources
+that you can refer to:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a>
-</p>
+<p>Parent Handbooks on 1-to-1 Learning (<a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a> &amp;
+<a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>)</p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
-</p>
+<p>Parent Kit on Raising a Digitally Smart Child (<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
+<p>Bite-size tips and advice via Parentingwith.MOEsg Instagram (<a href="https://go.gov.sg/parentingwithmoesg" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
+<p>Parenting for Wellness Toolbox for Parents (<a href="https://go.gov.sg/pfw-toolbox-for-parents" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
+<p>More resources are available via MOE Cyber Wellness Webpage (<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 </ul>
 <p></p>
