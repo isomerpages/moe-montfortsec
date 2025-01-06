@@ -12,7 +12,7 @@ are to return to school to receive their results. Please take note of the
 following:</p>
 <p>Date: 10 January 2025</p>
 <p>Reporting Time and Venue: 2.25 pm at the School Hall (4E5N students) or
-Computer Lab 2 (4NA students with O-Level subjects)</p>
+Computer Lab 1 (4NA students with O-Level subjects)</p>
 <p>Attire: School Uniform (white shirt and long pants), school shoes and
 proper grooming in accordance with the school rules.&nbsp;</p>
 <p>Students who are unable to collect their results in person can appoint
