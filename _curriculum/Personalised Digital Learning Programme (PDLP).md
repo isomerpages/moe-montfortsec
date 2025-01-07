@@ -187,8 +187,8 @@ your child/ward as they navigate the digital space. Here are some resources
 that you can refer to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parent Handbooks on 1-to-1 Learning (<a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a> &amp;
-<a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>)</p>
+<p>Parent Handbooks on 1-to-1 Learning (<a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a> &amp;
+<a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>)</p>
 </li>
 <li>
 <p>Parent Kit on Raising a Digitally Smart Child (<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Link</a>)</p>
