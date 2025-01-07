@@ -81,7 +81,7 @@ school students.</p>
 <p>For students on MOE-FAS, subsidies are available even if there is insufficient
 Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Subsidy Eligibility Final" src="/images/Subsidy_Eligibility_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subsidy_Eligibility_3.png">
 </div>
 <p>For more details on financial assistance, please approach the school.&nbsp;</p>
 <h3>What's Next?</h3>
