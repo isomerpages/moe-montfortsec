@@ -145,7 +145,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Feb 2025 (Tentative)</p>
+<p>By 6 Mar 2025 (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Payment via GIRO</p>
@@ -153,7 +153,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 6 Feb 2025 (Tentative)</p>
+<p>By 6 Mar 2025 (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For cash paying students, payment to be made via AXS kiosks, AXS e-station
