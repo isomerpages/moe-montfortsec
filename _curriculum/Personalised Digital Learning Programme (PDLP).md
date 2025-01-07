@@ -81,7 +81,7 @@ school students.</p>
 <p>For students on MOE-FAS, subsidies are available even if there is insufficient
 Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Subsidy Eligibility Final" src="/images/Subsidy_Eligibility_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subsidy_Eligibility_3.png">
 </div>
 <p>For more details on financial assistance, please approach the school.&nbsp;</p>
 <h3>What's Next?</h3>
@@ -145,7 +145,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Feb 2025 (Tentative)</p>
+<p>By 6 Mar 2025 (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Payment via GIRO</p>
@@ -153,7 +153,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 6 Feb 2025 (Tentative)</p>
+<p>By 6 Mar 2025 (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For cash paying students, payment to be made via AXS kiosks, AXS e-station
@@ -174,8 +174,8 @@ or AXS m-station (mobile app)</p>
 <h2>Additional Information</h2>
 <h3>Acer Service Centre Contact Details</h3>
 <p>If the PLD is malfunctioning and requires repairs, please notify the Class
-Mentors and then contact Acer for professional assistance. Click&nbsp;
-<a href="https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the device contractor (Acer)'s information.</p>
+Mentors and then contact Acer for professional assistance. Click <a href="https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+the device contractor (Acer)'s information.</p>
 <h3>Loss of PLD</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lostpld.png">
@@ -187,8 +187,8 @@ your child/ward as they navigate the digital space. Here are some resources
 that you can refer to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parent Handbooks on 1-to-1 Learning (<a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a> &amp;
-<a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>)</p>
+<p>Parent Handbooks on 1-to-1 Learning (<a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a> &amp;
+<a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>)</p>
 </li>
 <li>
 <p>Parent Kit on Raising a Digitally Smart Child (<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Link</a>)</p>
