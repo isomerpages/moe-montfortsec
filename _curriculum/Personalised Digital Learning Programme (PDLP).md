@@ -174,8 +174,8 @@ or AXS m-station (mobile app)</p>
 <h2>Additional Information</h2>
 <h3>Acer Service Centre Contact Details</h3>
 <p>If the PLD is malfunctioning and requires repairs, please notify the Class
-Mentors and then contact Acer for professional assistance. Click&nbsp;
-<a href="https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the device contractor (Acer)'s information.</p>
+Mentors and then contact Acer for professional assistance. Click <a href="https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+the device contractor (Acer)'s information.</p>
 <h3>Loss of PLD</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lostpld.png">
