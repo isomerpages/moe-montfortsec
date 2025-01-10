@@ -21,7 +21,7 @@ Take up this challenge! Be a member of the Montfort PSG.&nbsp;
 
 
 
-_Aqe Quod Agis!_
+_Age Quod Agis!_
 
 Ms Sim Siew Ngoh     
 School PSG Coordinator
