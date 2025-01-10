@@ -143,8 +143,8 @@ variant: tiptap
 <p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mansoor Abdul Rahman
-<br><a href="mailto:mansoor_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mansoor_abdul_rahman@moe.edu.sg</a>
+<p>Ms Jamilah Syed Ahamed</p>
+<p><a href="mailto:jamilah_syed_ahamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jamilah_syed_ahamed@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
