@@ -103,7 +103,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 13 Jan 2025</p>
+<p>By 14 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parental Consent for purchase</p>
@@ -137,7 +137,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 13 Jan 2025</p>
+<p>By 14 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parental Consent for purchase</p>
