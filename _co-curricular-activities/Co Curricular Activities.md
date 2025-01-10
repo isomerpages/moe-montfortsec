@@ -19,4 +19,4 @@ Mr Caleb Wong, Subject Head (Acting) PE/CCA by **Thursday, 16 January 2025**.
 <center><img style="width:100%" src="/images/banner_staging.jpg"></center>
 
 <center><h4>CCA Schedule 2025</h4></center>
-Click [here](https://drive.google.com/file/d/1BqvtcoXKjpNTjc0KqM_ap3yTUm-vvtSh/view) for more information on the CCA schedule.
+Click [here](/files/Consolidated_CCA_Timings_2025_updated_9_Jan.pdf)for more information on the CCA schedule.
