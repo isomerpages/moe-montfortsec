@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - 2025 Learning Review Infosheets.md
       - 2025 Secondary 1 Onboarding/.keep
       - 2025 Secondary 1 Onboarding/2025 Secondary 1 Posting and Onboarding.md
       - 2025 Secondary 1 Onboarding/2025 Secondary 1 Appeals and Discretionary
