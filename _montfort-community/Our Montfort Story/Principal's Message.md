@@ -17,8 +17,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_with_transparent_background.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Whitebackground.png">
 </div>
 <p>Warmest Greetings and Welcome to Montfort Secondary School!</p>
 <p>Since 1916, Montfort Secondary School has heeded the call to nurture each
