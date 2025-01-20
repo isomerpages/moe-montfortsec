@@ -1012,7 +1012,7 @@ family. Abstinence and upholding family values are the key messages.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>
-<br>Mass Talk by HPB appointed vendor
+<br>Mass Talk delivered through a pre-recorded video
 <br>
 </p>
 </td>
