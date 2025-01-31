@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Our Montfort Family
 variant: tiptap
 ---
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -44,6 +45,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,6 +69,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Honorary Treasurer</strong>
 <br>Mr Ngan Swee Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -99,6 +106,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -120,6 +130,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Member</strong>
 <br>Mr David Lye Pak Sun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -150,6 +163,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,9 +173,12 @@ variant: tiptap
 <br>Mdm Lim Lei Nore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Principal</strong>
+<p><strong>Honorary Secretary/Principal</strong>
 <br><em>Montfort Secondary</em>
 <br>Mrs Janice Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Principal</strong>
@@ -177,6 +196,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
