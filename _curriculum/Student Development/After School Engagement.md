@@ -3,66 +3,47 @@ title: After School Engagement
 permalink: /curriculum/Student-Development/ase/
 description: ""
 third_nav_title: Student Development
+variant: tiptap
 ---
-
-**BACKGROUND OF ASE PROGRAMME**  
-
-The ASE programme was introduced in Montfort Secondary in 2016 to provide students with developmental opportunities to build Social and Emotional Competencies as well as life skills. The programme is part of the school’s overall effort to build a safe and caring environment for students to interact with their peers and teachers after school such that they may foster strong bonds and positive relationships with one another.  It also helps to develop in students, a greater sense of belonging and connectedness to the school.
-
-A team of personnel, ranging from key personnel, teachers from various departments, student leaders from CCAs and external partners (youth workers, PSG, vendors) collaborate on a regular basis to design and implement meaningful programmes for the students in the ASE programme. The ASE team also monitors students’ attendance and behaviour, provides counselling and coaching to the students and supervises them.
-
-**IDENTIFICATION PROCESS**
-
-Selected students were identified to participate in the ASE programme based on interviews, counselling data and inputs from teachers. These are “latchkey” kids who exhibit low-risk emotional and behavioural issues.
-
-**FACILITIES AND EQUIPMENT**
-
-The school created the ASE Corner in the first quarter of 2016 to provide a sanctuary for these selected students as well as students who do not have lessons after school to gather and play. The ASE students make full use of the two air hockey machines, three foosball machines, a billiard table, two carom boards and two dart boards.
-
-**EVENTS, PROGRAMMES AND ACTIVITIES**  
-
-Special programmes have since been organised for students identified for the ASE programme. Some of these programmes include:
-* Restorative Circles by In-house Full Time School Counsellors
-* Culinary ‘Cooking with Your Senses’ by Vivarch International
-*  Adventure Therapy at Boys’ Town
-* 'Brorista' training and Café management by school FCE teacher
-* Floorball Activity
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img src="/images/ASE-1.jpeg"></td>
-    <td class="tg-0lax"><img src="/images/ASE-2.jpeg"></td>
-  </tr>
-</tbody>
-</table>
-
-**STUDENTS ANECDOTES**
-
-_“I enjoy hanging out at the ASE corner because it allows me to rest after a long day of studying. I get to talk to my friends and play games as well.”_  (Macolley Chia, 2 Compassion)
-
-_“I love playing Foosball at the ASE corner because I get to hone my skills and learn how to improve my game. I get to know my friends better as well and I can teach those who are excited to learn as well.”_ (Naydhan s/o Subhash, 2 Compassion)
-
-_“Having the ASE part of my timetable gives me a chance to play and have fun with my friends after studying hard.”_ (Abad Martin Athrun Pajares, 1 Compassion)
-
-**FOR SUPPORT**
-
-Friends and Alumni of Montfort who would like to contribute towards this meaningful programme are warmly welcomed. Montfort Secondary sincerely appreciates any contribution provided. The contribution offered may take one of the following forms:    
-a)    To volunteer to help supervise the students during the ASE programme days     
-        (Mon, Tues, Thurs, from 3pm – 5pm)    
-b)    To volunteer to conduct a particular activity of interest for the students   
-c)     To offer financial sponsorship for the activities conducted    
-d)    To offer financial sponsorship for equipment to be procured   
-e)    To donate relevant equipment for the school’s use (e.g. piano, sofa, culinary equipment, etc)
+<p><strong>About the After-School Engagement (ASE) Programme</strong>
+</p>
+<p>The After-School Engagement (ASE) programme was launched at Montfort Secondary
+in 2016 to offer meaningful activities and support for students. This initiative
+is part of the school’s commitment to fostering a safe and caring environment
+where students can connect with their peers and teachers, building stronger
+bonds and positive relationships.</p>
+<p>Through the ASE programme, students have access to developmental opportunities
+designed to enhance their social-emotional competencies and interpersonal
+skills, nurturing a deeper sense of school connectedness and belonging.</p>
+<p><strong>Programmes and Activities</strong>
+</p>
+<p>ASE sessions are conducted every Tuesday and Thursday (excluding Home-Based
+Learning days). Our dedicated teachers collaborate with community partners
+to design engaging and tailored sessions that meet the needs of our students.
+Highlights of the programme include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Self-awareness and Emotional Management Workshops</strong>
+</p>
+</li>
+<li>
+<p><strong>Goal-setting and Time Management Workshops</strong>
+</p>
+</li>
+<li>
+<p><strong>Sports Programmes</strong>
+</p>
+</li>
+<li>
+<p><strong>Team-building Activities</strong>
+</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>STUDENTS ANECDOTES</strong>
+</p>
+<p>“It is fun and organised. ASE helps me to manage my screen time and spend
+time meaningfully.” (Secondary 3 Student)</p>
+<p>“I enjoy making new friends and the watch making workshop. The program
+is fun.” (Secondary 3 Student )</p>
