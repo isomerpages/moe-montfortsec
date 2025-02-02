@@ -173,7 +173,7 @@ variant: tiptap
 <br>Mdm Lim Lei Nore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Honorary Secretary/Principal</strong>
+<p><strong>Honorary Secretary/ Principal</strong>
 <br><em>Montfort Secondary</em>
 <br>Mrs Janice Lim</p>
 </td>
