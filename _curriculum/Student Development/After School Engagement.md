@@ -17,10 +17,10 @@ designed to enhance their social-emotional competencies and interpersonal
 skills, nurturing a deeper sense of school connectedness and belonging.</p>
 <p><strong>Programmes and Activities</strong>
 </p>
-<p>ASE sessions are conducted every Tuesday and Thursday (excluding Home-Based
-Learning days). Our dedicated teachers collaborate with community partners
-to design engaging and tailored sessions that meet the needs of our students.
-Highlights of the programme include:</p>
+<p>ASE sessions are conducted every Tuesday and Thursday at 3pm (excluding
+Home-Based Learning days). Our dedicated teachers collaborate with community
+partners to design engaging and tailored sessions that meet the needs of
+our students. Highlights of the programme include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Self-awareness and Emotional Management Workshops</strong>
