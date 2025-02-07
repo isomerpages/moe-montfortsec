@@ -44,9 +44,5 @@ MTB should take note that they have 1 less N-level subject.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s3 g2 min criteria 2.png">
 </div>
-<h4>5. G2 Subject Combination Talk</h4>
-<p>Click the video to watch a video talk by our ECG Counsellor, Mr Isaac.</p>
-<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1u1twOlz9TGQ1KHWvcqRiwlxaf_KvB4ZX/view">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subj_Combi_G2_Talk_by_Isaac.png">
-</a>
+<h4></h4>
 <p></p>
