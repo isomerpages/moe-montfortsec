@@ -25,10 +25,6 @@ number of applicants exceeds the number of places allocated)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s3 g1 subject combi_1.png">
 </div>
-<h4>4. G1 Subject Combination Talk</h4>
-<p>Click the video to watch a video talk by our ECG Counsellor, Mr Isaac.</p>
-<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1tgz6LZazGneQvl4zbhZ8sst1j-q4-QRF/view?t=3">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subj_Combi_G1_Talk_by_Isaac.png">
-</a>
+<h4></h4>
 <p></p>
 <p></p>
