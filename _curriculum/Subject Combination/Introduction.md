@@ -48,10 +48,9 @@ an informed choice. The page is organised as follows:</p>
 should opt for. Instead, the primary consideration should be to choose
 a subject combination which is most ideal for himself according to his
 interests, aptitude and aspiration for post-secondary education.</p>
-<p>Click the video to watch a video talk by our ECG Counsellor, Mr Isaac
-on choosing subject combination.</p>
+<p></p>
 <p></p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ad03Ww4HzSSnP0mF6SIXCA5dzTEBrnJf/view?t=1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_talk_by_Isaac.jpg"></a>
+<p></p>
 <p></p>
