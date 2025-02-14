@@ -3,25 +3,33 @@ title: Drama Club
 permalink: /co-curricular-activities/Performing-Arts/drama-club/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-![](/images/drc1.jpeg)
-
-![](/images/drc4.png)
-
-
-
-### Photo Gallery
-
-<table style="undefined;table-layout: fixed; width: 800px">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/drc1.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/drc4.png">
+</div>
+<h3>Photo Gallery</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td><img src="/images/drc5-min.jpeg"></td>
-    <td><img src="/images/drc6.jpeg"></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/drc5-min.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/drc6.jpeg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
