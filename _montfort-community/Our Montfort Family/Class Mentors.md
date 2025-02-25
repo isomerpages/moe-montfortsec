@@ -275,9 +275,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Feng Guo Wei
-<br><a href="mailto:feng_guo_wei_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feng_guo_wei_kenneth@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
