@@ -111,7 +111,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>End March (Tentative)</p>
+<p>26 March (Scheduled)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Collection of Device</p>
@@ -145,7 +145,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 6 Mar 2025 (Tentative)</p>
+<p>By 6 Mar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Payment via GIRO</p>
@@ -153,17 +153,19 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 6 Mar 2025 (Tentative)</p>
+<p>By 6 Mar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For cash paying students, payment to be made via AXS kiosks, AXS e-station
 (online at <a href="www.axs.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.axs.com.sg</a>)
 or AXS m-station (mobile app)</p>
+<p>Please refer to <a href="https://www.moe.gov.sg/financial-matters/fees?pt=Other%20methods" rel="noopener nofollow" target="_blank">MOE Website</a> for
+more details.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>End March (Tentative)</p>
+<p>26 March (Scheduled)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Collection of Device</p>
