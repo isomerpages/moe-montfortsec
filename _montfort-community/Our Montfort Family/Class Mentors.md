@@ -65,7 +65,7 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chue Pin Fang
+<p>Mr Chue Pin Fang
 <br><a href="mailto:chue_pin_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue_pin_fang@moe.edu.sg</a>
 </p>
 </td>
