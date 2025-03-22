@@ -91,8 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Sin Li Huang</p>
-<p><a href="mailto:sin_li_huang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sin_li_huang_a@moe.edu.sg</a>
+<p>Mrs Tan-Sin Li Huang <a href="mailto:sin_li_huang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sin_li_huang_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -111,8 +110,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Tze Hee</p>
-<p><a href="mailto:lim_tze_hee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_hee@moe.edu.sg</a>
+<p>Mr Lim Tze Hee <a href="mailto:lim_tze_hee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_hee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -316,9 +314,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lalitha d/o Ramasamy</p>
-<p>(Mrs Gunasagaran)</p>
-<p><a href="mailto:gunasagaran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gunasagaran_a@moe.edu.sg</a>
+<p>Ms Lalitha d/o Ramasamy (Mrs Gunasagaran) <a href="mailto:gunasagaran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gunasagaran_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -433,8 +429,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Azahar Bin Mohamed</p>
-<p><a href="mailto:azahar_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azahar_mohamed@moe.edu.sg</a>
+<p>Mr Azahar Bin Mohamed <a href="mailto:azahar_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azahar_mohamed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -490,7 +485,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Kek <a href="mailto:kek_liok_ken@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kek_liok_ken@moe.edu.sg</a>
+<p>Mr Michael Kek Liok Ken <a href="mailto:kek_liok_ken@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kek_liok_ken@moe.edu.sg</a>
 </p>
 </td>
 </tr>
