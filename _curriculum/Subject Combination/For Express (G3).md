@@ -41,26 +41,6 @@ number of applicants exceed the number of places allocated )</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="S3 Exp Subjects" src="/images/s3%20express%20subjects%202023_2.png">
 </div>
-<h5>3. S3 EXPRESS/G3 SUBJECT COMBINATIONS</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="S3 G3 Subject Combi" src="/images/s3%20g3%20subject%20combi_2.png">
-</div>
-<p><strong><u>Notes</u></strong>
-</p>
-<ol>
-<li>
-<p>Students who are exempted from MT or taking MTB should take note that
-they have 1 less O-level subject.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>The humanities subject for combined Humanities and Pure Humanities cannot
-be the same. Student can only take Social Studies/History if they choose
-Pure Geography and Social Studies/Geography if they choose Pure History.</p>
-</li>
-</ol>
-<h5>4. MINIMUM CRITERIA FOR S3 EXPRESS/G3 SUBJECTS</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="S3 G3 min criteria" src="/images/s3%20g3%20min%20criteria%204.png">
-</div>
+<h5></h5>
 <h4></h4>
 <p></p>
