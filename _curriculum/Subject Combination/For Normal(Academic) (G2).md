@@ -34,15 +34,6 @@ number of applicants exceed the number of places allocated)&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_G2_Subjs_1.png">
 </div>
-<h5>3. S3 NORMAL (ACADEMIC)/G2 SUBJECT COMBINATIONS</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_G2_Subj_Combi_1.png">
-</div>
-<p><strong><u>Note</u></strong>: Students who are exempted from MT or taking
-MTB should take note that they have 1 less N-level subject.</p>
-<h5>4. MINIMUM CRITERIA FOR S3 NORMAL (ACADEMIC) /G2 SUBJECTS</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s3 g2 min criteria 2.png">
-</div>
+<h5></h5>
 <h4></h4>
 <p></p>

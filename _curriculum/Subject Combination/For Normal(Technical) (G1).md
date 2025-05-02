@@ -21,10 +21,6 @@ number of applicants exceeds the number of places allocated)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_G1_Subjs.png">
 </div>
-<h4>3. S3 NORMAL (TECHNICAL)/G1 SUBJECT COMBINATIONS</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s3 g1 subject combi_1.png">
-</div>
 <h4></h4>
 <p></p>
 <p></p>
