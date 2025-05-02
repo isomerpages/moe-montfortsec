@@ -19,7 +19,7 @@ sections:
           url: https://workspace.google.com/dashboard
       background: /images/banner_staging.jpg
   - resources:
-      title: Direct School Admission-Secondary (DSA-SEC) Exercise
+      title: Announcement
       button: View More
   - infopic:
       title: "Video: Years Ahead with Us"
