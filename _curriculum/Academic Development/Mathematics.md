@@ -11,6 +11,8 @@ and the mastery of mathematical skill.</p>
 <h3>Our Team</h3>
 <p>Head of Department&nbsp;–&nbsp;<strong>Mdm Lindy Ong</strong>
 <br>Subject Head – <strong>Ms Cynthia Chua</strong>
+</p>
+<p>Head of Department/ICT -<strong> Mr Tang Chee Hung</strong>
 <br>Year Head – <strong>Ms Norazidah Abdol Aziz</strong>
 <br>Assistant Year Head –&nbsp;<strong>Ms Ong Wuan Seah</strong>
 <br>Subject Head (Discipline) –&nbsp;<strong>Mr Wong Boon Chong Kenny</strong>
