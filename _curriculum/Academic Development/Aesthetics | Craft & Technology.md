@@ -11,7 +11,7 @@ To nurture in our Montfortians attitudes, dispositions, and skills to take on th
 
 ### Our Team
 
-Head of Department -&nbsp; **Ms Thian Hui Ling**  
+Head of Department -&nbsp; **Mr Tan Hock Ann**  
 Senior Teacher (Music) -&nbsp;**Ms Chua Jing Lin Eunice**  
 Teacher -&nbsp;**Mr Khairyl B Hashim (Art)**  
 Teacher -&nbsp;**Ms Rafidah Binte Muhammad Nasir (Art)**  
