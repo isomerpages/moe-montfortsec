@@ -3,116 +3,120 @@ title: Humanities
 permalink: /curriculum/Academic-Development/Humanities/
 description: ""
 third_nav_title: Academic Development
-variant: markdown
+variant: tiptap
 ---
-### Mission
-*   To nurture every Montfortian to be responsible, respectful and reflective citizens with care and concern for the world around them.  
-    
-*   To create a stimulating learner-centred curriculum which develops critical thinking, imbue values and build character.  
-    
-*   To develop every Humanities Teacher to be a competent and caring professional who has a learner mindset in striving for excellence.
-
-### Our Team
-
-Head of Department –&nbsp;**Mrs Judeana Lim**  
-Subject Head (Geography) –&nbsp;**Mr Mansoor Bin Abdul Rahman**  
-Subject Head (Character and Citizenship Education) –&nbsp;**Ms Ong Yew Yi Eve**  
-Subject Head (History) –&nbsp;**Mr Wilson Heng Wei Chin**  
-Senior Teacher (History) –&nbsp;**Mrs Punitha Ramesh**  
-Senior Teacher (Social Studies) –&nbsp;**Ms Jamie Low Guan Lin**  
-Teacher -&nbsp;**Ms Leong Kar Wai Karen**
-
-### Instructional Programme
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<h3>Mission</h3>
+<ul>
+<li>
+<p>To nurture every Montfortian to be responsible, respectful and reflective
+citizens with care and concern for the world around them.</p>
+</li>
+<li>
+<p>To create a stimulating learner-centred curriculum which develops critical
+thinking, imbue values and build character.</p>
+</li>
+<li>
+<p>To develop every Humanities Teacher to be a competent and caring professional
+who has a learner mindset in striving for excellence.</p>
+</li>
+</ul>
+<h3>Our Team</h3>
+<p>Head of Department –&nbsp;<strong>Ms Fong Meiyi</strong>
+<br>Subject Head (Geography) –&nbsp;<strong>Mr Mansoor Bin Abdul Rahman</strong>
+<br>Subject Head (Character and Citizenship Education) –&nbsp;<strong>Ms Ong Yew Yi Eve</strong>
+<br>Subject Head (History) –&nbsp;<strong>Mr Wilson Heng Wei Chin</strong>
+<br>Senior Teacher (History) –&nbsp;<strong>Mrs Punitha Ramesh</strong>
+<br>Senior Teacher (Social Studies) –&nbsp;<strong>Ms Jamie Low Guan Lin</strong>
+<br>Teacher -&nbsp;<strong>Ms Leong Kar Wai Karen</strong>
+</p>
+<h3>Instructional Programme</h3>
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 250px">
-<col style="width: 250px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0lax"><img src="/images/humanities_prog1.png"></td>
-    <td class="tg-0lax"><img src="/images/humanities_prog2.png"></td>
-    <td class="tg-0lax"><img src="/images/humanities_prog3.jpeg"></td>
-  </tr>
-	  <tr>
-    <td class="tg-0lax"><img src="/images/humanities_prog4.jpeg"></td>
-    <td class="tg-0lax"><img src="/images/humanities_prog5.jpeg"></td>
-    <td class="tg-0lax"><img src="/images/humanities_prog6.jpeg"></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/humanities_prog1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/humanities_prog2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/humanities_prog3.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/humanities_prog4.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/humanities_prog5.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/humanities_prog6.jpeg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
-
-To prepare our students for the VUCA (volatile, uncertain, complex and ambiguous) realities of the globalized world in the 21st century, the Humanities Department seeks to develop in our Montfortians inquiring and critical thinking skills, understanding of key knowledge across Humanities disciplines and imbue beliefs and attitudes that will empower them to be discerning and caring contributors of society.  
-
-  
-
-**Department Pedagogy**
-
-  
-
-Being an all-boys school, this is done through offering a boy-centric pedagogy which is tailored to our students’ learning needs and offering rich, meaningful learning experiences both within and outside the classroom.
-
-  
-
-**1\. Spiral Curriculum from Lower Secondary to Upper Secondary**
-
-  
-
-Key content and skills are progressively built from lower to upper secondary.
-
-  
-
-**Lower secondary:**&nbsp;Inference and Comparison Source-Based Skills (History) Describe Trends, O.S.A and Geographical Investigation (Geography)
-
-  
-
-**Upper secondary:**&nbsp;Reliability, Usefulness and Assertion Source-Based Skills (History and Social Studies)&nbsp;
-
-Compare and Contrast, Annotating (Geography)
-
-  
-
-**2\. Explicit teaching of study skills to nurture self-directed and independent learners**
-
-Cornell-note taking   
-Use of colour-coded Mind-maps
-
-
-**3\. Use of Visible Thinking Routines**
-
-I used to think…now I think   
-What makes you say that?   
-Step Inside   
-See-Think-Wonder&nbsp;   
-Circle of Viewpoints
-
-**4\. Structured Lesson Design**
-
-Explicit lesson outcomes   
-Exemplars to set high expectations   
-Student centred self-directed learning&nbsp;   
-Use of success criteria and rubrics   
-Checking for understanding
-
-  
-
-**5\. Collaborative Learning**
-
-Cooperative learning strategies  
-Peer-teaching and learning   
-Clearly-defined roles within groups
-
-
-**6\. Meaningful Learning Experiences Outside the Classroom**
-
-Through our Humanities curriculum, we seek to excite our Montfortians by creating authentic learning experiences that extend beyond the classroom.
+<p>To prepare our students for the VUCA (volatile, uncertain, complex and
+ambiguous) realities of the globalized world in the 21st century, the Humanities
+Department seeks to develop in our Montfortians inquiring and critical
+thinking skills, understanding of key knowledge across Humanities disciplines
+and imbue beliefs and attitudes that will empower them to be discerning
+and caring contributors of society.</p>
+<p><strong>Department Pedagogy</strong>
+</p>
+<p>Being an all-boys school, this is done through offering a boy-centric
+pedagogy which is tailored to our students’ learning needs and offering
+rich, meaningful learning experiences both within and outside the classroom.</p>
+<p><strong>1. Spiral Curriculum from Lower Secondary to Upper Secondary</strong>
+</p>
+<p>Key content and skills are progressively built from lower to upper secondary.</p>
+<p><strong>Lower secondary:</strong>&nbsp;Inference and Comparison Source-Based
+Skills (History) Describe Trends, O.S.A and Geographical Investigation
+(Geography)</p>
+<p><strong>Upper secondary:</strong>&nbsp;Reliability, Usefulness and Assertion
+Source-Based Skills (History and Social Studies)&nbsp;</p>
+<p>Compare and Contrast, Annotating (Geography)</p>
+<p><strong>2. Explicit teaching of study skills to nurture self-directed and independent learners</strong>
+</p>
+<p>Cornell-note taking
+<br>Use of colour-coded Mind-maps</p>
+<p><strong>3. Use of Visible Thinking Routines</strong>
+</p>
+<p>I used to think…now I think
+<br>What makes you say that?
+<br>Step Inside
+<br>See-Think-Wonder&nbsp;
+<br>Circle of Viewpoints</p>
+<p><strong>4. Structured Lesson Design</strong>
+</p>
+<p>Explicit lesson outcomes
+<br>Exemplars to set high expectations
+<br>Student centred self-directed learning&nbsp;
+<br>Use of success criteria and rubrics
+<br>Checking for understanding</p>
+<p><strong>5. Collaborative Learning</strong>
+</p>
+<p>Cooperative learning strategies
+<br>Peer-teaching and learning
+<br>Clearly-defined roles within groups</p>
+<p><strong>6. Meaningful Learning Experiences Outside the Classroom</strong>
+</p>
+<p>Through our Humanities curriculum, we seek to excite our Montfortians
+by creating authentic learning experiences that extend beyond the classroom.</p>
