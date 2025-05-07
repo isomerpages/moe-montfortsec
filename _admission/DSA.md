@@ -203,4 +203,4 @@ to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Secondary 1-4.</p>
 <p>&nbsp;</p>
 <p>Click here for a list of<a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a></strong> (Frequently
-Asked Questions) regarding</p>
+Asked Questions) regarding DSA.</p>
