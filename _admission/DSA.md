@@ -14,7 +14,7 @@ open from 7 May 2025.</p>
 <p>7 May 2025 – 3 Jun 2025</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May, 11 am to
-3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">DSA-Sec</a>.</p>
 <p><strong>&nbsp;II.&nbsp;&nbsp;&nbsp;&nbsp; <u>ADMISSION CRITERIA</u></strong>
 </p>
 <p>Students who intend to apply for admission to the <em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme </em>must
