@@ -8,7 +8,7 @@ variant: tiptap
 <p>Application for direct school admission through the <em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme</em> is
 open from 7 May 2025.</p>
 <p></p>
-<p>Details as follows: of secondary school students:</p>
+<p>Details as follows:</p>
 <p><strong>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>APPLICATION PERIOD</u></strong>
 </p>
 <p>7 May 2025 – 3 Jun 2025</p>
