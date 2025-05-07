@@ -2,92 +2,205 @@
 title: DSA
 permalink: /admission/dsa/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### 2024 (DSA-Sec) Exercise for Admission to Secondary One (S1) in 2025
-
-Application for direct school admission through the Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme is&nbsp;**open from 7 May 2024**.
-
-
-**(I) APPLICATION PERIOD**&nbsp; &nbsp;
-
-7 May 2024 - 3 June 2024
-
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11 am to 3 June 2024, 3pm. &nbsp;  
-For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).&nbsp;
-
-
-**(II) ADMISSION CRITERIA**&nbsp;
-
- 
-Students who intend to apply for admission to the Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme must satisfy the following criteria:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<h3>2025 (DSA-Sec) Exercise for Admission to Secondary One (S1) in 2026.</h3>
+<p>Application for direct school admission through the <em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme</em> is
+open from 7 May 2025.</p>
+<p></p>
+<p>Details as follows: of secondary school students:</p>
+<p><strong>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>APPLICATION PERIOD</u></strong>
+</p>
+<p>7 May 2025 – 3 Jun 2025</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May, 11 am to
+3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p><strong>&nbsp;II.&nbsp;&nbsp;&nbsp;&nbsp; <u>ADMISSION CRITERIA</u></strong>
+</p>
+<p>Students who intend to apply for admission to the <em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme </em>must
+satisfy the following criteria: &nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">CCA Achievements (all applicants)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx"><span style="color:#454545;background-color:#FFF">1. Representation at School/ Club/ National Level Tournament</span><br><span style="color:#454545;background-color:#FFF">and/or</span><br><span style="color:#454545;background-color:#FFF">2. Leadership position in school/ class/ CCA </span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Achievements (all applicants)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Representation at School/ Club/ National Level
+Tournament</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and/ or</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership position in school/ class/
+CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-Students who satisfy the above criteria will be informed to attend a selection trial by&nbsp;**Tues, 2 July 2024**.&nbsp;
-
-Applicants who do not have prior experience may also apply and will be assessed based on their potential. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
-
-The selection trial will be based on:
-
-Concept
-
-* Spatial Awareness
-* Possession
-* Attack
-* Defend  
-
-  
-
-Technical Skills
-
-* Racket Handling/ Footwork/ Service/ Return (Badminton)
-* Ball Handling/ Footwork/Shooting (Football)  
-* Ball Handling/ Footwork (Rugby)
-* Ball Handling/ Footwork/Shooting (Basketball) 
-* Ball Handling/ Batting/ Pitching (Softball)
-* Splits/ Footwork/ Routine (Wushu)
-
-Leadership Skills
-
-* To be Responsible
-* To Lead
-* To Serve
-
-**TRIAL DATES (Tentative)**&nbsp;
-
-| Date | Time | Sport |
-| -------- | -------- | -------- |
-| Mon, 8 July 2024     | 3.30pm     | Softball, Basketball &amp; Badminton
-| Wed, 10 July 2024 | 3.30pm | Rugby, Wushu &amp; Football |
-| Mon, 15 July 2024 (Reserved Date)    | 3.30pm     | Softball, Basketball &amp; Badminton
-| Wed, 17 July 2024 (Reserved Date)    | 3.30pm     | Rugby, Wushu &amp; Football
-
-
-
-**SELECTION RESULTS WILL BE RELEASED BY 9 SEPTEMBER 2024**
-
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Secondary 1-4.
-
-Click&nbsp;[here](https://drive.google.com/file/d/1PrWUj1VT6iPXu8dq_X_zO6kyQg091MJu/view)&nbsp;for a list of FAQs (Frequently Asked Questions) regarding DSA.
+<p>Students who satisfy the above criteria will be informed to attend a selection
+trial by <strong>Tue, 1 July 2025. </strong>Applicants who do not have prior
+experience may also apply. The school will assess applicants based on the
+selection criteria, which may include assessing the potential of the applicants<strong>. </strong>Meeting
+all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
+<p>The selection trial will be based on:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Concept</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Spatial Awareness</p>
+</li>
+<li>
+<p>Possession</p>
+</li>
+<li>
+<p>Attack</p>
+</li>
+<li>
+<p>Defend</p>
+</li>
+</ul>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Technical Skills</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Racket Handling/ Footwork/ Service/ Returns (Badminton)</p>
+</li>
+<li>
+<p>Ball Handling/ Footwork/ Shooting (Football)</p>
+</li>
+<li>
+<p>Ball Handling/ Footwork (Rugby)</p>
+</li>
+<li>
+<p>Ball Handling/ Footwork/ Shooting (Basketball)</p>
+</li>
+<li>
+<p>Ball Handling/ Batting/ Pitching (Softball)</p>
+</li>
+<li>
+<p>Splits/ Footwork/ Routine (Wushu)</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Leadership Skills</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>To be Responsible</p>
+</li>
+<li>
+<p>To Serve</p>
+</li>
+<li>
+<p>To Lead</p>
+</li>
+</ul>
+<p><strong>Trial Dates (Tentative)</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sport</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wed, 9 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Softball</p>
+<p>Badminton</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri, 11 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30pm</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Reserve Date)</p>
+<p>Wushu</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon, 14 Jul</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+<p>Basketball</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wed, 23 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby</p>
+<p>Football (Reserve Date)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>SELECTION RESULTS WILL BE RELEASED BETWEEN 25 AUGUST AND 4 SEPTEMBER 2025</strong>
+</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from Secondary 1-4.</p>
+<p>&nbsp;</p>
+<p>Click here for a list of<a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a></strong> (Frequently
+Asked Questions) regarding</p>
