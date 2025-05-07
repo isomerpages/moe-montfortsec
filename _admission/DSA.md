@@ -201,6 +201,6 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Secondary 1-4.</p>
-<p>&nbsp;</p>
-<p>Click here for a list of<a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a></strong> (Frequently
-Asked Questions) regarding DSA.</p>
+<p>Click <a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a list of FAQs (Frequently Asked Questions) regarding DSA.</p>
+<p></p>
