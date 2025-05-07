@@ -15,3 +15,5 @@ variant: tiptap
 <p>Application for DSA-SEC Exercise through the Montfort Leadership through
 Sports (Badminton, Softball, Football, Basketball, Rugby and Wushu) Excellence
 Programme is open from 7 May 2025.</p>
+<p>For more information, please click <a href="https://www.montfortsec.moe.edu.sg/admission/dsa/" rel="noopener nofollow" target="_blank">here.</a>
+</p>

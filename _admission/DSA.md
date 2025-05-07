@@ -8,7 +8,7 @@ variant: tiptap
 <p>Application for direct school admission through the <em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme</em> is
 open from 7 May 2025.</p>
 <p></p>
-<p>Details as follows: of secondary school students:</p>
+<p>Details as follows:</p>
 <p><strong>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>APPLICATION PERIOD</u></strong>
 </p>
 <p>7 May 2025 – 3 Jun 2025</p>
@@ -98,7 +98,7 @@ an offer.</p>
 <p>Splits/ Footwork/ Routine (Wushu)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Leadership Skills</p>
@@ -201,6 +201,6 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Secondary 1-4.</p>
-<p>&nbsp;</p>
-<p>Click here for a list of<a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a></strong> (Frequently
-Asked Questions) regarding</p>
+<p>Click <a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a list of FAQs (Frequently Asked Questions) regarding DSA.</p>
+<p></p>
