@@ -98,7 +98,7 @@ an offer.</p>
 <p>Splits/ Footwork/ Routine (Wushu)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Leadership Skills</p>
