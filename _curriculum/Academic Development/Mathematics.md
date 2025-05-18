@@ -15,7 +15,8 @@ and the mastery of mathematical skill.</p>
 <br>Year Head – <strong>Ms Norazidah Abdol Aziz</strong>
 <br>Assistant Year Head –&nbsp;<strong>Ms Ong Wuan Seah</strong>
 <br>Subject Head (Discipline) –&nbsp;<strong>Mr Wong Boon Chong Kenny</strong>
-<br>Teacher –&nbsp;<strong>Ms Tan Wan Sim </strong>Teacher –&nbsp;<strong>Mr Pang Jun Yi</strong>
+<br>Teacher –&nbsp;<strong>Ms Tan Wan Sim                                                    </strong>Teacher
+–&nbsp;<strong>Mr Pang Jun Yi</strong>
 <br>Teacher –&nbsp;<strong>Mr Hairul Nizam Bin Ramli</strong>
 <br>Teacher -&nbsp;<strong>Ms Latha D/O Murugiah</strong>
 <br>Teacher -&nbsp;<strong>Ms Teo Wan Lin Jocelyn</strong>
