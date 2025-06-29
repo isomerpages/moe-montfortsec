@@ -3,7 +3,7 @@ title: School Management Committee
 permalink: /montfort-community/Montfort-Family/school-management-committee/
 description: ""
 third_nav_title: Our Montfort Family
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 175px">
 <colgroup>
@@ -176,9 +176,6 @@ variant: tiptap
 <p><strong>Honorary Secretary/ Principal</strong>
 <br><em>Montfort Secondary</em>
 <br>Mrs Janice Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Principal</strong>
