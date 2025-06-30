@@ -146,12 +146,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Tan_Phai_Lin_Grace_Desiree.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Desiree_Tan__Professional_Photo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Agnes_Sim.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Agnes_Professional_photo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,7 +177,7 @@ variant: tiptap
 <br>Mdm Lim Lei Nore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Member </strong>Mdm Tan Phai Lin Grace Desiree</p>
+<p><strong>Member    </strong>Mdm Tan Phai Lin Grace Desiree</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Member </strong>Mdm Sim Kwee Huang Agnes</p>
