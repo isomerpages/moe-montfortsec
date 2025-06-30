@@ -24,7 +24,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/smc2.jpeg">
+<img style="width: 53%;" height="auto" width="100%" src="/images/smc2.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +85,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/smc7.jpeg">
+<img style="width: 56%;" height="auto" width="100%" src="/images/smc7.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +146,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Desiree_Tan__Professional_Photo.jpg">
+<img style="width: 72%;" height="auto" width="100%" alt="" src="/images/Desiree_Tan__Professional_Photo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
