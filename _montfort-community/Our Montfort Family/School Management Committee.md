@@ -177,7 +177,8 @@ variant: tiptap
 <br>Mdm Lim Lei Nore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Member    </strong>Mdm Tan Phai Lin Grace Desiree</p>
+<p><strong>Member</strong>
+<br>Mdm Tan Phai Lin Grace Desiree Dennis Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Member </strong>Mdm Sim Kwee Huang Agnes</p>
