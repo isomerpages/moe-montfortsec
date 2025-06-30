@@ -146,6 +146,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tan_Phai_Lin_Grace_Desiree.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Agnes_Sim.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Janice_Lim_Webpage.jpg">
 </div>
 </td>
@@ -160,12 +170,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -173,20 +177,20 @@ variant: tiptap
 <br>Mdm Lim Lei Nore</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Member </strong>Mdm Tan Phai Lin Grace Desiree</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Member </strong>Mdm Sim Kwee Huang Agnes</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Honorary Secretary/ Principal</strong>
 <br><em>Montfort Secondary</em>
 <br>Mrs Janice Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Principal</strong>
 <br><em>Montfort Junior</em>
 <br>Mr Victor Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
