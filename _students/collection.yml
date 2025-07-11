@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - 2025 Sec 4E5N Preliminary Examinations.md
       - 2025 Sec 4N Preliminary Examinations.md
       - 2025 Learning Review Infosheets.md
       - 2025 Secondary 1 Onboarding/.keep
