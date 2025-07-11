@@ -178,7 +178,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Member</strong>
-<br>Mdm Tan Phai Lin Grace Desiree Dennis Ho</p>
+<br>Mdm Tan Phai Lin Grace Desiree</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Member </strong>Mdm Sim Kwee Huang Agnes</p>
