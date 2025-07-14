@@ -159,14 +159,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ History</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Heng Wei Chin Wilson </strong>(<a href="mailto:heng_wei_chin_wilson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_wei_chin_wilson@moe.edu.sg</a>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head/ Information and Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
