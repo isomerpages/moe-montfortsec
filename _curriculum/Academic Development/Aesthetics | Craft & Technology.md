@@ -20,8 +20,7 @@ take on the opportunities and challenges of the future.</p>
 <br>Teacher -&nbsp;<strong>Mr Izuan Bin Hussain Bagarib (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Sin Kum Sing Simon (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Roy Chew Hock Wu (D&amp;T)</strong>
-<br>Teacher -&nbsp;<strong>Mr Soo Kwok Wah (D&amp;T)                                      </strong>Teacher
--&nbsp;<strong>Mdm Lee Siew Yian (D&amp;T)</strong>
+<br>Teacher -&nbsp;<strong>Mr Soo Kwok Wah (D&amp;T) </strong>Teacher -&nbsp;<strong>Mdm Lee Siew Yian (D&amp;T)</strong>
 <br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Tan Chin Eng</strong>
 <br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Zev Nuraqlan Bin Roslan</strong>
 </p>
