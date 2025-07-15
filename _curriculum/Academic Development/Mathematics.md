@@ -10,8 +10,8 @@ variant: tiptap
 and the mastery of mathematical skill.</p>
 <h3>Our Team</h3>
 <p>Head of Department&nbsp;–&nbsp;<strong>Mdm Lindy Ong</strong>
-<br>Subject Head – <strong>Ms Cynthia Chua                                              </strong>Head
-of Department/ICT -<strong> Mr Tang Chee Hung</strong>
+<br>Subject Head – <strong>Ms Cynthia Chua </strong>Head of Department/ICT
+-<strong> Mr Tang Chee Hung</strong>
 <br>Year Head – <strong>Ms Norazidah Abdol Aziz</strong>
 <br>Assistant Year Head –&nbsp;<strong>Ms Ong Wuan Seah</strong>
 <br>Subject Head (Discipline) –&nbsp;<strong>Mr Wong Boon Chong Kenny </strong>Teacher
@@ -20,7 +20,8 @@ of Department/ICT -<strong> Mr Tang Chee Hung</strong>
 <br>Teacher -&nbsp;<strong>Ms Latha D/O Murugiah</strong>
 <br>Teacher -&nbsp;<strong>Ms Teo Wan Lin Jocelyn</strong>
 <br>Teacher -&nbsp;<strong>Mr Ranon Mak Enhao</strong>
-<br>Teacher -&nbsp;<strong>Mr Kek Liok Ken Michael</strong>
+<br>Teacher -&nbsp;<strong>Mr Kek Liok Ken Michael                                      </strong>Teacher
+-&nbsp;<strong>Mr Toh Kai Wang, Justin</strong>
 <br>Teacher –&nbsp;<strong>Mdm Norshirin Sulaiman (Principles Of Accounts)</strong>
 <br>Teacher -&nbsp;<strong>Mdm V Santhi (Principles of Accounts)</strong>
 </p>
