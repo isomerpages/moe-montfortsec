@@ -21,7 +21,7 @@ and the mastery of mathematical skill.</p>
 <br>Teacher -&nbsp;<strong>Ms Teo Wan Lin Jocelyn</strong>
 <br>Teacher -&nbsp;<strong>Mr Ranon Mak Enhao</strong>
 <br>Teacher -&nbsp;<strong>Mr Kek Liok Ken Michael </strong>
-<br>Teacher -&nbsp;<strong>Mr Toh Kai Wang, Justin</strong>
+<br>Teacher -&nbsp;<strong>Mr Toh Kai Wang, Justin (Principles of Accounts)</strong>
 <br>Teacher –&nbsp;<strong>Mdm Norshirin Sulaiman (Principles Of Accounts)</strong>
 <br>Teacher -&nbsp;<strong>Mdm V Santhi (Principles of Accounts)</strong>
 </p>
