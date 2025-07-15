@@ -24,7 +24,6 @@ who has a learner mindset in striving for excellence.</p>
 <p>Head of Department –&nbsp;<strong>Ms Fong Meiyi</strong>
 <br>Subject Head (Geography) –&nbsp;<strong>Mr Mansoor Bin Abdul Rahman</strong>
 <br>Subject Head (Character and Citizenship Education) –&nbsp;<strong>Ms Ong Yew Yi Eve</strong>
-<br>Subject Head (History) –&nbsp;<strong>Mr Wilson Heng Wei Chin</strong>
 <br>Senior Teacher (History) –&nbsp;<strong>Mrs Punitha Ramesh</strong>
 <br>Senior Teacher (Social Studies) –&nbsp;<strong>Ms Jamie Low Guan Lin</strong>
 <br>Teacher -&nbsp;<strong>Ms Leong Kar Wai Karen</strong>
