@@ -26,9 +26,9 @@ who has a learner mindset in striving for excellence.</p>
 <br>Subject Head (Character and Citizenship Education) –&nbsp;<strong>Ms Ong Yew Yi Eve</strong>
 <br>Senior Teacher (History) –&nbsp;<strong>Mrs Punitha Ramesh</strong>
 <br>Senior Teacher (Social Studies) –&nbsp;<strong>Ms Jamie Low Guan Lin</strong>
-<br>Teacher -&nbsp;<strong>Ms Leong Kar Wai Karen </strong>
+<br>Teacher -&nbsp;<strong>Ms Leong Kar Wai Karen</strong>
 </p>
-<p>Teacher - <strong>Ms Bose Sayori </strong>
+<p>Teacher - <strong>Ms Bose Sayori</strong>
 </p>
 <p>Teacher - <strong>Mr Kwok Kar Hou Mathew</strong>
 </p>
