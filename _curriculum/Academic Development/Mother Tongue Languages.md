@@ -13,11 +13,17 @@ an understanding of our indigenous culture, and be global-ready citizens.</p>
 <br>Year Head – <strong>Ms Su Huimin</strong>
 <br>Assistant Year Head – <strong>Mr Chin Jia Le</strong>
 <br>Senior Teacher (Character &amp; Citizenship Education) – <strong>Ms Ng Wei Ying</strong>
+<br>Teacher – <strong>Ms Beatrice Lee Liang Ying</strong>
+<br>Teacher – <strong>Ms Diane Kwek Kheng Hwee </strong>
+<br>Teacher – <strong>Ms Li Lanting</strong>
 <br>Teacher – <strong>Mr Ho Shang Yi</strong>
-<br>Teacher – <strong>Mr Liu Yong Feng</strong>
+<br>Teacher – <strong>Mr Lim Tze Hee</strong>
+<br>Teacher – <strong>Ms Zhong Xiaomei</strong>
 <br>Teacher – <strong>Mdm Norasikin Awang</strong>
+<br>Teacher – <strong>Mdm Jamilah Binte Syed Ahamed</strong>
 <br>Teacher – <strong>Mdm Gunasekaran Dhanalakshmi</strong>
 <br>Teacher – <strong>Mdm Tirunavukkarasu Poongodi</strong>
+<br>Teacher – <strong>Mdm Lalitha D/O Ramasamy</strong>
 </p>
 <h3>Instructional Programme</h3>
 <table style="minWidth: 75px">
