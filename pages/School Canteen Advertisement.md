@@ -36,7 +36,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 July 2025</p>
+<p>30 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 Sep&nbsp;2025 to 31 Dec 2026</p>
@@ -50,7 +50,7 @@ description: ""
 <p><strong>Others</strong>&nbsp;(Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 July 2025</p>
+<p>30 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 Sep 2025 - 31 Dec 2026</p>
@@ -153,5 +153,5 @@ from the school</p>
 environment.</p>
 </li>
 </ul>
-<p><strong>Shortlisted applicants will be notified for an interview and will be required to provide food sampling at the applicant’s own expense.</strong>
+<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling at the applicant’s own expense.</em></strong>
 </p>
