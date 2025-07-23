@@ -66,7 +66,7 @@ are to propose menu for school's review.</p>
 canteen with effect from the dates above.</p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form <strong><u>Canteen Application Form</u></strong>.
+<p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form <strong><u>Canteen Application Form (</u><a href="/files/APPLICATION_FOR_CANTEEN_STALL___Drinks_n_Fruits__Stall_1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Drinks &amp; Fruits</u></a> / <a href="/files/APPLICATION_FOR_CANTEEN_STALL___Asian_Cuisine__Stall_6_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Others</u></a><u>)</u></strong>.
 You may also request for a hardcopy from the School at the School’s General
 Office. &nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp; Please provide the following documents together with
