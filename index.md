@@ -28,7 +28,7 @@ sections:
         discover values that will shape his future with us at Montfort Secondary
         School and beyond.
       button: View Video
-      url: https://www.youtube.com/watch?v=eowg_Dv0p9k&t=10s
+      url: https://youtu.be/FpfNuQTYn0g?si=N7S8MNt0Xx63pI9j
       image: /images/john12.png
       alt: Image alt text
   - infopic:
