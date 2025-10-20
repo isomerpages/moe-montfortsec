@@ -140,6 +140,6 @@ from the school</p>
 environment.</p>
 </li>
 </ul>
-<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling at the applicant’s own expense.             </em></strong>
+<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling at the applicant’s own expense.</em></strong>
 </p>
 <p></p>
