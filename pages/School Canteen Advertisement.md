@@ -32,28 +32,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Drinks &amp; Fruits</strong>
-</p>
+<p>Halal/Non-Halal&nbsp;(Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 July 2025</p>
+<p>29 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Sep&nbsp;2025 to 31 Dec 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Drinks &amp; Fruits</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Others</strong>&nbsp;(Open to Proposal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Sep 2025 - 31 Dec 2026</p>
+<p>1 Jan 2026 –</p>
+<p>31 Dec 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asian Cuisines (e.g. Japanese, Korean, Thai, Vietnamese). &nbsp;Applicants
@@ -62,11 +48,12 @@ are to propose menu for school's review.</p>
 </tr>
 </tbody>
 </table>
-<p>We are looking for a stallholder to operate a food stall in our school
-canteen with effect from the dates above.</p>
+<p></p>
+<p>We are looking for a stallholder to operate a Halal/Non-halal Asian cuisine
+food stall in our school canteen with effect from the dates above.</p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form <strong><u>Canteen Application Form (</u><a href="/files/APPLICATION_FOR_CANTEEN_STALL___Drinks_n_Fruits__Stall_1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Drinks &amp; Fruits</u></a> / <a href="/files/APPLICATION_FOR_CANTEEN_STALL___Asian_Cuisine__Stall_6_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Others</u></a><u>)</u></strong>.
+<p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form&nbsp;<strong><a href="/files/Application_for_Canteen_Stall_Stall_6__Halal_or_Non_Halal___Asian_Cuisine_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Application Form</a></strong>.
 You may also request for a hardcopy from the School at the School’s General
 Office. &nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp; Please provide the following documents together with
@@ -90,14 +77,14 @@ by closing date via email OR to the School’s General Office.</p>
 <p>Address: 50 Hougang Avenue 8 S(538785)</p>
 </li>
 <li>
-<p>Contact No: 65107070</p>
+<p>Contact No: 6510 7070</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">montfort_ss@moe.edu.sg</a>
+<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">montfort_ss@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Contact Person: Ms Theresa Siew/ Ms Nurulhuda Mohamad Taib</p>
+<p>Contact Person: Ms Theresa Siew/</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
@@ -155,3 +142,4 @@ environment.</p>
 </ul>
 <p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling at the applicant’s own expense.</em></strong>
 </p>
+<p></p>
