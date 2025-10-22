@@ -35,28 +35,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Drinks &amp; Fruits</strong>
-</p>
+<p>Halal/Non-Halal&nbsp;(Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 July 2025</p>
+<p>29 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Sep&nbsp;2025 to 31 Dec 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Drinks &amp; Fruits</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Others</strong>&nbsp;(Open to Proposal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Sep 2025 - 31 Dec 2026</p>
+<p>1 Jan 2026 –</p>
+<p>31 Dec 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asian Cuisines (e.g. Japanese, Korean, Thai, Vietnamese). &nbsp;Applicants
