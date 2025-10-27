@@ -4,7 +4,7 @@ permalink: /parents/book-list/
 description: ""
 variant: tiptap
 ---
-<p><strong>Booklist 2025</strong>
+<p><strong>Booklist 2026</strong>
 </p>
 <p><strong>Sec 1</strong>
 </p>
