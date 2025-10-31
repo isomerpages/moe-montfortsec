@@ -35,7 +35,7 @@ description: ""
 <p>Halal/Non-Halal&nbsp;(Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Oct 2025</p>
+<p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jan 2026 –</p>
