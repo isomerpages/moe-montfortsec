@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Our Montfort Family
 variant: markdown
 ---
-
 ![](/images/SMC.jpg)
+
+
 <div style="display: none;">
 
 	
@@ -232,5 +233,4 @@ variant: markdown
 </table>
 <p></p>
 	
-	</div> 
-	
+	</div>
