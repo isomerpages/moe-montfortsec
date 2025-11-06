@@ -272,6 +272,7 @@ work collaboratively through music making.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General music concepts &amp; genres</p>
+<p>Performing Arts-Based Learning (PABL) Learning Journey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethnic Music</p>
