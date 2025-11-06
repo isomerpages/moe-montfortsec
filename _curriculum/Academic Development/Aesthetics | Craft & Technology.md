@@ -21,7 +21,7 @@ take on the opportunities and challenges of the future.</p>
 <br>Teacher -&nbsp;<strong>Mr Sin Kum Sing Simon (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Roy Chew Hock Wu (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Soo Kwok Wah (D&amp;T) </strong>
-<br>Teacher -&nbsp;<strong>Mdm Lee Siew Yian (D&amp;T)  </strong>
+<br>Teacher -&nbsp;<strong>Mdm Lee Siew Yian (D&amp;T) </strong>
 <br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Tan Chin Eng</strong>
 <br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Zev Nuraqlan Bin Roslan</strong>
 </p>
@@ -274,8 +274,7 @@ work collaboratively through music making.</p>
 <p>General music concepts &amp; genres</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethnic Music
-<br>Musically Singaporean</p>
+<p>Ethnic Music</p>
 </td>
 </tr>
 <tr>
