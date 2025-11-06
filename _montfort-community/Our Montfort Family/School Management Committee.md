@@ -1,10 +1,16 @@
 ---
 title: School Management Committee
-permalink: /montfort-community/Montfort-Family/school-management-committee/
+permalink: /montfort-community/montfort-family/school-management-committee/
 description: ""
 third_nav_title: Our Montfort Family
-variant: tiptap
+variant: markdown
 ---
+![](/images/SMC.jpg)
+
+
+<div style="display: none;">
+
+	
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -226,3 +232,5 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+	
+	</div>
