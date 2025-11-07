@@ -48,14 +48,14 @@ take on the opportunities and challenges of the future.</p>
 <p>The Lower Secondary Art Programme provides students with an exciting introduction
 to art making. Through a variety of hands-on lessons, students will develop
 foundational skills in Still Life Drawing, Figure Sketching, Mixed Media,
-Digital Drawing, Dital Photography, and Visual Art Appreciation.</p>
+Digital Drawing, Digital Photography, and Visual Art Appreciation.</p>
 <p>&nbsp;</p>
 <p>Beyond technical proficiency, the programme aims to nurture students’
 ability to observe, interpret, and appreciate aesthetic values found in
 both nature and their daily surroundings.</p>
 <p>&nbsp;</p>
 <p>Learning in Art extends beyond the classroom. Students participate in
-learning journeys to art galleries, attend performances and art related
+learning journeys to art galleries, and attend performances and art related
 events, giving them authentic exposure to Singapore’s vibrant arts scene.
 These experiences foster a holistic understanding and appreciation of the
 arts and aesthetics, inspiring students to make meaningful connections
@@ -68,16 +68,16 @@ These accolades are a testament to the creativity, passion, and dedication
 of both our students and teachers.</p>
 <p><strong>Upper Secondary</strong>
 </p>
-<p>At the Upper Secondary Level, we focus on strengthening of skill, techniques
-and thought process of our students as well as developing familiarity in
-the use of materials to enhance visual communication and individual expression.
-Students are also encouraged to formulate their own visual understanding
-and appreciation through the Feldman’s approach and through an in depth
-Study Of Visual Arts (SOVA) which is offered as the third O level Art Paper.
-This gives flexibility to students opting for a written theory art paper.
-With all these artistic skills and knowledge imparted, our students are
-able to approach the rigours of the and O level Art Exam papers with better
-understanding and expectations in delivering their ideas across.</p>
+<p>At the Upper Secondary Level, we focus on strengthening of skills, techniques
+and the thought process of our students as well as developing familiarity
+in the use of materials to enhance visual communication and individual
+expression. Students are also encouraged to formulate their own visual
+understanding and appreciation through the Feldman’s approach and through
+an in depth Study Of Visual Arts (SOVA), which is offered as the third
+O level Art Paper. This gives flexibility to students opting for a written
+theory art paper. With all these artistic skills and knowledge imparted,
+our students are able to approach the rigours of the O level Art Exam papers
+with better understanding and expectations in delivering their ideas.</p>
 <p><strong>Summary of Art Curriculum</strong>
 </p>
 <table style="minWidth: 75px">
@@ -168,7 +168,7 @@ thinking through sketching, experimenting and prototyping using appropriate
 materials and basic hand tools, equipment and machines safely.&nbsp; Through
 the activities, students develop confidence and pride through turning ideas
 into physical objects.</p>
-<p>In the 2025 D&amp;T Awards, our project was awarded Certificate of Commendation
+<p>In the 2025 D&amp;T Awards, our project was awarded a Certificate of Commendation
 by the panel of judges.&nbsp; This was based not only on the students’
 design skills but also their ability to draw inspiration from nature to
 solve everyday problems.</p>
@@ -177,12 +177,12 @@ solve everyday problems.</p>
 </div>
 <p><strong>Upper Secondary</strong>
 </p>
-<p>In Upper Secondary, designing and making are dealt with at greater depth
-and scope.&nbsp; Students will learn how to do research to understand and
-define user needs, explore and develop design solutions, and prototype
-their ideas using appropriate work processes.&nbsp; In the process, pupils
-cultivate creative, critical and reflective thinking and develop design
-related dispositions and skills.</p>
+<p>In Upper Secondary, designing and making are dealt with in greater depth
+and scope.&nbsp; Students learn how to do research to understand and define
+user needs, explore and develop design solutions, and prototype their ideas
+using appropriate work processes.&nbsp; In the process, pupils cultivate
+creative, critical and reflective thinking and develop design related dispositions
+and skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt.png">
 </div>
@@ -269,7 +269,7 @@ work collaboratively through music making.</p>
 <p>Musical instrument – Guitars</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Audio Workstations</p>
+<p>Digital Music</p>
 </td>
 </tr>
 <tr>
