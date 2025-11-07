@@ -9,20 +9,20 @@ variant: tiptap
 <p>To nurture in our Montfortians attitudes, dispositions, and skills to
 take on the opportunities and challenges of the future.</p>
 <h3>Our Team</h3>
-<p>Head of Department -&nbsp; <strong>Mr Tan Hock Ann</strong>
+<p>Head of Department -&nbsp;&nbsp;<strong>Mr Tan Hock Ann</strong>
 <br>Senior Teacher (Music) -&nbsp;<strong>Ms Chua Jing Lin Eunice</strong>
 <br>Teacher -&nbsp;<strong>Mr Khairyl B Hashim (Art)</strong>
 <br>Teacher -&nbsp;<strong>Ms Rafidah Binte Muhammad Nasir (Art)</strong>
 <br>Teacher -&nbsp;<strong>Mr Wong Chyng Shiau (FCE)</strong>
 <br>Teacher -&nbsp;<strong>Mdm Jamilah Bte Rati (FCE)</strong>
 <br>Teacher -&nbsp;<strong>Ms Jeslin Ang Hui Min (FCE)</strong>
-<br>Teacher -&nbsp;<strong>Ms Agnes David (FCE)</strong>
+<br>Teacher –&nbsp;<strong>Ms Agnes David (FCE)</strong>
+<br>Teacher -&nbsp;<strong>Mr Ainsley Liew En-Li (Music)</strong>
 <br>Teacher -&nbsp;<strong>Mr Izuan Bin Hussain Bagarib (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Sin Kum Sing Simon (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Roy Chew Hock Wu (D&amp;T)</strong>
-<br>Teacher -&nbsp;<strong>Mr Soo Kwok Wah (D&amp;T)                                            </strong>Teacher
--<strong>&nbsp;Mr Ainsley Liew (Music) </strong>
-<br>Teacher -&nbsp;<strong>Mdm Lee Siew Yian (D&amp;T)</strong>
+<br>Teacher -&nbsp;<strong>Mr Soo Kwok Wah (D&amp;T)</strong>
+<br>Teacher –&nbsp;<strong>Mdm Lee Siew Yian (D&amp;T)</strong>
 <br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Tan Chin Eng</strong>
 <br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Zev Nuraqlan Bin Roslan</strong>
 </p>
@@ -43,35 +43,45 @@ take on the opportunities and challenges of the future.</p>
 <p>We celebrate artistic talent and excellence.</p>
 </li>
 </ul>
-<p><strong>Lower Secondary</strong>
+<p><strong>Lower Secondary Art Curriculum</strong>
 </p>
-<p>The lower secondary program will see students through an exciting introduction
-of both 2D and 3D art-making lessons. Skills taught include Still Life
-Drawing &amp; Painting, Figure Sketching, Mixed-media, Digital photography
-and Visual Art Appreciation. Apart from the acquisition of the various
-skills, the teaching also aims to inculcate a sense of observation, understanding,
-and appreciation of aesthetic values in nature and in our living environment.</p>
-<p>Learning Art does go beyond our classroom as our students are also involved
-in external visitations to art galleries, performances and art events that
-will give them a holistic understanding and appreciation of the arts and
-aesthetics.</p>
+<p>The Lower Secondary Art Programme provides students with an exciting introduction
+to art making. Through a variety of hands-on lessons, students will develop
+foundational skills in Still Life Drawing, Figure Sketching, Mixed Media,
+Digital Drawing, Digital Photography, and Visual Art Appreciation.</p>
+<p>&nbsp;</p>
+<p>Beyond technical proficiency, the programme aims to nurture students’
+ability to observe, interpret, and appreciate aesthetic values found in
+both nature and their daily surroundings.</p>
+<p>&nbsp;</p>
+<p>Learning in Art extends beyond the classroom. Students participate in
+learning journeys to art galleries, and attend performances and art related
+events, giving them authentic exposure to Singapore’s vibrant arts scene.
+These experiences foster a holistic understanding and appreciation of the
+arts and aesthetics, inspiring students to make meaningful connections
+between art and the world around them.</p>
+<p>&nbsp;</p>
+<p>The school’s strong commitment to art education has been recognised through
+its achievements at the Singapore Youth Festival (SYF) Art Exhibition,
+where our students received Special Mention Awards in 2018, 2022, and 2024.
+These accolades are a testament to the creativity, passion, and dedication
+of both our students and teachers.</p>
 <p><strong>Upper Secondary</strong>
 </p>
-<p>At the Upper Secondary Level, we focus on strengthening of skill, techniques
-and thought process of our students as well as developing familiarity in
-the use of materials to enhance visual communication and individual expression.
-Students are also encouraged to formulate their own visual understanding
-and appreciation through the Feldman’s approach and through an in depth
-Study Of Visual Arts (SOVA) which is offered as the third O level Art Paper.
-This gives flexibility to students opting for a written theory art paper.
-With all these artistic skills and knowledge imparted, our students are
-able to approach the rigours of the and O level Art Exam papers with better
-understanding and expectations in delivering their ideas across.</p>
+<p>At the Upper Secondary Level, we focus on strengthening of skills, techniques
+and the thought process of our students as well as developing familiarity
+in the use of materials to enhance visual communication and individual
+expression. Students are also encouraged to formulate their own visual
+understanding and appreciation through the Feldman’s approach and through
+an in depth Study Of Visual Arts (SOVA), which is offered as the third
+O level Art Paper. This gives flexibility to students opting for a written
+theory art paper. With all these artistic skills and knowledge imparted,
+our students are able to approach the rigours of the O level Art Exam papers
+with better understanding and expectations in delivering their ideas.</p>
 <p><strong>Summary of Art Curriculum</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -79,107 +89,72 @@ understanding and expectations in delivering their ideas across.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level</p>
+<p><strong>Level</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Instructional Program</p>
+<p><strong>Instructional Program</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Signature Program</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Other Program</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 1:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sculpture (3D)
-<br>Poster Design (2D)
-<br>Drawing and Painting
-<br>Inquiry Based Learning
-<br>SOVA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art workshops
-<br>- Paper cutting
-<br>- Batik Painting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Participation/ Exhibition (Artist and Citizenship)
-<br>
+<p><strong>Signature Program</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2:</p>
+<p><strong>Secondary 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D Robot Sculpture (3D)
-<br>Drawing &amp; Painting (2D)
-<br>Inquiry Based Learning
-<br>SOVA</p>
+<p><strong>- Digital Art</strong>
+</p>
+<p><strong>- Poster Design</strong>
+</p>
+<p><strong>- Drawing</strong>
+</p>
+<p><strong>- Inquiry-Based Learning</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artist Interaction and Exposure - Robots</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Participation/ Exhibition (Artist and Citizenship)
-<br>
+<p><strong>- Artist Interaction and Exposure (Art Gallery Learning Journey)</strong>
+</p>
+<p><strong>- Art Workshops / External Art Competitions</strong>
+</p>
+<p><strong>- SYF Participation / Exhibition (Artist and Citizenship)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outdoor Drawing
-<br>Drawing and Painting
-<br>Photography
-<br>SOVA
-<br>Inquiry Based Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collaboration with external organisation on art work (possible 8 feet
-by 4 feet) to be displayed
-<br>
+<p><strong>Secondary 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journey to National Gallery Singapore
-<br>SYF Participation/ Exhibition (Artist and Citizenship)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4 &amp; 5:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Excellence in Coursework Submission
-<br>SOVA
-<br>
+<p><strong>- Drawing</strong>
+</p>
+<p><strong>- Inquiry-Based Learning</strong>
+</p>
+<p><strong>- Study of Visual Arts (SOVA)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journey to National Gallery Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Participation/ Exhibition (Artist and Citizenship)</p>
+<p><strong>- Artist Interaction and Exposure (Art Gallery Learning Journey)</strong>
+</p>
+<p><strong>- Art Workshops / External Art Competitions</strong>
+</p>
+<p><strong>- SYF Participation / Exhibition (Artist and Citizenship)</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>D&amp;T Instructional Programme</h3>
-<p>In D&amp;T, students undertake different design projects which engages
-them in designing and prototyping ideas through the mind and hands. Through
+<p>In D&amp;T, students undertake different design projects which engage
+them in generating and prototyping ideas through the mind and hands. Through
 the design process, they understand human needs to create possibilities
 to make life better. It also develops in them skills that turn ideas into
-reality and values like mindfulness, empathy and sensitivity in the areas
+reality, and values like mindfulness, empathy and sensitivity in the areas
 of social, culture and environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnttt1.png">
@@ -188,32 +163,37 @@ of social, culture and environment.</p>
 </p>
 <p><strong>Lower Secondary</strong>
 </p>
-<p>In Lower Secondary, the program focuses in cultivating in students visual-spatial
+<p>In Lower Secondary, the program focuses on cultivating visual-spatial
 thinking through sketching, experimenting and prototyping using appropriate
 materials and basic hand tools, equipment and machines safely.&nbsp; Through
 the activities, students develop confidence and pride through turning ideas
 into physical objects.</p>
+<p>In the 2025 D&amp;T Awards, our project was awarded a Certificate of Commendation
+by the panel of judges.&nbsp; This was based not only on the students’
+design skills but also their ability to draw inspiration from nature to
+solve everyday problems.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt%20tttt2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DnT.png">
 </div>
 <p><strong>Upper Secondary</strong>
 </p>
-<p>In Upper Secondary, designing and making are dealt with at greater depth
-and scope.&nbsp; Students will learn how to do research to understand and
-define user needs, explore and develop design solutions, and prototype
-their ideas using appropriate work processes.&nbsp; In the process, pupils
-cultivate creative, critical and reflective thinking and develop design
-related dispositions and skills.</p>
+<p>In Upper Secondary, designing and making are dealt with in greater depth
+and scope.&nbsp; Students learn how to do research to understand and define
+user needs, explore and develop design solutions, and prototype their ideas
+using appropriate work processes.&nbsp; In the process, pupils cultivate
+creative, critical and reflective thinking and develop design related dispositions
+and skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt.png">
 </div>
-<h3>Food and Consumer Education (FCE) / Food &amp; Nutrition Science (F&amp;N) Instructional Programme</h3>
-<p>FCE and F&amp;N provide students with a broad understanding in nutrition
-and health, food literacy and principles of food science.&nbsp; The programme
-uses a structured approach to build students’ skills and attitudes to manage
-their lives for the present and the future.</p>
+<h3>Food and Consumer Education (FCE) / Nutrition &amp; Food Science (NFS) Instructional Programme</h3>
+<p>FCE and NFS provide students with a broad understanding in nutrition and
+health, food literacy, principles of food science and consumer literacy
+like financial literacy. The programme uses a structured approach to build
+students’ skills and attitudes to manage their lives for the present and
+the future.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fceeee!1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS.png">
 </div>
 <p><strong>At lower secondary, the FCE programme is designed for students to:</strong>
 </p>
@@ -226,7 +206,7 @@ needs of target groups.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/fceeeeeee2.png">
 </div>
-<p><strong>At upper secondary, the F&amp;N programme builds on the skills and attitudes from lower secondary to build students’ ability to:</strong>
+<p><strong>At upper secondary, the NFS programme builds on the skills and attitudes from lower secondary to build students’ ability to:</strong>
 </p>
 <p>• Lead a healthier lifestyle proactively through proper diet and nutrition.</p>
 <p>• Advocate sustainable food consumption by planning and making appropriate
@@ -236,10 +216,10 @@ and cooking.</p>
 <h3>Music Instructional Programme</h3>
 <p><strong>Lower Secondary</strong>
 </p>
-<p>The General Music Programme focuses on cultivating and developing our
-students’ skills and knowledge through providing them with direct experiences
+<p>The Lower Secondary Music Programme focuses on cultivating and developing
+our students’ skills and knowledge through providing them with direct experiences
 in the components of Listening and Music Making. Exposure to music of different
-genres help students develop an understanding of local and global cultures,
+genres helps students develop an understanding of local and global cultures,
 with an awareness and appreciation of the links between music and daily
 living. Our music making and performance modules involve students singing
 and playing instruments with expression and accurate technique. Students
@@ -276,7 +256,7 @@ work collaboratively through music making.</p>
 <p>Performing Arts-Based Learning (PABL) Learning Journey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethnic Music</p>
+<p>Music in Local and Global Cultures</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +269,7 @@ work collaboratively through music making.</p>
 <p>Musical instrument – Guitars</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Music – Garage Band</p>
+<p>Digital Music</p>
 </td>
 </tr>
 <tr>
