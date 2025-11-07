@@ -16,15 +16,15 @@ take on the opportunities and challenges of the future.</p>
 <br>Teacher -&nbsp;<strong>Mr Wong Chyng Shiau (FCE)</strong>
 <br>Teacher -&nbsp;<strong>Mdm Jamilah Bte Rati (FCE)</strong>
 <br>Teacher -&nbsp;<strong>Ms Jeslin Ang Hui Min (FCE)</strong>
-<br>Teacher -&nbsp;<strong>Ms Agnes David (FCE)                                         </strong>Teacher
-- <strong>Mr Ainsley Liew En-Li (Music)</strong>
+<br>Teacher -&nbsp;<strong>Ms Agnes David (FCE) </strong>
+<br>Teacher - <strong>Mr Ainsley Liew En-Li (Music)                                          </strong>
 <br>Teacher -&nbsp;<strong>Mr Izuan Bin Hussain Bagarib (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Sin Kum Sing Simon (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Roy Chew Hock Wu (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mr Soo Kwok Wah (D&amp;T)</strong>
 <br>Teacher -&nbsp;<strong>Mdm Lee Siew Yian (D&amp;T)</strong>
-<br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Tan Chin Eng</strong>
-<br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Zev Nuraqlan Bin Roslan</strong>
+<br>STEM Instructor (Workshop) -&nbsp;<strong>Mr Tan Chin Eng</strong>  <strong> </strong>STEM
+Instructor (Workshop) -&nbsp;<strong>Mr Zev Nuraqlan Bin Roslan</strong>  <strong>                 </strong>
 </p>
 <h3>Art Instructional Programme</h3>
 <p><strong>The 3 ‘E’ Framework</strong>
