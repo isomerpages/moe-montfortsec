@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our Montfort Family
 variant: markdown
 ---
-
 ![](/images/Montfort_Secondary_SMC_2025__1_.png)
 
 <div style="display: none;">
