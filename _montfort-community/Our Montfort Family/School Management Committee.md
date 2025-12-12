@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Our Montfort Family
 variant: markdown
 ---
-![](/images/Montfort_Secondary_SMC_2025__1_.png)
-
-<div style="display: none;">
-
-	
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -189,12 +184,12 @@ variant: markdown
 <p><strong>Member </strong>Mdm Sim Kwee Huang Agnes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Honorary Secretary/ Principal</strong>
+<p><strong> Secretary/ Principal</strong>
 <br><em>Montfort Secondary</em>
-<br>Mrs Janice Lim</p>
+<br>Mrs Rachel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Principal</strong>
+<p><strong> Secretary/ Principal</strong>
 <br><em>Montfort Junior</em>
 <br>Mr Victor Tan</p>
 </td>
@@ -232,4 +227,4 @@ variant: markdown
 </table>
 <p></p>
 	
-	</div>
+	
