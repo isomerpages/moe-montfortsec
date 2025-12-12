@@ -5,31 +5,35 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
+<h2>Mission</h2>
+<p>Critical thinkers and confident communicators who can analyse complex
+issues and express opinions clearly. Visionary leaders who inspire and
+work with others to achieve shared goals. Concerned citizens who use their
+talents to shed light on social challenges and serve the wider community.</p>
+<h2>Key Events</h2>
+<h4>Drama</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>re:ACT© Forum Theatre Festival</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation</p>
+</li>
+<li>
+<p>Teachers' Day Performance</p>
+</li>
+<li>
+<p>Racial Harmony Day Performance</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/drc1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_SYF.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/drc4.png">
-</div>
-<h3>Photo Gallery</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/drc5-min.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/drc6.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<h4>Debate</h4>
+<p>Singapore Secondary Schools Debate Championships (Division III)</p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
 <p></p>
