@@ -29,8 +29,23 @@ talents to shed light on social challenges and serve the wider community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_SYF.jpg">
 </div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_SYF_2.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Teachers_Day_Production.jpg">
+</div>
 <h4>Debate</h4>
 <p>Singapore Secondary Schools Debate Championships (Division III)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Debate_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Debate_1.jpg">
+</div>
 <p></p>
 <p></p>
 <p>
