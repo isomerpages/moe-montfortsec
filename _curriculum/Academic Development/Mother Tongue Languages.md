@@ -18,7 +18,6 @@ an understanding of our indigenous culture, and be global-ready citizens.</p>
 <br>Teacher – <strong>Ms Li Lanting</strong>
 <br>Teacher – <strong>Mr Ho Shang Yi</strong>
 <br>Teacher – <strong>Mr Lim Tze Hee</strong>
-<br>Teacher – <strong>Ms Zhong Xiaomei</strong>
 <br>Teacher – <strong>Mdm Norasikin Awang</strong>
 <br>Teacher – <strong>Mdm Jamilah Binte Syed Ahamed</strong>
 <br>Teacher – <strong>Mdm Gunasekaran Dhanalakshmi</strong>
@@ -103,14 +102,13 @@ through communicating their ideas confidently.</p>
 <p><strong>Online Learning</strong>
 </p>
 <p>To further enrich their learning experiences, online learning portals
-like iMTL portal and Google classroom are also extensively used for classroom
-learning. iMTL portal is targeted at promoting students’ interest and improve
-their competencies in mother tongue language through regular self-paced
-learning activities in an enriching web-based interactive environment.
-Students are able to input their thoughts and express themselves online
-through the hanyu pinyin input which aids them in learning oral presentation
-and interactive communication with the effective use of the portal during
-lessons.</p>
+like Student Learning Space (SLS) and Google Classroom are also extensively
+used for classroom learning. These platforms can promote students’ interest
+and improve their competencies in Mother Tongue Language through regular
+self-paced learning activities in an enriching web-based interactive environment.
+Students are able to input their thoughts and express themselves online,
+which aids them in learning oral presentation and interactive communication
+with the effective use of the portals during lessons.</p>
 <p><strong>Enrichment Activities</strong>
 </p>
 <p>We seek to build up and nurture in Montfortians the ability to communicate
