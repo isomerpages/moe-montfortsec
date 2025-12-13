@@ -8,16 +8,17 @@ variant: tiptap
 <h5><u>SALE OF TEXTBOOKS, STATIONERY &amp; ALTERNATIVE UNIFORM BY THE SCHOOL BOOKSHOP</u></h5>
 <p><strong><u>Textbooks and Stationery (from Booklist)</u></strong>
 </p>
-<p>The following are the Booklists for 2025 Secondary 1:</p>
+<p>The following are the Booklists for 2026 Secondary 1:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[Sec 1 G3 Booklist<a href="/files/Sec_1_G3_Booklist_and_Stationery_list.pdf" rel="noopener nofollow" target="_blank"> file</a>]</p>
+<p>[Sec 1 G3 Booklist <a href="/files/Sec1G3_2026.pdf" rel="noopener nofollow" target="_blank">file</a>]</p>
 </li>
 <li>
-<p>[Sec 1 G2 Booklist <a href="/files/Sec_1_G2_Booklist_and_Stationery_list.pdf" rel="noopener nofollow" target="_blank">file</a>]</p>
+<p>[Sec 1 G2 Booklist <a href="/files/Sec1G2_2026.pdf" rel="noopener nofollow" target="_blank">file</a>]</p>
 </li>
 <li>
-<p>[Sec 1 G1 Booklist <a href="/files/Sec_1_G1_Booklist_and_Stationery_list.pdf" rel="noopener nofollow" target="_blank">file]</a>
+<p>[Sec 1 G1 Booklist <a href="/files/Sec1G1_2026.pdf" rel="noopener nofollow" target="_blank">file</a>
+<a href="/files/Sec_1_G1_Booklist_and_Stationery_list.pdf" rel="noopener nofollow" target="_blank">]</a>
 </p>
 </li>
 </ul>
