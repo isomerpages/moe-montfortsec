@@ -3,15 +3,24 @@ title: 2026 Secondary 1 Orientation Programme
 permalink: /students/sec-1-onboarding/sec-1-orientation-programme-2026/
 description: ""
 third_nav_title: 2025 Secondary 1 Onboarding
-variant: markdown
+variant: tiptap
 ---
-##### Dear Parents/ Guardians, 
-
-1.  We warmly welcome your son/ward and you to the Montfortian family!
-2. More information on Sec 1 Orientation will be shared with you via Parent Gateway (PG) by 27 December 2024.
-3. More information on CCA experiences will be briefed to your son/ward on Friday,  3 January 2025.
-4. Please feel free to contact the following personnel in the table below should you have queries about Secondary One matters, Orientation matters or CCA matters.
-
-| Secondary 1 Year Head |  | Head of Department / Physical Education, Co-Curricular Activities |
-| -------- | -------- | -------- |
-| Ms Su Huimin (su_huimin@moe.edu.sg)| | Mr Faizan Muhamad Nor (faizan_muhamad_nor@moe.edu.sg)
+<h5>Dear Parents/ Guardians,</h5>
+<ol data-tight="true" class="tight">
+<li>
+<p>We warmly welcome your son/ward and you to the Montfortian family!</p>
+</li>
+<li>
+<p>More information on Sec 1 Orientation will be shared with you via Parent
+Gateway (PG) by 26 December 2025.</p>
+</li>
+<li>
+<p>More information on CCA experiences will be briefed to your son/ward on
+Friday, 6 January 2026.</p>
+</li>
+<li>
+<p>Parents are invited to the Campfire Night on 9 January 2026, 6.30 pm to
+8 pm. More information will be shared via PG</p>
+</li>
+</ol>
+<p></p>
