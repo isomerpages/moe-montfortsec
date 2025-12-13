@@ -8,8 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_onboarding_image.jpg">
 </div>
-<h4><strong><u>2025 SECONDARY 1 POSTING AND ONBOARDING</u></strong></h4>
-<p><strong><em>Please refer to&nbsp;[<a href="/files/2025_Sec1_Registration_Brief_Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 1 Onboarding Brief</a>]&nbsp;for administration information.</em></strong>
+<h4><strong><u>2026 SECONDARY 1 POSTING AND ONBOARDING</u></strong></h4>
+<p><strong><em>Please refer to [2026 Secondary 1 Onboarding Brief]&nbsp;&nbsp;for administration information.</em></strong>
 </p>
 <p><strong>Parents/Guardians of our Secondary 1 Montfortians, please check your MOE Parents Gateway (PG) daily for latest updates.</strong>
 </p>
@@ -25,6 +25,6 @@ installation guide.)</p>
 <p>please contact the school at 6510 7070.</p>
 </li>
 </ul>
-<p>If your son/ward is unable to report to school on 2 January 2025 due to
+<p>If your son/ward is unable to report to school on 2 January 2026 due to
 valid reasons, please contact the school after receiving his posting results
 to confirm his placement in the school.</p>
