@@ -1,25 +1,21 @@
 ---
 title: Full Subject Based Banding (FSBB)
 permalink: /students/sec-1-onboarding/fsbb/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: 2025 Secondary 1 Onboarding
 ---
-##### **STUDENTS OFFERED SUBJECTS AT A MORE DEMANDING LEVEL (SUBJECT BASED BANDING (SBB))**
-
-Students may be offered to take subjects (English Language, Mathematics, Mother Tongue Language and Science) at a more demanding level, if they meet the SBB eligibility criteria.
-
-A letter will be sent to parents via Parent Gateway (PG) by 21 December 2024. 
-Parents can accept the offer by giving consent via Parents Gateway.
-
-Parents and students of the 2025 S1 cohort can also go to the following websites for more information on **Full SBB:**
-
-i.	[MOE Full SBB microsite](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).  
-
-ii.	[Full SBB interactive webpage](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/interactive.html)
-
-If you have questions regarding Subject-Based Banding (SBB), you may send in your queries through email to
-
-| Ms Su Huimin  | Ms Norazidah |
-| -------- | -------- |
-| su_huimin@moe.edu.sg   | norazidah_abdol_aziz@moe.edu.sg|
+<h5><strong>STUDENTS OFFERED SUBJECTS AT A MORE DEMANDING LEVEL (SUBJECT BASED BANDING (SBB))</strong></h5>
+<p>Students may be offered to take subjects (English Language, Mathematics,
+Mother Tongue Language and Science) at a more demanding level, if they
+meet the SBB eligibility criteria.</p>
+<p>A letter will be sent to parents via Parent Gateway (PG) by 22 December
+2025. Parents can accept the offer by giving consent via Parents Gateway.</p>
+<p>Parents and students of the 2026 S1 cohort can also go to the following
+websites for more information on <strong>Full SBB:</strong>
+</p>
+<p>i. <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">MOE Full SBB microsite</a>.</p>
+<p>ii. <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/interactive.html" rel="noopener noreferrer nofollow" target="_blank">Full SBB interactive webpage</a>
+</p>
+<p></p>
+<p></p>
