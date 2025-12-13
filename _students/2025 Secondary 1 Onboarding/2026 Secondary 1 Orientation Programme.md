@@ -20,7 +20,7 @@ Friday, 6 January 2026.</p>
 </li>
 <li>
 <p>Parents are invited to the Campfire Night on 9 January 2026, 6.30 pm to
-8 pm. More information will be shared via PG</p>
+8 pm. More information will be shared via PG.</p>
 </li>
 </ol>
 <p></p>
