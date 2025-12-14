@@ -3,13 +3,8 @@ title: School Management Committee
 permalink: /montfort-community/montfort-family/school-management-committee/
 description: ""
 third_nav_title: Our Montfort Family
-variant: markdown
+variant: tiptap
 ---
-![](/images/Montfort_Secondary_SMC_2025__1_.png)
-
-<div style="display: none;">
-
-	
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -29,7 +24,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 53%;" height="auto" width="100%" src="/images/smc2.jpeg">
+<img style="width: 55%;" height="auto" width="100%" src="/images/smc2.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +85,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 56%;" height="auto" width="100%" src="/images/smc7.jpeg">
+<img style="width: 55%;" height="auto" width="100%" src="/images/smc7.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,17 +146,17 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 72%;" height="auto" width="100%" alt="" src="/images/Desiree_Tan__Professional_Photo.jpg">
+<img style="width: 66%;" height="auto" width="100%" alt="" src="/images/Desiree_Tan__Professional_Photo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Agnes_Professional_photo.jpg">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Agnes_Professional_photo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Janice_Lim_Webpage.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/P_Mrs_Lee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,12 +184,12 @@ variant: markdown
 <p><strong>Member </strong>Mdm Sim Kwee Huang Agnes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Honorary Secretary/ Principal</strong>
+<p><strong>Secretary/ Principal</strong>
 <br><em>Montfort Secondary</em>
-<br>Mrs Janice Lim</p>
+<br>Mrs Rachel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Principal</strong>
+<p><strong>Secretary/ Principal</strong>
 <br><em>Montfort Junior</em>
 <br>Mr Victor Tan</p>
 </td>
@@ -231,5 +226,3 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-	
-	</div>

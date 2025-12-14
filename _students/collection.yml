@@ -2,17 +2,13 @@ collections:
   students:
     output: true
     order:
-      - 2025 Sec 1, 2 and 3 Learning Review 3 Infosheets.md
-      - 2025 Sec 4E5N Preliminary Examinations.md
-      - 2025 Sec 4N Preliminary Examinations.md
-      - 2025 Learning Review Infosheets.md
       - 2025 Secondary 1 Onboarding/.keep
-      - 2025 Secondary 1 Onboarding/2025 Secondary 1 Posting and Onboarding.md
-      - 2025 Secondary 1 Onboarding/2025 Secondary 1 Appeals and Discretionary
+      - 2025 Secondary 1 Onboarding/2026 Secondary 1 Posting and Onboarding.md
+      - 2025 Secondary 1 Onboarding/2026 Secondary 1 Appeals and Discretionary
         Admissions.md
       - 2025 Secondary 1 Onboarding/Sale of School Attire.md
-      - 2025 Secondary 1 Onboarding/2025 Secondary 1 Book Lists.md
-      - 2025 Secondary 1 Onboarding/2025 Secondary 1 Orientation Programme.md
+      - 2025 Secondary 1 Onboarding/2026 Secondary 1 Book Lists.md
+      - 2025 Secondary 1 Onboarding/2026 Secondary 1 Orientation Programme.md
       - 2025 Secondary 1 Onboarding/Full Subject Based Banding (FSBB).md
       - 2025 Secondary 1 Onboarding/Parents' Gateway.md
       - 2025 Secondary 1 Onboarding/Parent Support Group (PSG).md
