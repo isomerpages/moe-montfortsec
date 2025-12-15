@@ -10,11 +10,21 @@ variant: tiptap
 good sportsmanship values such as Fair Play and Olympic values of Excellence,
 Friendship and Respect.</p>
 <h3>Our Team</h3>
-<p>Head of Department – <strong>Mr Whelan Chen Jianming </strong>Subject Head
-(PE/CCA) - <strong>Mr Caleb Wong Yong Zhao </strong>Teacher - <strong>Mr Muhammad Idris Bin Anwar</strong> Teacher
-- <strong>Mr Tan Eng Hwee </strong>Teacher - <strong>Ms Zhang Wenjie </strong>Teacher
+<p>Head of Department – <strong>Mr Whelan Chen Jianming                       </strong>Subject
+Head (PE/CCA) - <strong>Mr Caleb Wong Yong Zhao </strong>Teacher - <strong>Mr Muhammad Idris Bin Anwar</strong> Teacher
+- <strong>Mr Tan Eng Hwee                                                                  </strong>Teacher
+- <strong>Ms Zhang Wenjie                                                              </strong>Teacher
 - <strong>Mr Low Ying Hong Theodore</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/team_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_2.jpg">
+</div>
+<p></p>
 <h3>Instructional Programme</h3>
 <p>The Physical Education (PE) curriculum provides for a positive movement
 and healthy lifestyle experience and allows our students to develop the
@@ -486,9 +496,11 @@ school years, enabling them to pursue these sports as their life-long interest.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC_3.jpg">
 </div>
@@ -497,6 +509,7 @@ school years, enabling them to pursue these sports as their life-long interest.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC_2.jpg">
 </div>
