@@ -2,7 +2,7 @@
 title: 2026 Secondary 1 Book Lists
 permalink: /students/sec-1-onboarding/sec-1-booklists-2026/
 description: ""
-third_nav_title: 2025 Secondary 1 Onboarding
+third_nav_title: 2026 Secondary 1 Onboarding
 variant: tiptap
 ---
 <h5><u>SALE OF TEXTBOOKS, STATIONERY &amp; ALTERNATIVE UNIFORM BY THE SCHOOL BOOKSHOP</u></h5>

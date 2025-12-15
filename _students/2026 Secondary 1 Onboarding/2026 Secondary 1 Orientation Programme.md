@@ -2,7 +2,7 @@
 title: 2026 Secondary 1 Orientation Programme
 permalink: /students/sec-1-onboarding/sec-1-orientation-programme-2026/
 description: ""
-third_nav_title: 2025 Secondary 1 Onboarding
+third_nav_title: 2026 Secondary 1 Onboarding
 variant: tiptap
 ---
 <h5>Dear Parents/ Guardians,</h5>

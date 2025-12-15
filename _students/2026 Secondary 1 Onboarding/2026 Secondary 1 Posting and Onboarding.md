@@ -2,7 +2,7 @@
 title: 2026 Secondary 1 Posting and Onboarding
 permalink: /students/sec-1-onboarding/sec-1-onboarding/
 description: ""
-third_nav_title: 2025 Secondary 1 Onboarding
+third_nav_title: 2026 Secondary 1 Onboarding
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

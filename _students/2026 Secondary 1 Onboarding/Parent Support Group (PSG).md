@@ -2,7 +2,7 @@
 title: Parent Support Group (PSG)
 permalink: /students/Sec-1-Onboarding/parent-support-group/
 description: ""
-third_nav_title: 2025 Secondary 1 Onboarding
+third_nav_title: 2026 Secondary 1 Onboarding
 variant: tiptap
 ---
 <p>Dear Parents/Guardians</p>

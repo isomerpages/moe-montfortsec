@@ -3,7 +3,7 @@ title: Full Subject Based Banding (FSBB)
 permalink: /students/sec-1-onboarding/fsbb/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Secondary 1 Onboarding
+third_nav_title: 2026 Secondary 1 Onboarding
 ---
 <h5><strong>STUDENTS OFFERED SUBJECTS AT A MORE DEMANDING LEVEL (SUBJECT BASED BANDING (SBB))</strong></h5>
 <p>Students may be offered to take subjects (English Language, Mathematics,
