@@ -22,17 +22,17 @@ of learning environments, who is committed to continuous learning and excellence
 </li>
 </ul>
 <h3>Our Team</h3>
-<p><strong>Head of Department</strong> – Mdm Fong Mei Yi, Danielle
-<br><strong>Subject Head (Geography)</strong> – Mr Mansoor Bin Abdul Rahman
-<br><strong>Subject Head (Character and Citizenship Education</strong>) –
-Ms Ong Yew Yi Eve
-<br><strong>Senior Teacher (History)</strong> – Mrs Punitha Ramesh
-<br><strong>Senior Teacher (Social Studies)</strong> – Ms Jamie Low Guan Lin
-<br><strong>Teacher</strong> – Ms Leong Kar Wai Karen
-<br><strong>Teacher</strong> – Ms Bose Sayori
-<br><strong>Teacher</strong> – Mr Kwok Kar Hou Mathew <strong>Teacher</strong> -
-Ms Jeslin Ang Hui Min <strong>Teacher</strong> - Mdm Hasanah Hassan <strong>Teacher</strong> -
-Ms Nithya Selvaraju <strong>Teacher</strong> - Ms Nurul Aqilah Minhaj</p>
+<p>Head of Department – <strong>Mdm Fong Mei Yi, Danielle </strong>
+<br>Subject Head (Geography) – <strong>Mr Mansoor Bin Abdul Rahman </strong>
+<br>Subject Head (Character and Citizenship Education) – <strong>Ms Ong Yew Yi Eve </strong>
+<br>Senior Teacher (History) – <strong>Mrs Punitha Ramesh</strong> 
+<br>Senior Teacher (Social Studies) – <strong>Ms Jamie Low Guan Lin</strong> 
+<br>Teacher – <strong>Ms Leong Kar Wai Karen </strong>
+<br>Teacher – <strong>Ms Bose Sayori </strong>
+<br>Teacher – <strong>Mr Kwok Kar Hou Mathew </strong> Teacher - <strong>Ms Jeslin Ang Hui Min </strong> Teacher
+- <strong>Mdm Hasanah Hassan </strong> Teacher - <strong>Ms Nithya Selvaraju      </strong> Teacher
+- <strong>Ms Nurul Aqilah Minhaj</strong>
+</p>
 <h3>Instructional Programme</h3>
 <table style="minWidth: 75px">
 <colgroup>
