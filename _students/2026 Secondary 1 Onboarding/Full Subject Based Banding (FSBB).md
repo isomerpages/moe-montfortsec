@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Secondary 1 Onboarding
 ---
-<h5><strong>STUDENTS OFFERED SUBJECTS AT A MORE DEMANDING LEVEL (SUBJECT BASED BANDING (SBB))</strong></h5>
-<p>Students may be offered to take subjects (English Language, Mathematics,
-Mother Tongue Language and Science) at a more demanding level, if they
-meet the SBB eligibility criteria.</p>
+<h5><strong>STUDENTS OFFERED SUBJECTS AT A MORE DEMANDING LEVEL under Full SBB</strong>&nbsp;</h5>
+<p>Students may be offered to take&nbsp;English Language, Mother Tongue Languages,
+Mathematics and Science&nbsp;at a more demanding level if they meet the
+eligibility criteria.</p>
 <p>A letter will be sent to parents via Parent Gateway (PG) by 22 December
 2025. Parents can accept the offer by giving consent via Parents Gateway.</p>
 <p>Parents and students of the 2026 S1 cohort can also go to the following
