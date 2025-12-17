@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Secondary 1 Onboarding
 ---
-<h5><strong>STUDENTS OFFERED SUBJECTS AT A MORE DEMANDING LEVEL under Full SBB</strong>&nbsp;</h5>
+<h5><strong>STUDENTS OFFERED SUBJECTS AT A MORE DEMANDING LEVEL UNDER Full SBB</strong>&nbsp;</h5>
 <p>Students may be offered to take&nbsp;English Language, Mother Tongue Languages,
 Mathematics and Science&nbsp;at a more demanding level if they meet the
 eligibility criteria.</p>
