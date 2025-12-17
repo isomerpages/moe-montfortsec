@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please refer to the <a href="https://www.montfortsec.moe.edu.sg/students/sec-1-onboarding/sec-1-onboarding/" rel="noopener nofollow" target="_blank">link</a> for
+more information. Thank you.</p>
