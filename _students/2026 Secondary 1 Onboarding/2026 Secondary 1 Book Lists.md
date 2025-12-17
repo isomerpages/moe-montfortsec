@@ -50,8 +50,8 @@ details as follows:</p>
 </ul>
 <p><strong>The supplier will get in touch with you on the delivery date or self-collection date.</strong>
 </p>
-<p>The books are also on sale in our school. For December holidays, please
-refer to the booklist for the school bookshop opening dates.</p>
+<p>The books are also on sale in our school bookshop. The school bookshop
+will be open on 22, 23, 26 and 29 December 2025, from 9 am to 3.45 pm.</p>
 <p><strong><u>Alternative Uniform</u></strong>
 </p>
 <p>The bookshop sells our Alternative uniform that students may wear on Thursdays
