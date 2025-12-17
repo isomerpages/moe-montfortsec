@@ -16,7 +16,7 @@ Gateway (PG) by 26 December 2025.</p>
 </li>
 <li>
 <p>More information on CCA experiences will be briefed to your son/ward on
-Friday, 6 January 2026.</p>
+Tuesday, 6 January 2026.</p>
 </li>
 <li>
 <p>Parents are invited to the Campfire Night on 9 January 2026, 6.30 pm to
