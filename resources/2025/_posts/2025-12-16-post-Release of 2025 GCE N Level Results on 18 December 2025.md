@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<blockquote>
+<h4><strong>Congratulations to all on your ‘N’ Level Results. The </strong><a href="/files/N_Level_Student_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">briefing slides</a><strong> are appended here for your reference.</strong></h4>
+</blockquote>
+<p></p>
 <p>The N-Level Examination Results will be released on Thursday, 18 December
 2025, 2pm. Students are to return to school to receive their results.</p>
 <p>Please take note of the following:</p>
