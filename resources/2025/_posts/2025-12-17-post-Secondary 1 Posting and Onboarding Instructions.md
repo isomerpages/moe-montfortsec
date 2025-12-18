@@ -12,7 +12,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_onboarding_image.jpg">
 </div>
 <h4><strong><u>2026 SECONDARY 1 POSTING AND ONBOARDING</u></strong></h4>
-<p><strong><em>Please refer to [</em></strong><a href="/files/VER_3__2026_Sec_1_Onboarding_Brief_Final_VER3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Onboarding Brief</a><strong><em>]&nbsp;&nbsp;for administration information.</em></strong>
+<p><strong><em>Please refer to [</em></strong><a href="/files/VER_3__2026_Sec_1_Onboarding_Brief_Final_VER3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Onboarding Brief</a><strong><em>]&nbsp;and the </em></strong>
+<a href="https://www.montfortsec.moe.edu.sg/students/sec-1-onboarding/sec-1-onboarding/" rel="noopener nofollow" target="_blank">link</a><strong><em>&nbsp;for more administrative information.</em></strong>
 </p>
 <p><strong>Parents/Guardians of our Secondary 1 Montfortians, please check your MOE Parents Gateway (PG) daily for latest updates.</strong>
 </p>
