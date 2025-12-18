@@ -4,7 +4,7 @@ title: Montfort Secondary School
 description: Scholar. Sportsman. Gentleman. Leader. A Man for Others.
 image: /images/school_crest.png
 permalink: /
-notification: Scholar. Sportsman.Gentleman. Leader.   A Man for Others.
+notification: Scholar. Sportsman. Gentleman. Leader.   A Man for Others.
 sections:
   - hero:
       key_highlights:
