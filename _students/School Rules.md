@@ -136,40 +136,37 @@ for test and examination.)</p>
 </table>
 </li>
 </ul>
-<h2><strong>Handphone Policy</strong></h2>
-<ol data-tight="true" class="tight">
-<li>
-<p>All handphones must be switched off and always kept in the bag/locker
-during curriculum time.</p>
-</li>
-<li>
-<p>Students are only allowed to use their handphones</p>
+<h4><strong>Electronic Devices</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>during their recess and lunch breaks, and</p>
+<p>All electronic devices, including, tablets and mobile phones must be switched
+off and kept in the lockers during school hours so that teaching and learning
+will not be disrupted.</p>
 </li>
 <li>
-<p>only on the ground floor, and</p>
+<p>Students are not to use their electronic devices such as mobile phones,
+tablets and smartwatches during school hours (that is, from the start of
+morning assembly to the end of the last scheduled activity for the day),
+including recesses, study periods, additional lessons and CCAs, except
+when permission is granted by a teacher. Non-compliance will result in
+the confiscation of these devices.</p>
 </li>
 <li>
-<p>only in the canteen and areas before the canteen</p>
+<p>Parents/guardians will need to collect confiscated mobile phones and/or
+electronic devices from the school at a later date. For repeated offences,
+the mobile phone will be confiscated for at least one week before it can
+be collected by the student’s parent/guardian.</p>
+</li>
+<li>
+<p>Gaming devices are not to be brought to school.</p>
+</li>
+<li>
+<p>All students must agree to and comply with the school’s electronic device
+policy.</p>
 </li>
 </ul>
-</li>
-<li>
-<p>Should there be any breach of any of the above, the student’s handphone
-will be confiscated and can only be collected by the student’s parent/
-guardian at a later date.</p>
-</li>
-<li>
-<p>For repeated offences, the handphone will be confiscated for at least
-one week before it can be collected by the student’s parent/ guardian.</p>
-</li>
-<li>
-<p>Refusal to surrender the handphone when requested is considered as defiance.
-Consequences will be meted out for acts of defiance.&nbsp;</p>
-</li>
-</ol>
-<p>For more information, please download the school rules <a href="/files/School_Rules_Updated_2025.pdf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+<p>Students are to exercise due care and responsibility for the safekeeping
+of these devices. The school is not responsible or liable in any way for
+the loss of such items.</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
