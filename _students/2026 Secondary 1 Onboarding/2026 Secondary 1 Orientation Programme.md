@@ -11,7 +11,7 @@ variant: tiptap
 <p>We warmly welcome your son/ward and you to the Montfortian family!</p>
 </li>
 <li>
-<p>More information on Sec 1 Orientation will be shared with you via Parent
+<p>More information on Sec 1 Orientation will be shared with you via Parents
 Gateway (PG) by 26 December 2025.</p>
 </li>
 <li>
