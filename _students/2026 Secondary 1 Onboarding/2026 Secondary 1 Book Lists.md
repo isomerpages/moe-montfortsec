@@ -17,8 +17,7 @@ variant: tiptap
 <p>[Sec 1 G2 Booklist <a href="/files/Sec1G2_2026.pdf" rel="noopener nofollow" target="_blank">file</a>]</p>
 </li>
 <li>
-<p>[Sec 1 G1 Booklist <a href="/files/Sec1G1_2026.pdf" rel="noopener nofollow" target="_blank">file</a>
-<a href="/files/Sec_1_G1_Booklist_and_Stationery_list.pdf" rel="noopener nofollow" target="_blank">]</a>
+<p>[Sec 1 G1 Booklist <a href="/files/Sec1G1_2026.pdf" rel="noopener nofollow" target="_blank">file]</a>
 </p>
 </li>
 </ul>
