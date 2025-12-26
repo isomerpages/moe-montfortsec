@@ -10,7 +10,7 @@ third_nav_title: Our Montfort Family
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P_s_image.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/P_s_image.jpg">
 </div>
 <p></p>
 <p>Rooted in faith and guided by a rich educational tradition, Montfort Secondary
