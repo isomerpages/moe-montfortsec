@@ -52,7 +52,7 @@ ones.</p>
 </ul>
 <p>You may <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3>Overview of Montfort Secondary School's Sexuality Education Programme in 2025</h3>
+<h3>Overview of Montfort Secondary School's Sexuality Education Programme in 2026</h3>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -81,7 +81,7 @@ of the possible consequences of sexual behaviour.&nbsp;</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Montfort Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2025</u>:</strong>
+<p><strong>At Montfort Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <h3>Secondary 1</h3>
 <table style="minWidth: 125px">
@@ -138,7 +138,7 @@ online and offline.</p>
 in helpful ways that are reflective of our values and principles</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ there will be times when we make mistakes, and recognise the importance
 of exercising moral courage in facing up to consequences</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -296,7 +296,7 @@ nurses.</p>
 by gender stereotypes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -375,7 +375,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -412,10 +412,10 @@ of having sex with a minor, abortion and the abandonment of babies.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· recognise the importance of self-respect and respect for others in relating
-to members of the opposite gender</p>
+to members of the opposite sex</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -560,7 +560,7 @@ is normal and one can recover from the experience</p>
 <p></p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -606,7 +606,7 @@ weigh them against our own moral standpoints as we form our perspectives&nbsp;&n
 them</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -703,7 +703,7 @@ others’ values and principles, with regard to gender stereotypes.</p>
 and femininity vary over time and space, and are shaped by societal expectations</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -944,7 +944,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -977,17 +977,21 @@ and act in alignment with our beliefs</p>
 </tbody>
 </table>
 <h3>eTeens Programme</h3>
-<p>8. <em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
+<p>8. eTeens is a programme that was developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide Secondary 3
 students with accurate information on STIs, HIV and protection from a health
-perspective. eTeens is conducted in two segments – a mass talk segment
-and a classroom-based programme. The desired outcome of the eTeens programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. eTeens is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the eTeens programme is that students are empowered to make wise, informed
+and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family. Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Montfort Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At Montfort Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -1018,17 +1022,24 @@ family. Abstinence and upholding family values are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Raise awareness and provide knowledge on:</p>
-<p>(a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).
-<br>(b) Managing relationships and risky situations in a healthy way.
+<p></p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>Term 2 Week 7</p>
+<br>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -1042,7 +1053,7 @@ and consistent condom use).
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -1053,12 +1064,12 @@ eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.&nbsp;</p>
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/Sexuality_Education_Lessons_Opt_Out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by&nbsp;<strong>24/01/2025</strong>.&nbsp;</p>
+the start of the year and is also downloadable <a href="/files/Sexuality_Education_Lessons_Opt_Out_form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by&nbsp;<strong>16/01/2026</strong>.&nbsp;</p>
 <p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable <a href="/files/eTeens_Parents_Opt_out_Form__Sec__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
-completed form is to be submitted by&nbsp;<strong>24/01/2025</strong>.</p>
+the start of the year and is also downloadable <a href="/files/eTeens_Parents_Opt_out_Form__Sec__2026.pdf" rel="noopener nofollow" target="_blank">here</a>. The
+completed form is to be submitted by&nbsp;<strong>16/01/2026</strong>.</p>
 <p>13. Parents can contact the school at&nbsp;<a href="mailto:montfort_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">montfort_ss@moe.edu.sg</a>&nbsp;for
 discussion or to seek clarification about the school’s sexuality education
 programme.</p>
