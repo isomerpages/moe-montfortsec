@@ -493,6 +493,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hairul Nizam Bin Ramli</p>
+<p><a href="mailto:hairul_nizam_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hairul_nizam_ramli@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kim Huat</p>
@@ -506,13 +508,17 @@ variant: tiptap
 <p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Ali Bin Ghazali</p>
+<p>MuhammadAli Bin Ghazali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Chyng Shiau Kenny</p>
+<p><a href="mailto:wong_chyng_shiau@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chyng_shiau@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurul Aqilah Binte Minhaj</p>
+<p><a href="mailto:nurul_aqilah_minhaj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_aqilah_minhaj@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -521,9 +527,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Guan Lin, Jamie</p>
+<p><a href="mailto:low_guan_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_guan_lin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Ming Sheng, Daniel</p>
+<p><a href="mailto:koh_ming_sheng_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ming_sheng_daniel@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
