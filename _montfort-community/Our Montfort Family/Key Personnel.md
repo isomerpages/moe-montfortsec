@@ -31,10 +31,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Toh</p>
+<p>(<a href="mailto:toh_choon_kiat_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_choon_kiat_alvin@moe.edu.sg</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/ English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Kang Soon Leong Casimir </strong>(<a href="mailto:kang_soon_leong_casimir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang_soon_leong_casimir@moe.edu.sg</a>)</p>
+<p><strong>Ms Seah Wan Cheng </strong>(<a href="mailto:kang_soon_leong_casimir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_wan_cheng@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +83,7 @@ variant: tiptap
 <p>HOD/ Physical Education, Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Faizan Muhamad Nor </strong>(<a href="mailto:faizan_muhamad_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizan_muhamad_nor@moe.edu.sg</a>)</p>
+<p><strong>Mr Whelan Chen </strong>(<a href="mailto:whelan_chen_jianming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">whelan_chen_jianming@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -99,6 +108,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Beng Wah </strong>(<a href="mailto:lee_beng_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_beng_wah@moe.edu.sg</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/ Student Management (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wong Boon Chong Kenny </strong>(<a href="mailto:wong_boon_chong_kenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_boon_chong_kenny@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -155,14 +172,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Alvis Mazon Tan </strong>(<a href="mailto:alvis_mazon_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvis_mazon_tan@moe.edu.sg</a>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head/ Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Wong Boon Chong Kenny </strong>(<a href="mailto:wong_boon_chong_kenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_boon_chong_kenny@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
