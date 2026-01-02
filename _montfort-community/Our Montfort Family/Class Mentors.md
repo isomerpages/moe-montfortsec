@@ -498,6 +498,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kim Huat</p>
+<p><a href="mailto:lim_kim_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kim_huat@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
