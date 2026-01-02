@@ -28,3 +28,20 @@ installation guide.)</p>
 <p>If your son/ward is unable to report to school on 2 January 2026 due to
 valid reasons, please contact the school after receiving his posting results
 to confirm his placement in the school.</p>
+<p></p>
+<p><strong>Additional Information</strong>
+</p>
+<p>For more details on the following, please visit our website or use the
+dropdown menu:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sale of School Attire (<a href="https://www.montfortsec.moe.edu.sg/students/sec-1-onboarding/sale-of-school-attires/" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
+<p>2026 Secondary 1 Book Lists (<a href="https://www.montfortsec.moe.edu.sg/students/sec-1-onboarding/sec-1-booklists-2026/" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+<li>
+<p>2026 Secondary 1 Orientation Programme (<a href="https://www.montfortsec.moe.edu.sg/students/sec-1-onboarding/sec-1-orientation-programme-2026/" rel="noopener nofollow" target="_blank">Link</a>)</p>
+</li>
+</ul>
+<p></p>
