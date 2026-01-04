@@ -34,10 +34,10 @@ rings of the school’s colours encapsulating our core mission, <strong><em>To n
 &nbsp;This revitalised mission envisions nurturing well-rounded Montfortian
 who blends scientific excellence with sound values.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_1.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_01_at_9_16_22_PM.jpg">
+</div>
 <p><strong><u>eNdeavour</u></strong>
 </p>
 <p>At the pinnacle of the science department’s teaching and learning development
@@ -139,16 +139,15 @@ beyond the textbooks. Students are empowered learn at their time through
 augmented reality using their mobility devices.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_01_at_11_55_08_PM.jpg">
 </div>
 <p><strong><u>Vege-Pods, </u></strong>a portable urban farming concept that
 allows students to learn about farming in the new world and global warming.
 In addition, students are given opportunities to work with the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_01_at_9_20_15_PM.jpg">
 </div>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
 <h3></h3>
