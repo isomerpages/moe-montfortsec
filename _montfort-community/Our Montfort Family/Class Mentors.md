@@ -273,6 +273,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Kee Junwei</p>
+<p><a href="mailto:kee_jun_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kee_jun_wei@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tirunavukkarasu Poongodi</p>
@@ -402,7 +404,7 @@ variant: tiptap
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms KhairunnisaBte Yahya
+<p>Ms Khairunnisa Bte Yahya
 <br><a href="mailto:khairunnisa_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisa_yahya@moe.edu.sg</a>
 </p>
 </td>
@@ -511,7 +513,7 @@ variant: tiptap
 <p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MuhammadAli Bin Ghazali</p>
+<p>Muhammad Ali Bin Ghazali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Chyng Shiau Kenny</p>
