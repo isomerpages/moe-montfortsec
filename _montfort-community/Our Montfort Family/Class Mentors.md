@@ -263,8 +263,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lalitha d/o Ramasamy (Mrs Gunasagaran) <a href="mailto:gunasagaran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gunasagaran_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -301,9 +300,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Tze Hee</p>
-<p><a href="mailto:lim_tze_hee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_hee@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -340,8 +337,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Agnes David <a href="mailto:agnes_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">agnes_david@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
