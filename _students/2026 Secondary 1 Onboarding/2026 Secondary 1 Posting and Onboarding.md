@@ -28,3 +28,5 @@ installation guide.)</p>
 <p>If your son/ward is unable to report to school on 2 January 2026 due to
 valid reasons, please contact the school after receiving his posting results
 to confirm his placement in the school.</p>
+<p></p>
+<p></p>
