@@ -34,7 +34,8 @@ variant: tiptap
 <p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Toh</p>
+<p><strong>Mr Alvin Toh</strong>
+</p>
 <p>(<a href="mailto:toh_choon_kiat_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_choon_kiat_alvin@moe.edu.sg</a>)</p>
 </td>
 </tr>
@@ -84,14 +85,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Whelan Chen </strong>(<a href="mailto:whelan_chen_jianming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">whelan_chen_jianming@moe.edu.sg</a>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD/ Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Mun Shiun</strong> (<a href="mailto:mun_shiun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mun_shiun@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +180,8 @@ variant: tiptap
 <p>Subject Head/ Physical Education, Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Yong Zhao Caleb</p>
+<p><strong>Mr Wong Yong Zhao Caleb</strong>
+</p>
 <p><a href="mailto:wong_yong_zhao_caleb@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yong_zhao_caleb@moe.edu.sg</a>
 </p>
 </td>
