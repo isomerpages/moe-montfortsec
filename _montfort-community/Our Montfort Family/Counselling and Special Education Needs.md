@@ -18,6 +18,9 @@ variant: tiptap
 <br>Tel: 6510 7073
 <br>Email:&nbsp;<a href="mailto:bai_huiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bai_huiying@moe.edu.sg</a>
 </p>
+<p><strong>Ms Siti Nur Sa'iidah, School Counsellor                                      </strong>Tel:
+6510 7065 Email: <a href="mailto:siti_nur_saiidah_othman_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_saiidah_othman_a@moe.edu.sg</a>
+</p>
 <h3>Vision &amp; Mission</h3>
 <h4>Vision</h4>
 <p>We strive to build up strong relationships with our students and their
