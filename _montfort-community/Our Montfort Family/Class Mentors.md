@@ -397,9 +397,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Boon Chong, Kenny
-<br><a href="mailto:wong_boon_chong_kenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_boon_chong_kenny@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -502,9 +500,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Aqilah Binte Minhaj</p>
-<p><a href="mailto:nurul_aqilah_minhaj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_aqilah_minhaj@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
