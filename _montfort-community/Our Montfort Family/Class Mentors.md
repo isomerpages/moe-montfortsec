@@ -98,9 +98,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Afifah Binte Zulkhairi</p>
-<p><a href="mailto:nurul_afifah_zulkhairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_afifah_zulkhairi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -222,9 +220,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Tze Jay</p>
-<p><a href="mailto:tay_tze_jay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_tze_jay@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -240,9 +236,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Spencer Lim Xiao Nan</p>
-<p><a href="mailto:spencer_lim_xiao_nan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">spencer_lim_xiao_nan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -295,9 +289,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kristel Soh Rei</p>
-<p><a href="mailto:kristel_soh_rei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kristel_soh_rei@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -459,9 +451,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Lai Zhu En</p>
-<p><a href="mailto:joanne_lai_zhu_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_lai_zhu_en@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -477,9 +467,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Megan Arty Prem</p>
-<p><a href="mailto:megan_arty_prem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">megan_arty_prem@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -532,9 +520,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Ming Sheng, Daniel</p>
-<p><a href="mailto:koh_ming_sheng_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ming_sheng_daniel@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -641,13 +627,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yuan Chun Quenton
-<br><a href="mailto:tan_yuan_chun_quenton@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yuan_chun_quenton@moe.edu.sg</a>
+<p>Mr Soo Kwok Wah <a href="mailto:soo_kwok_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_kwok_wah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soo Kwok Wah <a href="mailto:soo_kwok_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_kwok_wah@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
