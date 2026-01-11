@@ -125,7 +125,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MARK TAY TECK CHYE
+<p>MR MARK TAY TECK CHYE
 <br>
 </p>
 </td>
@@ -142,7 +142,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHARLES NG KOK WEE</p>
+<p>MR CHARLES NG KOK WEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairman
@@ -159,7 +159,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NGAN SWEE HENG</p>
+<p>MR NGAN SWEE HENG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hon Treasurer
@@ -187,7 +187,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JANICE LIM</p>
+<p>MRS RACHEL LIM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary/ Principal (MSS)</p>
@@ -198,7 +198,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VICTOR TAN</p>
+<p>MR VICTOR TAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary/ Principal (MJS)</p>
@@ -209,7 +209,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RAJESH SREENIVASAN</p>
+<p>MR RAJESH SREENIVASAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -220,18 +220,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LIM WAN TECK DARREN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 April 2016 to 28 March 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DENNIS HO YEOW VONG</p>
+<p>MR DENNIS HO YEOW VONG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -242,7 +231,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DAVID WOON</p>
+<p>MR DAVID WOON</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -253,7 +242,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TEO CHEN TUAN FABIAN</p>
+<p>MR TEO CHEN TUAN FABIAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -264,7 +253,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DAVID LYE PAK SUN</p>
+<p>MR DAVID LYE PAK SUN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -275,7 +264,7 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LIM LEI NORE</p>
+<p>MDM LIM LEI NORE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
@@ -284,10 +273,32 @@ Arts through our 3 "E" Approach (Exposure, Expression &amp; Excellence).</p>
 <p>8 April 2021 to 31 March 2026</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MDM TAN PHAI LIN GRACE DESIREE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 April 2025 to 31 March 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MDM SIM KWEE HUANG AGNES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 June 2025 to 31 March 2026</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Key Employees</strong>&nbsp;</p>
-<p>Mrs Janice Lim, Principal of Montfort Secondary School</p>
+<p>Mrs Rachel Lee, Principal of Montfort Secondary School</p>
 <p><strong>Auditor</strong>
 </p>
 <p>Assurance Partners LLP</p>
