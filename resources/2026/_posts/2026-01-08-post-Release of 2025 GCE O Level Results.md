@@ -21,7 +21,8 @@ Proxies are required to produce the relevant documents for the school's
 verification when collecting the results. Students may contact their Class
 Mentors for assistance if they are unable to appoint a proxy.</p>
 <p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
-more details.&nbsp;</p>
+more details.&nbsp;The briefing slides can be found <a href="/files/2026_Result_release_for_2025_O_Level.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p>For parents who are driving, please park at the nearby HDB carparks around
 the school. Thank you.&nbsp;&nbsp;</p>
 <p>Thank you for your help and support for this matter and on the day of
