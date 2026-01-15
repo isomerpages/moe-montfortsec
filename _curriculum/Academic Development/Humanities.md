@@ -29,8 +29,8 @@ of learning environments, who is committed to continuous learning and excellence
 <br>Senior Teacher (Social Studies) – <strong>Ms Jamie Low Guan Lin</strong> 
 <br>Teacher – <strong>Ms Leong Kar Wai Karen </strong>
 <br>Teacher – <strong>Ms Bose Sayori </strong>
-<br>Teacher – <strong>Mr Kwok Kar Hou Mathew </strong> Teacher - <strong>Ms Jeslin Ang Hui Min </strong> Teacher
-- <strong>Mdm Hasanah Hassan </strong> Teacher - <strong>Ms Nithya Selvaraju      </strong> Teacher
+<br>Teacher – <strong>Mr Kwok Kar Hou Mathew                                                 </strong>Teacher
+- <strong>Ms Nithya Selvaraju                                                              </strong>Teacher
 - <strong>Ms Nurul Aqilah Minhaj</strong>
 </p>
 <h3>Instructional Programme</h3>
