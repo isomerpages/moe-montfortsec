@@ -23,9 +23,8 @@ write, through a diversity of learning experiences.</p>
 </li>
 </ul>
 <h3>Our Team</h3>
-<p>Head of Department&nbsp; –&nbsp;<strong>Mr Kang Soon Leong Casimir</strong>
+<p>Head of Department –&nbsp;<strong>Ms Seah Wan Cheng</strong>
 <br>Head of Department / Special Educational Needs (SEN)&nbsp; –&nbsp;<strong>Mr Lee Beng Wah</strong>
-<br>Senior Teacher (Music) –&nbsp;<strong>Ms Chua Jing Lin Eunice</strong>
 <br>Teacher –&nbsp;<strong>Mr Ainsley Liew</strong>
 <br>Teacher –&nbsp;<strong>Mr Azman Bin Akmad</strong>
 <br>Teacher -&nbsp;<strong>Mr Brendan Hoe Qing En</strong>
@@ -36,7 +35,6 @@ write, through a diversity of learning experiences.</p>
 <br>Teacher -&nbsp;<strong>Ms Yogeswari Elangovan</strong>
 <br>Teacher -&nbsp;<strong>Ms Lo Cai Yue Brenda</strong>
 <br>Teacher -&nbsp;<strong>Ms Gan Jia Lin</strong>
-<br>Teacher –&nbsp;<strong>Mr Azahar Bin Mohamed</strong>
 </p>
 <h3>Instructional Programme</h3>
 <div class="isomer-image-wrapper">
