@@ -9,6 +9,8 @@ variant: tiptap
 <p>To develop Montfortians to be analytical thinkers through problem solving
 and the mastery of mathematical skill.</p>
 <h3>Our Team</h3>
+<p>Head of department- <strong>Mr Alvin Toh     </strong> 
+</p>
 <p>Subject Head – <strong>Ms Cynthia Chua </strong>
 <br>Head of Department / Information &amp; Communications Technology – <strong>Mr Tang Chee Hung</strong>
 <br>Year Head – <strong>Ms Norazidah Abdol Aziz</strong>
@@ -17,12 +19,8 @@ and the mastery of mathematical skill.</p>
 <br>Teacher –&nbsp;<strong>Mr Pang Jun Yi</strong>
 <br>Teacher –&nbsp;<strong>Mr Hairul Nizam Bin Ramli</strong>
 <br>Teacher -&nbsp;<strong>Ms Latha D/O Murugiah</strong>
-<br>Teacher -&nbsp;<strong>Ms Teo Wan Lin Jocelyn</strong>
 <br>Teacher -&nbsp;<strong>Mr Ranon Mak Enhao</strong>
-<br>Teacher -&nbsp;<strong>Mr Kek Liok Ken Michael </strong>
-<br>Teacher -&nbsp;<strong>Mr Toh Kai Wang, Justin (Principles of Accounts)</strong>
 <br>Teacher –&nbsp;<strong>Mdm Norshirin Sulaiman (Principles Of Accounts)</strong>
-<br>Teacher -&nbsp;<strong>Mdm V Santhi (Principles of Accounts)</strong>
 </p>
 <h2>Instructional Programme</h2>
 <p>Our Mathematics Department strives to develop students to be self-directed
