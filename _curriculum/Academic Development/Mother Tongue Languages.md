@@ -18,7 +18,6 @@ an understanding of our indigenous culture, and be global-ready citizens.</p>
 <br>Teacher – <strong>Ms Li Lanting</strong>
 <br>Teacher – <strong>Mr Ho Shang Yi</strong>
 <br>Teacher – <strong>Mr Lim Tze Hee</strong>
-<br>Teacher – <strong>Mdm Norasikin Awang</strong>
 <br>Teacher – <strong>Mdm Jamilah Binte Syed Ahamed</strong>
 <br>Teacher – <strong>Mdm Gunasekaran Dhanalakshmi</strong>
 <br>Teacher – <strong>Mdm Tirunavukkarasu Poongodi</strong>
