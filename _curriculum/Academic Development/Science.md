@@ -15,8 +15,6 @@ Conviction.</p>
 <br>Head Of Department / Character &amp; Citizenship Education –<strong>Mrs&nbsp;Tan-Yeo Su Lynn Jaime</strong>
 <br>Subject Head / Information &amp; Communications Technology- <strong>Mr Alvis Mazon Tan</strong>
 <br>Senior Teacher (Biology) –&nbsp;<strong>Mr Azman Bin Hussin</strong>
-<br>Teacher –&nbsp;<strong>Ms Chew Kit Har</strong>
-<br>Teacher -&nbsp; <strong>Mr Chia Yong Koon</strong>
 <br>Teacher –&nbsp;<strong>Mdm Khairunnisa Bte Yahya</strong>
 <br>Teacher –&nbsp;<strong>Mr Js Sasikumar</strong>
 <br>Teacher –&nbsp;<strong>Mr Lim Kim Huat</strong>
@@ -24,7 +22,6 @@ Conviction.</p>
 <br>Teacher -&nbsp;<strong>Mr Lucas Tang An Sheng</strong>
 <br>Teacher –&nbsp;<strong>Dr Wong De Wei Shawn</strong>
 <br>Teacher –&nbsp;<strong>Mr Chew Hui Jie</strong>
-<br>STEM Instructor (Laboratory) –&nbsp;<strong>Ms Lee Boy San</strong>
 <br>STEM Instructor (Laboratory) –&nbsp;<strong>Mdm Roslne Binte Karsani</strong>
 <br>STEM Instructor (Laboratory) –&nbsp;<strong>Mr Thomas Ang Juay Theng</strong>
 </p>
