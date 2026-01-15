@@ -10,12 +10,10 @@ variant: tiptap
 take on the opportunities and challenges of the future.</p>
 <h3>Our Team</h3>
 <p>Head of Department -&nbsp;&nbsp;<strong>Mr Tan Hock Ann</strong>
-<br>Senior Teacher (Music) -&nbsp;<strong>Ms Chua Jing Lin Eunice</strong>
 <br>Teacher -&nbsp;<strong>Mr Khairyl B Hashim (Art)</strong>
 <br>Teacher -&nbsp;<strong>Ms Rafidah Binte Muhammad Nasir (Art)</strong>
 <br>Teacher -&nbsp;<strong>Mr Wong Chyng Shiau (FCE)</strong>
 <br>Teacher -&nbsp;<strong>Mdm Jamilah Bte Rati (FCE)</strong>
-<br>Teacher -&nbsp;<strong>Ms Jeslin Ang Hui Min (FCE)</strong>
 <br>Teacher –&nbsp;<strong>Ms Agnes David (FCE)</strong>
 <br>Teacher -&nbsp;<strong>Mr Ainsley Liew En-Li (Music)</strong>
 <br>Teacher -&nbsp;<strong>Mr Izuan Bin Hussain Bagarib (D&amp;T)</strong>
