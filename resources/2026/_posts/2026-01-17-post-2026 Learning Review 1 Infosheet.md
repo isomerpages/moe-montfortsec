@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The Infosheet for 2026 Learning Review 1 is available for reference:</p>
+<p>The Infosheets for 2026 Learning Review 1 are available for reference:</p>
 <p></p>
 <p><strong>Secondary 1: </strong><a href="/files/2026_Secondary_1_Learning_Review_1_Infosheet.pdf" rel="noopener nofollow" target="_blank">Sec 1_LR1_Infosheet</a>
 </p>
