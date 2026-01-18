@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chee Yunn Tyan</p>
-<p><a href="mailto:chee_yunn_tyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_yunn_tyan_1@moe.edu.sg</a>
+<p><a href="mailto:chee_yunn_tyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_yunn_tyan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
