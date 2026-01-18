@@ -179,8 +179,9 @@ more details.</p>
 Mentors and then contact Acer for professional assistance. Click <a href="https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 the device contractor (Acer)'s information.</p>
 <h3>Loss of PLD</h3>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lostpld.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP.png">
 </div>
 <h3>Supporting Resources</h3>
 <p>Parents/guardians play a crucial role in guiding your child/ward to use
