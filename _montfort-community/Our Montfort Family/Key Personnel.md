@@ -258,14 +258,6 @@ variant: tiptap
 <p><strong>Ms Jamie Low Guan Lin </strong>(<a href="mailto:low_guan_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_guan_lin@moe.edu.sg</a>)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/ Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Eunice Chua Jing Lin </strong>(<a href="mailto:chua_jing_lin_eunice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_lin_eunice@moe.edu.sg</a>)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
