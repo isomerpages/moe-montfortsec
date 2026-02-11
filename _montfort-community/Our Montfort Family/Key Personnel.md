@@ -44,7 +44,7 @@ variant: tiptap
 <p>HOD/ English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Seah Wan Cheng </strong>(<a href="mailto:kang_soon_leong_casimir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_wan_cheng@moe.edu.sg</a>)</p>
+<p><strong>Ms Seah Wan Cheng </strong>(<a href="seah_wan_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">seah_wan_cheng@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
