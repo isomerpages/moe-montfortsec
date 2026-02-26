@@ -176,10 +176,12 @@ more details.</p>
 <h2>Additional Information</h2>
 <h3>Acer Service Centre Contact Details</h3>
 <p>If the PLD is malfunctioning and requires repairs, please notify the Class
-Mentors and then contact Acer for professional assistance. Click <a href="https://drive.google.com/file/d/1YS3ONNGQuJhtZittLbcxINATk4QDhlEA/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-the device contractor (Acer)'s information.</p>
+Mentors and then approach Acer service center for professional assistance.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACER_NEW.png">
+</div>
 <h3>Loss of PLD</h3>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP.png">
 </div>
