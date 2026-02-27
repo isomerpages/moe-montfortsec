@@ -73,15 +73,19 @@ for the&nbsp; AUP in school.</p>
 <p><strong>The cost of the device bundle can be paid using your child’s Edusave account</strong>,
 after setting aside provision for payment of second-tier miscellaneous
 fees.</p>
-<p>To ensure the affordability of devices, MOE has provided Edusave top-ups
-of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students
-in primary and secondary schools. This is on top of the annual Edusave
-contribution of $290 for secondary school students and $230 for primary
-school students.</p>
+<p>Students who are Singapore citizens can use their Edusave to pay fully
+or partly for the PLD, after setting aside provision for payment of miscellaneous
+fees. Parents/Guardians can also choose to pay cash for the PLD.</p>
+<p>MOE has provided Edusave top-ups from 2020 to 2023 to all eligible Singaporean
+students in primary and secondary schools. In 2025, MOE provided a $500
+Edusave top-up for students aged 13-16 years old. This is on top of the
+annual Edusave contribution of $290 for secondary school students and $230
+for primary school students.</p>
 <p>For students on MOE-FAS, subsidies are available even if there is insufficient
 Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subsidy_Eligibility_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subsidy_2026_PLD.png">
 </div>
 <p>For more details on financial assistance, please approach the school.&nbsp;</p>
 <h3>What's Next?</h3>
@@ -103,7 +107,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 14 Jan 2025</p>
+<p>By 26 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parental Consent for purchase</p>
@@ -111,7 +115,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 March (Scheduled)</p>
+<p>31 Mar 2026 (Scheduled)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Collection of Device</p>
@@ -137,7 +141,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 14 Jan 2025</p>
+<p>By 26 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parental Consent for purchase</p>
@@ -145,7 +149,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 6 Mar 2025</p>
+<p>By 6 Mar 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Payment via GIRO</p>
@@ -153,7 +157,7 @@ Edusave balance. The cash out-of-pocket will be $0.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 6 Mar 2025</p>
+<p>By 6 Mar 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For cash paying students, payment to be made via AXS kiosks, AXS e-station
@@ -165,7 +169,7 @@ more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 March (Scheduled)</p>
+<p>31 Mar 2026 (Scheduled)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Collection of Device</p>
