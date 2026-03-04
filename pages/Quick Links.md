@@ -10,4 +10,4 @@ variant: markdown
 
 [Students](https://montfortsec.moe.edu.sg/students/sec-1-onboarding/sec-1-onboarding/)
 
-[School Canteen Advertisement] 
+[School Canteen Advertisement][](/files/Application_for_Canteen_Stall_2.pdf)
