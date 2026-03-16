@@ -336,7 +336,8 @@ stones to mastery."</p>
 <p><strong>Mr Azman Bin Hussin </strong>(<a href="mailto:azman_hussin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azman_hussin@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"In every classroom, curiosity should be as essential as oxygen."</em>
+</p>
 </td>
 </tr>
 <tr>
