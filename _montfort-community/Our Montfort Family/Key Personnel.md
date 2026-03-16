@@ -48,7 +48,7 @@ variant: tiptap
 <p>(<a href="mailto:toh_choon_kiat_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_choon_kiat_alvin@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Every student can learn. </em>
+<p><em>Every student can learn.</em>
 </p>
 </td>
 </tr>
@@ -131,7 +131,7 @@ variant: tiptap
 <p><strong>Ms Yeo Su Lynn Jaime </strong>(<a href="mailto:yeo_su_lynn_jaime@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_su_lynn_jaime@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Education is not merely the transmission of information, but the transformation of individuals.  <br></em>
+<p><em>Education is not merely the transmission of information, but the transformation of individuals. <br></em>
 </p>
 </td>
 </tr>
