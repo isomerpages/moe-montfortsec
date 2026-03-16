@@ -155,7 +155,10 @@ variant: tiptap
 <p><strong>Mr Wong Boon Chong Kenny </strong>(<a href="mailto:wong_boon_chong_kenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_boon_chong_kenny@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Discipline is the foundation of education. Through strong relationships and values, teachers don’t just shape minds, we shape lives.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -299,7 +302,7 @@ variant: tiptap
 <p><strong>Mdm Mary Yap Pei Imm </strong>(<a href="mailto:mary_yap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mary_yap@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education is not preparation for life; it is life itself."</p>
 </td>
 </tr>
 <tr>
@@ -310,7 +313,8 @@ variant: tiptap
 <p><strong>Mr Ng Hon Yew Alvin </strong>(<a href="mailto:ng_hon_yew_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hon_yew_alvin@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Learning thrives in an environment where mistakes are celebrated as stepping
+stones to mastery."</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +325,7 @@ variant: tiptap
 <p><strong>Mr Uthayakumar Ratnam </strong>(<a href="mailto:uthayakumar_ratnam_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">uthayakumar_ratnam_a@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education's highest purpose is to nurture both character and competence."</p>
 </td>
 </tr>
 <tr>
