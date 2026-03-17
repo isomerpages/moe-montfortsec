@@ -22,7 +22,8 @@ Administration), <strong>Mrs Rachel Lee </strong>(Principal), <strong>Mrs Audrey
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
+<p><strong>Principal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rachel Lee</p>
