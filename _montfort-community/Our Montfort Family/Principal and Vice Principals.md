@@ -41,7 +41,7 @@ Administration), <strong>Mrs Rachel Lee </strong>(Principal), <strong>Mrs Audrey
 <p>Mr James Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Education should empower students to understand themselves and the society they live in, and to see learning as a means for personal growth and social responsibility. Teaching, to me, is about helping students develop the values, critical awareness, and agency to improve both themselves and the communities they belong to. </em>
+<p><em>Education should empower students to understand themselves and the society they live in, and to see learning as a means for personal growth and social responsibility. Teaching, to me, is about helping students develop the values, critical awareness, and agency to improve both themselves and the communities they belong to.</em>
 </p>
 </td>
 </tr>
