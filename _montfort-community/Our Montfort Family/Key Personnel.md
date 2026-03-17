@@ -84,7 +84,8 @@ variant: tiptap
 <p><strong>Mr Yu Yang Ming Ernest </strong>(<a href="mailto:yu_yang_ming_ernest@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yang_ming_ernest@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>"True education empowers students to question, explore, and transform their world."</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -155,9 +156,7 @@ variant: tiptap
 <p><strong>Mr Wong Boon Chong Kenny </strong>(<a href="mailto:wong_boon_chong_kenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_boon_chong_kenny@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>&nbsp;</em>
-</p>
-<p><em>Discipline is the foundation of education. Through strong relationships and values, teachers don’t just shape minds, we shape lives.</em>
+<p><em>&nbsp;Discipline is the foundation of education. Through strong relationships and values, teachers don’t just shape minds, we shape lives.</em>
 </p>
 </td>
 </tr>
@@ -241,7 +240,8 @@ variant: tiptap
 <p><strong>Mr Alvis Mazon Tan </strong>(<a href="mailto:alvis_mazon_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvis_mazon_tan@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>We teach who we are.</em>
+</p>
 </td>
 </tr>
 <tr>
