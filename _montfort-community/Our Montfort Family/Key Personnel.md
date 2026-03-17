@@ -240,7 +240,7 @@ variant: tiptap
 <p><strong>Mr Alvis Mazon Tan </strong>(<a href="mailto:alvis_mazon_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvis_mazon_tan@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>We teach who we are.</em>
+<p><em>LEARN. UNLEARN. RELEARN</em>
 </p>
 </td>
 </tr>
@@ -302,7 +302,8 @@ variant: tiptap
 <p><strong>Mdm Mary Yap Pei Imm </strong>(<a href="mailto:mary_yap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mary_yap@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Education is not preparation for life; it is life itself."</p>
+<p>"True education empowers students to question, explore, and transform
+their world."</p>
 </td>
 </tr>
 <tr>
