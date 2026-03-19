@@ -84,7 +84,7 @@ variant: tiptap
 <p><strong>Mr Yu Yang Ming Ernest </strong>(<a href="mailto:yu_yang_ming_ernest@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yang_ming_ernest@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"True education empowers students to question, explore, and transform their world."</em>
+<p><em>True education empowers students to question, explore, and transform their world.</em>
 </p>
 </td>
 </tr>
@@ -242,6 +242,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>LEARN. UNLEARN. RELEARN</em>
 </p>
+<p></p>
+<p><em>I enable my students to thrive in a BANI (Brittle, Anxious, Non-linear, Incomprehensible) world by guiding them to learn, unlearn, and relearn. I support them in building strong foundations and embracing novel ways of thinking to nurture them to be resilient, adaptable and be the best for the world.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -363,6 +366,16 @@ stones to mastery."</p>
 <td rowspan="1" colspan="1">
 <p><em>“Education is the kindling of a flame, not the filling of a vessel." — Socrates</em>
 </p>
+<p>This quote reflects my belief that the purpose of education goes beyond
+academic achievement. It is about nurturing inquisitive minds, building
+character, and preparing students to contribute meaningfully to society.
+I see my role as both an instructor and a mentor, supporting students academically
+while also guiding them in values and civic responsibility. Ultimately,
+I aim to create an inclusive, student-centered classroom where critical
+thinking, collaboration, and creativity are valued alongside perseverance
+and respect. Through inquiry-based learning, real-world connections, and
+reflective practices, I hope to ignite a passion for learning that extends
+beyond textbooks and examinations.</p>
 </td>
 </tr>
 <tr>
