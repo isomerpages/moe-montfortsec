@@ -242,6 +242,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><em>LEARN. UNLEARN. RELEARN</em>
 </p>
+<p></p>
+<p>I enable my students to thrive in a BANI (Brittle, Anxious, Non-linear,
+Incomprehensible) world by guiding them to learn, unlearn, and relearn.
+I support them in building strong foundations and embracing novel ways
+of thinking. Through this, they grow into resilient, adaptable, and future-ready
+learners.</p>
 </td>
 </tr>
 <tr>
