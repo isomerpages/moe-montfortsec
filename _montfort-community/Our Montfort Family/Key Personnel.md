@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ Special Education Needs</p>
+<p>HOD/ Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Beng Wah </strong>(<a href="mailto:lee_beng_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_beng_wah@moe.edu.sg</a>)</p>
