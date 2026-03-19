@@ -363,6 +363,16 @@ stones to mastery."</p>
 <td rowspan="1" colspan="1">
 <p><em>“Education is the kindling of a flame, not the filling of a vessel." — Socrates</em>
 </p>
+<p>This quote reflects my belief that the purpose of education goes beyond
+academic achievement. It is about nurturing inquisitive minds, building
+character, and preparing students to contribute meaningfully to society.
+I see my role as both an instructor and a mentor, supporting students academically
+while also guiding them in values and civic responsibility. Ultimately,
+I aim to create an inclusive, student-centered classroom where critical
+thinking, collaboration, and creativity are valued alongside perseverance
+and respect. Through inquiry-based learning, real-world connections, and
+reflective practices, I hope to ignite a passion for learning that extends
+beyond textbooks and examinations.</p>
 </td>
 </tr>
 <tr>
