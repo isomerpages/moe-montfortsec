@@ -84,7 +84,7 @@ variant: tiptap
 <p><strong>Mr Yu Yang Ming Ernest </strong>(<a href="mailto:yu_yang_ming_ernest@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yang_ming_ernest@moe.edu.sg</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"True education empowers students to question, explore, and transform their world."</em>
+<p><em>True education empowers students to question, explore, and transform their world.</em>
 </p>
 </td>
 </tr>
