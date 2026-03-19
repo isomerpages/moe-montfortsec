@@ -52,16 +52,18 @@ Administration), <strong>Mrs Rachel Lee </strong>(Principal), <strong>Mrs Audrey
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Wong</p>
+<p>Mrs Audrey Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"Education is not preparation for life; it is life itself."</em>
+<p><em>"Education is not preparation for life; it is life itself." ~ John Dewey</em>
+</p>
+<p><em>Education should be experiential and connected to real life, not just preparation for some future state. Students should also exercise reflective thinking, and learn from reflecting on their experiences.</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal</strong>
+<p><strong>Vice-Principal (Administration)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
