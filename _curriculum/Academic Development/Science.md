@@ -10,7 +10,7 @@ variant: tiptap
 Conviction.</p>
 <h3>Our Team</h3>
 <p>Head of Department –&nbsp;<strong>Mr Yu Yang Ming Ernest</strong>
-<br>Subject Head -&nbsp;<strong>Ms Peh Kaijia Celine</strong>
+<br>Subject Head/Chemistry -&nbsp;<strong>Ms Peh Kaijia Celine</strong>
 <br>School Staff Developer -&nbsp;<strong>Ms Eileen Lee Poh Ping</strong>
 <br>Head Of Department / Character &amp; Citizenship Education –<strong>Mrs&nbsp;Tan-Yeo Su Lynn Jaime</strong>
 <br>Subject Head / Information &amp; Communications Technology- <strong>Mr Alvis Mazon Tan</strong>
