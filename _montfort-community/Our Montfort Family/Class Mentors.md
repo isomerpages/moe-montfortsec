@@ -51,7 +51,7 @@ variant: tiptap
 <p>1 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kwok Kar Hou Matthew <a href="mailto:kwok_kar_hou_mathew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_kar_hou_mathew@moe.edu.sg</a>
+<p>Mr Kwok Kar Hou Mathew <a href="mailto:kwok_kar_hou_mathew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_kar_hou_mathew@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
