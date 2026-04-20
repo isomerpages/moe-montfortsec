@@ -200,9 +200,6 @@ that you can refer to:</p>
 <a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>)</p>
 </li>
 <li>
-<p>Parent Kit on Raising a Digitally Smart Child (<a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Link</a>)</p>
-</li>
-<li>
 <p>Bite-size tips and advice via Parentingwith.MOEsg Instagram (<a href="https://go.gov.sg/parentingwithmoesg" rel="noopener nofollow" target="_blank">Link</a>)</p>
 </li>
 <li>
