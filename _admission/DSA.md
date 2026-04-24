@@ -4,20 +4,20 @@ permalink: /admission/dsa/
 description: ""
 variant: tiptap
 ---
-<h3>2025 (DSA-Sec) Exercise for Admission to Secondary One (S1) in 2026.</h3>
-<p>Application for direct school admission through the <em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme</em> is
-open from 7 May 2025.</p>
-<p></p>
+<h3>2026 (DSA-Sec) Exercise for Admission to Secondary One (S1) in 2027.</h3>
+<p>Application for direct school admission through the&nbsp;<em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme</em>&nbsp;is
+open from 6 May 2026.</p>
 <p>Details as follows:</p>
-<p><strong>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>APPLICATION PERIOD</u></strong>
+<p><strong>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;APPLICATION PERIOD</strong>
 </p>
-<p>7 May 2025 – 3 Jun 2025</p>
+<p>6 May 2026 – 2 Jun 2026</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May, 11 am to
-3 Jun 2025, 3pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">DSA-Sec</a>.</p>
-<p><strong>&nbsp;II.&nbsp;&nbsp;&nbsp;&nbsp; <u>ADMISSION CRITERIA</u></strong>
+The application is free-of-charge and will be open from 6 May, 11 am to
+2 Jun 2025, 4.30pm. For more details, please refer to MOE website –&nbsp;
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>.</p>
+<p><strong>&nbsp;II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADMISSION CRITERIA</strong>
 </p>
-<p>Students who intend to apply for admission to the <em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme </em>must
+<p>Students who intend to apply for admission to the&nbsp;<em>Montfort Leadership through Sports (Badminton, Softball, Basketball, Football, Rugby and Wushu) Excellence Programme&nbsp;</em>must
 satisfy the following criteria: &nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -47,11 +47,11 @@ CCA</p>
 </tbody>
 </table>
 <p>Students who satisfy the above criteria will be informed to attend a selection
-trial by <strong>Tue, 1 July 2025. </strong>Applicants who do not have prior
-experience may also apply. The school will assess applicants based on the
-selection criteria, which may include assessing the potential of the applicants<strong>. </strong>Meeting
-all the criteria does not guarantee the student will be shortlisted/given
-an offer.</p>
+trial by&nbsp;<strong>Wed, 1 July 2026.&nbsp;</strong>Applicants who do
+not have prior experience may also apply. The school will assess applicants
+based on the selection criteria, which may include assessing the potential
+of the applicants<strong>.&nbsp;</strong>Meeting all the criteria does
+not guarantee the student will be shortlisted/given an offer.</p>
 <p>The selection trial will be based on:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -72,7 +72,6 @@ an offer.</p>
 <p>Defend</p>
 </li>
 </ul>
-<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Technical Skills</p>
@@ -98,7 +97,6 @@ an offer.</p>
 <p>Splits/ Footwork/ Routine (Wushu)</p>
 </li>
 </ul>
-<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Leadership Skills</p>
@@ -137,7 +135,7 @@ an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed, 9 Jul</p>
+<p>Wed, 8 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm</p>
@@ -150,7 +148,7 @@ an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri, 11 Jul</p>
+<p>Fri, 10 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm</p>
@@ -164,7 +162,7 @@ an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon, 14 Jul</p>
+<p>Mon, 13 Jul</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +176,7 @@ an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed, 23 Jul</p>
+<p>Wed, 22 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm</p>
@@ -201,6 +199,5 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from Secondary 1-4.</p>
-<p>Click <a href="/files/MSS_DSA_FAQ_2025_updated_29_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-a list of FAQs (Frequently Asked Questions) regarding DSA.</p>
+<p>&nbsp;</p>
 <p></p>
