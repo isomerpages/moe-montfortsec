@@ -12,7 +12,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_27_at_3_31_07_PM.jpg">
 </div>
 <p>(<em>From left to right) </em><strong>Mr James Han </strong>(Vice-Principal),<strong> Ms Tan Lay Yen</strong> (Vice-Principal
-Administration), <strong>Mrs Rachel Lee </strong>(Principal), <strong>Mrs Audrey Wong </strong>(Vice-Principal), <strong>Mr Wilson Tay </strong>(Vice-Principal)</p>
+Administration), <strong>Mrs Rachel Lee </strong>(Principal), <strong>Mrs Audrey Wong </strong>(Vice-Principal)</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
