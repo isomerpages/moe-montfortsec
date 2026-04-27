@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sls_combined_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_27_at_3_31_07_PM.jpg">
 </div>
 <p>(<em>From left to right) </em><strong>Mr James Han </strong>(Vice-Principal),<strong> Ms Tan Lay Yen</strong> (Vice-Principal
 Administration), <strong>Mrs Rachel Lee </strong>(Principal), <strong>Mrs Audrey Wong </strong>(Vice-Principal), <strong>Mr Wilson Tay </strong>(Vice-Principal)</p>
@@ -71,19 +72,6 @@ Administration), <strong>Mrs Rachel Lee </strong>(Principal), <strong>Mrs Audrey
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Education should inspire not just inform. Teaching should build confidence, cultivate empathy and prepare students to contribute meaningfully to the world around them</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice-Principal</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wilson Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Education empowers students by igniting curiosity, inspiring confidence, and illuminating the possibilities within them.</em>
 </p>
 </td>
 </tr>
