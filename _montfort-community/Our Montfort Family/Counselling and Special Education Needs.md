@@ -10,7 +10,7 @@ variant: tiptap
 <br>Tel: 6883 6919
 <br>Email:&nbsp;<a href="mailto:selvarani_kunasela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selvarani_kunasela@moe.edu.sg</a>
 </p>
-<p><strong>Ms Siti Nur Saiidah Binte Othman, School Counsellor          </strong>Tel:
+<p><strong>Ms Siti Nur Saiidah Binte Othman, School Counsellor        </strong>Tel:
 6510 7065 Email:<a href="mailto:siti_nur_saiidah_othman_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_saiidah_othman_a@moe.edu.sg</a>
 </p>
 <p><strong>Ms Jolene Tan Xiao Wei, Special Education Needs Officer (SENO)</strong>
@@ -21,7 +21,7 @@ variant: tiptap
 <br>Tel: 6510 7073
 <br>Email:&nbsp;<a href="mailto:bai_huiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bai_huiying@moe.edu.sg</a>
 </p>
-<p><strong>Ms Julia Ho, Senior Studnet Welfare Officer</strong>
+<p><strong>Ms Julia Ho, Senior Student Welfare Officer</strong>
 <br>Tel: 6510 7065
 <br>Email:&nbsp;<a href="mailto:bai_huiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_julia@moe.edu.sg</a>
 </p>
