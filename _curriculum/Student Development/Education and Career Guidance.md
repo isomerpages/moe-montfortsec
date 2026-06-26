@@ -127,13 +127,7 @@ high needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG%20Framework.jpeg">
 </div>
-<h3>ECG Counselling</h3>
-<p>Our ECG Counsellor, Mr Isaac Ang, is in school on Wednesdays and Thursdays.
-Come and have a chat with him to find out more about your post-secondary
-options, possible education and career pathways, and strengths and interests!&nbsp;</p>
-<p>To book an appointment with Mr Ang, please use the following:</p>
-<p><strong>WhatsApp:</strong> 6883 6904</p>
-<p><strong>Email:</strong> ang_zhaoliang@moe.edu.sg</p>
+<p></p>
 <h3>ECG Resources</h3>
 <h5>POST- SECONDARY PATHWAYS</h5>
 <p>Click the links to understand the pathways shared during 2023 Parents
