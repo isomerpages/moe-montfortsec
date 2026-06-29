@@ -2,12 +2,13 @@ collections:
   montfort-community:
     output: true
     order:
-      - "Our Montfort Story/Video: Years Ahead with Us.md"
       - Our Montfort Story/.keep
+      - "Our Montfort Story/Video: Years Ahead with Us.md"
       - Our Montfort Story/School History.md
       - Our Montfort Story/Vision, Mission & Values.md
       - Our Montfort Story/Logo and Song.md
       - Our Montfort Story/Montfort Education Charter.md
+      - Our Montfort Family/.keep
       - Our Montfort Family/Principal's Address.md
       - Our Montfort Family/School Management Committee.md
       - Our Montfort Family/Principal and Vice Principals.md
@@ -15,6 +16,8 @@ collections:
       - Our Montfort Family/Class Mentors.md
       - Our Montfort Family/Parent Support Group.md
       - Our Montfort Family/Counselling and Special Education Needs.md
-      - Our Montfort Family/.keep
-      - Other Information/Non Financial Information.md
+      - Montfort Shines/.keep
+      - Montfort Shines/Class of 2019.md
+      - Montfort Shines/Class of 2022.md
       - Other Information/.keep
+      - Other Information/Non Financial Information.md
