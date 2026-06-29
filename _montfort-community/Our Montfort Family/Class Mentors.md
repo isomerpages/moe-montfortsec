@@ -103,10 +103,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Jia Jun, Benedict</p>
 <p></p>
-<p><a href="mailto:Koh_Jia_Jun_Benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Jia_Jun_Benedict@moe.edu.sg</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -125,9 +122,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rynie Afiqah Binte Roslan</p>
-<p><a href="mailto:rynie_afiqah_roslan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rynie_afiqah_roslan@moe.edu.sg</a>
-</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +145,7 @@ variant: tiptap
 <p>Lim Tian Rui Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Song Hoo Khim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -171,10 +166,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cheong Xi Ling</p>
 <p></p>
-<p><a href="mailto:wong_yong_zhao_caleb@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_xi_ling@moe.edu.sg</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
