@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Enoch_2019.jpg">
 </div>
 <blockquote>
-<p><strong>Enoch Ng jun Wei </strong>
+<p><strong>Enoch Ng jun Wei</strong>
 </p>
 </blockquote>
 <p></p>
