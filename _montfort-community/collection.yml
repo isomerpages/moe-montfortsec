@@ -2,7 +2,6 @@ collections:
   montfort-community:
     output: true
     order:
-      - Class of 2019/Montfort Shines.md
       - Class of 2019/.keep
       - Our Montfort Story/.keep
       - "Our Montfort Story/Video: Years Ahead with Us.md"
