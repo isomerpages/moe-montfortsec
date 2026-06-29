@@ -5,3 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Montfort Shines
 ---
+<blockquote>
+<p><strong>LAW JIN KANG KEITH</strong>
+</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Law_Jin_Kang_Keith__Montfort_Secondary_School__1.png">
+</div>
+<p></p>
