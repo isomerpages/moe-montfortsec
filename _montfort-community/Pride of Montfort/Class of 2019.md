@@ -3,7 +3,7 @@ title: Class of 2019
 permalink: /class-of-2019/
 variant: tiptap
 description: ""
-third_nav_title: Montfort Shines
+third_nav_title: Pride of Montfort
 ---
 <blockquote>
 <p><strong>ENOCH NG JUN WEI</strong>

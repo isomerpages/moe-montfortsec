@@ -3,7 +3,7 @@ title: Class of 2022
 permalink: /class-of-2022/
 variant: tiptap
 description: ""
-third_nav_title: Montfort Shines
+third_nav_title: Pride of Montfort
 ---
 <blockquote>
 <p><strong>LAW JIN KANG KEITH</strong>
