@@ -2,8 +2,6 @@ collections:
   montfort-community:
     output: true
     order:
-      - Montfort Shines/Class of 2019.md
-      - Montfort Shines/.keep
       - Our Montfort Story/.keep
       - "Our Montfort Story/Video: Years Ahead with Us.md"
       - Our Montfort Story/School History.md
@@ -18,5 +16,7 @@ collections:
       - Our Montfort Family/Class Mentors.md
       - Our Montfort Family/Parent Support Group.md
       - Our Montfort Family/Counselling and Special Education Needs.md
+      - Montfort Shines/.keep
+      - Montfort Shines/Class of 2019.md
       - Other Information/.keep
       - Other Information/Non Financial Information.md
