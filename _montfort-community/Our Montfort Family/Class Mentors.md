@@ -201,8 +201,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kristel Soh Rei (Su Rei)
-<br><a href="mailto:kristel_soh_rei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kristel_soh_rei@moe.edu.sg</a>
+<p>Mansoor Abdul Rahman</p>
+<p><a href="mailto:mansoor_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mansoor_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
