@@ -150,7 +150,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ Student Management (Covering)</p>
+<p>HOD/ Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Wong Boon Chong Kenny </strong>(<a href="mailto:wong_boon_chong_kenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_boon_chong_kenny@moe.edu.sg</a>)</p>
