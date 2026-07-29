@@ -531,7 +531,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Koh Ming Sheng, Daniel
-<br><a href="mailto:koh_ming_sheng_daniel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ming_sheng_daniel@schools.gov.sg</a>
+<br><a href="mailto:koh_ming_sheng_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ming_sheng_daniel@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
