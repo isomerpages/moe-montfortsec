@@ -20,7 +20,6 @@ Conviction.</p>
 <br>Teacher –&nbsp;<strong>Mr Lim Kim Huat</strong>
 <br>Teacher -&nbsp;<strong>Mr Soh Yijie</strong>
 <br>Teacher -&nbsp;<strong>Mr Lucas Tang An Sheng</strong>
-<br>Teacher –&nbsp;<strong>Dr Wong De Wei Shawn</strong>
 <br>Teacher –&nbsp;<strong>Mr Chew Hui Jie</strong>
 <br>STEM Instructor (Laboratory) –&nbsp;<strong>Mdm Roslne Binte Karsani</strong>
 <br>STEM Instructor (Laboratory) –&nbsp;<strong>Mr Thomas Ang Juay Theng</strong>
