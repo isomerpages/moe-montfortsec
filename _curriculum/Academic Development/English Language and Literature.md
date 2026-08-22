@@ -27,11 +27,8 @@ write, through a diversity of learning experiences.</p>
 <br>Head of Department / Special Educational Needs (SEN)&nbsp; –&nbsp;<strong>Mr Lee Beng Wah</strong>
 <br>Teacher –&nbsp;<strong>Mr Ainsley Liew</strong>
 <br>Teacher –&nbsp;<strong>Mr Azman Bin Akmad</strong>
-<br>Teacher -&nbsp;<strong>Mr Brendan Hoe Qing En</strong>
 <br>Teacher -&nbsp;<strong>Mr Hector Tan Teck Huat</strong>
-<br>Teacher -&nbsp;<strong>Mr Joshua Ho Jin Teck</strong>
 <br>Teacher -&nbsp;<strong>Ms Megan Tan Shu Ning</strong>
-<br>Teacher -&nbsp;<strong>Ms Preetha Preklathan</strong>
 <br>Teacher -&nbsp;<strong>Ms Yogeswari Elangovan</strong>
 <br>Teacher -&nbsp;<strong>Ms Lo Cai Yue Brenda</strong>
 <br>Teacher -&nbsp;<strong>Ms Gan Jia Lin</strong>
