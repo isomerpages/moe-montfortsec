@@ -10,11 +10,9 @@ variant: tiptap
 good sportsmanship values such as Fair Play and Olympic values of Excellence,
 Friendship and Respect.</p>
 <h3>Our Team</h3>
-<p>Head of Department – <strong>Mr Whelan Chen Jianming                       </strong>Subject
-Head (PE/CCA) - <strong>Mr Caleb Wong Yong Zhao </strong>Teacher - <strong>Mr Muhammad Idris Bin Anwar</strong> Teacher
-- <strong>Mr Tan Eng Hwee                                                                  </strong>Teacher
-- <strong>Ms Zhang Wenjie                                                              </strong>Teacher
-- <strong>Mr Low Ying Hong Theodore</strong>
+<p>Head of Department – <strong>Mr Whelan Chen Jianming </strong>Subject Head
+(PE/CCA) - <strong>Mr Caleb Wong Yong Zhao </strong>Teacher - <strong>Mr Muhammad Idris Bin Anwar</strong> Teacher
+- <strong>Mr Tan Eng Hwee  </strong>Teacher - <strong>Mr Low Ying Hong Theodore</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
