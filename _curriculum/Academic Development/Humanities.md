@@ -26,12 +26,11 @@ of learning environments, who is committed to continuous learning and excellence
 <br>Subject Head (Geography) – <strong>Mr Mansoor Bin Abdul Rahman </strong>
 <br>Subject Head (Character and Citizenship Education) – <strong>Ms Ong Yew Yi Eve </strong>
 <br>Senior Teacher (History) – <strong>Mrs Punitha Ramesh</strong> 
-<br>Senior Teacher (Social Studies) – <strong>Ms Jamie Low Guan Lin</strong> 
 <br>Teacher – <strong>Ms Leong Kar Wai Karen </strong>
 <br>Teacher – <strong>Ms Bose Sayori </strong>
-<br>Teacher – <strong>Mr Kwok Kar Hou Mathew                                                 </strong>Teacher
-- <strong>Ms Nithya Selvaraju                                                              </strong>Teacher
-- <strong>Ms Nurul Aqilah Minhaj</strong>
+<br>Teacher – <strong>Mr Kwok Kar Hou Mathew</strong>
+</p>
+<p>Teacher - <strong>Ms Nithya Selvaraju                                                       </strong>
 </p>
 <h3>Instructional Programme</h3>
 <table style="minWidth: 75px">
