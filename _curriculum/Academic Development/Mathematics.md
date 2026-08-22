@@ -9,15 +9,14 @@ variant: tiptap
 <p>To develop Montfortians to be analytical thinkers through problem solving
 and the mastery of mathematical skill.</p>
 <h3>Our Team</h3>
-<p>Head of department- <strong>Mr Alvin Toh     </strong> 
+<p>Head of department- <strong>Mr Alvin Toh</strong>
 </p>
-<p>Subject Head – <strong>Ms Cynthia Chua </strong>
-<br>Head of Department / Information &amp; Communications Technology – <strong>Mr Tang Chee Hung</strong>
+<p>Subject Head – <strong>Ms Cynthia Chua                                                       </strong>HOD/
+Information &amp; Communications Technology – <strong>Mr Tang Chee Hung</strong>
 <br>Year Head – <strong>Ms Norazidah Abdol Aziz</strong>
 <br>Assistant Year Head –&nbsp;<strong>Ms Ong Wuan Seah</strong>
-<br>Subject Head (Discipline) –&nbsp;<strong>Mr Wong Boon Chong Kenny </strong>
+<br>HOD/Student Management –&nbsp;<strong>Mr Wong Boon Chong Kenny </strong>
 <br>Teacher –&nbsp;<strong>Mr Pang Jun Yi</strong>
-<br>Teacher –&nbsp;<strong>Mr Hairul Nizam Bin Ramli</strong>
 <br>Teacher -&nbsp;<strong>Ms Latha D/O Murugiah</strong>
 <br>Teacher -&nbsp;<strong>Mr Ranon Mak Enhao</strong>
 <br>Teacher –&nbsp;<strong>Mdm Norshirin Sulaiman (Principles Of Accounts)</strong>
