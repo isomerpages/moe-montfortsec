@@ -35,13 +35,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal/Non-Halal Noodles/Ramen/Hor Fun/Rice Vermicelli Stall</p>
+<p>Stall 4 - Chinese Cooked Food</p>
+<p>Stall 6 - Asia Cuisine</p>
+<p>( Japanese, Korean, Thai or Vietnamese, etc.)</p>
+<p>(Halal/Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2026</p>
+<p>25 Sep 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 June 2026 onwards</p>
+<p>04 January 2027 onwards</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -49,11 +52,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>We are looking for a stallholder to operate a food stall in our school
-canteen with effect from the date above.</p>
+<p>We are looking for 3 stallholders to operate a food stall in our school
+canteen with details above.</p>
 <p>Application Procedure</p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the Canteen application form
-(Click <a href="/files/Application_for_Canteen_Stall_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>)</strong> You
+<a href="Application%20for%20Canteen%20Stall%204_5_6(Halal%20or%20Non-Halal)_%202027.pdf" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="Application_for_Canteen_Stall_4_6_Halal_or_Non_Halal___2027" rel="noopener nofollow" target="_blank">Click Here)</a> You
 may also request a &nbsp;&nbsp;hardcopy from the School at the School’s
 General Office.</p>
 <p>2.&nbsp;&nbsp;&nbsp; Please provide the following documents together with
@@ -63,7 +66,7 @@ back)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu and pricing
 for all items</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates
-such as Basic Food Hygiene Course, etc</p>
+such as Basic Food Hygiene Course, etc.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed application form and documents
 by closing date via email OR to the School’s General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 50 Hougang Avenue 8 S(538785)</p>
@@ -86,7 +89,7 @@ Resident (SPR) for stallholder and stall assistant.</p>
 meets the health / nutritional standards set by the Health Promotion Board
 (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines
 &nbsp;(click&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Candidates shortlisted for an interview
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Candidates shortlisted for interview
 will be required to accept the terms and conditions outlined in the Licence
 Agreement. One key clause in the Licence Agreement stipulates that the
 Licensee shall not provide disposable cutlery, crockery or cups for dine-in
@@ -110,4 +113,4 @@ or experience operating in a school environment.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
