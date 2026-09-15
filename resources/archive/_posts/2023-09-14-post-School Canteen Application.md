@@ -1,7 +1,7 @@
 ---
 title: School Canteen Application
 permalink: /canteen-application/
-date: 2026-09-14
+date: 2023-09-14
 layout: post
 description: ""
 image: ""
@@ -52,13 +52,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>We are looking for 3 stallholders to operate a food stall in our school
+<p>We are looking for 2 stallholders to operate a food stall in our school
 canteen with details above.</p>
 <p>Application Procedure</p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the Canteen application form
-<a href="Application%20for%20Canteen%20Stall%204_5_6(Halal%20or%20Non-Halal)_%202027.pdf" rel="noopener noreferrer nofollow" target="_blank">(</a><a href="Application_for_Canteen_Stall_4_6_Halal_or_Non_Halal___2027" rel="noopener nofollow" target="_blank">Click Here)</a> You
-may also request a &nbsp;&nbsp;hardcopy from the School at the School’s
-General Office.</p>
+<a href="Application_for_Canteen_Stall_4_6_Halal_or_Non_Halal___2027" rel="noopener nofollow" target="_blank">(Click Here)</a>. You may also request a &nbsp;&nbsp;hardcopy from the
+School at the School’s General Office.</p>
 <p>2.&nbsp;&nbsp;&nbsp; Please provide the following documents together with
 the application form:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and
