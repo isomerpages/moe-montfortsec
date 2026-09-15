@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>We are looking for 3 stallholders to operate a food stall in our school
+<p>We are looking for 2 stallholders to operate a food stall in our school
 canteen with details above.</p>
 <p>Application Procedure</p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the Canteen application form
